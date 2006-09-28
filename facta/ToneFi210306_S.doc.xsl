@@ -6,10 +6,10 @@
   <xsl:variable name="filename" select="'ToneFi210306_S.DOC'"/>
   <xsl:variable name="title" select="'Stivrraj&#xE5;dediddje Tone Finnesena buor&#xE1;stattalamh&#xE5;lla &#xC1;rrana dutkamkonfer&#xE1;nsan snjuktjam&#xE1;no 21.-22. biejve jagen 2006 &#xC1;jluovtan Divtasvuonan'"/>
   <xsl:variable name="author1_fn" select="'Tone'"/>
-  <xsl:variable name="author1_ln" select="'Riemmbe GælokFinnesen'"/>
+  <xsl:variable name="author1_ln" select="'Finnesen'"/>
   <xsl:variable name="author1_gender" select="'f'"/>
   <xsl:variable name="author1_born" select="''"/>
-  <xsl:variable name="author1_nat" select="'nornor'"/>
+  <xsl:variable name="author1_nat" select="'nor'"/>
   <xsl:variable name="author2_fn" select="''"/>
   <xsl:variable name="author2_ln" select="''"/>
   <xsl:variable name="author2_gender" select="''"/>
@@ -39,20 +39,20 @@
   <xsl:variable name="translator_gender" select="'unknown'"/>
   <xsl:variable name="translator_born" select="''"/>
   <xsl:variable name="translator_nat" select="''"/>
-  <xsl:variable name="license_type" select="'standardfree'"/>
-  <xsl:variable name="sub_name" select="'Børre GaupTrond Trosterud'"/>
-  <xsl:variable name="sub_email" select="'borre.gaup@samediggi.notrond.trosterud@hum.uit.no'"/>
+  <xsl:variable name="license_type" select="'free'"/>
+  <xsl:variable name="sub_name" select="'Trond Trosterud'"/>
+  <xsl:variable name="sub_email" select="'trond.trosterud@hum.uit.no'"/>
   <xsl:variable name="wordcount" select="'498'"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
   <xsl:variable name="template_version" select="' 1.9 '"/>
-  <xsl:variable name="current_version" select="'$Revision: 1.7 $'"/>
+  <xsl:variable name="current_version" select="'$Revision: 1.8 $'"/>
 
 
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
   <!-- The main language of the document -->
-  <xsl:variable name="mainlang" select="'smjsmj'"/>
+  <xsl:variable name="mainlang" select="'smj'"/>
   <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
 <!-- and for the languages present -->
