@@ -59,30 +59,30 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.19 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="''"/>
+<xsl:variable name="mainlang" select="'smj'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
 <xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
-<xsl:variable name="multilingual" select="''"/> <!--this is default-->
+<xsl:variable name="multilingual" select="'1'"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
 <!-- selection frame. If no languages are selected, the document is -->
 <!-- checked for all the languages below. -->
 <xsl:variable name="mlang_sme" select="''"/>
-<xsl:variable name="mlang_smj" select="''"/>
+<xsl:variable name="mlang_smj" select="'1'"/>
 <xsl:variable name="mlang_sma" select="''"/>
-<xsl:variable name="mlang_nob" select="''"/>
+<xsl:variable name="mlang_nob" select="'1'"/>
 <xsl:variable name="mlang_nno" select="''"/>
 <xsl:variable name="mlang_swe" select="''"/>
 <xsl:variable name="mlang_fin" select="''"/>
 <xsl:variable name="mlang_ger" select="''"/>
-<xsl:variable name="mlang_eng" select="''"/>
+<xsl:variable name="mlang_eng" select="'1'"/>
 <xsl:variable name="mlang_oth" select="''"/>
 
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
