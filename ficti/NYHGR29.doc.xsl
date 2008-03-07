@@ -16,13 +16,13 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="''"/>
-<xsl:variable name="title" select="''"/>
-<xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
-<xsl:variable name="author1_gender" select="'unknown'"/>
-<xsl:variable name="author1_born" select="''"/>
-<xsl:variable name="author1_nat" select="''"/>
+<xsl:variable name="filename" select="'NYHGR29.doc'"/>
+<xsl:variable name="title" select="'Sägner och folktro från Jokkmokk 1929. ULMA 2030:5'"/>
+<xsl:variable name="author1_fn" select="'Harald'"/>
+<xsl:variable name="author1_ln" select="'Grundström'"/>
+<xsl:variable name="author1_gender" select="'m'"/>
+<xsl:variable name="author1_born" select="'18850517'"/>
+<xsl:variable name="author1_nat" select="'swe'"/>
 <xsl:variable name="author2_fn" select="''"/>
 <xsl:variable name="author2_ln" select="''"/>
 <xsl:variable name="author2_gender" select="''"/>
@@ -53,18 +53,18 @@
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
-<xsl:variable name="license_type" select="''"/>
-<xsl:variable name="sub_name" select="''"/>
-<xsl:variable name="sub_email" select="''"/>
-<xsl:variable name="wordcount" select="''"/>
+<xsl:variable name="license_type" select="'standard'"/>
+<xsl:variable name="sub_name" select="'Per-Eric Kuoljok'"/>
+<xsl:variable name="sub_email" select="'pekuoljok@gmail.com'"/>
+<xsl:variable name="wordcount" select="'1561'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.22 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="''"/>
+<xsl:variable name="mainlang" select="'smj'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
@@ -75,11 +75,11 @@
 <!-- selection frame. If no languages are selected, the document is -->
 <!-- checked for all the languages below. -->
 <xsl:variable name="mlang_sme" select="''"/>
-<xsl:variable name="mlang_smj" select="''"/>
+<xsl:variable name="mlang_smj" select="'1'"/>
 <xsl:variable name="mlang_sma" select="''"/>
 <xsl:variable name="mlang_nob" select="''"/>
 <xsl:variable name="mlang_nno" select="''"/>
-<xsl:variable name="mlang_swe" select="''"/>
+<xsl:variable name="mlang_swe" select="'1'"/>
 <xsl:variable name="mlang_fin" select="''"/>
 <xsl:variable name="mlang_ger" select="''"/>
 <xsl:variable name="mlang_eng" select="''"/>
