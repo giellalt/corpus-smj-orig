@@ -18,8 +18,8 @@
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'Tjaktja.doc'"/>
 <xsl:variable name="title" select="'Tjaktjalasta'"/>
-<xsl:variable name="author1_fn" select="'Lars Matto Tuolja'"/>
-<xsl:variable name="author1_ln" select="'smj'"/>
+<xsl:variable name="author1_fn" select="'Lars Matto'"/>
+<xsl:variable name="author1_ln" select="'Tuolja'"/>
 <xsl:variable name="author1_gender" select="'m'"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author1_nat" select="'swe'"/>
@@ -59,7 +59,7 @@
 <xsl:variable name="wordcount" select="'21076'"/>
 <xsl:variable name="metadata" select="'complete'"/>
 <xsl:variable name="template_version" select="' 1.22 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
