@@ -56,10 +56,10 @@
 <xsl:variable name="license_type" select="'standard'"/>
 <xsl:variable name="sub_name" select="'Per-Eric Kuoljok'"/>
 <xsl:variable name="sub_email" select="'pekuoljok@gmail.com'"/>
-<xsl:variable name="wordcount" select="'1561'"/>
+<xsl:variable name="wordcount" select="'820'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.22 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
