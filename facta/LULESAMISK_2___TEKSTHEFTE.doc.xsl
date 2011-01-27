@@ -8,7 +8,7 @@
   <xsl:variable name="filename" select="'LULESAMISK_2___TEKSTHEFTE.doc'"/>
   <xsl:variable name="title" select="'TEAVSTTAT Sï¿½MEGIELLA  II 2001'"/>
   <xsl:variable name="author1_fn" select="'Ellen Inga O.'"/>
-  <xsl:variable name="author1_ln" select="'HÃ¦tta'"/>
+  <xsl:variable name="author1_ln" select="'Hætta'"/>
   <xsl:variable name="author1_gender" select="'f'"/>
   <xsl:variable name="author1_born" select="''"/>
   <xsl:variable name="author1_nat" select="'nor'"/>
@@ -43,7 +43,7 @@
   <xsl:variable name="translator_nat" select="''"/>
   <!-- select license type: free, standard or other -->
   <xsl:variable name="license_type" select="'free'"/>
-  <xsl:variable name="sub_name" select="'BÃ¸rre Gaup'"/>
+  <xsl:variable name="sub_name" select="'Børre Gaup'"/>
   <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="'1340'"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>

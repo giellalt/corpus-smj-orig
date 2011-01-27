@@ -8,7 +8,7 @@
   <xsl:variable name="filename" select="'LULESAMISK_1___TEKSTHEFTE.doc'"/>
   <xsl:variable name="title" select="'JulevsÃ¡megiella/nordsamisk'"/>
   <xsl:variable name="author1_fn" select="''"/>
-  <xsl:variable name="author1_ln" select="'Sametinget opplÃ¦ringsavdelingen'"/>
+  <xsl:variable name="author1_ln" select="'Sametinget opplæringsavdelingen'"/>
   <xsl:variable name="author1_gender" select="'unknown'"/>
   <xsl:variable name="author1_born" select="''"/>
   <xsl:variable name="author1_nat" select="''"/>
@@ -43,7 +43,7 @@
   <xsl:variable name="translator_nat" select="''"/>
   <!-- select license type: free, standard or other -->
   <xsl:variable name="license_type" select="'free'"/>
-  <xsl:variable name="sub_name" select="'BÃ¸rre Gaup'"/>
+  <xsl:variable name="sub_name" select="'Børre Gaup'"/>
   <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="'2441'"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
