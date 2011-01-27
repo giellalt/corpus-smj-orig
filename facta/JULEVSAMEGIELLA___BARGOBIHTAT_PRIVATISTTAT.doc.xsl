@@ -6,7 +6,7 @@
   <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
   <xsl:variable name="filename" select="'JULEVSAMEGIELLA___BARGOBIHTAT_PRIVATISTTAT.doc'"/>
-  <xsl:variable name="title" select="'2001` VUOĐĐOSKUVLLA  LOAHPP AGEAHÄÄALEAPMI'"/>
+  <xsl:variable name="title" select="'2001` VUOĐĐOSKUVLLA  LOAHPP AGEAHČČALEAPMI'"/>
   <xsl:variable name="author1_fn" select="''"/>
   <xsl:variable name="author1_ln" select="'Sametinget opplæringsavdelingen'"/>
   <xsl:variable name="author1_gender" select="'unknown'"/>
