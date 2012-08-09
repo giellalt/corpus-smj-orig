@@ -55,7 +55,7 @@
   <xsl:variable name="mainlang" select="'smj'"/>
   <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-  <xsl:variable name="monolingual" select="''"/>
+  <xsl:variable name="monolingual" select="'1'"/>
   <!--lg rec is off!-->
   <xsl:variable name="multilingual" select="''"/>
   <!--this is default-->
@@ -113,7 +113,6 @@
 <!-- Change or remove problematic characters from the text. -->
 <!-- add the template to match (here all p:s), and write the -->
 <!-- replaced characters and the replacements. -->
-<!--
 <xsl:template match="p">
 <xsl:variable name="text" select='current()' />
 <xsl:variable name="type" select='@type' />
@@ -130,9 +129,13 @@
             </xsl:attribute>
             </xsl:if>
 
-			<xsl:value-of select="translate($text,'ð','đ') "/>
+            <xsl:call-template name="globalTextReplace">
+               <xsl:with-param name="inputString" select="$text"/>
+               <xsl:with-param name="target" select="'Bilde /'"/>
+               <xsl:with-param name="replacement" select="'Gåvvå /'"/>
+                <xsl:with-param name="continue" select="0"/>
+            </xsl:call-template>
 </xsl:element>
 </xsl:template>
--->
 
 </xsl:stylesheet>
