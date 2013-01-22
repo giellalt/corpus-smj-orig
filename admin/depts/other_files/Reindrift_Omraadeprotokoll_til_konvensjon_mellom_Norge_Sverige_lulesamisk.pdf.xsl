@@ -89,7 +89,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Reindrift_Omraadeprotokoll_til_konvensjon_mellom_Norge_Sverige_260209.pdf'"/>
+<xsl:variable name="para_nob" select="'reindrift_omraadeprotokoll_til_konvensjon_mellom_norge_sverige_260209.pdf'"/>
 <xsl:variable name="para_sma" select="'Reindrift_Omraadeprotokoll_til_konvensjon_mellom_Norge_Sverige_Soersamisk.pdf'"/>
 <xsl:variable name="para_sme" select="'reindrift_omraadeprotokoll_til_konvensjon_mellom_norge_sverige_nordsamisk.pdf'"/>
 <xsl:variable name="para_smj" select="''"/>

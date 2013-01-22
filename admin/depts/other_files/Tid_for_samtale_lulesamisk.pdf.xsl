@@ -82,7 +82,7 @@
 <xsl:variable name="para_sme" select="'tid_for_samtale_nordsamisk.pdf'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_sma" select="'Tid_for_samtale_sorsamisk.pdf'"/>
-<xsl:variable name="para_nob" select="'Tid_for_samtale_bm_nett.pdf'"/>
+<xsl:variable name="para_nob" select="'tid_for_samtale_bm_nett.pdf'"/>
 <xsl:variable name="para_nno" select="'Tid_for_samtale_nyn_nett.pdf'"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_fin" select="''"/>

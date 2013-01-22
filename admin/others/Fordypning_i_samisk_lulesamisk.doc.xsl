@@ -89,7 +89,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Lareplan_i_fordypning_samisk_bokmal.doc'"/>
+<xsl:variable name="para_nob" select="'lareplan_i_fordypning_samisk_bokmal.doc'"/>
 <xsl:variable name="para_sma" select="'Fordypning_i_samisk_sorsamisk.doc'"/>
 <xsl:variable name="para_sme" select="'fordypning_i_samisk_nordsamisk.doc'"/>
 <xsl:variable name="para_smj" select="''"/>
