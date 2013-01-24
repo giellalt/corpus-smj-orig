@@ -19,10 +19,10 @@
 <xsl:variable name="filename" select="'http://www.nord-salten.no/no/nyheter/samisk/ejma-nag-s-ddagav-tjuovvot.4173'"/>
 <xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="'Ejma nagá sáddagav tjuovvot'"/>
-<xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
-<xsl:variable name="author1_gender" select="'unknown'"/>
-<xsl:variable name="author1_nat" select="''"/>
+<xsl:variable name="author1_fn" select="'Sander'"/>
+<xsl:variable name="author1_ln" select="'Andersen'"/>
+<xsl:variable name="author1_gender" select="'m'"/>
+<xsl:variable name="author1_nat" select="'nor'"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author2_fn" select="''"/>
 <xsl:variable name="author2_ln" select="''"/>
@@ -39,9 +39,9 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
-<xsl:variable name="publisher" select="''"/>
+<xsl:variable name="publisher" select="'Lokalavisa Nordsalten'"/>
 <xsl:variable name="publChannel" select="''"/>
-<xsl:variable name="year" select="''"/>
+<xsl:variable name="year" select="'2006'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
@@ -55,8 +55,8 @@
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="''"/>
-<xsl:variable name="sub_name" select="''"/>
-<xsl:variable name="sub_email" select="''"/>
+<xsl:variable name="sub_name" select="'Inga Mikkelsen'"/>
+<xsl:variable name="sub_email" select="'inga.l.mikkelsen@uit.no'"/>
 <xsl:variable name="wordcount" select="''"/>
 <!-- Set this variable to 1 if the source for this doc is OCR -->
 <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
@@ -68,11 +68,11 @@
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="''"/>
+<xsl:variable name="mainlang" select="'smj'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-<xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
+<xsl:variable name="monolingual" select="'1'"/> <!--lg rec is off!-->
 <xsl:variable name="multilingual" select="''"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->

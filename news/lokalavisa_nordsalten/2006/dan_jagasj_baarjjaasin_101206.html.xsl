@@ -42,7 +42,7 @@
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="publisher" select="'Lokalavisa Nordsalten'"/>
 <xsl:variable name="publChannel" select="''"/>
-<xsl:variable name="year" select="'2007'"/>
+<xsl:variable name="year" select="'2006'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
