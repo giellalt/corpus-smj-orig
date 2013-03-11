@@ -3,10 +3,10 @@
 Ságájdahttem Aline Mikkelsenijn
 Aline Mikkelsen la njunnjusj siebren “Duodje Nordlannda$(prop,vowc,a-á|Nordlánnda)”, ja la iesj duodjár. Sån årru Ajluovtan$(prop,vowc,a-á|Ájluovtan) Divtasvuonan.
 
-Oanegis dárogiellaj
+Oanegis¥(Oanegis ássje) dárogiellaj
 
 Manen sihti dån duojijn álgget?
--Mån ittjiv máhte majdik, ja danen sihtiv ienep oahppat.
+-Mån ittjiv máhte majdik, ja danen sihtiv ienep€(adj,adv|ienebut) oahppat.
 Majna lijkku buoremusát barggat?
 -Buoremusát lijkkuv sasnijn barggat.
 Manen dån aná duodjekursajt?
@@ -18,6 +18,6 @@ Daga dån dåssju dábálasj duojev?
 Mij mielastuhttá duv ådådahkkuj$(conc,hkk-hk|ådådahkuj)?
 -Árbbedáhpe muv mielastuhtta$(vowlat,a-á|mielastuhttá).
 La gus duv mielas ájnas nuorajda oassalasstet$(vowc,a-á|oassálasstet) dán seminárraj?
--Muv mielas la, danen gå sij galggin oahpástuvvat sijájn gudi ságasti, ja galggi mielav oadtjot duodjáj.
+-Muv mielas la, danen gå (sij galggin oahpástuvvat sijájn gudi ságasti)£(tens|sij galggin oahpástuvvat sijájn gudi ságasti), ja galggi mielav oadtjot duodjáj.
 Le gus juojdá$(conc,jd-jdd|juojddá) ietjan$(pron,vowlat,a-á|ietján) majt sidá subtsastit duoje birra?
--Duodje ij la dåssju gáppte ja nijbbe ja dakkira. Duodje aj subtsas ållo luondo birra. Dijá mielas ij la dávk nav suohtas dálla, valla muv mielas galgajda astov váldet duodjuhit.
+-Duodje ij la dåssju gáppte ja nijbbe ja dakkira. Duodje aj (subtsas ållo)£(case|subtsas ålov) luondo birra. Dijá mielas ij la dávk nav suohtas dálla, valla muv mielas galgajda astov váldet duodjuhit.
