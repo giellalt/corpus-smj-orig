@@ -14,12 +14,12 @@ Uddni l ulmusjlåhko lahkkáj binnum, valla e val rat divna Måskes jåde – v�
 
  
 
-Lågev jage dás åvddåla lij Måsske viesso sáme årrudahka$(conc,rr-r|årudahka), gånnå ulmutja duov dáv virgev adnin, ja massta aj viessun. Skåvlån lidjin ållo oahppe, ja vihtta åhpadiddje ålles virgen. Duodden aj basse ja hoajddár. Barggokurssa lij aj jådon, ja moattes dav kursav tjadádin guovte jage birán!!. Duodden lidjin aj asstoájgedåjma ja lásjmudallama juohkka iehkeda, juogu dal skåvlå sisbielen jali ålgusjbielen. Ja oahppe kafeav ásadin juohkka dijstakiehkeda. Gålmmå guollárvantsa gullujin aj Måsskåj.
+Lågev jage dás åvddåla lij Måsske viesso sáme årrudahka$(conc,rr-r|årudahka), gånnå ulmutja duov dáv virgev adnin, ja massta aj viessun. Skåvlån lidjin ållo oahppe, ja vihtta åhpadiddje ålles virgen. Duodden aj basse ja hoajddár. Barggokurssa lij aj jådon, ja moattes dav kursav tjadádin guovte jage birán!!. Duodden lidjin aj asstoájgedåjma¢(cmp,gen-nom|asstoájggedåjma) ja lásjmudallama juohkka iehkeda, juogu dal skåvlå sisbielen jali ålgusjbielen. Ja oahppe kafeav ásadin juohkka dijstakiehkeda. Gålmmå guollárvantsa gullujin aj Måsskåj.
 
 
 Binnum
 
-Uddni ælla Måsken gå nieljelåges gudi vilá årru. Stuorra oasse le davás jåhtålam. Vilá ij le rahte Måsskåj boahtám. Ij la desti boargál. Dåssju akta sávttsabåndor le virgen. Skåvlån li dåssju 6 oahppe, ja ælla desti (friddjájgedåjma$(typo|friddjaájgedåjma))€(loan|asstoájgedåjma), danna dagu dåjt jagijt. Ij la desti oahppijn kafea. Ja hámnan ledåssju$(cmp,1-X|le dåssju) akta guollárvanntsa.
+Uddni ælla Måsken gå nieljelåges gudi vilá årru. Stuorra oasse le davás jåhtålam. Vilá ij le rahte Måsskåj boahtám. Ij la desti boargál. Dåssju akta sávttsabåndor le virgen. Skåvlån li dåssju 6 oahppe, ja ælla desti ((friddjájgedåjma$(typo|friddjaájgedåjma))€(loan|asstoájgedåjma))¢(cmp,gen-nom|asstoájggedåjma), danna dagu dåjt jagijt. Ij la desti oahppijn kafea. Ja hámnan ledåssju$(cmp,1-X|le dåssju) akta guollárvanntsa.
 
 ”Måske-aksjåvnnå$(conc-sk-ssk|Måsske-aksjåvnnå)" almodij jagen 1996 Måskev oasen. Vuojnnin Måsske ij bierggi jus e sierralágásj dåjma sjatta, ja jus e barggosaje ásaduvá. Dan aksjåvnå maññela$(ascii|maŋŋela) lij Måsske vargga juohkka ávijsan$(vowc|avijsan) ja måttijn TV-kanalajn. Ulmutja sihtin vuojn Måsken ja Oarjjevuonan årrot.
 
