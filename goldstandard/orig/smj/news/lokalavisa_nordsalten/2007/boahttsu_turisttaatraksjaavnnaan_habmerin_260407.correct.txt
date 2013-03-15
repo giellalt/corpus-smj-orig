@@ -1,0 +1,1120 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+		<meta name="google-site-verification" content="R_-5yYJSQLtnGSaafhLkulu1fOHAkjY762gWu38D3MI" />		
+				<link rel="alternate" type="application/rss+xml" title="Nyheter fra nord-salten.no" href="http://www.nord-salten.no/core-index/feeds/news.php?cid=113&caid=latest">		
+					<script type="text/javascript" src="/jwplayer/swfobject.js"></script>
+			<script type="text/javascript" src="/jwplayer/jwplayer.js"></script>
+			<script type="text/javascript" src="/admin/includes/alert/jquery.alerts.js"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="/admin/includes/alert/jquery.alerts.css" /> 
+
+<script type="text/javascript" src="/includes/jquery-ui-1.7.1.custom/js/jquery-1.4.3.min.js"></script>
+<script type="text/javascript" src="/includes/jquery-ui-1.7.1.custom/js/jquery-ui-1.8.5.custom.min.js"></script>
+
+<script type="text/javascript" src="http://js.techjunkie.no/core-index/includes/base.js"></script>
+<script type="text/javascript" src="http://js.techjunkie.no/includes/jquery.cookie.js"></script>
+	<script type="text/javascript" src="http://js.techjunkie.no/core-index/includes/javascripts/client_113.js"></script>
+		<script type="text/javascript" src="http://js.techjunkie.no/core-index/includes/prototype.js"></script>
+	<script type="text/javascript" src="http://js.techjunkie.no/core-index/includes/scriptaculous-js-1.8.2/src/scriptaculous.js"></script>
+	<script type="text/javascript" src="http://js.techjunkie.no/core-index/includes/lightview/js/lightview.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://js.techjunkie.no/core-index/includes/lightview/css/lightview.css" />
+	
+
+	<link type="text/css" rel="stylesheet" href="http://css.techjunkie.no/includes/styles/redmond/jquery-ui-1.7.2.custom.css" />
+	
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="keywords" content="" />
+<meta name="generator" content="Nettintro CMS - nettintro.no" />
+<link rel="stylesheet" href="http://css.techjunkie.no/core-index/styles/felles.css?85592" type="text/css" />
+<link rel="stylesheet" href="http://css.techjunkie.no/core-index/styles/print.css" media="print" type="text/css" />
+<link rel="stylesheet" href="http://css.techjunkie.no/core-index/styles/lokalavisa/main.css?53603" type="text/css" />
+<script type="text/javascript">
+function launchWindow(URL, width, height) {
+		if (!width) {
+			var width = 720;
+		}
+		if (!height) {
+			var height = 600;
+		}
+		var x = (screen.availWidth / 2) - (document.body.clientWidth / 2);
+		var y = ((screen.availHeight - 60) / 2) - (document.body.clientHeight / 2);
+		x = (x > 0) ? x : 0;
+		y = (y > 0) ? y : 0;
+	day = new Date();
+	id = day.getTime();
+	eval("page" + id + " = window.open(URL, '" + id + "', 	'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=" + width + ",height=" + height + ",left = 0,top = 0');");
+	}
+
+</script>
+
+<!--[if IE 6]>
+<![endif]-->
+<!--[if IE 7]>
+<![endif]-->
+
+
+	<script type="text/javascript">
+	jQuery(document).ready(function(){
+		});
+</script>
+
+	<title>Boahttsu turisttaatraksjåvnnån Hábmerin: Boatsojsalljo, hierggevuodjem, sáme árbbedábe ja duodje - nord-salten.no</title>
+					<meta property="og:title" content="Boahttsu turisttaatraksjåvnnån Hábmerin: Boatsojsalljo, hierggevuodjem, sáme árbbedábe ja duodje" /> 
+			<link rel="image_src" href="http://n-s.no/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/files/client_113/articles/2007/apr/boahttsu_turisttaatraksjavnnan_h_bmerin_boatsojsalljo_hierggevuodjem_s_me_rbbed_be_ja_duodje/news_4050_front_113_samisk_hovedbilde_reinflokk.jpg" />	
+	<meta name="description" content="  Moattes sihti manno&aelig;l&aacute;dus&aacute;v H&aacute;bmerin vuorodit. D&aacute;lla oajvvaduvv&aacute; &aacute;j&aacute;dus boatsojsaljujn Ulvsv&aring;g-sk&aacute;rdd&aacute;j. D&aacute;nna &aacute;lgadiddje sihti f&aacute;llat turistajda lahkavuodav boahttsuj, hierggevuodjemav gierrisijn, s&aacute;me &aacute;rbbed&aacute;b&aacute;lasj biebmov, souvernija/duodje vuobddemav ja &laquo;ruohtta&aacute;ddj&aacute;aktivitehtajt&raquo; m&aacute;n&aacute;jda." />
+	<meta property="og:description" content="  Moattes sihti manno&aelig;l&aacute;dus&aacute;v H&aacute;bmerin vuorodit. D&aacute;lla oajvvaduvv&aacute; &aacute;j&aacute;dus boatsojsaljujn Ulvsv&aring;g-sk&aacute;rdd&aacute;j. D&aacute;nna &aacute;lgadiddje sihti f&aacute;llat turistajda lahkavuodav boahttsuj, hierggevuodjemav gierrisijn, s&aacute;me &aacute;rbbed&aacute;b&aacute;lasj biebmov, souvernija/duodje vuobddemav ja &laquo;ruohtta&aacute;ddj&aacute;aktivitehtajt&raquo; m&aacute;n&aacute;jda." />
+	<meta property="og:image" content="http://n-s.no/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/files/client_113/articles/2007/apr/boahttsu_turisttaatraksjavnnan_h_bmerin_boatsojsalljo_hierggevuodjem_s_me_rbbed_be_ja_duodje/news_4050_front_113_samisk_hovedbilde_reinflokk.jpg" />	<meta property="og:url" content="http://www.nord-salten.no/no/nyheter/samisk/boahttsu-turisttaatraksjavnnan-h-bmerin-boatsojsalljo-hierggevuodjem-s-me-rbbed-be-ja-duodje.4050" /> 
+<meta property="og:site_name" content="nord-salten.no" /> 
+	<meta property="og:type" content="article" /> 
+		<script type="text/javascript" src="/core-index/includes/stepcarousel.js"></script>
+	<meta property="fb:app_id" content="159275304095770" />
+	<style type="text/css">
+.stor-skrift {border-width: 0px; border-style: solid; font-weight: bold; font-size: 16px; }</style>
+</head>
+<!--/* OpenX Interstitial or Floating DHTML Tag v2.8.9 */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var ox_u = 'http://nettintro.no/admin/openx/www/delivery/al.php?zoneid=26&layerstyle=simple&align=center&valign=top&padding=2&padding=2&shifth=-50&shiftv=20&closebutton=t&backcolor=FFFFFF&bordercolor=000000';
+   if (document.context) ox_u += '&context=' + escape(document.context);
+   document.write("<scr"+"ipt type='text/javascript' src='" + ox_u + "'></scr"+"ipt>");
+//]]>--></script>
+	<style type="text/css">
+		#topHeader {
+			width: 750px;
+			height: 200px;
+			margin: 0 auto;
+			display: block;
+		}
+		#topUserMenu {
+			width: 100%;
+			background-color: black;
+			height: 35px;
+		}
+		#topUserMenuOuterContainer {
+			background-color: black;
+			width: 1160px;
+			height: 35px;
+			margin: 0px auto;
+		}
+		#topUserMenuContainer {
+			background-color: black;
+			padding-top: 10px;
+			width: 975px;
+		}
+		#topUserMenuContainer img {
+			position: relative;
+			top: -6px;
+		}
+		#topUserMenu ul {
+			background-color: black;
+			width: 920px;
+			text-align: right;
+			margin: 0px auto;
+			list-style: none;
+		}
+		#topUserMenu ul li {
+			display: inline;
+			list-style: none;
+			margin-left: 20px;
+			color: white;
+		}
+		#wrapper {
+			background-color: white;
+		}
+		#topUserMenu ul li a {
+			color: white;
+		}
+		#topUserMenu ul li a:hover {
+			color: #6798bd;
+		}
+				.frontPageTitle {
+
+		}
+		body {
+			/*background-image: url(/core-index/layouts/nsbg.jpg);
+			background-attachment: fixed;
+			background-position: bottom left;*/
+			margin: 0px;
+			padding: 0px;
+			/*background-image: url(/core-index/layouts/ns_body_bg.jpg);
+			background-repeat: repeat-y;
+			background-position: top center;*/
+			background-color: #6798bd;
+		}
+		#submenu {
+			width: 973px;
+			position: relative;
+			left: -3px;
+			background-color: #6798bd;
+			padding-left: 10px;
+			font-family: Tahoma;
+			height: 33px;
+		}
+		#submenu ul li a {
+			color: white;
+		}
+		#submenu ul li a:hover {
+			color: black;
+		}
+		#submenu ul li a.activeSubMenu {
+			font-weight: bold;
+			color: black;
+		}
+		#menu a:hover, #menu .current_page_item a, #menu li#active a {
+			background: #6798bd;
+			text-decoration: none;
+			color: white;
+		}
+		#menu ul li a {
+			background-color: #ccc;
+			color: black;
+			font-weight: normal;
+			font-family: Tahoma;
+		}
+		#menu a.noBG, #menu a.noBG:hover, #menu .current_page_item a.noBG, #menu li#active a.noBG {
+			background: none;
+			color: white;
+		}
+
+		#aa {
+			display: none;
+			padding-left: 10px;
+			padding-right: 10px;
+		}
+	</style>
+<!-- Generated by OpenX 2.8.7 -->
+<body>
+<div id="fb-root"></div>
+<script>
+  if (window.location != top.location) {
+  	top.location = window.location;
+  }
+  window.fbAsyncInit = function() {
+    FB.init({appId: '159275304095770', status: true, cookie: true,
+             xfbml: true});
+  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/nb_NO/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+  jQuery(document).ready(function() {
+    jQuery('#rightAds').containedStickyScroll({
+      duration: 500,
+      unstick: false,
+      closeTop: 70,
+      closeChar: 'x' 
+    });
+  });
+</script>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="/core-index/includes/jquery-contained-sticky-scroll-min.js"></script>
+<div id="dummyBody">
+<div id="topUserMenu">
+	<div id="topUserMenuOuterContainer">
+		<div id="topUserMenuContainer">
+			<a href="/" title="Nord-salten.no"><img src="http://www.nord-salten.no/core-index/images/portalen/logo_menu.png" style="float: left;"></a>
+			<ul>
+									<li><a href="/no/nord-salten/logg-inn/" title="Logg inn">Logg inn</a></li>
+					<li><a href="/no/nord-salten/logg-inn/registrering/" title="Opprett bruker">Opprett bruker</a></li>
+									<li><a href="/no/nord-salten/rubrikk/ny-rubrikk/" title="Ny rubrikkannonse">Sett inn rubrikk</a></li>
+				<li><a href="/no/nord-salten/debatt/nytt-debattinnlegg/" title="Skriv debattinnlegg">Skriv debattinnlegg</a></li>
+				<li><a href="/no/nord-salten/live/" title="Direktestudio">Direktestudio</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div id="outerContainer" class="ui-helper-clearfix">
+	<div id="rightAds" style="top: 72px;">
+	<div class="adWarning" style="background-color: white;"></div>
+			<!--/* OpenX Javascript Tag v2.8.7 */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://nettintro.no/admin/openx/www/delivery/ajs.php':'http://nettintro.no/admin/openx/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=24");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://nettintro.no/admin/openx/www/delivery/ck.php?n=a03f6684&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://nettintro.no/admin/openx/www/delivery/avw.php?zoneid=24&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a03f6684' border='0' alt='' /></a></noscript>
+		</div>
+	<div id="wrapper" style="margin-top: 0px;">
+<div style="width: 100%; display: none;">
+	<div class="ad" style="width: 980px; position: relative; left: 0px; top: -2px; display: none;">
+				
+			</div>
+		<br style="clear: both;" />
+</div>
+	<!-- end #header -->
+		<div id="menu">
+		<ul>
+						<li class="topMenuEntry">
+					<a href="http://www.nord-salten.no/no/nordsalten/" rel="noindex" class="ui-corner-top"><span class="topMenuSpan">Forside</span></a>
+					</li>
+				<li id="active" class="topMenuEntry">
+					<a id="current" href="http://www.nord-salten.no/no/nyheter/" rel="noindex" class="ui-corner-top"><span class="topMenuSpan">Nyheter</span></a>
+					</li>
+				<li class="topMenuEntry">
+					<a href="http://www.nord-salten.no/no/opplevelser/" rel="noindex" class="ui-corner-top"><span class="topMenuSpan">Opplevelser</span></a>
+					</li>
+				<li class="topMenuEntry">
+					<a href="http://www.nord-salten.no/no/portalen/" rel="noindex" class="ui-corner-top"><span class="topMenuSpan">Portalen</span></a>
+					</li>
+				<li class="topMenuEntry">
+					<a href="http://www.nord-salten.no/no/kontakt/" rel="noindex" class="ui-corner-top"><span class="topMenuSpan">Kontakt</span></a>
+					</li>
+				<li class="topMenuEntry">
+					<a href="http://www.nord-salten.no/no/nordsalten/rubrikk/" rel="noindex" class="ui-corner-top"><span class="topMenuSpan">Rubrikk</span></a>
+					</li>
+				<li class="topMenuEntry">
+					<a href="http://www.nord-salten.no/no/nordsalten/varet/" rel="noindex" class="ui-corner-top"><span class="topMenuSpan">Været</span></a>
+					</li>
+				
+		</ul>
+	</div>
+		<div id="submenu">
+			<ul>
+				
+										<li class="firstSubMenu"><a href="http://www.nord-salten.no/no/nyheter/sport/" title="Sport">Sport</a></li>
+										<li><a href="http://www.nord-salten.no/no/nyheter/aktuelt/" title="Aktuelt">Aktuelt</a></li>
+										<li><a href="http://www.nord-salten.no/no/nyheter/kultur/" title="Kultur">Kultur</a></li>
+										<li><a href="http://www.nord-salten.no/no/nyheter/diverse/" title="Diverse">Diverse</a></li>
+										<li><a href="http://www.nord-salten.no/no/nyheter/politikk/" title="Politikk">Politikk</a></li>
+										<li><a href="http://www.nord-salten.no/no/nyheter/okonomi/" title="Økonomi">Økonomi</a></li>
+										<li><a href="http://www.nord-salten.no/no/nyheter/naring/" title="Næring">Næring</a></li>
+										<li><a href="http://www.nord-salten.no/no/nyheter/skole/" title="Skole">Skole</a></li>
+										<li><a href="http://www.nord-salten.no/no/nyheter/helse/" title="Helse">Helse</a></li>
+										<li><a href="http://www.nord-salten.no/no/nyheter/samisk/" title="Samisk" class="activeSubMenu">Samisk</a></li>
+										<li><a href="http://www.nord-salten.no/no/nyheter/reiseliv/" title="Reiseliv">Reiseliv</a></li>
+										<li><a href="http://www.nord-salten.no/no/nyheter/valg-2007/" title="Valg 2007">Valg 2007</a></li>
+												<li><a>&nbsp;</a></li>
+							<li style="float: right; margin-right: 10px;"><a onclick="jQuery('#aa').toggle();" title="Innhold A - Å">A - Å</a></li>
+						</ul>
+	</div>
+	<div id="aa">
+		<br />
+<h1>Innhold A - Å</h1>
+<div style="width: 20%; margin-right: 3%;float: left;">
+	<ul class="dotList">
+		<li><a href="/no/nordsalten/tegn-abonnement/" title="Bestill abonnement">Abonnement</a></li>
+		<li><a href="/no/portalen/aktiviteter/" title="Aktiviteter">Aktiviteter</a></li>
+		<li><a href="/no/nyheter/aktuelt/" title="Aktuelt">Aktuelt</a></li>
+		<li><a href="/no/portalen/tilbud/" title="Annonser">Annonser</a></li>
+		<li><a href="/no/om/annonsere/" title="Annonsere">Annonsere på nord-salten.no</a></li>
+		<li><a href="/no/portalen/bedrifter/" title="Bedrifter">Bedrifter</a></li>
+		<li><a href="/no/portalen/eiendom/" title="Boliger">Boliger</a></li>
+		<li><a href="/no/nordsalten/debatt/" title="Debatt">Debatt</a></li>
+		<li><a href="/no/nyheter/diverse/" title="Diverse">Diverse</a></li>
+	</ul>
+</div>
+<div style="width: 20%; margin-right: 3%;float: left;">
+	<ul class="dotList">
+		<li><a href="/no/portalen/eiendom/" title="Eiendom">Eiendom</a></li>
+		<li><a href="/no/nordsalten/folkets-bilder/" title="Folkets bilder">Folkets bilder</a></li>
+		<li><a href="/no/nordsalten/gratulasjoner/" title="Gratulasjoner">Gratulasjoner</a></li>
+		<li><a href="/no/nyheter/helse/" title="Helse">Helse</a></li>
+		<li><a href="/no/portalen/stillinger/" title="Jobb">Jobb</a></li>
+		<li><a href="/no/kontakt/kontakt-lokalavisa/" title="Kontakt Lokalavisa NordSalten">Kontakt Lokalavisa NordSalten</a></li>
+		<li><a href="/no/kontakt/kontakt-nettintro/" title="Kontakt Nettintro ANS">Kontakt Nettintro ANS</a></li>
+		<li><a href="/no/nyheter/kultur/" title="Kultur">Kultur</a></li>
+		<li><a href="/no/portalen/lag/" title="Lag og foreninger">Lag og foreninger</a></li>
+	</ul>
+</div>
+<div style="width: 20%; margin-right: 3%;float: left;">
+	<ul class="dotList">
+		<li><a href="/no/om/lokalavisa-nordsalten/" title="Lokalavisa NordSalten">Lokalavisa NordSalten</a></li>
+		<li><a href="/no/nordsalten/meningsmalinger/" title="Meningsmålinger">Meningsmålinger</a></li>
+		<li><a href="/no/nordsalten/manedens-bilde/" title="Månedens bilde">Månedens bilde</a></li>
+		<li><a href="/no/om/nettsidebloggen/" title="Nettsidebloggen">Nettsidebloggen</a></li>
+		<li><a href="/no/nyheter/naring/" title="Næring">Næring</a></li>
+		<li><a href="/no/nyheter/politikk/" title="Politikk">Politikk</a></li>
+		<li><a href="/no/nyheter/reiseliv/" title="Reiseliv">Reiseliv</a></li>
+		<li><a href="/no/kontakt/ris-og-ros/" title="Ris og ros">Ris og ros</a></li>
+		<li><a href="/no/nordsalten/rubrikk/" title="Rubrikkannnoser">Rubrikkannonser</a></li>
+	</ul>
+</div>
+<div style="width: 20%; margin-right: 3%;float: left;">
+	<ul class="dotList">
+		<li><a href="/no/nyheter/samisk/" title="Samiske nyheter">Samiske nyheter</a></li>
+		<li><a href="/no/nyheter/skole/" title="Skole">Skole</a></li>
+		<li><a href="/no/nyheter/rubrikk/" title="Sport">Sport</a></li>
+		<li><a href="/no/portalen/stillinger/" title="Stillinger">Stillinger</a></li>
+		<li><a href="/no/sok/" title="Søk">Søk</a></li>
+		<li><a href="/no/kontakt/tips/" title="Tips oss">Tips oss!</a></li>
+		<li><a href="/no/om/tjenester/" title="Tjenester">Tjenester</a></li>
+		<li><a href="/no/nordsalten/varet/" title="Været">Været</a></li>
+		<li><a href="/no/nyheter/okonomi/" title="Økonomi">Økonomi</a></li>
+	</ul>
+</div>
+
+<br style="clear: left;" />	</div>
+
+	
+	<div class="ad" style="width: 980px; position: relative; left: 0px; top: 0px;">
+					<div class="adWarning" style="background-color: white;"></div>
+			<!--/* OpenX Javascript Tag v2.8.7 */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://nettintro.no/admin/openx/www/delivery/ajs.php':'http://nettintro.no/admin/openx/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=21");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://nettintro.no/admin/openx/www/delivery/ck.php?n=a3c018d4&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://nettintro.no/admin/openx/www/delivery/avw.php?zoneid=21&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a3c018d4' border='0' alt='' /></a></noscript>
+	</div>
+	<!-- end #menu -->
+	<div id="page">
+	<div id="page-bgtop">
+	<div id="page-bgbtm">
+	<div id="contentWrapper">
+					<div id="content" style="width: 750px; position: relative; top: 0px;">
+						
+			
+<!--sphider_noindex-->
+			
+			<!--/sphider_noindex-->
+		<div class="newsContainer">
+			<div class="newsInfoWide">
+				<div class="post">
+												<p style="margin-bottom: 0px;"><a href="http://n-s.no/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/files/client_113/articles/2007/apr/boahttsu_turisttaatraksjavnnan_h_bmerin_boatsojsalljo_hierggevuodjem_s_me_rbbed_be_ja_duodje/news_4050_front_113_samisk_hovedbilde_reinflokk.jpg" title="Boahttsu turisttaatraksjåvnnån Hábmerin: Boatsojsalljo, hierggevuodjem, sáme árbbedábe ja duodje :: " class="lightview"><img src="http://n-s.no/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/files/client_113/articles/2007/apr/boahttsu_turisttaatraksjavnnan_h_bmerin_boatsojsalljo_hierggevuodjem_s_me_rbbed_be_ja_duodje/news_4050_front_113_samisk_hovedbilde_reinflokk.jpg" width="100%" /></a></p>
+																				<h1 class="title"><a href="http://www.nord-salten.no/no/nyheter/samisk/boahttsu-turisttaatraksjavnnan-h-bmerin-boatsojsalljo-hierggevuodjem-s-me-rbbed-be-ja-duodje.4050" title="Boahttsu turisttaatraksjåvnnån Hábmerin: Boatsojsalljo, hierggevuodjem, sáme árbbedábe ja duodje">Boahttsu turisttaatraksjåvnnån Hábmerin: Boatsojsalljo, hierggevuodjem, sáme árbbedábe ja duodje</a></h1>
+					<div class="entry" style="line-height: 180%;">
+						<div class="lans-ingress" style="font-weight: bold;">
+							<p>  <p>Moattes sihti manno&aelig;l&aacute;dus&aacute;v H&aacute;bmerin vuorodit. D&aacute;lla oajvvaduvv&aacute; &aacute;j&aacute;dus boatsojsaljujn Ulvsv&aring;g-sk&aacute;rdd&aacute;j. D&aacute;nna &aacute;lgadiddje sihti f&aacute;llat turistajda lahkavuodav boahttsuj, hierggevuodjemav gierrisijn, s&aacute;me &aacute;rbbed&aacute;b&aacute;lasj biebmov, souvernija/duodje vuobddemav ja &laquo;ruohtta&aacute;ddj&aacute;aktivitehtajt&raquo; m&aacute;n&aacute;jda.</p></p>						</div>
+					<div class="meta ui-helper-clearfix">
+						<p class="meta">
+							<span class="date">
+								<strong>Publisert</strong><br />
+								26. april, 2007 klokken 14:55							</span>
+						</p>
+					</div>
+						<div class="authors ui-helper-clearfix">
+							<span class="date" style="padding-right: 2%">
+																		<img class="cleanImage" src="/core-index/images/portalen/lans_logo_clean.png" alt="Journalist" />
+																			<strong>Lokalavisa NordSalten</strong><br />
+									lokalavisa@nord-salten.no																</span>
+	
+						<span class="date" style="padding-right: 0%; float: right; width: 39%;">
+																<img class="cleanImage" src="http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/files/client_113/journalister/borge.jpg" alt="Journalist" />
+																	<strong><a href="/list/220/author" title="Se flere artikler av denne forfatteren">Børge Strandskog</a></strong><br />
+								lokalavisa@nord-salten.no								</span>
+						</div>
+						<div class="authors ui-helper-clearfix" style="border-top: 0px; margin-top: 0px;">
+							<span class="date" style="padding-right: 2%">
+							<strong>Publisert:</strong> 26. april, 2007 klokken 14:55												
+							</span>
+							<span class="date" style="padding-right: 0%; float: right; width: 195px; border: 0px solid red; text-align: right;">
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_preferred_4"></a>
+<a class="addthis_button_compact"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4ceb9d1e76a91224"></script>
+<!-- AddThis Button END -->
+							</span>
+						</div>
+<div style="width: 100%; text-align: center;">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8813528791086148";
+/* Break n-s.no */
+google_ad_slot = "3093952841";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div class="endAd" style="margin-top: 10px;"></div>
+														<div style="width: 468px; float: right; margin-left: 15px; margin-bottom: 15px;">
+<!--<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8813528791086148";
+/* 468x60, opprettet 01.11.10 */
+google_ad_slot = "9858446299";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+<!--</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>-->
+																					</div>
+													<div style="width: 336px; height:380px; float: right; margin-left: 10px;">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8813528791086148";
+/* Stort rektangel */
+google_ad_slot = "9319172511";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>						</div>
+						<div class="articleImageRig" style="clear: right;">
+																						<a href="http://n-s.no/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/files/client_113/article_slides/2007/apr/boahttsu_turisttaatraksjavnnan_h_bmerin_boatsojsalljo_hierggevuodjem_s_me_rbbed_be_ja_duodje/news_4050_113_samisk_karianne_olsen.jpg" title=" :: Karianne Olsenin le Bachelorgráda mannoæládusán, sujna le oajvvevásstádus konseptas ásadibmáj Hábmerin.
+" class="lightview" rel="gallery[4050">
+								<img class="articleRigImage" src="http://n-s.no/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/files/client_113/article_slides/2007/apr/boahttsu_turisttaatraksjavnnan_h_bmerin_boatsojsalljo_hierggevuodjem_s_me_rbbed_be_ja_duodje/news_4050_113_samisk_karianne_olsen.jpg" style="width: 290px;" alt="" title="" /></a>
+								<div class="articleImageDescription">
+									Karianne Olsenin le Bachelorgráda mannoæládusán, sujna le oajvvevásstádus konseptas ásadibmáj Hábmerin.
+								</div>
+								
+																<a href="http://n-s.no/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/files/client_113/article_slides/2007/apr/boahttsu_turisttaatraksjavnnan_h_bmerin_boatsojsalljo_hierggevuodjem_s_me_rbbed_be_ja_duodje/news_4050_113_samisk_mattis_eira.jpg" title=" :: Ælloniehkke Mathis Anders Eira sjabmu plánajda Habmerin. Sån sjaddá stuorámus aksjonerra jus prosjækta ja ásadibme jåhtuj boahtá.  " class="lightview" rel="gallery[4050">
+								<img class="articleRigImage" src="http://n-s.no/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/files/client_113/article_slides/2007/apr/boahttsu_turisttaatraksjavnnan_h_bmerin_boatsojsalljo_hierggevuodjem_s_me_rbbed_be_ja_duodje/news_4050_113_samisk_mattis_eira.jpg" style="width: 290px;" alt="" title="" /></a>
+								<div class="articleImageDescription">
+									Ælloniehkke Mathis Anders Eira sjabmu plánajda Habmerin. Sån sjaddá stuorámus aksjonerra jus prosjækta ja ásadibme jåhtuj boahtá.  								</div>
+								
+								<!--/* OpenX Javascript Tag v2.8.9 */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://nettintro.no/admin/openx/www/delivery/ajs.php':'http://nettintro.no/admin/openx/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=4");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://nettintro.no/admin/openx/www/delivery/ck.php?n=ab92b370&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://nettintro.no/admin/openx/www/delivery/avw.php?zoneid=4&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ab92b370' border='0' alt='' /></a></noscript>
+						<style type="text/css">
+</style>
+					<div class="adWarning noBG">Annonse fra Steigen Vertshus AS</div>
+			<div class="ad">
+				<div class="portal-news-ad" style="background-color: #fff">
+											<div style="padding: 5px;">
+							<a href="http://n-s.no/o/13" title="Sulten?"><img src="http://nordsaltenportalen.no/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/files/client_36/tilbud/steigen_vertshus/pizza.jpg" alt="" width="100%" /></a><br />
+						</div>
+											<div class="portal-news-ad-text" style="background-color: #c8d9fc; border-top: 1px solid #418dbb;">
+						<h3><a href="http://n-s.no/o/13" title="Sulten?">Sulten?</a></h3>
+						<div style="float: right; margin-top: 8px;">
+							<a class="likeButton ui-corner-all" href="http://n-s.no/o/13" title="Les mer">Les mer</a>
+						</div>
+						<p>
+						Ring 75 77 73 00 for bestilling av pizza, hamburger, biffsnadder og mer.						</p>
+					</div>
+				</div>
+					<p style="text-align: center; font-size: 10px; margin: 0px;"><a href="http://n-s.no/o/3" title="Din annonse her?">Din annonse her?</a> | <a href="/no/portalen/tilbud/" title="Se flere annonser">Flere annonser</a></p>			</div>
+			<br />
+						<div id="relatedArticlesContainer" style="text-align: left;"></div>
+						</div>
+												<p>  <p>Sverre Harald Eriksen, Karianne Olsen, Hans Petter Christensen, Magnhild ja Bjarne Nystad ja &aelig;lloniehkke Mathis Anders Eira Oarjjefuold&aacute;s/St&aacute;jgos li &aacute;lgadiddje prosjevtas, mav doajvvu li b&aring;rggem&aacute;non 2007 j&aring;htuj oadtjum. Ma&ntilde;emus nammadum sjadd&aacute; stuor&aacute;mus aksjonerra g&aring;- ja jus- &aring;d&aring; viddnudahka j&aring;htuj boaht&aacute;. D&aring;ssju d&aring;jmalasj &aelig;lloniehke m&aacute;htti boattsujt &aelig;jggut, dan diehti Eira oass&aacute;lasstem le g&aacute;jbb&aacute;dus jus galgg&aacute; j&aring;htuj boahtet.</p>    <p>Mathias Anders Eira le boattsuj barggam 1995 jage r&aacute;jes. Suv mielas &aacute;j&aacute;dus boatsojsaljujn H&aacute;bmerin le buorak. S&aring;n le juo 12 boahttsujt v&aacute;lljim ja dajt vuodjemhierggen d&aacute;madattj&aacute;m. D&aacute;t la &aacute;lkes valla guhkes barggo:</p>    <p>- H&aelig;httuv v&aacute;ttsatjit boattsujn b&aacute;ddegietjen, ihkap moadda tijma juohkka biejve, subtsas Eira. Hierge ma galggi d&aring;jman aneduvvat h&aelig;httuji buorren&aacute;l&aacute;na ja l&aring;je liehket, v&aacute;j m&aacute;n&aacute; ja &aring;llessjattuga m&aacute;htti dajt duohttat ja biebbmat.</p>    <p>&nbsp;</p>    <p>Ij la &aacute;jn mierreduvvam g&aring;si boatsojsalljo ma&ntilde;emussaj &aacute;saduvv&aacute;, valla &aacute;lgadiddje s&aacute;vvi m&aacute;httelisvuohta le dav &aring;d&aring;, eksotalasj saljov Ulvsv&aring;gsk&aacute;rdd&aacute;j &aacute;sadit.</p>    <p>- Sk&aacute;rdde vuojnnu hiebalasj sadjen, sierral&aacute;hk&aacute;j mattelisvuodajn l&aacute;jggitjit IL S&oslash;rulfa tjuojggamhyhtov. Ep la &aacute;jn l&aring;hpalasj v&aacute;sst&aacute;dus&aacute;v v&aacute;lastallamjuohkusis oadtjum. H&aelig;httup diedon aj ednam&aelig;jg&aacute;dij s&aacute;gastit &aring;vdd&aring;l m&aacute;httep joarkket bargujn, tjielggi Sverre Harald Eriksen, ja nammat Duorbun&aacute;se-alludag&aacute;v nubbin hiebalasj sadjen.</p>    <p>Karianne Olsenin le Bachelorgr&aacute;da manno&aelig;l&aacute;dus&aacute;n, sujna le oajvvev&aacute;sst&aacute;dus konseptas &aacute;sadibm&aacute;j H&aacute;bmerin.</p>    <p>- Sihtap reklamerit navti v&aacute;j sihke nuorajda ja vuorasappojda j&aring;ks&aring;p. Vuostatjin sjaddap tuvrraj&aring;dediddjijt, manno&aelig;l&aacute;dusjournalistajt ja manno&aelig;l&aacute;dusviddnudag&aacute;jt vuos&aacute;dallamij v&aacute;lldet. Jus h&aacute;rjjesv&aacute;les &aacute;jn Divtasvuodnaj boahtte&aacute;jgg&aacute;j boaht&aacute;, vuojnnep aj m&aacute;httelisvuodav h&aacute;rjjesv&aacute;lesdoajmmaj tjan&aacute;duvvat, ja dahkat v&aacute;j turista d&aacute;jda guovlojda vil avta biejvev b&aacute;htsi, javll&aacute; Karianne Olsen. S&aring;n vuoset aj m&aacute;httelisvuodav Boattsujn ja Ruohtta&aacute;dj&aacute;jn aktan. </p>    <p>&ndash; Jus lijma st&aring;hkusijt ja d&aring;jmajt boattsu ja ruohtta&aacute;dj&aacute; jahttuj tj&aacute;n&aacute;dam &aacute;vkken adnet, ja aj dakkir sierral&aacute;g&aacute;sj s&aacute;me gilpostjerdajt m&aacute;n&aacute;jda ja &aring;llessjattugijda, duola dagu sjuohppim ja hierggevuodjem. Oajvve&aacute;j&aacute;dus le turistajda vaddet lahkavuodav boahttsuj, dibddet sij&aacute;v hiergijn vuodjet ja sidjij s&aacute;me biebmov f&aacute;llat ja s&aacute;me souvenijrajt vuobddet &ndash; Ja s&aelig;mmi b&aring;tt&aring; &aring;hpadit boahttsu ja boatsoj&aelig;l&aacute;dus&aacute; birra. D&aacute;lla lip Mathis Anders Eirajn duodastimfilmav filmmimin, vuosedittjat turistajda g&aring;ktu boatsoj&aelig;l&aacute;dus d&aring;jmaduvv&aacute; &aring;lles jagev, d&aacute;jn guovlojn. Sjaddap aj s&aacute;me hist&aring;vr&aring;, &aacute;rbbed&aacute;bij ja religij&aring;vn&aring; birra subtsastit. Boatsoj&aelig;l&aacute;dus le ham l&aelig;hk&aacute;m &aacute;jnas &aelig;l&aacute;dus H&aacute;bmera suohkanin, ja s&aacute;me unnepl&aring;go &aacute;lmmugin le l&aelig;hk&aacute;m stuor v&aacute;jkkudimf&aacute;bmo sebrudahkiellemij ja &aacute;rbbed&aacute;bijda, javll&aacute; Karianne Olsen, guhti s&aacute;vat boatsojsalljo.</p></p>						<fb:like send="true" show_faces="false" action="recommend"></fb:like>
+						<div style="float: right;">
+							<g:plusone size="standard" count="true"></g:plusone>
+						</div>
+												
+																														
+					</div>
+				</div>
+							</div>
+						<br style="clear: both" />
+			
+			<div style="border: 1px dotted orange; background-color: #feffee; padding: 10px; margin-bottom: 5px;">
+				<p style="margin: 0px;"><a href="/no/tegn-abonnement/" title="Tegn et abonnement">Tegn et abonnement</a> på Lokalavisa NordSaltens papirutgave eller <a href="http://www.buyandread.com/buy.htm?pub=nordsalten" target="_blank" title="Les papiravisa som PDF">kjøp en elektronisk utgave (PDF)</a>.</p>
+			</div>
+								<a name="comments"></a>
+						<p><a href='/core-index/files/client_113/terms.php' rel='iframe' title=' ::  :: width: 800, height: 600' class='lightview'>Regler for kommentering</a></p>
+												<h2><a name="fbcomments"></a>Diskutér "Boahttsu turisttaatraksjåvnnån Hábmerin: Boatsojsalljo, hierggevuodjem, sáme árbbedábe ja duodje" på Facebook</h2>
+					<fb:comments href="http://www.nord-salten.no/no/nyheter/samisk/boahttsu-turisttaatraksjavnnan-h-bmerin-boatsojsalljo-hierggevuodjem-s-me-rbbed-be-ja-duodje.4050" num_posts="2" width="750"></fb:comments>
+										<br />
+		</div>
+				<br /><br /><hr />
+		<script type="text/javascript">
+		
+		jQuery(document).ready(function(){
+			loadTopTab('most-read', 8);
+			loadTopTab('latest', 8);
+			loadTopTab('latest-folkets', 8);
+			loadTopTab('latest-gratulasjoner', 8);
+			loadTopTab('latest-events', 8);
+			loadTopTab('latest-rubrikk', 8);
+			timeOuts["id"] = setTimeout("topTabSwitch()", 15000);
+		});
+		function loadTopTab(type, limit) {
+			//jQuery("#topHeaderTabContainer").html('<p style="text-align: center; padding-top: 20px; padding-bottom: 20px;"><img src="/admin/images/ajax-loader.gif" /></p>');
+			 bodyContent = jQuery.ajax({
+			      url: "/admin/includes/ajax/order/order.php",
+			      global: false,
+			      type: "GET",
+			      data: ({type : type+"-top-small", value : 8}),
+			      dataType: "html",
+			      success: function(msg){
+					jQuery("#" + type + "-container").html(msg);
+			      }
+			   });
+			
+		}
+		</script>
+		<div id="topHeader" class="ui-helper-clearfix" style="height: 350px;">
+			<h5 class="topTitle">
+				<span id="most-read" class="topmenu-tab most-read active first" onclick="switchTopTab('most-read', 8);">Mest lest</span>
+				<span id="latest-folkets" class="topmenu-tab latest-folkets" onclick="switchTopTab('latest-folkets', 8);">Folkets bilder</span>
+				<span id="latest-gratulasjoner" class="topmenu-tab latest-gratulasjoner" onclick="switchTopTab('latest-gratulasjoner', 8);">Gratulasjoner</span>
+				<span id="latest" class="topmenu-tab latest" onclick="switchTopTab('latest', 8);">Siste</span>
+				<span id="latest-events" class="topmenu-tab latest-events" onclick="switchTopTab('latest-events', 8);">Aktiviteter</span>
+				<span id="latest-rubrikk" class="topmenu-tab latest-rubrikk" onclick="switchTopTab('latest-rubrikk', 8);">Rubrikk</span>
+			</h5>
+			<div id="topHeaderTabContainer">
+				<div id="most-read-container" style="display: block;" class="topTabHtmlContainer"></div>
+				<div id="latest-folkets-container" class="topTabHtmlContainer"></div>
+				<div id="latest-gratulasjoner-container" class="topTabHtmlContainer"></div>
+				<div id="latest-container" class="topTabHtmlContainer"></div>
+				<div id="latest-events-container" class="topTabHtmlContainer"></div>
+				<div id="latest-rubrikk-container" class="topTabHtmlContainer"></div>
+			</div>
+		</div>
+		<hr />
+	
+	      
+		<div class="body2">
+					</div>
+		<br />		
+						<!-- AddThis Button BEGIN -->
+						<div class="addthis_toolbox addthis_default_style">
+						<script type="text/javascript">
+						var addthis_config = {
+ 						    ui_language: "nb"
+						}
+						</script>
+						<a href="http://www.addthis.com/bookmark.php" 
+    class="addthis_button"><img 
+    src="http://s7.addthis.com/static/btn/v2/lg-share-nb.gif" 
+    width="150" height="16" border="0" alt="Share" /></a>
+						</div>
+						<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4bb202e74d99c1fd"></script>
+						<!-- AddThis Button END -->
+
+				 <div id="errorMessageContainer">
+	<p>Feil: Vennligst fyll ut alle felter markert med rødt og prøv igjen.</p>
+	<div class="errorMessageContainerBorder"></div>
+</div>
+<div id="saveMessageContainer">
+	<p></p>
+</div>
+						<div style="clear: both;">&nbsp;</div>
+		</div>
+
+		
+					<!-- end #content -->
+		</div>
+		<div id="sidebar">
+<script type="text/javascript">
+document.write('<div class="searchContent" style="padding-top: 0px; margin-top: 0px;"><form id="space_form" action="/no/sok/" method="get" name="searchForm2"><div class="searchBoxHolder" style="width: 180px; margin: 0px auto; padding-top: 0px;"><div class="label"><label class="pre" for="smallSearch" style="display: none;">Søk <span id="space_span">nord-salten.no</span></label><input id="smallSearch" type="text" class="searchField" name="q" style="width: 136px;" value="" /></div><a href="#" onclick="document.searchForm2.submit();" class="searchButton"></a></div><br style="clear: both;" /><input id="space_site" type="radio" name="space" onclick="jQuery(\'#space_span\').html(\'nord-salten.no\'); jQuery(\'#space_form\').attr(\'action\', \'/no/sok/\');" checked="checked" value="site" /> <label for="space_site">Hele siden</label><input id="space_companies" type="radio" name="space" onclick="jQuery(\'#space_span\').html(\'i næringslivsbasen\'); jQuery(\'#space_form\').attr(\'action\', \'/admin/save.php\');" value="companies" /> <label for="space_companies">Næringsliv</label><input type="submit" style="display: none;" /></form></div>');
+</script>
+<style type="text/css">
+	.mmsContainer {
+		width: 180px;
+		border-bottom: 1px solid #d1d1d1;
+		padding-top: 5px;
+		
+	}
+	.mmsImage img {
+		width: 180px;
+	}
+	.mmsMessage {
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
+	.mmsDate {
+		display: block;
+		color: #999;
+		text-align: right;
+		margin-top: 10px;
+		font-size: 10px;
+	}
+</style>
+
+<h3>MMS-bilder</h3>
+<p>
+	Send din hilsen og et eventuelt bilde til <strong>2440</strong>. Start meldingen med kodeord <strong>NETTINTRO</strong>.
+	<span class="mmsDate" style="margin-top: 0px;">* Vanlig MMS-pris</span>
+</p>
+	<div class="mmsContainer">
+					<div class="mmsImage">
+				<a href="/core-index/includes/mms/2012/12/16820121020_194029-1.jpg" class="lightview"><img src="/core-index/includes/mms/2012/12/thumb_16820121020_194029-1.jpg" /></a>
+			</div>
+				<div class="mmsMessage">
+			3x Hurra førr ho søster .  Ho Veronika Hermansen, på smøla..Som den 25. Desember har dag.. Og itje korsen som helst dag.. Nei 20 på kvært lår e ingen spøk. :-)  Sku ønska æ kunne feir ilamme dæ. Men langt t smøla .. Får ta d ijænn t sommarn..:-) Håpa du får en fin dag.  Gratulere så masse me 40 års dagen din,Veronika. Gla i dæ <3<3 goklæm fra ho Liss-Marita			<span class="mmsDate">
+								25.12.2012 02:01			</span>
+		</div>
+	</div>
+	
+	<div class="adWarning"></div>
+	<script type="text/javascript" src="http://ads.nettintro.no/scripts/ad_vertical.php?limit=1&random=13012356&location=lans_below_search"></script>
+<div class="endAd"></div>
+<div class="fb-recommendations" data-site="www.nord-salten.no" data-width="180" data-height="550" data-header="true" data-linktarget="_top"></div>
+					<h3>Samisk</h3>
+									<div style="width: 100%; margin-bottom: 15px;">
+												<a href="http://www.nord-salten.no/no/stuorra-biejvve-m-sken.10655" title="Stuorra biejvve Másken"><img src="/core-index/images/thumbnails/news/news_10655.jpg" alt="Stuorra biejvve Másken" style="width: 100%;" /></a>
+												<h3><a href="http://www.nord-salten.no/no/stuorra-biejvve-m-sken.10655" title="Stuorra biejvve Másken">Stuorra biejvve Másken</a></h3>
+						<p><p>Sjaddá ávvobiejvve Måsken bierjjedagá gasskabiejve, gå Mikal Urheim vatteduvvá Gånågisá ánssidimmedáljav.</p></p>
+					</div>
+										<div style="width: 100%; margin-bottom: 15px;">
+												<a href="http://www.nord-salten.no/no/barndommens-eventyrland.10585" title="Barndommens eventyrland"><img src="/core-index/images/thumbnails/news/news_10585.jpg" alt="Barndommens eventyrland" style="width: 100%;" /></a>
+												<h3><a href="http://www.nord-salten.no/no/barndommens-eventyrland.10585" title="Barndommens eventyrland">Barndommens eventyrland</a></h3>
+						<p><p>Nu er det er mørkt og kaldt og snart jul, og det er dags å fortelle om noen av de fagreste minnene fra min egen barndoms eventyrland. Man minnes det gode, og jeg tar en pause fra det mindre gode, og oppfordrer alle til å skrive om sine minner!</p></p>
+					</div>
+											<div class="adWarning"></div>
+														<script type='text/javascript'><!--//<![CDATA[
+								   var m3_u = (location.protocol=='https:'?'https://nettintro.no/admin/openx/www/delivery/ajs.php':'http://nettintro.no/admin/openx/www/delivery/ajs.php');
+								   var m3_r = Math.floor(Math.random()*99999999999);
+								   if (!document.MAX_used) document.MAX_used = ',';
+								   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+								   document.write ("?zoneid=5");
+								   document.write ('&amp;cb=' + m3_r);
+								   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+								   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+								   document.write ("&amp;loc=" + escape(window.location));
+								   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+								   if (document.context) document.write ("&context=" + escape(document.context));
+								   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+								   document.write ("'><\/scr"+"ipt>");
+								//]]>--></script><noscript><a href='http://nettintro.no/admin/openx/www/delivery/ck.php?n=a5afe044&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://nettintro.no/admin/openx/www/delivery/avw.php?zoneid=5&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a5afe044' border='0' alt='' /></a></noscript>
+						<div class="endAd"></div>
+											<div style="width: 100%; margin-bottom: 15px;">
+												<a href="http://www.nord-salten.no/no/nyheter/samisk/m-nn-vuoda-subtsasrijkka.10586" title="Mánnávuoda subtsasrijkka"><img src="/core-index/images/thumbnails/news/news_10586.jpg" alt="Mánnávuoda subtsasrijkka" style="width: 100%;" /></a>
+												<h3><a href="http://www.nord-salten.no/no/nyheter/samisk/m-nn-vuoda-subtsasrijkka.10586" title="Mánnávuoda subtsasrijkka">Mánnávuoda subtsasrijkka</a></h3>
+						<p><p>Sjievnnjet le, tjoaskes ja ruvva javlla, ja de le muddo subtsastit soames buorre mujtojt ietjam mánnávuoda subtsasrijkas. Buoremus båttåjt mujttá, ja bådditjav binnep buorre mujtojs, ja hasodav iehtjádijt ietjasa mujtoj birra tjálet!</p></p>
+					</div>
+							<!-- end #sidebar -->
+		<div style="clear: both;">&nbsp;</div>
+	</div>
+	<br style="clear: both;" />
+	</div>
+	</div>
+	<!-- end #page -->
+</div>
+</div>
+<br style="clear: both;" />
+	<div id="footer" class="ui-helper-clearfix">
+		<div id="footerContent">
+			<table style="width: 100%;" border="0">
+<tbody>
+<tr>
+<td valign="top">Ansvarlig redaktør for nyheter fra Lokalavisa NordSalten<br />Børge Strandskog<br /></td>
+<td valign="top">
+<p><a href="http://www.nord-salten.no/no/kontakt/tips/">Tips nord-salten.no</a><br /><a title="Bestill abonnement" href="http://www.nord-salten.no/no/nordsalten/tegn-abonnement/">Bestill abonnement på papirutgaven</a><br /><a title="Sett inn rubrikkannonse" href="http://www.nord-salten.no/no/nordsalten/rubrikk/ny-rubrikk/">Sett inn rubrikkannonse</a> (nett og papir)</p>
+<p><a href="http://www.nord-salten.no/no/kontakt/kontakt-lokalavisa/">Kontakt Lokalavisa NordSalten</a> (nyheter, papiravisa)<br /><a href="http://www.nord-salten.no/no/kontakt/kontakt-nettintro/">Kontakt Nettintro</a> (nettsiden)<a title="Annonsering på nettsiden" href="http://www.nord-salten.no/no/kontakt/kontakt-nettintro/"></a></p>
+<p><a title="Annonsering på nettsiden" href="http://www.nord-salten.no/no/kontakt/kontakt-nettintro/">Annonsering på nettsiden</a></p>
+</td>
+</tr>
+<tr>
+<td valign="top">Ansvarlig redaktør for annet innhold<br />Kim Grytøyr</td>
+<td valign="top"><br /></td>
+</tr>
+<tr>
+<td valign="top"><br /><br /><br /><br /><a href="http://nettintro.no">Drives ved hjelp av publiseringsløsning fra Nettintro.</a></td>
+<td valign="top"></td>
+</tr>
+</tbody>
+</table>		</div>
+	</div>
+	<div class="btm_menu">
+		<div class="button">
+			<a id="boliger-button" onclick="loadExpandable('boliger');"><img src="http://www.nord-salten.no/core-index/images/portalen/home_address_12.png" /> Eiendom</a>
+		</div>
+		<div class="button">
+			<a id="stillinger-button" onclick="loadExpandable('stillinger');"><img src="http://www.nord-salten.no/core-index/images/portalen/user_12.png" /> Stillinger</a>
+		</div>
+		<div class="button">
+			<a id="aktiviteter-button" onclick="loadExpandable('aktiviteter');"><img src="http://www.nord-salten.no/core-index/images/portalen/calendar.png" /> Aktiviteter</a>
+		</div>
+		<div class="button">
+			<a id="bedrifter-button" onclick="loadExpandable('bedrifter');"><img src="http://www.nord-salten.no/core-index/images/portalen/companies.png" /> Bedrifter</a>
+		</div>
+		<div class="button">
+			<a id="foreninger-button" onclick="loadExpandable('foreninger');"><img src="http://www.nord-salten.no/core-index/images/portalen/group.png" /> Foreninger</a>
+		</div>
+		<div class="button">
+			<a id="mostread-button" onclick="loadExpandable('mostread');"><img src="http://www.nord-salten.no/core-index/images/portalen/favorites.png" /> Mest lest</a>
+		</div>
+		<div class="button">
+			<a id="latest-button" onclick="loadExpandable('latest');"><img src="http://www.nord-salten.no/core-index/images/portalen/go_12.png" /> Siste</a>
+		</div>
+		<div class="button">
+			<a id="ads-button" onclick="loadExpandable('ads');"><img src="http://www.nord-salten.no/core-index/images/portalen/view_site_12.png" /> Annonser</a>
+		</div>
+		<div class="button" style="display: none;">
+			<a id="chat-button" onclick="loadExpandable('chat');"><img src="http://www.nord-salten.no/core-index/images/portalen/comment_12.png" /> Chat</a>
+		</div>
+	</div>
+	<div class="expandable boliger one">
+		<div class="exContent"></div>
+	</div>
+	<div class="expandable stillinger two">
+		<div class="exContent"></div>
+	</div>
+	<div class="expandable aktiviteter three">
+		<div class="exContent"></div>
+	</div>
+	<div class="expandable bedrifter four">
+		<div class="exContent"></div>
+		<div class="chatBottom">
+			<form action="/admin/save.php" method="post">
+			<input id="csearch-input" type="text" name="string" style="width: 320px; margin: 0px auto; padding: 8px; outline: 0;" />
+			<input type="submit" value="Søk" style="float: right;" />
+			<input type="hidden" name="municipality" value="all" />
+			<input type="hidden" name="category" value="all" />
+			<input type="hidden" name="filterCompanyList" value="1" />
+			<input type="hidden" name="returnTo" value="http://www.nord-salten.no/no/portalen/bedrifter/" />
+			</form>
+			<script type="text/javascript">
+				jQuery("#csearch-input").focus();
+			</script>
+		</div>		
+	</div>
+	<div class="expandable foreninger five">
+		<div class="exContent"></div>
+	</div>
+	<div class="expandable mostread six">
+		<div class="exContent"></div>
+	</div>
+	<div class="expandable latest seven">
+		<div class="exContent"></div>
+	</div>
+	<div class="expandable ads eight">
+		<div class="exContent"></div>
+	</div>
+	<div id="chatBox" class="expandable chat eight" style="display: none;">
+		
+		<p class="reloadBox" style="float: right; padding-right: 5px; padding-top: 5px; width: 20px; display: none;"><a onclick="updateChat();" title="Oppdater chat"><img src="http://www.nord-salten.no/core-index/images/portalen/refresh.png" /></a></p>
+		<img src="http://www.nord-salten.no/core-index/images/portalen/logo_menu.png" style="margin: 5px; width: 150px;" /><br />
+		<span style="font-size: 18px; margin-left: 5px;">Chat</span> (BETA) <br style="clear: left;" />
+					<div style="padding: 0px; margin: 0px; margin-top: 5px;" class="endAd"></div>
+		<div class="exContent"></div>
+		<div class="chatBottom">
+							<p style="text-align: center;"><a href="/no/logg-inn/?openChat" title="Logg inn">Logg inn</a> for å chatte</p>
+						</div>		
+	</div>
+	<!-- end #footer -->
+<!-- Start AliveChat Tracking Code -->
+<script type='text/javascript' src='http://nettintro.no/admin/openx/www/delivery/spcjs.php?id=1'></script>
+	<script type="text/javascript">
+		jQuery('label.pre').labelOver('over');
+		jQuery("label.pre").show();
+		function voteImage(imageID) {
+			jQuery("#voteBox").show();
+			// Load content via AJAX
+			 bodyContent = jQuery.ajax({
+			      url: "/admin/includes/ajax/vote.php",
+			      global: false,
+				  async: true,
+			      type: "GET",
+			      data: ({type : "vote-image", value : imageID, rating : 1}),
+			      dataType: "html",
+			      success: function(msg){
+					jQuery("#voteBox").hide();
+					jQuery("a.likeButton").addClass('liked');
+					jQuery(".classification").html(msg);
+			      },
+				  error: function(XMLHttpRequest, textStatus, errorThrown) {
+					alert("Det skjedde en feil.");
+				  }
+			   });
+		}
+	
+		function loadExpandable(type, reload, startValue) {
+			jQuery(".button a").removeClass("activeBottomButton");
+			//jQuery("#dummyBody").addClass('dim');
+			if ((type != "chat") || (type == "chat" && reload != "reload")) {
+				jQuery(".expandable .exContent").html('<p style="text-align: center; padding-top: 20px; padding-bottom: 20px;"><img src="/admin/images/ajax-loader.gif" /></p>');
+			}
+			if (type == "chat" && reload == "reload") {
+				jQuery("#chatBox .spinnerBox").show();
+			}
+			if (jQuery(".expandable." + type).is(":hidden") || reload == 'reload') {
+				jQuery(".expandable").hide();
+				jQuery(".expandable." + type).show();
+				jQuery("#" + type + "-button").addClass("activeBottomButton");
+				// Load content via AJAX
+				 bodyContent = jQuery.ajax({
+				      url: "http://www.nord-salten.no/admin/includes/ajax/order/order.php",
+				      global: false,
+				      timeout: 4000,
+				      type: "GET",
+				      data: ({type : type+"-small", value : startValue}),
+				      dataType: "html",
+				      success: function(msg){
+						jQuery(".expandable." + type + " .exContent").html(msg);
+						jQuery("#chatBox .spinnerBox").hide();
+				      },
+					  error: function(XMLHttpRequest, textStatus, errorThrown) {
+						jQuery(".expandable." + type + " .exContent").html('<p style="color: red;">Det skjedde en feil</p>');
+				      }
+				   });
+				if (type == "chat") {
+					jQuery("#message-input").focus();
+					setTimeout("jQuery('#chatBox').attr({ scrollTop: jQuery('#chatBox').attr('scrollHeight')});", 300);
+				}
+			} else {
+				jQuery("#dummyBody").removeClass('dim');
+				jQuery(".expandable").hide();
+				jQuery("#" + type + "-button").removeClass("activeBottomButton");
+				jQuery(".expandable .exContent").html('<p style="text-align: center; padding-top: 20px; padding-bottom: 20px;"><img src="/admin/images/ajax-loader.gif" /></p>');
+			}
+			
+		}
+		function activateExpandable(type) {
+			jQuery(".button a").removeClass("activeBottomButton");
+			if (jQuery(".expandable.chat").is(":hidden")) {
+				jQuery("#" + type + "-button").addClass("activeBottomButton");
+			} else {
+				loadExpandable('chat', 'reload');
+			}
+		}
+function clearAllTimeouts(){  
+  for(key in timeOuts ){  
+    clearTimeout(timeOuts[key]);  
+  }  
+}  
+function switchTopTab(to) {
+	jQuery(".topTabHtmlContainer").hide();
+	jQuery("#" + to + "-container").show();
+	jQuery(".topTitle span").removeClass("active");
+	jQuery(".topTitle span." + to).addClass("active");
+	clearAllTimeouts();
+	timeOuts["id"] = setTimeout("topTabSwitch()", 8000);
+}
+
+function topTabSwitch() {
+    var $active = jQuery('.topTitle span.active');
+
+    if ( $active.length == 0 ) $active = jQuery('.topTitle span:last');
+
+    var $next =  $active.next().length ? $active.next()
+        : jQuery('.topTitle span:first');
+
+	var nextToLoad = $next.attr('id');
+	//loadTopTab(nextToLoad, limit);
+	switchTopTab(nextToLoad);
+}
+var timeOuts = new Array();
+
+		
+		
+		function loadRelatedArticles() {
+						jQuery("#relatedArticlesContainer").show();
+			jQuery("#relatedArticlesContainer").html('<p style="text-align: center; padding-top: 20px; padding-bottom: 20px;"><img src="/admin/images/ajax-loader.gif" /><br />Laster relaterte artikler..</p>');
+
+			// Load content via AJAX
+			 bodyContent = jQuery.ajax({
+			      url: "/admin/includes/ajax/order/order.php",
+			      global: false,
+			      type: "GET",
+			      data: ({type : "related-articles", value : '4050'}),
+			      dataType: "html",
+			      success: function(msg){
+					jQuery("#relatedArticlesContainer").html(msg);
+					if (msg == "") {
+						jQuery("#relatedArticlesContainer").hide();
+					}
+			      }
+			   });
+					}
+		function loadCompany() {
+		    jQuery('#companyAd').css({opacity: 0.0});
+
+			// Load content via AJAX
+			 bodyContent = jQuery.ajax({
+			      url: "/admin/includes/ajax/order/order.php",
+			      global: false,
+			      type: "GET",
+			      data: ({type : "company"}),
+			      cache: true,
+			      dataType: "html",
+			      success: function(msg){
+					jQuery("#companyAd").html(msg);
+		   	    	jQuery('#companyAd').animate({opacity: 1.0}, 500, function() {
+	
+    			    });
+					if (msg == "") {
+					}
+			      }
+			   });
+		}
+		function loadPortalAd() {
+		    jQuery('#portalAds').css({opacity: 0.0});
+
+			// Load content via AJAX
+			 bodyContent = jQuery.ajax({
+			      url: "/admin/includes/ajax/order/order.php",
+			      global: false,
+			      type: "GET",
+			      data: ({type : "portal_ad"}),
+			      dataType: "html",
+			      success: function(msg){
+					jQuery("#portalAds").html(msg);
+		   	    	jQuery('#portalAds').animate({opacity: 1.0}, 500, function() {
+	
+    			    });
+					if (msg == "") {
+					}
+			      }
+			   });
+		}
+		jQuery(document).ready(function(){
+			//loadRelatedArticles();
+			loadCompany();
+			//loadPortalAd();
+			setInterval('loadCompany();', 15000);
+			//setInterval('loadPortalAd();', 5000);
+			jQuery("#dummyBody").click(function() {
+				//jQuery(".expandable").hide();
+				//jQuery("#dummyBody").removeClass('dim');
+				//jQuery(".button a").removeClass("activeBottomButton");
+			});
+
+
+			//var $scrollingDiv2 = jQuery("#rightAds");
+			//var $scrollingDivTop2 = 68;
+			//jQuery(window).scroll(function(){
+		    //	$scrollingDiv2.css({"top": (jQuery(window).scrollTop() < $scrollingDivTop2 ? 0 : jQuery(window).scrollTop() - $scrollingDivTop2) + "px"});
+			//});
+			//var $scrollingDiv = jQuery("#rightAds"); //scrolling div
+			//var position = jQuery("#footer").position(); // div before you want to stop
+			//var height = jQuery("#rightAds").height(); //scrolling div can have dynamic height
+			//var pos = position.top - (height + 10); //adding some value so it wont stop very closely
+			
+			//jQuery(window).scroll(function(){
+			//	if(jQuery(window).scrollTop() > 68 && jQuery(window).scrollTop() < pos){	//100 is value after it start moving when scrooling
+			//		$scrollingDiv.stop().animate({"paddingTop": (jQuery(window).scrollTop() - 68) + "px"}, "slow" );	//150 is value that div appear at the top of the window
+			//	}
+			//});			
+					});
+		var currentSmallNews = 0;
+		function loadSmallNews(id) {
+			jQuery("#smallNewsContainer").html('<p style="text-align: center; padding-top: 20px; padding-bottom: 20px;"><img src="/admin/images/ajax-loader.gif" /></p>');
+			jQuery(".smallNewsLink").removeClass("active");
+			jQuery(".smallNewsLink" + id).addClass("active");
+			
+			if (jQuery("#smallNewsContainer").is(":hidden")) {
+			// Load content via AJAX
+			
+			jQuery("#smallNewsOuterContainer").show();
+			jQuery("#smallNewsContainer").show();
+			 bodyContent = jQuery.ajax({
+			      url: "/admin/includes/ajax/order/order.php",
+			      global: false,
+			      type: "GET",
+			      timeout: 5000,
+			      data: ({type : "small-news", value : id}),
+			      dataType: "html",
+			      success: function(msg){
+					jQuery("#smallNewsContainer").html(msg);
+					jQuery(".smallNewsLink" + id).addClass("active");
+					currentSmallNews = id;
+			      },
+					error: function(XMLHttpRequest, textStatus, errorThrown) {
+						jQuery("#smallNewsContainer").html('<p style="color: red;">Det skjedde en feil</p>');
+				      }
+			   });
+			} else {
+				if (id == currentSmallNews) {
+					jQuery("#smallNewsContainer").hide();
+					jQuery("#smallNewsOuterContainer").hide();
+					jQuery(".smallNewsLink").removeClass("active");
+					currentSmallNews = 0;
+		} else {
+				 bodyContent = jQuery.ajax({
+				      url: "http://www.nord-salten.no/admin/includes/ajax/order/order.php",
+				      global: false,
+				      type: "GET",
+				      data: ({type : "small-news", value : id}),
+				      dataType: "html",
+				      success: function(msg){
+						jQuery("#smallNewsContainer").html(msg);
+						jQuery(".smallNewsLink" + id).addClass("active");
+						currentSmallNews = id;
+				      }
+				   });
+				}
+			}
+		}
+	function updateChat() {
+	jQuery("#chatBox .spinnerBox").show();
+	jQuery("#chatBox .reloadBox").hide();
+	 bodyContent = jQuery.ajax({
+	      url: "http://www.nord-salten.no/admin/includes/ajax/order/order.php",
+	      global: false,
+	      type: "GET",
+		  async: true,
+	      data: ({type : "chat-num", value : ''}),
+	      dataType: "html",
+	      success: function(msg){
+			jQuery("#chatBox .spinnerBox").hide();
+			jQuery("#chatBox .reloadBox").show();
+			if (msg == "UPDATE") {
+				activateExpandable('chat');
+			}
+				      }
+	   });
+		
+	}
+
+jQuery(function() {
+	jQuery("#sendReminder").dialog({
+		bgiframe: false,
+		width: 500,
+		modal: true,
+		resizable: false,
+		close: function(event, ui) { jQuery("#sendReminder").html('<p style="text-align: center;"><img class="ui-modal" id="loading" src="http://www.nord-salten.no/core-index/images/ajax-loader.gif" align="center" /></p>'); },
+		position: ["center", 50],
+		autoOpen: false,
+		open: function(event, ui) { jQuery('.ui-widget-overlay').bind('click', function()	{ jQuery("#sendReminder").dialog('close'); }); }
+	});
+	
+});
+function sendReminder(id) {
+	jQuery("#sendReminder").load('/admin/modules_v2/editor.php?action=setReminder&loginNotRequired=1&eventID=' + id).dialog("open");
+}
+	</script>
+<div id="sendReminder" title="Påminnelse om aktivitet">
+		<p style="text-align: center;"><img class="ui-modal" id="loading" src="/core-index/images/ajax-loader.gif" align="center" /></p>
+</div>
+		
+                        
+                        	
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+  {lang: 'no'}
+</script>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1193171-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>	</body>
+</html>
