@@ -1,56 +1,46 @@
 Vijmak bierjjedak!
-Pjuh vijmak de bierjjedak sjattáj. Gåk lidjv åvvodallam dán bierjjedáhkaj. Muv plána lij Vuodnaj mannat bállov tjievtjatjit, valla ij navti sjáddam. Dálkke ja ráhte ij loabeda buorev, ráhte li jiegñum ja njalgasa. Jaja iv dav máhte juohkke sájen liehkket, suddo. Dan lávvordagá de farra galgav skåvllåbárgojt dáhkaguohtet, hárjjidallat, bårråt ja báhkot peppargáhkojt ja tjuojggusav gähtjat.
+Pjuh vijmak de bierjjedak sjattáj$(vowlat,á-a|sjattaj). Gåk lidjv$(typo|lidjiv) åvvodallam$(vowc,å-á;vowlat,o-u|ávvudallam) dán bierjjedáhkaj. (Muv plána lij)£(kongr|Muv pládna lij) Vuodnaj mannat bállov tjievtjatjit, valla (ij navti sjáddam)£(x|ittjij navti sjatta). (Dálkke ja ráhte$(vowc,á-a|rahte) ij loabeda buorev)£(kongr|Dálkke ja rahte ettjin loabeda buorev), ráhte$(vowc,á-a|rahte) li jiegñum$(ascci;conc,gñ-ggŋ|jieggŋum) ja njalgasa$(conc,lg-lkk|njalkkasa). Jaja iv dav€(w|dal) máhte juohkke¢(vowlat,e-a|juohkka) sájen$(vowc,á-a|sajen) liehkket$(conc,hkk-hk|liehket), suddo. Dan lávvordagá$(con,,r-0|lávvodagá) de farra galgav skåvllåbárgojt dáhkaguohtet$(vowc,á-a;vowc,uo-oa|dahkagoahtet), hárjjidallat, bårråt ja báhkot$(conc,hk-hkk;vowlat,o-u|báhkkut) peppargáhkojt€(foreign|pihpergáhkojt) ja tjuojggusav gähtjat$(conc,htj-httj|gähttjat).
 
-Dalla tjåhkåhav gåjt bussan sijdaj mánnamin vas. Mån lav jur lähkám hárjjidallamin Duoddarin. Uddni vas sjáttaj tjuojgos. Åh muv mielas tjuojgos la buoremus hárjjidallam ja dat la nav suohtas. Tjuojggus <3 
+Dalla tjåhkåhav$(conc,hk-hkk|tjåhkkåhav) gåjt bussan¥(bussan lav) sijdaj$(conc,jd-jdd|sijddaj) mánnamin$(vowc,á-a|mannamin) vas. Mån lav jur lähkám hárjjidallamin Duoddarin. Uddni vas sjáttaj$(vowc,á-a|sjattaj) tjuojgos. Åh muv mielas tjuojgos la buoremus hárjjidallam ja dat la nav suohtas. Tjuojggus$(conc,jgg-jg|tjuojgos) <3 
 
 
 
-Allhelgona kuhpán, Jielleváren. Suohats!
-tjállám: Naima kloahkká 07:50 Inga kommentarer:
-Skicka med e-post
-BlogThis!
-Dela på Twitter
-Dela på Facebook
+Allhelgona kuhpán!!!, Jielleváren. Suohats$(typo|Suohtas)!
+tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 07:50 
+
 
 Majt aná dán birra? 	
 Ådå mánno
-Duorastak, vuostasj biejvve jåvllamánon. Tenk, la ruvva ådå jahke vas, juo 2012. Mujtáv máj degu iektu gå sjattáj 2010, mujtáv man kult muv mielas  lij.  Iv dádjada mánen jáge dåssju gålli.  Dát jahke la mánnam nav ruvva ja lav adnám riek buore jagev dálátjij. Lav hinnim dáhkát nav ållo ådå majt iv la goassak dáhkam váj vuojnnám. Mån lav gåjt dudálasj muv jagijn dálátjij. Jah, galle dan birra! 
+Duorastak, vuostasj biejvve jåvllamánon$(vowc,å-a|javllamánon). Tenk$(Usjudalá), (la ruvva ådå jahke)¥(wo|ruvva la ådå jahke) vas, juo 2012. Mujtáv máj degu iektu gå sjattáj$(vowlat,á-a|sjattaj) 2010, mujtáv man kult muv mielas  lij.  Iv dádjada mánen$(vowc,á-a|manen) jáge$(vowc,á-a|jage) dåssju gålli.  Dát jahke la mánnam$(vowc,á-a|mannam) nav ruvva ja lav adnám riek buore¢(coc,r-rr|buorre) jagev dálátjij. Lav hinnim dáhkát$(vowc,á-a;vowlat,á-a|dahkat) nav ållo ådå majt iv la goassak dáhkam$(vowc,á-a|dahkam) váj€(w|jali) vuojnnám. Mån lav gåjt dudálasj muv jagijn dálátjij. Jah, galle€(w|nuoges) dan birra! 
 
-Uddni lav gåjt dåssju skåvlån lähkám. Lav bårråm taco lunsjaj ja máñemus skåvllåtijman de manniv káfeaj oastátjit sjokolademuffinsav. Mums, lij njálgge skåvlån bårråt uddni. Jur dálla tjåhkahav bussan, mannamin sjidrájggáj gåk dav bruovkku javllat. Sijdan de val vierttiv  nágin skåvllåbargoj gärggat.  Miján le nav ållo skåvlåbárgo jur dálla ahte dåssju sidáv hiejttet dav bierik skåvlåj. Ja dimna bárgo lidjin stuor tjállema. Valla galgav mån gärggat dimnaj, aktij(!), jus ga vierttiv ijájt barggat. 
+Uddni lav gåjt dåssju skåvlån lähkám. Lav bårråm taco (lunsjaj$(loan|lunssjaj))€(foreign|biejvvebiebbmon) ja máñemus$(ascii|maŋemus) skåvllåtijman de manniv káfeaj oastátjit sjokolademuffinsav$(foreign,vowc,á-a;vowlat,e-a|sjokoládamuffinsav). Mums, lij njálgge skåvlån bårråt uddni. Jur dálla tjåhkahav$(conc,hk-hkk|tjåhkkåhav) bussan, mannamin sjidrájggáj$(typo|sijddarájggáj) gåk dav bruovkku$(vowc,uo-u|bruvkku) javllat. Sijdan de val vierttiv nágin skåvllåbargoj gärggat.  Miján le nav ållo skåvlåbárgo$(conc,vl-vll;conc,rg-rgg,vowc,á-a|skåvllåbarggo) jur dálla ahte dåssju sidáv (hiejttet dav bierik skåvlåj)£(case|hiejttet dav bierik skåvlåv). Ja dimna bárgo$(vowc,á-a|bargo) lidjin stuor tjállema. Valla galgav mån gärggat dimnaj, aktij€(w|akti)(!), jus ga vierttiv ijájt barggat. 
 
-Oj, vajálduhttiv dáv bloggaj biedjat iektu! Valla sämmi buorre l máj uddni låhkåt ;)
+Oj, vajálduhttiv dáv bloggaj$(loan,vowc,o-oa|bloaggaj) biedjat iektu! Valla sämmi buorre l máj uddni låhkåt ;)
 
-Dála l skåvllågåvvå majt gåvvijma gå jur lijma skåvlåv álggá.
+Dála l skåvllågåvvå majt gåvvijma (gå jur lijma skåvlåv álggá)£(case;x|gå jur lijma skåvllåj álggám).
 
-tjállám: Naima kloahkká 07:46 Inga kommentarer:
-Skicka med e-post
-BlogThis!
-Dela på Twitter
-Dela på Facebook
+tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 07:46 
 
 Majt aná dán birra? 	
 23 november 2011
 ájggá
-Buoris vas!  Åhåj gåk ájgge gållå. Lij juo vargga vihtta máno dan rájes gå máŋemus dánna tjálliv. Iv la adnám tjállemhálov, valla de hähkkat iektu iehkedis de huomajiv ahte sihtuv sámegiellaj vas tjállet. Ja dåbbdiv ahte dárbahav hárjjanit tjállet sabmáj vas, dåbdåv ahte lav vajálduhttam unnán. Sadnes la maj dat aj, valla dálla galgav vas buorranit, ja ájn buorebut sjaddat.
+Buoris vas!  Åhåj gåk ájgge gållå. Lij juo vargga vihtta máno dan rájes gå máŋemus$(ascii|maŋemus) dánna tjálliv. Iv la adnám tjállemhálov, valla de hähkkat iektu iehkedis de huomajiv ahte sihtuv$(vowlat|sihtiv) sámegiellaj vas tjállet. Ja dåbbdiv$(conc,bbd-bdd|dåbddiv) ahte dárbahav hárjjanit$(vowlat,a-á|hárjjánit) tjállet sabmáj$(vowc,a-á|sábmáj) vas, dåbdåv ahte lav vajálduhttam$(vowlat,a-á|vajálduhttám) unnán. Sadnes$(vowc,a-á|Sádnes) la maj dat aj, valla dálla galgav vas buorranit$(vowlat,a-á|buorránit), ja ájn buorebut€(w,adv-adj|buorep) sjaddat.
 
-Dálla lav gåjt joarggaskåvllåj alggam. Vadtsáv samhällsprográmmav ja tjuojggamlinjav aktan. Suobtsov degu guolle tjátjen. Lav dåssju vadtsám danna gålmmå máno valla la riek suohtas, ájn gåjt. Le riek suohtas gå oadttju hárjjidallat skåvllåájgen ja ietjadij gudi aj lijkkuji sämmi sportaj. Ja ájn buorep la ahte oadtjov planáv dáhkat hárjjidallijn. Aktan måj hárjjidallijn planerijinj majt,gåk ja goassa galgav hárjjidallat. Dálla dåbdåv ahte muv sportan bargav ávojn vas! Diedon dimna ulmutja adnin dakkár ”vuolus-mánojt” viessomin, ja buorre l máj dat ietjan ij suohtas vas sjatta. Valla åvddål alggiv tjuojggamlinjav de dåbddiv ahte lij gássjel ållit muv ulmmáj ja niehkkuj, supertjuojggen sjáddat. Valla dálla dåbdåv ahte jus sidáv de máhtáv.
+Dálla lav gåjt joarggaskåvllåj$(conc,rgg-rkk|joarkkaskåvllåj) alggam$(vowc,a-á;vowlat,a-á|álggám). Vadtsáv$(vowc,a-á;conc,dts-tts|váttsáv) samhällsprográmmav€(foreign|sebrudakprográmmav) ja tjuojggamlinjav aktan. Suobtsov$(vowc,uo-oa;conc,bts-pts|soaptsov) degu guolle tjátjen. Lav dåssju vadtsám$(vowc,a-á[vádtsám) danna gålmmå máno valla la riek suohtas, ájn gåjt. Le riek suohtas gå oadttju$(conc,dttj-dtj|oadtju) hárjjidallat skåvllåájgen ja (ietjadij(conc,tj-htj;vowlat,a-á|iehtjádij))¥(iehtádij siegen) gudi aj lijkkuji sämmi sportaj€(forein|válastallamij). Ja ájn buorep la ahte oadtjov$(conc,dtj-ttj|oattjov) planáv$(vowc,a-á;vowlat,á-a|plánav) dáhkat$(vowc,á-a|dahkat) hárjjidallijn. Aktan måj hárjjidallijn planerijinj€(foreign|gárvedin) majt,gåk ja goassa galgav hárjjidallat. Dálla dåbdåv ahte muv sportan€(foreign|válastallamijn) bargav ávojn vas! Diedon dimna ulmutja adnin dakkár ”vuolus-mánojt” viessomin, ja buorre l máj dat ietjan¢(vowlat,a-á|ietján) ij suohtas vas sjatta. Valla åvddål (alggiv$(vowc,a-á|álggiv) tjuojggamlinjav)£(case|álggiv tjuojggamlinnjaj) de dåbddiv ahte lij gássjel ållit muv€(pers-refl|ietjam) ulmmáj ja niehkkuj$(conc,hkk-hk|niehkuj), supertjuojggen sjáddat$(vowc,á-a|sjaddat). Valla dálla dåbdåv ahte jus sidáv de máhtáv.
 
-Äsj, iv dessti vissja tjállet dán bále! Boadáv ruopptot ienep tjállusij boahtte vahko. 
+Äsj, iv dessti$(conc,sst-st|desti) vissja$(conc,ssj-sj;vowlat,a-á|visjá) tjállet dán bále! Boadáv ruopptot ienep tjállusij boahtte vahko. 
 
 
 
 Hivás!
 
-tjállám: Naima kloahkká 12:33 Inga kommentarer:
-Skicka med e-post
-BlogThis!
-Dela på Twitter
-Dela på Facebook
+tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 12:33 
+
 
 Majt aná dán birra? 	
-25 juli 2011
+
 Basecamp
-Dán jage Julevsáme vahkko doajmme lidjin ássam basecampav dávve vássjan. Dát basecampa lij guovte biejven. Mån lidjiv akta oassálasstes, Ole, Mikkel ja AnneBerita siegen. Basecampa ij álggam nav buoret, danen gå vierttijma vuorddet lagábut vihtta tijmma åvddål bådijma mannoj. Sjattaj nav dánen gå telefåvnnå ij doajmmam ja ejma máhttám guládallat gaskanisá, valla mángemusat lijma dimna sämmi sájen ja álgijma suohtastallat.
+Dán jage Julevsáme vahkko doajmme€(w|ásadiddje) lidjin ássam basecampav (dávve vássjan)¢(cmp,X-1;cap|Davve-Vásján). Dát basecampa lij guovte biejven. Mån (lidjiv akta oassálasstes)£(sg-pl|oassálasstijs), Ole, Mikkel ja AnneBerita siegen. Basecampa ij álggam nav buoret, danen gå vierttijma vuorddet lagábut vihtta tijmma åvddål bådijma mannoj. Sjattaj nav dánen gå telefåvnnå ij doajmmam ja ejma máhttám guládallat gaskanisá, valla mángemusat lijma dimna sämmi sájen ja álgijma suohtastallat.
 
 Vuostasj biejve álgijma låvdågoadev tsieggit jade båråstijma binnav. Dan mangel de kajakaj manájma nuorráj, páddaldijma moadda tijmma ja oattjojma/vierttijma kajakaj gåbmonit. Mån adniv gåjt riek suohtas ja muv mielas la hávsske dåssju nuoren gårvvåt ja gähtjat luondduv. Gå gasskabiejvveájgge lij de biebmov riejdijma aktan, räjnnabierggo gabájn,lökajn ja guobbarij  ja dan guorráj båråjma rijsav. 
 
@@ -98,7 +88,7 @@ Ole
 
 Da lihipit vuojnnam nágin gåvå muv basecampas dávve Vássjan. Jus dat ásaduvva boahtte jahkaj de vierttibihtit oassálasstet nuora! Dat lij/la nav suohtas ja suohtasup sjaddá maj jus ienep ulmutja oassálasstin ;-)
 
-tjállám: Naima kloahkká 07:32 Inga kommentarer:
+tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 07:32 Inga kommentarer:
 Skicka med e-post
 BlogThis!
 Dela på Twitter
@@ -114,7 +104,7 @@ Dálla lav sijdan Bårjåsin vas, båhtiv iektu iehkedis. Uddni manáv Rijtsemij
 
 
 
-tjállám: Naima kloahkká 02:55 Inga kommentarer:
+tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 02:55 Inga kommentarer:
 Skicka med e-post
 BlogThis!
 Dela på Twitter
@@ -126,7 +116,7 @@ Majt aná dán birra?
 Buorre idet, jali buorre gasskabiejvve! Uddni mån smarediv juo avtsen idedis. Lij vuogas ja dárbulasj oadet unnán guhkebu. Lidjiv riek nälggám ja álggiv idedisbiebmojn dalága. Bieddjiv lájbijt vuodnáj, vuostjajn, skinckajn, tomátpureajn ja oreganojn. Sjattáj riek njálgge. Juhkiv mielkkev dan guorraj ja dahkiv aj fruktsállatav tjáhtjemelonajn, clementijnaj ja ähppelij.
 
 
-tjállám: Naima kloahkká 04:54 Inga kommentarer:
+tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 04:54 Inga kommentarer:
 Skicka med e-post
 BlogThis!
 Dela på Twitter
@@ -143,7 +133,7 @@ Dát biejvve lij dakkár biejvve gå äjgáda tjuovvojin dåk, akta åhpadidjijs
 
 
 Dála l mij gudi álggep tjaktjaj, plus nágin ietjada aj. 
-tjállám: Naima kloahkká 12:39 Inga kommentarer:
+tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 12:39 Inga kommentarer:
 Skicka med e-post
 BlogThis!
 Dela på Twitter
@@ -160,7 +150,7 @@ Vajálduhttiv bieddjat gåvåjt ja videov iektu luomegis. Valla uddni anáv ietj
 
  
 
-tjállám: Naima kloahkká 10:40 Inga kommentarer:
+tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 10:40 Inga kommentarer:
 Skicka med e-post
 BlogThis!
 Dela på Twitter
@@ -180,7 +170,7 @@ Dála l luomek:
 Dálla gåjt skåvlån tjåhkkåhav sámegieltijman. Måj iednijn galggin manngela boarkálij mannat, galggin åhtsåt gápte-abnnasav. Ieddne la máj muv sámegielåhpadiddje. Valla vuostak vierttiv unnán bargov dahkat, degu bloggit.       
 
 Varrudagá Unnarievsagis! 
-tjállám: Naima kloahkká 05:33 Inga kommentarer:
+tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 05:33 Inga kommentarer:
 Skicka med e-post
 BlogThis!
 Dela på Twitter
@@ -224,7 +214,7 @@ mijá pick-pack
 
 
 
-tjállám: Naima kloahkká 09:54 Inga kommentarer:
+tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 09:54 Inga kommentarer:
 Skicka med e-post
 BlogThis!
 Dela på Twitter
@@ -244,7 +234,7 @@ Inga Juuso ja Markus Krunegård
 "Minusgrader rensar luften" sjattáj sunnu lávla namma. 
 
 
-tjállám: Naima kloahkká 10:14 Inga kommentarer:
+tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 10:14 Inga kommentarer:
 Skicka med e-post
 BlogThis!
 Dela på Twitter
@@ -278,7 +268,7 @@ Ge majt mån Karinis oadtjuv:
 
 
 Mån oadtjuv dáv gahperav! Shit man buorre ja fijnuk dat lij. Suohtas adnet gahperav mij la "sámegahper"-muoduk. Dav máhtáv adnet dábálattjat.
-tjállám: Naima kloahkká 06:05 3 kommentarer:
+tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 06:05 3 kommentarer:
 Skicka med e-post
 BlogThis!
 Dela på Twitter

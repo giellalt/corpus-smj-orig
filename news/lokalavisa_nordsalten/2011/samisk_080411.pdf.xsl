@@ -65,7 +65,7 @@
 <xsl:variable name="template_version" select="'$Revision: 64438 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
-<xsl:variable name="note" select="'norsk bildetekst'"/>
+<xsl:variable name="note" select="'norsk bildetekst. Parallelltekst til en av artiklene'"/>
 
 <!-- The main language of the document -->
 <xsl:variable name="mainlang" select="'smj'"/>
@@ -97,7 +97,7 @@
 
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
-<xsl:variable name="parallel_texts" select="''"/>
+<xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_dan" select="''"/>
 <xsl:variable name="para_eng" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
@@ -106,7 +106,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="''"/>
+<xsl:variable name="para_nob" select="'garden-som-forsvant_120411.html'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
