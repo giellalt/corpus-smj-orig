@@ -40,13 +40,13 @@ tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 12:33
 Majt aná dán birra? 	
 
 Basecamp
-Dán jage Julevsáme vahkko doajmme€(w|ásadiddje) lidjin ássam basecampav (dávve vássjan)¢(cmp,X-1;cap|Davve-Vásján). Dát basecampa lij guovte biejven. Mån (lidjiv akta oassálasstes)£(sg-pl|oassálasstijs), Ole, Mikkel ja AnneBerita siegen. Basecampa ij álggam nav buoret, danen gå vierttijma vuorddet lagábut vihtta tijmma åvddål bådijma mannoj. Sjattaj nav dánen gå telefåvnnå ij doajmmam ja ejma máhttám guládallat gaskanisá, valla mángemusat lijma dimna sämmi sájen ja álgijma suohtastallat.
+Dán jage Julevsáme vahkko doajmme€(w|ásadiddje) lidjin ássam basecampav (dávve vássjan)¢(cmp,X-1;cap|Davve-Vásján). (Dát basecampa$(loan,conc,mp-mmp|basecammpa) lij guovte biejven)£(Dá basecampa vibáj guokta biejve). Mån (lidjiv akta oassálasstes)£(sg-pl|oassálasstijs), Ole, Mikkel ja AnneBerita siegen. Basecampa(loan,conc,mp-mmp|basecammpa) (ij álggam)£(x|ittjij álge) nav buoret, danen gå vierttijma vuorddet lagábut€(w|lagábun) (vihtta tijmma)£(kongr|vihtta tijma) åvddål bådijma mannoj€w|jåhtuj). Sjattaj nav dánen$(vowc,á-a|danen) gå telefåvnnå (ij doajmmam ja ejma máhttám guládallat gaskanisá)£(mix|ittij dåjma ja ejma máhte guládallat gaskanimme), valla mángemusat$(vowc,á-a;vowlat,a-á;ascii|maŋemusát)€(w|vijmak) lijma dimna sämmi sájen$(vowc,á-a|sajen) ja álgijma suohtastallat.
 
-Vuostasj biejve álgijma låvdågoadev tsieggit jade båråstijma binnav. Dan mangel de kajakaj manájma nuorráj, páddaldijma moadda tijmma ja oattjojma/vierttijma kajakaj gåbmonit. Mån adniv gåjt riek suohtas ja muv mielas la hávsske dåssju nuoren gårvvåt ja gähtjat luondduv. Gå gasskabiejvveájgge lij de biebmov riejdijma aktan, räjnnabierggo gabájn,lökajn ja guobbarij  ja dan guorráj båråjma rijsav. 
+Vuostasj biejve álgijma låvdågoadev$(vowlat,å-a|låvdagoadev) tsieggit jade$(cmp,1-X|ja de) båråstijma binnav$(vowlat,a-á|binnáv). Dan mangel$(ascii|maŋŋel) de kajakaj$(vowc,a-á|kajáhkaj) manájma nuorráj, páddaldijma€(foreign|ájrustijma) (moadda tijmma)£(kongr|tijma) ja oattjojma/vierttijma kajakaj$(vowc,a-á;conc,k-hk|kajáhkaj) gåbmonit$(vowlat,o-å|gåbmånit). Mån adniv gåjt riek suohtas ja muv mielas la hávsske dåssju nuoren gårvvåt$(vowlat,å-o|gårvvot) ja gähtjat$(conc,htj-httj|gæhttjat) luondduv$(conc,ndd-nd|uondov). Gå gasskabiejvveájgge lij de biebmov riejdijma¢(conc|riejddijma) aktan, räjnnabierggo gabájn,lökajn$(conc,k-hk|löhkajn) ja guobbarij  ja dan guorráj$(vowlat,á-a|guorraj) båråjma rijsav. 
 
-Nuppát biejvve de smárediv sälddát árrat, lij nav báhkka låvdågoaden ahte vierttijiv sirddet oademvuosav ja oademvuoládisav ålgusjbälláj. Gå vas nubbadis smárediv de álgijma bårråt idedisbiebbmojt ja dan mangel tjårgijma dimna mijá budugijt. Gå lijma gärggam de vuodjájma vantsajn akta rájggaj, Vássja ja Måske gasskan. Danna galgajma biehket ja guohtsat. Råggejávrrerájgge la rájge namma gånnå lijma.
+(Nuppát biejvve)£(kongr|Nuppát biejve) de smárediv$(vowc,á-a|smarediv) sälddát$(conc,ldd-lld|sälldát) árrat, lij nav báhkka låvdågoaden$(vowlat,å-a|låvdagoaden) ahte vierttijiv sirddet oademvuosav ja oademvuoládisav$(vowm,a-á|oademvuoládisáv) ålgusjbälláj. Gå vas nubbadis$(conc,bb-pp;vowlat,a-á|nuppádis smárediv$(vowc,á-a|smarediv) de (álgijma bårråt)€(w|bårrågådijma) idedisbiebbmojt$(conc,bbm-bm|idedisbiebmojt) ja dan mangel$(ascii|maŋŋel) (tjårgijma$(conc,rg-rgg|tjårggijma))€(w|rájajma) dimna mijá budugijt. Gå lijma gärggam de vuodjájma$(conc,dj-ddj|vuoddjájma) vantsajn akta rájggaj$(vowlat,a-á|rájggáj), Vássja$(conc,ssj-sj;vowlat,a-á|Vásjá) ja Måske gasskan¢(conc,ssk-sk|gaskan). Danna galgajma biehket ja guohtsat. Råggejávrrerájgge la rájge namma gånnå lijma.
 
-Freia sjokoladejugos
+Freia sjokoladejugos$(vowc,a-á|sjokoládejugos)
 
 
 AnneBerit ávon :-)
@@ -58,12 +58,12 @@ Mikkel
 Ålles basecamp-oassálasste vehka!
 
 
-Instruktörra vuoset gåktu daj dingaj dahká.
+Instruktörra vuoset gåktu daj dingaj$(conc,ng-ŋg|diŋgaj) dahká.
 
 
 
 
-Måj Mikkelijn "cirkusav" doallin ;-)
+Måj Mikkelijn "cirkusav" doallin€(foreign|ásadin) ;-)
 
 
 
@@ -86,19 +86,16 @@ Ole
 
 
 
-Da lihipit vuojnnam nágin gåvå muv basecampas dávve Vássjan. Jus dat ásaduvva boahtte jahkaj de vierttibihtit oassálasstet nuora! Dat lij/la nav suohtas ja suohtasup sjaddá maj jus ienep ulmutja oassálasstin ;-)
+Da€(w|De) lihipit$(conc,hip-hp|lihpit) vuojnnam$(vowlat,a-á|vuojnnám) nágin gåvå muv basecampas (dávve€(cap|Davve) Vássjan$(conc,ssj-sj;vowlat,a-á|Vásján))¢(cmp,X-1|Davve-Vásján). Jus dat ásaduvva$(vowlat,a-á|ásaduvvá) boahtte jahkaj$(vowlat,a-á|jahkáj) de vierttibihtit oassálasstet nuora! Dat lij/la nav suohtas ja (suohtasup$(conc,ht-htt|suohttasup) sjaddá maj jus ienep ulmutja oassálasstin)£(x|suohttasup sjaddá maj jus ienep ulmutja oassálassti) ;-)
 
-tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 07:32 Inga kommentarer:
-Skicka med e-post
-BlogThis!
-Dela på Twitter
-Dela på Facebook
+tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 07:32
+
 
 Majt aná dán birra? 	
 GIESSE!
-Buorre beaivi, gåktu nuortagielaga javlli :)
+Buorre beaivi, gåktu nuortagielaga$(x|nuortaga) javlli :)
 
-Dat la juo mannam guokta máno dan rájes gå mangemus tjálliv dánna. Iv la riek astam jali vissjam. Jáhkáv sjaddá binna tjálosj mangebut giesen aj, vierttibihtit vuorddet tjaktjáj. Giesse la gåjt lähkám hávsske ja dárbulasj dán rádjáj. Valla muv mielas mij lip adnám ilá binna biejvev, mån ij solim ienep gå gålmmi-njiellji. Mån lav Rijtsemin lähkám njuovvam guolijt ja Måsken ja Ájluovtan årrum moadda vahkko, dåppe lav tjiektam bállov, vádtsam várijt, ijájt gåhtsåm ja dåssju divtasvuonagij hávsskudallam.
+Dat la juo mannam guokta máno dan rájes gå mangemus$(ascii|maŋemus) tjálliv dánna. Iv la riek astam$(conc,st-sst|asstam) jali vissjam. Jáhkáv sjaddá binna$(vowlat,a-á|binná) tjálosj mangebut giesen aj, vierttibihtit vuorddet tjaktjáj. Giesse la gåjt lähkám hávsske ja dárbulasj dán rádjáj. Valla muv mielas mij lip adnám ilá binna biejvev, mån ij solim ienep gå gålmmi-njiellji. Mån lav Rijtsemin lähkám njuovvam guolijt ja Måsken ja Ájluovtan årrum moadda vahkko, dåppe lav tjiektam bállov, vádtsam várijt, ijájt gåhtsåm ja dåssju divtasvuonagij hávsskudallam.
 
 Dálla lav sijdan Bårjåsin vas, båhtiv iektu iehkedis. Uddni manáv Rijtsemij ja galgav danna oadet åvdåv ijáj, ja idet måj Karinin vádtsajin Vuonaguovlloj várebadjel. Jippi!
 

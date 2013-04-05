@@ -2,29 +2,29 @@ Ihkeva fávrro
 Buorre iehket
 Tjåhkkåhav sijdan ja usjudaláv..
 Usjudaláv duov dáv, valla jur dálla usjudaláv balvaj birra. Gudnabalvajt.
-Mån ja munnu ráddnama Josefijnna ja Sanne lip plánim ålggorijkajda mannat. Lip juo girddebilehtajt Stockholmaj rávvim boahtte mánnodagáj. Dassta la plána dåssju mannat åvtåjn girddijn juosik: Spániaj, Tyrkiaj vaj ietjá lándaj gånnå máhttep rusjkudallat!
-Soajttá ij huoman sjatta. Islándan la vulkanutbrudd, ja ihkap de e girde háleda. Midja lip riek juolodis jus ep besa mannat. Gåk mij lip ávvudallam dasi! Valla vuojnnet jus bessap..
-Åvddåla lav dåssju Danmárkon, Frankrijkan (Álpajn) ja Belgian. Ja diehttelis aj Svierigin, Vuonan ja Suoman årrum.
-Ietján ij nav ålov dáhpáduvá. Mujna li ihkeva ållo skåvlåbargo åvddål gå vuolgáv, ja vierttiv ber barggagoahtet..
+(Mån ja munnu ráddnama Josefijnna ja Sanne)£(x|Mån ja muv rádna Josefijnna ja Sanne) lip plánim ålggorijkajda mannat. Lip juo girddebilehtajt Stockholmaj rávvim boahtte mánnodagáj¢(fin,j-0||mánnodagá). Dassta (la plána)£(kongr|pládna) dåssju mannat åvtåjn girddijn juosik: Spániaj, Tyrkiaj vaj€(w|jali) ietjá lándaj¢(conc,nd-nnd|lánndaj) gånnå máhttep rusjkudallat!
+Soajttá ij huoman sjatta. Islándan la vulkanutbrudd€(foreign|dållåvárre), ja ihkap (de e girde háleda)¥(wo|de girde e háleda) . Midja lip riek juolodis€(der,attr-pred|juolodime) jus€(w|vájbi) ep besa mannat. Gåk mij lip ávvudallam dasi! Valla vuojnnet jus bessap..
+Åvddåla lav dåssju Danmárkon, Frankrijkan (Álpajn) ja Belgian¥(Missing|Belgian mannam). Ja diehttelis¥(missing|diehttelis lav) aj Svierigin, Vuonan ja Suoman årrum.
+Ietján (ij nav ålov€(w|vuojga) dáhpáduvá)£(case|ij nav vuojga dáhpáduvá). Mujna li ihkeva€(w|sieldes) ållo skåvlåbargo åvddål gå vuolgáv, ja vierttiv ber barggagoahtet..
 
-Áhttjám uddni riŋŋguj ja subtsasti såj Inger-Lisejn libá plánim diek boahtet viettjatjit muv gå skåvllå hæjttá, 10. Biehtsemánnon. Suohtas!
+Áhttjám uddni riŋŋguj ja subtsasti såj Inger-Lisejn libá plánim€(w|gehkam) diek boahtet viettjatjit muv gå skåvllå hæjttá, (10. Biehtsemánnon)£(case| biehtsemáno 10. biejve). Suohtas!
 
-Mujna ælla nav ålo gåvå, valla uddni gávnniv divtav sámegielaj masjijnan majt áhttje l jårggålam lávlos “Wonderful tonight” Eric Claptonis.
+Mujna ælla nav ålo gåvå, valla uddni gávnniv divtav sámegielaj¢(conc,l-ll|sámegiellaj) masjijnan majt áhttje l jårggålam lávlos¢(infl|lávllagis) “Wonderful tonight” Eric Claptonis.
 Gulldala dáv, ja gæhttjala musihka siegen lávllot; 
 
 Ihkeva fávrro  (Wonderful Tonight)
 
 De bådij vat dat iehket
 Ájádallá majt galggá gárvvunit
-Muodojsis tjáppudahttá
+Muodojsis$(conm,js-jd|Muodojdis) tjáppudahttá
 Rájddá ietjas guhka vuoptajt
 Ja de gatját
 Iv la så fávrro
-Ja javlav, dán iehkedin la ihkeva fávrro
+Ja javlav, (dán iehkedin)£(kongr|dán iehkeda) la ihkeva fávrro
 
 Vuolgijma fæsstaj
-Ja gájka munnuj gæhttjin
-Dáv fávros næjtsov
+(Ja gájka munnuj gæhttjin
+Dáv fávros næjtsov)£(case|ja gájka munnuj gæhttjin dan fárvos næjttsuj)
 Guhti muv siegen la
 Ja vat mujsta gatját
 Ij la så hávsske
@@ -36,88 +36,53 @@ Huoman dal ájádaláv
 Jus goassak la dádjadam
 Man ålov duv æhtsáv
 
-Dal vuolggon de sijddasimme
+(Dal vuolggon$(vowlat|vuolggun))¥(wo|Vuolggun dal) de sijddasimme
 Iv le ållu vieddje, javlav
 Ja de gálggiv  tjoavddagijt
 Viehket oaddátjit
 Ja de tsamádav
 Åvdås tjuovgav jáddiv
 Gierugam, dån le ihkeva fávrro.
-Lagt inn av Lisa Lucia Lyngman Gælok kl. 20:11 1 kommentar:
-Send dette via e-post
-Blogg dette!
-Del på Twitter
-Del på Facebook
 
-tirsdag 17. mai 2011
+
 Udnásj biktasa
 
 Iektu lij vuostasj rássjodálkke dánna Gierunin, ja uddni lij vielggat ednamin gå smarediv.
-Gå lij nav nievrre dálkke vierttijiv rássjojáhkkaj ja buorre båvsåjda tjágŋat.
-Dagáv dagu kjendisbloggára ja biejav gåvåv udnásjbiejve outfit'as, hehe.
+Gå lij nav nievrre€(der,pred-attr|nievres) dálkke vierttijiv rássjojáhkkaj ja buorre båvsåjda tjágŋat.
+Dagáv dagu kjendisbloggára$(vowc,o-oa|kjendisbloaggára) ja biejav gåvåv udnásjbiejve outfit'as$(!!!, hehe.
 
 
-
-
-
-
-Muv ådå rássjojáhkka Haglöfs, ja ådå Climate båvsåjt aj Haglöfsas ja stiebila Vikingis ;)
-
-
-
-
-
-
-
-
-
-
-
-
+(Muv (ådå rássjojáhkka Haglöfs)¥(wo|ådå Haglöfs rássjojáhkka), ja ådå Climate båvsåjt)£(case|Muv ådå ådå Haglöfs rássjojáhkka ja Climate båvså) aj Haglöfsas ja stiebila Vikingis ;)
 
 
 Jur sijddaj boahtám:
-
-
-
 
 
 Ja gå la Vuonarijka álmmukbiejvve de Sara, akta paralellklássan muv bielggetjuvddegadtsaj vuonaslávgáv mállij.
 
 Vuorbbe biejvijn!
 
-Lagt inn av Lisa Lucia Lyngman Gælok kl. 16:48 Ingen kommentarer:
-Send dette via e-post
-Blogg dette!
-Del på Twitter
-Del på Facebook
-
 Skåvllåbiejvve
-Tjåhkkåhav tijman skåvlån. Elektronihkka le dálla ja mij oahppap Transiståvrå birra. Mån vádtsáv teknihkalasj linjav aktan freestyle/sabegijtjerastallam. Vádtsáv nuppát jagev, ja ruvva le dát skåvllåjahke vássám!
-Iv mån diede majt sidáv joarkkaskåvlå maŋŋela dahkat, valla niegadiv dán ijá ahte subtsastiv sihtiv polijsan barggat boahtteájge. Na avtav diŋgav gåjt diedáv, ja dat la at sidáv praktihkalasj bargojn barggat. Munji ij lijssi dåssju ståvlån tjåhkkåhit datåvrå åvdån (juska tjåhkkåhav vehi ålov dábálattjat ;)) vaj låhkåt ja tjállet ålles biejvijt. Ulmusj máj dassta vájbbá.
+Tjåhkkåhav tijman skåvlån. Elektronihkka le dálla ja mij oahppap Transiståvrå birra. Mån vádtsáv¢(conc,dts-tts|váttsáv) teknihkalasj linjav aktan freestyle/sabegijtjerastallam. Vádtsáv¢(conc,dts-tts|váttsáv) nuppát jagev, ja ruvva le dát skåvllåjahke vássám!
+Iv mån diede majt sidáv joarkkaskåvlå maŋŋela dahkat, valla niegadiv dán ijá ahte subtsastiv sihtiv polijsan¢(conc,js-jss,ine-ess|polijssan) barggat boahtteájge. Na avtav diŋgav gåjt diedáv, ja dat la at€(foreign|ahte) sidáv praktihkalasj bargojn barggat. Munji ij lijssi dåssju ståvlån tjåhkkåhit datåvrå$(mix|dáhtá) åvdån (juska tjåhkkåhav vehi ålov dábálattjat ;)) vaj¥(w|jali) låhkåt ja tjállet ålles biejvijt. Ulmusj máj dassta vájbbá.
 
-Lunsjaj ávvudaláv. Buoremus dánna Svierigin skåvlåv vádtset le ahte oadtjop málesbiebmov lunsjaj juohkka biejve!.Vuoj man njálga biebmojt oadtjop!
-Guláv moaddása e lijkku biebmojt majt oadtju skåvlån. Divna duokkár suohkan-barggamsaje oadtju sæmmilágásj biebmojt. Le dakkár biebbmo majt dåssju lieggisti ja bårrå. Muv skåvllå la priváhtaskåvllå, ja dánna l aj álmmukallaskåvllå (gijtto Marita bágo åvdås). Dánna oadtjop ållu sijddadagádum biebmojt, ja gåjt gåktu mån lav dádjadam le miján ihkeva buorre biebbmo jus ietjá skåvlåjda buohtastahttep.
-Uddni la dakkár raggmunk ja buojdde siegen. Raggmunk la beruna ja slåppå segadum ja basedum.
+(Lunsjaj$(conc,nsj-nnsj|Lunnsjaj))€(w|Biejvvebiebbmuj) ávvudaláv. Buoremus dánna Svierigin skåvlåv vádtset le ahte (oadtjop málesbiebmov lunsjaj$(conc,nsj-nnsj|lunnsjaj))£(case|oadtjop málesbiebmov lunnsjan))€(w|biejvvebiebbmon) juohkka biejve!.Vuoj man njálga biebmojt oadtjop!
+Guláv moaddása€(der|moattes) e (lijkku biebmojt)£(case|lijkku biebbmuj) majt oadtju skåvlån. Divna duokkár suohkan-barggamsaje¢(mix|suohkanbarggosajijn) oadtju sæmmilágásj biebmojt. Le dakkár biebbmo majt dåssju lieggisti ja bårrå¥(de bårrå). Muv skåvllå la priváhtaskåvllå, ja dánna l aj álmmukallaskåvllå (gijtto Marita bágo åvdås). Dánna oadtjop ållu sijddadagádum biebmojt, ja gåjt€(w|nav) gåktu mån lav dádjadam le miján ihkeva buorre biebbmo jus (ietjá skåvlåjda buohtastahttep)£(case|jus ietjá skåvlåj buohtastahttep).
+Uddni la dakkár raggmunk ja buojdde siegen€(w|guorraj). Raggmunk la beruna ja slåppå segadum ja basedum.
 
 Tijmma le lunsja rádjáj, valla dálla vierttiv dahkamusáj barggat transiståvrå birra!
 
 Hivás 
-Lagt inn av Lisa Lucia Lyngman Gælok kl. 10:31 1 kommentar:
-Send dette via e-post
-Blogg dette!
-Del på Twitter
-Del på Facebook
 
-mandag 16. mai 2011
-Buorisboahtem muv ådå bloggaj!
 
-Dát la muv ådå blogga gåsi galgav sámegiellaj tjállet.
+Buorisboahtem muv ådå bloggaj$(vowc,o-oa|bloaggaj)!
 
-Mån lav Lisa, lågenangávtsejagák Snåsas(ja aj Divtasvuonas). Muv áhttje la julevsábme Divtasvuonas ja muv ieddne la oarjjelsábme Åres/Östersundas. Dálla årov Gierunin Svierigin ja dánna joarkkaskåvlåv vádtsáv.
+Dát la muv ådå blogga$(vowc,o-oa|bloagga) gåsi galgav sámegiellaj tjállet.
 
-Iv visjá ålov ietjam birra dálla tjállet, valla jus bloggav tjuovo de oattjo muv iellema ja ájádusáj birra låhkåt!
+Mån lav Lisa, lågenangávtsejagák Snåsas(ja aj Divtasvuonas). Muv áhttje la julevsábme Divtasvuonas ja muv ieddne la oarjjelsábme Åres/Östersundas. Dálla årov Gierunin Svierigin ja dánna joarkkaskåvlåv vádtsáv¢(conc,dts-tts|váttsáv).
 
-Ulmme dájna bloggajn le ahte galgav hárjjánit ienebuv sámegielav tjállet. Muv mielas dát le suohtas vuohke sámegielajn barggat!
+Iv visjá ålov ietjam birra dálla tjállet, valla jus bloggav$(vowc,o-oa;conc,gg-kk|bloakkav) tjuovo de oattjo muv iellema ja ájádusáj birra låhkåt!
+
+Ulmme dájna bloggajn$(vowc,o-oa|bloakkajn) le ahte galgav hárjjánit (ienebuv sámegielav tjállet)£(case|ienebuv sámegiellaj tjállet). Muv mielas dát le suohtas vuohke sámegielajn barggat!
 
 Vuojnnalin /Lisa
