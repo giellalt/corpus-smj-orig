@@ -19,7 +19,7 @@ Nominasjåvnåjuogos (la oajvvadam Johan Daniel Hætta,Divtasvuonas lista bajemu
 
 Lågå: (Sametingstopp vraket av sine egne)∞(nor)
 Lågå aj: Nominasjåvnåjuohkusa sámedikkelistta€(conc,stt-sst|sámedikkelissta) 2013
-Dát merkaj ælla aktak udnásj Viestarmera sámedikkeájrrasijs ådå luohtádusáv oadtjum nominasjåvnnåjuohkusis.
+Dát merkaj ælla aktak udnásj Viestarmera sámedikkeájrrasijs ådå luohtádusáv oadtjum nominasjåvnnåjuohkusis¢(conc,vnn-vn|nominasjåvnåjuohkusis).
 
 Vuostatjin guosská dat Vibeke Larsenij, Áravuomes, valla aj Geir Johnsenij, Ruŋggogieras$(conc,ŋgg-ŋŋg|Ruŋŋgogieras) ja goalmádij Inga-Lill Sundsetaj, Bådådjos (gudi uddni li válljiduvvam Barggijbelludagá sámedikkeájrrasa)£(case|gudi uddni li válljiduvvam Barggijbelludagá sámedikkeájrrasin).
 
@@ -35,7 +35,7 @@ Viestarmera válggabijrra
 
 Válggabijrraj gulluji 35 suohkana Divrradis, Råmsån nuorttan gitta Meløddjuj, Nordlándan oarjján.
 Niellja politihkkára galggi válljiduvvat boahtte Sámediggáj.
-Maŋemus sámedikkeválgan, jagen 2009, oattjoj NSR gålmmå ájrrasa ja Barggijbelludahka guokta ájrrasa.
+Maŋemus sámedikkeválgan¢(cmp,gen-nom|sámediggeválgan), jagen 2009, oattjoj NSR gålmmå ájrrasa ja Barggijbelludahka guokta ájrrasa.
 1455 ulmutja li tjáledam ietjasa sámedikke jienastuslåhkuj dán válggabijran.
 Gálldo: samediggi.no.
 Sihke Vibeke Larsenin, Geir Johnsenin ja Inga-Lill Sundsetan la miella ájn avta ájggegávdav Sámedikken tjåhkkåhit.
@@ -46,7 +46,7 @@ Valla nominasjåvnåjuogos ij la sijájs gatjádam jus hálijdi joarkket.
 
 Jus dal Barggijbelludagá siebre li nav miellusa dán oajvvadussaj la aj gatjálvis.
 
-Mijá diedoj milta li nav ålos gå 11-12 bájkálasj barggijbelludagá siebre maŋŋáj gå nominasjåvnåjuohkusa oajvvadus diehttuj, guláskuddamin tsuojggim nominasjåvnå-juohkusa oajvvadusáv.
+Mijá diedoj milta li nav ålos gå 11-12 bájkálasj barggijbelludagá siebre maŋŋáj gå nominasjåvnåjuohkusa oajvvadus diehttuj, guláskuddamin tsuojggim nominasjåvnå-juohkusa$(cmp,hyph-0|nominasjåvnåjuohkusa) oajvvadusáv.
 
 Sijá mielas ij la nominasjåvnåjuogos tjuovvum bájkálasj siebrij vuojnojt gudi beras lulu lista bajemusán. (Nágin dájs)£(kongr|Nágina dájs) bájkálasj barggijbelludagá siebrijs li gåjt Bådådjo, Fuosko, Narvijka, Loabaga ja Harstada barggijbelludagá.
 

@@ -3,24 +3,14 @@
 
 Árran.
 
-Foto: Harrieth Aira/NRK
+Foto∞(nor): Harrieth Aira/NRK
 Julevsáme guovdásj Árran Ájluovtan Divtasvuonan la dal duojev vieledime.
 
 Mette Ballovara mette.ballovara@nrk.no
 Anders Kristian Kalstad Anders.Kristian.Kalstad@nrk.no
 Sander Andersen sander.andersen@nrk.no
 Harrieth Aira harrieth.aira@nrk.no
-Publisert 30.08.2012 00:16. Oppdatert 30.08.2012 14:39.
 
-Skriv ut
-Del/tips
-Tips en venn
-Mottakers e-post
-Din e-post
-Melding
-
-Permalenke
-http://www.nrk.no/kanal/nrk_sapmi/samegillii/1.8299408
 Gidán biejaj Árran duodjebagádiddjev virggáj. Dav aktisattjat Divtasvuona ASVOjn ja duodjesiebrijn Duodje Nordlánnda. Tjuodtjelij vahkojt máhtti de duodjára ávvusit gå dal seminára ja kursa ásaduvvi Árranin.
 
 Lågå aj: Fikk duodjepris.
@@ -29,15 +19,15 @@ Lågå aj: Skal dokumentere lulesamisk duodje.
 
 Gáptijn álggi
 
-Gaskavahkko la álggo dán vuostasj duodjeseminárraj gånnå ságastallam ja bagádallam la gáppte birra. Gáppte mij álgos lij bæjválasj bivtas, valla aj bivtas mij aneduváj gilldegárvvon sierralagásj dahpádusájn. Uddni dal gáppte ienemusát gilldegárvvon aneduvvá.
+Gaskavahkko$(conc,sk-ssk;conc,hkk-hk|Gasskavahko) la álggo dán vuostasj duodjeseminárraj gånnå ságastallam ja bagádallam la (gáppte birra)£(x|gápte birra). Gáppte mij álgos lij bæjválasj bivtas, valla aj bivtas mij aneduváj gilldegárvvon sierralagásj$(vowc,a-á|sierralágásj) dahpádusájn$(vowc,a-á|dáhpádusájn). Uddni dal gáppte ienemusát gilldegárvvon aneduvvá.
 
-Niellja kursa dal tjavtjan ja dálven ásaduvvi, ja juohkka kursan la sierra duodje-tiebmá. Åvddål gå kursa álggi la seminárasj dan tiemá birra.
-Gaskavahkko l de seminárra mij de kursajn joarkká duorastak ja bierjjedak iehkeda, ja hæjtto l dal lávvodagá biejven
+Niellja kursa dal tjavtjan ja dálven ásaduvvi, ja juohkka kursan la sierra duodje-tiebmá$(cmp,hyph-0|duodjetiebmá). Åvddål gå kursa álggi la seminárasj dan tiemá birra.
+(Gaskavahkko$(conc,sk-ssk;conc,hkk-hk|Gasskavahko) l de)¥(wo|Gasskavaho de la) seminárra mij de kursajn joarkká duorastak ja bierjjedak iehkeda, ja hæjtto l dal lávvodagá biejven
 
 
 Árrana duodjebagádalle Lilian Urheim.
 
-Foto: Sander Andersen/NRK
+Foto∞(nor): Sander Andersen/NRK
 Lågådalle Jåhkåmåhkes
 
 Kursalågådalle li dal Svieriga ja aj Vuona bieles.
