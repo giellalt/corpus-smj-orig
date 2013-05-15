@@ -47,7 +47,7 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
+<xsl:variable name="translated_from" select="'nob'"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
@@ -65,7 +65,7 @@
 <xsl:variable name="template_version" select="'$Revision: 64438 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
-<xsl:variable name="note" select="''"/>
+<xsl:variable name="note" select="'usikker på om Harriet Aira bare er forfatter.'"/>
 
 <!-- The main language of the document -->
 <xsl:variable name="mainlang" select="'smj'"/>

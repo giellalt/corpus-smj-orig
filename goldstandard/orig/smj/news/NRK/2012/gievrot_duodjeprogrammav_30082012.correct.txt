@@ -1,21 +1,15 @@
 Árran gievrot duodjeprográmmav
 
-
 Árran.
 
 Foto∞(nor): Harrieth Aira/NRK
 Julevsáme guovdásj Árran Ájluovtan Divtasvuonan la dal duojev vieledime.
 
-Mette Ballovara mette.ballovara@nrk.no
-Anders Kristian Kalstad Anders.Kristian.Kalstad@nrk.no
-Sander Andersen sander.andersen@nrk.no
-Harrieth Aira harrieth.aira@nrk.no
+Gidán biejaj Árran duodjebagádiddjev virggáj. Dav aktisattjat Divtasvuona ASVOjn$(suf|ASVO:jn) ja duodjesiebrijn Duodje Nordlánnda. Tjuodtjelij vahkojt máhtti de duodjára ávvusit gå dal seminára ja kursa ásaduvvi Árranin.
 
-Gidán biejaj Árran duodjebagádiddjev virggáj. Dav aktisattjat Divtasvuona ASVOjn ja duodjesiebrijn Duodje Nordlánnda. Tjuodtjelij vahkojt máhtti de duodjára ávvusit gå dal seminára ja kursa ásaduvvi Árranin.
+Lågå aj: (Fikk duodjepris)∞(nor).
 
-Lågå aj: Fikk duodjepris.
-
-Lågå aj: Skal dokumentere lulesamisk duodje.
+Lågå aj: (Skal dokumentere lulesamisk duodje)∞(nor).
 
 Gáptijn álggi
 
@@ -36,11 +30,11 @@ Kursalågådalle li dal Svieriga ja aj Vuona bieles.
 
 Ja gatjálvissaj jus la vejulasj gáptijn ållit guovten biejven ja avtan iehkedin, de vásstet sån:
 
-– Ij la de dárbbo gáptijn dán kursan ållit dajna gå, sidjij gesi l dárbbo, máhtti Árranin goarristit jus viehkev dárbahi, javllá Urheim.
+– Ij la de dárbbo gáptijn dán kursan ållit dajna gå, (sidjij gesi l dárbbo)£(case|siján gænna l dárbbo), máhtti Árranin goarristit jus viehkev dárbahi, javllá Urheim.
 
-Kurssa l navgu. Sámedigge ja Nordlánda fylkka libá rudájt dán duodjeprosjæktaj juollodam.
+Kurssa l navgu$(conc,vg-vk|navku). (Sámedigge ja Nordlánda fylkka libá)£(kongr|Sámedigge ja Nordlánda fylkka li) rudájt dán duodjeprosjæktaj juollodam.
 
 
-Gáptegisá ávvdallin Sámeálmmuk biejvev. Vuordedahtte ienep gáptegisá galggi vuojnnut maŋŋel dáj duodjekursaj Árranin.
+Gáptegisá ávvdallin$(vowlat,0-u|ávvudallin) (Sámeálmmuk biejvev)¢(cmp,X-1|(Sámeálmmukbiejvev)¢(cmp,1-X|Sáme álmmukbiejvev). Vuordedahtte ienep gáptegisá galggi vuojnnut (maŋŋel dáj duodjekursaj)¥(wo|dáj duodjekursaj maŋŋel) Árranin.
 
-Foto: Harrieth Aira
+Foto∞(nor): Harrieth Aira
