@@ -30,7 +30,7 @@ Buoris gájka vas!
 
 Lav ierijt$(ierit) læhkám mælggadav dálla, valla ållo suohttasa (li dáhpaduvvam¢(vowlat,a-á|dáhpáduvvam) dáv maŋemus vahkov)£(case|li dáhpáduvvam dán maŋemus vahko)
 
-Lidjiv Julevsáme (giella konferánsan)¢(cmp,X-1|giellakonferánsan) Jåhkåmåhken duorastagá ja bierjjedagá åvdep vahko. Lej riek miellagiddevasj lågådallamijt gulldalit, iejvvit ulmutjijt, ságastallat ájnas ássjij birra ja buoremus¥(missing|buoremus lej) GULLAT ja SÁHKADIT Julevsámegielav$(cap|julevsámegielav)!! Riek dudálasj lav konferánsajn, ja ávon lav at€(foreign,swe|ahte) vuojnáv doajvvo la aj boahtteájggáj.
+Lidjiv Julevsáme (giella konferánsan)¢(cmp,X-1|giellakonferánsan) Jåhkåmåhken duorastagá ja bierjjedagá åvdep vahko. Lej riek miellagiddevasj lågådallamijt gulldalit, iejvvit ulmutjijt, ságastallat ájnas ássjij birra ja buoremus¥(missing|buoremus lej) GULLAT ja SÁHKADIT Julevsámegielav¢(min|julevsámegielav)!! Riek dudálasj lav konferánsajn, ja ávon lav at€(foreign,swe|ahte) vuojnáv doajvvo la aj boahtteájggáj.
 Lidjiv Bårjåsin$(conc,rj-rjj|Bårjjåsin) Rachela ja Per-Erica vega lunna ålles ájllegav. Gårrum¥(missing|Lav gårrum) gáptev, ja lav dudálasj¥(missing|dudálasj dajna) majt dálátjit$(fin,t-j|dálátjij) lav gårrum. Sase buddasij lav ållim, ja åhtsåj álggám. Gássjel lij mierredit makkir bájnojt válljit, valla sjaddá unnán€(w|vehik) ietjá gå dábálasj.
 
 
@@ -49,7 +49,7 @@ Buorre biejvve
 Birrusin 13 galmmagráda uddni. Unnán biekkasj€(w|bieggá), valla ietján buor’ dálkke. Biejvve l várij badjel guovlastam. Galggiv jus riekta dieváj¢(conc,v-vv|dievváj) mannat tjerastittjat, valla ij la miella dasi..
 Iektu Sanne-Ristin riŋŋguj. (Márkkána$(conc,rkk-rn|Márnána) birra sáhkadijma ja ietjá suohttasav)£(x|Márnána) birra sáhkadijma ja ietjá suohttasij birra). Ávvudaláv! Sanne-Ristin le buorre ráddna.
 
-Gårruv ålles biejvev iektu. (Akta nuvtagijn gærggiv)£(kongr|Avtajn nuvtagijn gærggiv), ja nuppijn uddni gergav. Dåbddu buorre ja lav riek dudálasj daj. Suohtas J Sidáv sijddaj vádtset dal€(w|dálla) ja goarrot, valla vierttiv vuorddet Religiåvnåv¢(cap|religiåvnåv).
+Gårruv ålles biejvev iektu. (Akta nuvtagijn gærggiv)£(kongr|Avtajn nuvtagijn gærggiv), ja nuppijn uddni gergav. Dåbddu buorre ja lav riek dudálasj daj. Suohtas J Sidáv sijddaj vádtset dal€(w|dálla) ja goarrot, valla vierttiv vuorddet Religiåvnåv¢(min|religiåvnåv).
 
 Ájllek lij riek buorre Rachela lunna. Vaddjujma, ja gårruv (gæhttjalam-gápptev$(conc,ppt-pt|gæhttjalam-gáptev))$(cmp|gæhttjalamgáptev). Sasev vierttijma ietjájduhttet, valla ietján lij buorre. Gårruv ietjam alek (cool wool)∞(eng) tyddjas$(conc,ddj-dj|tydjas), ja dálla le dåssju buddit ja sasijt vil goarrot. Galgav Rachela lusi vas gå la giellakonferánssa jåhkåmåhken$(cap|Jåhkåmåhken) guovvamánon. Dalloj jáhkáv gergav. Jáhkáv tjáppa gáppte sjaddá.
 
