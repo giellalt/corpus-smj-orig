@@ -15,7 +15,7 @@ Guovte sámekultuvrralasj$(conc,rvv-rv|sámekultuvralasj)
 (Anne Siljan la áhttje guovdagæjnok$(conc,vd-vdd|guovddagæjnok ja ieddne divtasvuonak)¥(Anne Silja áhttje la guovddagæjnok ja ieddne la divtasvuonak). Dajna l sån (oadtjum oasev nuorttasámekultuvras ja aj julevsámekultuvras, ja dideon$(typo|diedon) aj goappatja$(vowlat,a-á|goappátja) gielajda)£(case|oadtjum oasev nuorttasámekultuvras ja aj julevsámekultuvras, ja diedo aj goappátjij gielajs) aj.
 -Mån lav mihá gå lav sábme, ja buoren¢(conc,r-rr,ine-ess|buorren) anáv gå dåbdåv ja ságastav guokta sámegiela ja guokta sierra sámekultuvra, javllá sån.
 Juska l nuorra, de la Anne Silja juo ålov háhppidam vásedit. Sån la joarkkaskåvlåjn ållim, ja sån la aj lådnomstudænntan læhkám åvdep skåvllåjage. Dan jage lij Ámerigin$(mix|Amerijkan).
-Anne Silja l aj åvdep giese journálisstan$(loan,vowlat,á-a|journalisstan) barggam NRK Sámeradioa$(prop,suf|Sámerádio) åvdås, ja dajna de la (oahpástuvvam€(w|oahpásmuvvam) barggeiellemijn)£(case|oahpásmuvvam barggoiellemij) aj.
+Anne Silja l aj åvdep giese journálisstan$(loan,vowlat,á-a|journalisstan) barggam NRK Sámeradioa$(prop,suf|Sámerádio) åvdås, ja dajna de la (oahpástuvvam€(w|oahpásmuvvam) barggeiellemijn)£(case,com-ill|oahpásmuvvam barggoiellemij) aj.
 
 Buorep dádjadip nuppe nuppev
 

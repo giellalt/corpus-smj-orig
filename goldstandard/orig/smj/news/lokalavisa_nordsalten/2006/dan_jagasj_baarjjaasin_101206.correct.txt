@@ -1,7 +1,7 @@
 Dán jagásj ”Bårjås” la aj Buks-Berita ja Nils Størka birra. Goappátja lijga moaddi oajvven Lufåhtan$(vowc,u-o|Lofåhtan). Bårjjåså$(vowlat|Bårjjåsa) dåjmadiddje Lars Børge Myklevold vuoset Lufutgijsáv$(vowv,,u-o;u-å|Lofåtgijsáv) mij la Árrana dávvervuorká vuosádusán.
 
 Dán jagásj Bårjjåsin: Sån lij sierralágásj sábme
-Dán jagásj Bårjjåsin li guokta vuostasj artihkkala guoktása birra gudi lijga sierralágásj ulmutja ietjaska viessomájgen. Vuostasj artihkkal$(conc,hkk-hk|artihkal) la oabme tjálos tjáledum Divtasvuona dålusj (báhpas Olaf Holmas)£(case|báhpas Olaf Holm) jagen 1880. Sån tjálij ”Nils Størka” birra, guhti lij sierralágásj ålmåj Divtasvuonan. Nubbe ártihkkal$(conc,hkk-hk;vowc,á-a|artihkal) la ”Buks-Bereta” birra.
+Dán jagásj Bårjjåsin li guokta vuostasj artihkkala guoktása birra gudi lijga sierralágásj ulmutja ietjaska viessomájgen. Vuostasj artihkkal$(conc,hkk-hk|artihkal) la oabme tjálos tjáledum Divtasvuona dålusj (báhpas Olaf Holmas)£(case,ela-nom|báhpas Olaf Holm) jagen 1880. Sån tjálij ”Nils Størka” birra, guhti lij sierralágásj ålmåj Divtasvuonan. Nubbe ártihkkal$(conc,hkk-hk;vowc,á-a|artihkal) la ”Buks-Bereta” birra.
 
 Oanegis¥(Oanegis versjåvnnå) dárogiellaj 
 
