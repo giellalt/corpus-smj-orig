@@ -10,11 +10,11 @@ Trond Bliksvær.
 
 Foto∞(nor): Harrieth Aira/NRK
 – Mij lip dáv juo ájggá ælvvám mij vierttip tjiehpebu sjaddat duostotjit sámijt gudi diehki båhti, javllá Trond Bliksvær gut la (dutkam-ja)$(cmp,1-X|dutkam- ja) åvddånahttemoajvve Valnesvuona varresvuodaguovdátjijn.
-Valnesvuona varresvuodaguovdásj mij la Fuosko ja Bådåddjo gassko fállá varresvuodadievnastusájt sierratjiehppedásen ulmutjijda gudi oatsodimev ja máhtsastimev dárbahi. Dav duola dagu gå skihpudagáj diehti li ierit barggoiellemis gahttjam, dat mij gåhtjoduvvá dárruj rehabilitering∞(nor).
+Valnesvuona varresvuodaguovdásj mij la Fuosko ja Bådåddjo gassko fállá varresvuodadievnastusájt sierratjiehppedásen ulmutjijda gudi oatsodimev ja máhtsastimev dárbahi. Dav duola dagu gå skihpudagáj diehti li ierit barggoiellemis gahttjam, (dat mij gåhtjoduvvá dárruj)¥(wo|dat mij dárruj gåhtjoduvvá) rehabilitering∞(nor).
 
 Valnesvuona varresvuodaguovdásj aj fálla$(vowlat,a-á|fállá) sierratjiehppe dievnastusájt fábmálisájda gudi dárbahi viehkev viesotjit buoremus láhkáj ietjasa skihpudagáj, dat mij dárruj gåhtjoduvvá habilitering∞(nor).
 
-Dåhku ållo pasienta båhti ja aj sáme pasienta, sierraláhkáj julev- ja oarjjelsáme guovlos, Nordlándan, valla aj nuorttat.
+Dåhku ållo pasienta båhti€(der|båhtali) ja aj sáme pasienta, sierraláhkáj julev- ja oarjjelsáme guovlos, Nordlándan, valla aj nuorttat.
 
 Ienep diedojt Valnesvuona varresvuodaguovdátja birra gávna dánna.
 
@@ -36,7 +36,7 @@ Institusjåvnnå la juo åvddål aj gæhttjalam hiebadahttet fálaldagájt sáme
 
 Ja jur dav institusjåvnnå dåbdåj ja miededij – dárbbo l systemmáhtalattjat gehtjadit dáv.
 
-Navti de ietjastis álgadin sierra sáme prosjevtav dijmmá.
+Navti de (ietjastis álgadin)£(kongr|ietjastisá álgadin) sierra sáme prosjevtav dijmmá.
 
 Sij biedjin virggáj prosjæktajådediddjev gut galgaj gehtjadit gåktu dievnastusá doajmmi sáme pasientaj hárráj ja (mij lulu)£(kongr|mij luluj) dárbulasj dahkat.
 
@@ -49,7 +49,7 @@ Erling Urheim la jådedam prosjevtav.
 
 Foto∞(nor): Harrieth Aira/NRK
 – Dánna li moadda oase majt lip vieledam. Sáhka la má dádjadusás, gåktu sámij barggat, vuosstij válldet ja aj diedojt sámij birra, duoje, åssko ja duot-dát. Ájnas la aj dádjadusáv oadtjot gåktu sáme li ájgij tjadá vájvástuvvam. Miján lij fáhkabiejvve mij dav tjalmostij – láddáduvvama båhtusa sámij varresvuodadilláj. Duodden lip tjadádam fáhkabiejvijt, maŋemus lij miehttseterapija, ja bargge li aj oassálasstám (duon-dán varresvuodaseminárajn)£(kongr|duojn-dájn varresvuodaseminárajn), subtsas prosjevta jådediddje, julevsábme Erling Urheim gut la dájna barggam Valnesvuona varresvuodaguovdátjin dán maŋemus jage.
-Duodden máhtudaklåpptimij barggij gaskan de la varresvuodaguovdásj álgadam duov-dáv (mij lulu)£(kongr|mij luluj) sámevuodav buorebut vuosedit. Buojkulvisá dagu låvdagådijt li tsieggim, sáme girjijt girjjevuorkkáj oadtjum, duodjekursajt tjadádam ja oahpástuvvam sáme værmádahkaj.
+Duodden máhtudaklåpptimij barggij gaskan de la varresvuodaguovdásj álgadam duov-dáv (mij lulu)£(kongr|mij luluj) sámevuodav buorebut vuosedit. Buojkulvisá dagu låvdagådijt li tsieggim, sáme girjijt girjjevuorkkáj oadtjum, duodjekursajt tjadádam ja (oahpástuvvam sáme værmádahkaj)€(w|oahpásmuvvam sáme værmádahkaj).
 
 Pasienta vuojnni ávkev
 

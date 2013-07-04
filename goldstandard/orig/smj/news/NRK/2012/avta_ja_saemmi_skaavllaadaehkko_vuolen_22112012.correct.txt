@@ -8,15 +8,15 @@ Badjel 15 jage li oahppe ja bargge Ájluovta skåvlån, Divtasvuonan hæhttum vu
 
 – Lij duodaj muddu$(vowlat,u-o|muddo) oadtjot skåvlåv ådåstuhtedum. Mij lip mælggadav vuorddám, javllá Ájluovta skåvlå rektor Britt-Karin Hansen.
 
-Lávllagij Ájluovta skåvlå mánájskåvlådáses ja báloaŋŋaspreggijmij$(mix|baloaŋŋásprieggimij) rahpin oahppe ietjasa ådå skåvlåv ja lieggijin vájmojt ja ávvudahttijn ájluovtagijt gudi dievddin skåvlåv gå vijmak Ájluovta ådå skåvllå rabáduváj.
+Lávllagij Ájluovta skåvlå mánájskåvlådáses ja báloaŋŋaspreggijmij$(mix|baloaŋŋasprieggimij) rahpin oahppe ietjasa ådå skåvlåv ja lieggijin vájmojt ja ávvudahttijn ájluovtagijt gudi dievddin skåvlåv gå vijmak Ájluovta ådå skåvllå rabáduváj.
 
 Lejga oahppeguovtes Wilma Jessen ja Martin Kuntsen gudi almmulattjat$(conc,lmm-lm|almulattjat) rabájga ådå skvållåhuodnahijt$(typo|skåvllåhuodnahijt)..
 
-Dat merkaj mánájskåvllå ja nuorajskåvllå li tjoahkkiduvvin avta sadjáj ja ælla des dagu åvddål (guovte sierra skåvllåhuodnahijda)£(kongr|guovte sierra skåvllåhuodnahij) sieradum.
+Dat merkaj mánájskåvllå ja nuorajskåvllå (li tjoahkkiduvvin)£(x|li tjoahkkidum) avta sadjáj ja ælla des dagu åvddål (guovte sierra skåvllåhuodnahijda)£(kongr|guovte sierra skåvllåhuodnahij) sieradum.
 
-Måttijt (lågevjagijt)$(cmp,X-hyph|lågev-jagijt) la nuorajskåvllå skåvllim Ájluovta oabme skåvlån mij la oabme ja ij la hiebadahtedum udnásj dárbojda ja gájbbádusájda.
+Måttijt (lågevjagijt)$(cmp,1-hyph|lågev-jagijt) la nuorajskåvllå skåvllim Ájluovta oabme skåvlån mij la oabme ja ij la hiebadahtedum udnásj dárbojda ja gájbbádusájda.
 
-Valla dálla li gájkka 105 oahppe Ájluovta skåvlån tjoahkkidum avta sadjáj.
+Valla dálla (li gájkka 105 oahppe)£(kongr|li gájka 105 oahppe) Ájluovta skåvlån tjoahkkidum avta sadjáj.
 
 Divtasvuona suohkan la stuoredahttám ja ådåstuhttám mánájskåvlåv ja dasi tsieggim duodde skåvllåtsiekkadusáv mij suohkanij la máksám vargga 20 milliåvnå$(conm,0-j|millijåvnå) kråvnå.
 
@@ -32,7 +32,7 @@ Badjel 15 jage (lij bargge ja oahppe)£(kongr|li bargge ja oahppe) Ájluovta sk�
 
 Åhpadiddje li aj oadtjum ådå, stuoráp ja buorep barggolanájt$(conc,n-nj|barggolanjájt), ådå stuoráp åhpadiddjijlanjáv ja buorep bivtaslanjájt.
 
-Ja (dasi l sámegielåhpadiddje Paul Gælok dudálasj)£(case|dajna l sámegielåhpadiddje Paul Gælok dudálasj).
+Ja (dasi l sámegielåhpadiddje Paul Gælok dudálasj)£(case,ill-com|dajna l sámegielåhpadiddje Paul Gælok dudálasj).
 
 - (Dat la buorre gå)¥(wo;redun|Buorre l gå) bessam lip sæmmi dæhkko vuolláj divna vehka, sierralahkáj$(vowc,a-á|sierraláhkáj) gå (mij divna bargge)¥(wo|divna mij bargge) bessap liehket aktan. Åvddål ij lim miján buorre barggosadje, (galmma ja oabme skåvllådåben)¥(missing|galmma ja oabme skåvllådåben lijma), valla dálla l dille ållu (ietja¢(vowlat,a-á|ietjá) láhkáj)¢(cmp,X-1|ietjáláhkáj), javllá åhpadiddje Paul Gælok.
 

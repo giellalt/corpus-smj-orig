@@ -24,7 +24,7 @@ Ulmme l sámástit, valla gatjálvis le gåktu dav tjoavddet vaj oadtjot mánáj
 
 –Uddni ij dal nav ållo sámegiella sijdajn gullu, subtsas Kintel.
 
-–Ja gå luondulasj sáhka ij gullu sijdajn, dat arena gånnå máná galggi sámegielav gullat, gå dat vádnun sijda bieles, de dárbahip dahkat arenav gånnå máná iejvviji bágojt ja sosialiseriduvvi sámegiellaj. Mån jáhkáv sámegiella gullugoahtá gå hárjjánip sámástit nubbe nubbáj ja máná oadtju hárjjánit sijá ságastallamgiella máhttá liehket sámegiella, dættot sån.
+–Ja gå luondulasj sáhka ij gullu sijdajn, (dat arena gånnå máná galggi sámegielav gullat)£(case,nom-ine|dan arenan gånnå máná galggi sámegielav gullat), gå dat vádnun sijda bieles, de dárbahip dahkat arenav gånnå máná iejvviji bágojt ja sosialiseriduvvi sámegiellaj. Mån jáhkáv sámegiella gullugoahtá gå hárjjánip sámástit nubbe nubbáj ja máná oadtju hárjjánit sijá ságastallamgiella máhttá liehket sámegiella, dættot sån.
 
 Lågå aj: Mij aktan sámástip
 –Dåssju akta njuolgadus: Sámástit
@@ -32,7 +32,7 @@ Lågå aj: Mij aktan sámástip
 Rádnastallamprosjækta
 
 rádnastallama, suohtastallamij ja ávvudallamij baktu sámegielak arena gånnå máná ja nuora aktan hárjjáni sámástit buolvaj gaskan
-oadtjot sámegiela adnemav ålgos institusjåvnåjs ja ásadit dádjadusáv dåhkki má akta ber gånnå sámástit
+oadtjot sámegiela adnemav ålgos¢(vowlat,o-u|ålgus) institusjåvnåjs ja ásadit dádjadusáv dåhkki má akta ber gånnå sámástit
 la julevsáme skåvllåmánájda gejn la sámegiella (vuostasj giellan)¢(cmp,X-1|vuostasjgiellan) skåvlån
 mánájda vuostasj klássas giehttjit klássaj
 jådeduvvá gålmmå julevsámegielak nuorajs
@@ -41,7 +41,7 @@ gálldo:tysfjordasvo.no
 
 Æjvvalimiehkedijn la akta njuolgadus.
 
-– Dájn æjvvalimijn la dåssju akta njuolgadus ja dat la sámástit. Dát la fálaldahka mánájda, sij bessi ietja válljit jus sihti fáron jali jus e sidá fáron. Ja gå mánná iesj bæssá válljit, “já dáv de mån sidáv”, de sån juo diehtá vuordeduvvá sujsta sámegiella jus galggá oassálasstet. Ja navti mij jåksåp nubbe nuppev, máná ja midja nuora, subtsas Kintel.
+– Dájn æjvvalimijn la dåssju akta njuolgadus ja dat la sámástit. Dát la fálaldahka mánájda, sij bessi ietja válljit jus sihti fáron jali jus e sidá fáron. Ja gå mánná iesj bæssá válljit, “já¥(redun|0) dáv de mån sidáv”, de sån juo diehtá vuordeduvvá sujsta sámegiella jus galggá oassálasstet. Ja navti mij jåksåp nubbe nuppev, máná ja midja nuora, subtsas Kintel.
 
 Fálaldahka la skåvllåmánájda gejn la sámegiella (vuostasj giellan)¢(cmp,X-1|vuostasjgiellan) vuostasj klássas giehttjit klássaj, ja la akti vahkkuj.
 

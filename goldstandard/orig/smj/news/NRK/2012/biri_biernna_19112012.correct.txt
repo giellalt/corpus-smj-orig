@@ -8,9 +8,9 @@ Biri Biernna la ådå julevsámegielak mánájTV-rájddo$(cmp,hyph|mánáj-TV-r�
 
 Harrieth Aira harrieth.aira@nrk.no
 
-– Dát la animasjåvnnårájddo bierna birra, Biri Biernna, subtsas Jon Isak Lyngman Gælok, NRK Sáme mánájTV-bargge$(cmp,hyph|mánáj-TV-bargge), gut la sån guhti la hiebadahttám dáv ådå TV-rájdov julevsámegiellaj.
+– Dát la animasjåvnnårájddo bierna birra, Biri Biernna, subtsas Jon Isak Lyngman Gælok, NRK Sáme mánájTV-bargge$(cmp,1-hyph|mánáj-TV-bargge), gut la sån guhti la hiebadahttám dáv ådå TV-rájdov julevsámegiellaj.
 
-Biri Biernna la biernna mij dal duov-dáv hihtti rádnajnisáj$(mix|rádnajis) siegen.
+Biri Biernna la biernna mij dal duov-dáv hihtti€(foreign|huomaj) rádnajnisáj$(mix|rádnajis) siegen.
 
 
 Jon Isak Lyngman Gælok la hiebadahttám julevsábmáj.
@@ -22,7 +22,7 @@ Vuostasj animasjåvnnårájddo julevsámegiellaj
 
 Dát animasjåvnnårájddo la dat vuostasj animasjåvnnårájddo julevsámegiellaj mij Mánáj-TV:an$(suf|Mánáj-TV:n) vuoseduvvá.
 
-– De€(Dat) la vuostasj animasjåvnnårájddo mij (NRK Sáme:n)$(suf|NRK Sámen) la julevsámegiellaj dagáduvvam. (NRK Sáme:n)$(suf|NRK Sámen) la ulmme gåjt galggi vihtta prográmma julevsámegiellaj jáhkáj$(vowc,á-a|jahkáj) dagáduvvat. Ja mij jáhkkep animasjåvnnå la dat majna mij buoremusát oadtjop julevsáme mánájt gehtjatjit mánájTV:av$(suf|mánáj-TV:v), javllá NRK Sáme mánájTV-dåjmadusá$(suf|mánáj-TV-dåjmadusá) jådediddje, Norleif Krokmo.
+– De€(w|Dat) la vuostasj animasjåvnnårájddo mij (NRK Sáme:n)$(suf|NRK Sámen) la julevsámegiellaj dagáduvvam. (NRK Sáme:n)$(suf|NRK Sámen) la ulmme gåjt (galggi vihtta prográmma julevsámegiellaj jáhkáj$(vowc,á-a|jahkáj) dagáduvvat)¥(wo|vihtta prográmma julevsámegiellaj galggi jahkáj dagáduvvat). Ja mij jáhkkep animasjåvnnå la dat majna mij buoremusát oadtjop julevsáme mánájt gehtjatjit mánájTV:av$(suf|mánáj-TV:v), javllá NRK Sáme mánájTV-dåjmadusá$(suf|mánáj-TV-dåjmadusá) jådediddje, Norleif Krokmo.
 
 Ja uddni de vuojnnu vuostasj bále (NRK Super:in)$(suf|NRK Superin) kl. 17.00.
 
