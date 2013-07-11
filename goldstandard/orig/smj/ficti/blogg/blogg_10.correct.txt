@@ -24,7 +24,7 @@ Ja javlav, (dán iehkedin)£(kongr|dán iehkeda) la ihkeva fávrro
 
 Vuolgijma fæsstaj
 (Ja gájka munnuj gæhttjin
-Dáv fávros næjtsov)£(case|ja gájka munnuj gæhttjin dan fárvos næjttsuj)
+Dáv fávros næjtsov)£(case|ja gájka munnuj gæhttjin dan fárvos$(typo|fávros) næjttsuj)
 Guhti muv siegen la
 Ja vat mujsta gatját
 Ij la så hávsske
@@ -49,7 +49,7 @@ Udnásj biktasa
 
 Iektu lij vuostasj rássjodálkke dánna Gierunin, ja uddni lij vielggat ednamin gå smarediv.
 Gå lij nav (nievrre dálkke)¥(pred-attr|nievres dálkke) vierttijiv rássjojáhkkaj ja buorre båvsåjda tjágŋat.
-Dagáv dagu kjendisbloggára$(vowc,o-oa|kjendisbloaggára) ja biejav gåvåv udnásjbiejve (outfit'as$(x|outfitas))∞(eng), hehe.
+Dagáv dagu kjendisbloggára$(vowc,o-oa|kjendisbloaggára) ja biejav gåvåv udnásjbiejve (outfit'as$(x|outfitas))∞(eng), hehe∞(nor).
 
 
 (Muv (ådå rássjojáhkka Haglöfs)¥(wo|ådå Haglöfs rássjojáhkka), ja ådå Climate båvsåjt)£(case|Muv ådå ådå Haglöfs rássjojáhkka ja Climate båvså) aj Haglöfsas ja stiebila Vikingis ;)
@@ -66,11 +66,11 @@ Skåvllåbiejvve
 Tjåhkkåhav tijman skåvlån. Elektronihkka le dálla ja mij oahppap Transiståvrå birra. Mån vádtsáv¢(conc,dts-tts|váttsáv) teknihkalasj linjav aktan freestyle∞(eng)/sabegijtjerastallam. Vádtsáv¢(conc,dts-tts|váttsáv) nuppát jagev, ja ruvva le dát skåvllåjahke vássám!
 Iv mån diede majt sidáv joarkkaskåvlå maŋŋela dahkat, valla niegadiv dán ijá ahte subtsastiv sihtiv polijsan¢(conc,js-jss,ine-ess|polijssan) barggat boahtteájge. Na avtav diŋgav gåjt diedáv, ja dat la at€(foreign,nob|ahte) sidáv praktihkalasj bargojn barggat. Munji ij lijssi dåssju ståvlån tjåhkkåhit datåvrå$(mix|dáhtá) åvdån (juska tjåhkkåhav vehi ålov dábálattjat ;)) vaj¥(w|jali) låhkåt ja tjállet ålles biejvijt. Ulmusj máj dassta vájbbá.
 
-(Lunsjaj$(conc,nsj-nssj|Lunssjaj))€(w,swe|Biejvvebiebbmuj) ávvudaláv. Buoremus dánna Svierigin skåvlåv vádtset le ahte (oadtjop málesbiebmov (lunsjaj$(conc,nsj-nssj|lunssjaj))€(w|nob|biejvvebiebbmuj)£(case|oadtjop málesbiebmov biejvvebiebbmon) juohkka biejve!.Vuoj man njálga biebmojt oadtjop!
+(Lunsjaj$(conc,nsj-nssj|Lunssjaj))€(w,swe|Biejvvebiebbmuj) ávvudaláv. Buoremus dánna Svierigin skåvlåv vádtset le ahte (oadtjop málesbiebmov (lunsjaj$(conc,nsj-nssj|lunssjaj))€(foreign|biejvvebiebbmuj)£(case|oadtjop málesbiebmov biejvvebiebbmon) juohkka biejve!.Vuoj man njálga biebmojt oadtjop!
 (Guláv moaddása e)£(x|Guláv moattes e) (lijkku biebmojt)£(case|lijkku biebbmuj) majt oadtju skåvlån. Divna duokkár suohkan-barggamsaje¢(mix|suohkanbarggosajijn) oadtju sæmmilágásj biebmojt. Le dakkár biebbmo majt dåssju lieggisti ja bårrå¥(de bårrå). Muv skåvllå la priváhtaskåvllå, ja dánna l aj álmmukallaskåvllå (gijtto Marita bágo åvdås). Dánna oadtjop ållu sijddadagádum biebmojt, ja gåjt€(w|nav) gåktu mån lav dádjadam le miján ihkeva buorre biebbmo jus (ietjá skåvlåjda buohtastahttep)£(case|jus ietjá skåvlåj buohtastahttep).
 Uddni la dakkár raggmunk∞(swe) ja buojdde siegen€(w|guorraj). Raggmunk∞(swe) la beruna ja slåppå segadum ja basedum.
 
-Tijmma le lunsja rádjáj, valla dálla vierttiv dahkamusáj barggat transiståvrå birra!
+Tijmma le lunsja€(w|biejvvebiebmo) rádjáj, valla dálla vierttiv dahkamusáj barggat transiståvrå birra!
 
 Hivás 
 
