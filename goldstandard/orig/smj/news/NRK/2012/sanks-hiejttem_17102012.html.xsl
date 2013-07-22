@@ -21,17 +21,17 @@
 <xsl:variable name="title" select="' SANKS-hiejttem la vájvve'"/>
 <xsl:variable name="author1_fn" select="'Harriet'"/>
 <xsl:variable name="author1_ln" select="'Aira'"/>
-<xsl:variable name="author1_gender" select="'female'"/>
+<xsl:variable name="author1_gender" select="'f'"/>
 <xsl:variable name="author1_nat" select="'nor'"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author2_fn" select="'Máret Eli'"/>
 <xsl:variable name="author2_ln" select="'Buljo'"/>
-<xsl:variable name="author2_gender" select="'female'"/>
+<xsl:variable name="author2_gender" select="'f'"/>
 <xsl:variable name="author2_nat" select="''"/>
 <xsl:variable name="author2_born" select="''"/>
 <xsl:variable name="author3_fn" select="'Kenneth'"/>
 <xsl:variable name="author3_ln" select="'Hætta'"/>
-<xsl:variable name="author3_gender" select="'male'"/>
+<xsl:variable name="author3_gender" select="'m'"/>
 <xsl:variable name="author3_nat" select="''"/>
 <xsl:variable name="author3_born" select="''"/>
 <xsl:variable name="author4_fn" select="''"/>

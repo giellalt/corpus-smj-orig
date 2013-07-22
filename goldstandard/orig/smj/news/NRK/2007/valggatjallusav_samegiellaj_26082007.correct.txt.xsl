@@ -21,7 +21,7 @@
 <xsl:variable name="title" select="'Válggatjállusav sámegiellaj'"/>
 <xsl:variable name="author1_fn" select="'Eilif'"/>
 <xsl:variable name="author1_ln" select="'Aslaksen'"/>
-<xsl:variable name="author1_gender" select="'male'"/>
+<xsl:variable name="author1_gender" select="'m'"/>
 <xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author2_fn" select="''"/>
