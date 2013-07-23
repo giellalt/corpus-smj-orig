@@ -18,7 +18,7 @@
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://www.nord-salten.no/no/nyheter/samisk/duodjedoarjja-la-dassju-russjpen.4138'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'Duodjedoarjja la dåssju "russjpen"'"/>
+<xsl:variable name="title" select="'Duodjedoarjja la dåssju &#34;russjpen&#34;'"/>
 <xsl:variable name="author1_fn" select="'Sander'"/>
 <xsl:variable name="author1_ln" select="'Andersen'"/>
 <xsl:variable name="author1_gender" select="'m'"/>
