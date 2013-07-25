@@ -14,7 +14,7 @@ Måj Per Jonasijn
 Ráddnam :)
 
 
-Iehkedis kloahkka gietjan le sámeteahter$(vowc,a-á|sámeteáhter); (byfinnar, lappjävlar och annat pack)∞(swe). Gullam lav ahte le riek buorre ja suohtas teahter$(vowc,a-á|teáhter), ávvudaláv dallutji$(w|dassátjij)!
+Iehkedis kloahkka gietjan le sámeteahter$(vowc,a-á|sámeteáhter); (byfinnar, lappjävlar och annat pack)∞(swe). Gullam lav ahte le riek buorre ja suohtas teahter$orig/smj/ficti/blogg/blogg_8.correct.txt(vowc,a-á|teáhter), ávvudaláv dallutji$(w|dassátjij)!
 Dan maŋŋela le tjiektjamhárjjidallam. Gieron&(vowlat,o-u|Gierun) Sáme Siebrre li stiellim hárjjidallamijt guokti vahkkuj. Dijstagájt le sisbandy ja duorastagájt le bállotjiektjam.
 
 
@@ -49,7 +49,7 @@ Bårråmin
 
 Iehkedis måj iednijn lin sjnjissjkomav suohppum. Vuostatjin buoragit manáj, valla maŋŋela, gå  mån galggiv sjnjisskogoahtet$(conc,ssk-ssjk|sjnjissjkogoahtet) (iv riekta€(w|rat) diede majt dáhpáduváj)£(case|iv rat diede mij dáhpáduváj). Idet hæhttujin joarkket. Mujna l gåjt barggo muhtem vahko ;)
 
-Buorre idja! 
+Buorre idja!
 
 
 Buoris uddni
