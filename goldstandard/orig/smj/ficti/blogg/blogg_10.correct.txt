@@ -2,7 +2,7 @@ Ihkeva fávrro
 Buorre iehket
 Tjåhkkåhav sijdan ja usjudaláv..
 Usjudaláv duov dáv, valla jur dálla usjudaláv balvaj birra. Gudnabalvajt.
-(Mån ja munnu ráddnama Josefijnna ja Sanne)£(x|Mån ja muv rádna Josefijnna ja Sanne) lip plánim ålggorijkajda mannat. Lip juo girddebilehtajt Stockholmaj rávvim boahtte mánnodagáj¢(fin,j-0||mánnodagá). Dassta (la plána)£(kongr|la pládna) dåssju mannat åvtåjn girddijn juosik: Spániaj, Tyrkiaj vaj€(w|jali) ietjá lándaj¢(conc,nd-nnd|lánndaj) gånnå máhttep rusjkudallat!
+(Mån ja munnu ráddnama Josefijnna ja Sanne)£(x|Mån ja muv rádna Josefijnna ja Sanne) lip plánim ålggorijkajda mannat. Lip juo girddebilehtajt Stockholmaj rávvim boahtte mánnodagáj¢(fin,j-0|mánnodagá). Dassta (la plána)£(kongr|la pládna) dåssju mannat åvtåjn girddijn juosik: Spániaj, Tyrkiaj vaj€(w|jali) ietjá lándaj¢(conc,nd-nnd|lánndaj) gånnå máhttep rusjkudallat!
 Soajttá ij huoman sjatta. Islándan la vulkanutbrudd∞(nob), ja ihkap (de e girde háleda)¥(wo|de girde e háleda) . (Midja lip riek juolodis)¥(attr-pred|Midja lip riek juolodime) jus€(w|vájbi) ep besa mannat. Gåk mij lip ávvudallam dasi! Valla vuojnnet jus bessap..
 Åvddåla lav dåssju Danmárkon, Frankrijkan (Álpajn) ja Belgian¥(Missing|Belgian mannam). Ja diehttelis¥(missing|diehttelis lav) aj Svierigin, Vuonan ja Suoman årrum.
 Ietján (ij nav ålov€(w|vuojga) dáhpáduvá)£(case|ij nav vuojga dáhpáduvá). Mujna li ihkeva€(w|sieldes) ållo skåvlåbargo åvddål gå vuolgáv, ja vierttiv ber barggagoahtet..
@@ -23,8 +23,7 @@ Iv la så fávrro
 Ja javlav, (dán iehkedin)£(kongr|dán iehkeda) la ihkeva fávrro
 
 Vuolgijma fæsstaj
-(Ja gájka munnuj gæhttjin
-Dáv fávros næjtsov)£(case|ja gájka munnuj gæhttjin dan fárvos$(typo|fávros) næjttsuj)
+(Ja gájka munnuj gæhttjin Dáv fávros næjtsov)£(case|ja gájka munnuj gæhttjin dan fávros næjttsuj)
 Guhti muv siegen la
 Ja vat mujsta gatját
 Ij la så hávsske
