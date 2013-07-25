@@ -34,7 +34,7 @@ Majt aná dán birra?
 Tjugu
 Mån iv la álu€(w|agev) lijkkum tjuguv$(cap;case,acc-ill|Tjuguj), valla dalla$(vowc,a-á|dálla) sån la væráld$(vowm,0-a|værálda) buoremus bena. Okei, ij álu€(w|agev) de valla ienemusat$(vowm,a-á|ienemusát). Sån la jus riekta javlla¢(conc,vll-vl|javla), (søt)∞(nob) aj!
 
-Avta biejve gå mån tjuodtjov¢(vowlat,o-u|tjuodtjuv) gæhtjamin$(conc,htj-httj|gæhttjamin ålgus gievkanvinddegis$(conc,ndd-nnd|gievkanvinndegis), Tjugu goarjjoj¢(conc,rjj-rj|goarjoj) ráddnágoade gáhttu¢(vowlat,u-o|gáhtto) goaran$(vowc,oa-uo|guoran), rásen. (Hehe)∞(nor) dat lij suohtas vuojnno, hæhttujiv gåjt tjajmástit$(vowlat,á-a|tjajmastit).
+Avta biejve gå mån tjuodtjov¢(vowlat,o-u|tjuodtjuv) gæhtjamin$(conc,htj-httj|gæhttjamin) ålgus gievkanvinddegis$(conc,ndd-nnd|gievkanvinndegis), Tjugu goarjjoj¢(conc,rjj-rj|goarjoj) ráddnágoade gáhttu¢(vowlat,u-o|gáhtto) goaran$(vowc,oa-uo|guoran), rásen. (Hehe)∞(nor) dat lij suohtas vuojnno, hæhttujiv gåjt tjajmástit$(vowlat,á-a|tjajmastit).
 
 tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 11:52
 
