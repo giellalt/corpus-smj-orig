@@ -8,7 +8,7 @@ Uddni (dijstagá) manájma Narvijkaj$(Narvijkkaj) bijlav viettjatjit. PM la ruop
 Bådijma dieki$(vowlat,i-0|diek) Stuorgæddáj áhtje ja Inger-Lise lusi biel vidá bájken. Buorre (sunnu vuojnnet)£(case|sunnuv vuojnnet).
 Idet vas vaddin oarjás, Snåsaj. Suohtas¥(missing|Suohtas la) manon liehket. 
 
-Dálla vierttijin oaddátjit€(der,sup-inf|oaddát) (navti ahte)€(w|váj) nahkin árrat idedis smaredit.
+Dálla vierttijin oaddátjit€(infl,sup-inf|oaddát) (navti ahte)€(w|váj) nahkin árrat idedis smaredit.
 
 Buorre idja!
 

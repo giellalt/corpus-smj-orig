@@ -1,5 +1,5 @@
 viehkam
-(Heej)€(swe) vas! Nike,Craft ja Adidas adni riek ålov majt vuobbdi$(conc,bbd-bdd|vuobddi) ja ållo le nav€(w|huj) tjábbe jus dåhkki nav javllat. Muv mielas siján li nav buorre bájnokombinasjåvvnå$(cmp,gen-nom;conc,vvn-vnn|bájnnokombinasjåvnnå), ja li riek fijnna¢(conc,jnn-jn|fijna) bájno aj. Jus lidjiv máhttet de lulluv$(conc,ll-l|luluv) dimnajt sijás oasstet. Dimna skoava$(vowc,oa-uo|skuova) ja biktasa loaggi muv hárjjidallat€(der,inf-sup|hárjjidalátjit) ienebu€(w,adj,adv|ienebut). Muv mielas dav¥0  galggá adnet biktasit¢(fin,t-jt|biktasijt) majt dav¥0  IESJ adná (le fijnnuga$(conc,jnn-jn|fijnuga))£(kongr|li fijnuga) ja ahte soabbdtso$(conc,bbdtso,pts|soaptso)(gåk tjáleduvva$(vowlat,a-á|tjáleduvvá)?) daj sinna. (Dat dáhká$(vowc,á-a|dahká) vaj¥(redun|0) hárjjidallam suohtasup$(conc,ht-htt|suohttasup) ja nágin bále álgep$(conc,lg-lkk|álkkep))£(case|Dat dahká hárjjidallamav suohttasabbon ja nágin bále álkkebun)) -
+(Heej)€(swe) vas! Nike,Craft ja Adidas adni riek ålov majt vuobbdi$(conc,bbd-bdd|vuobddi) ja ållo le nav€(w|huj) tjábbe jus dåhkki nav javllat. Muv mielas siján li nav buorre bájnokombinasjåvvnå$(cmp,gen-nom;conc,vvn-vnn|bájnnokombinasjåvnnå), ja li riek fijnna¢(conc,jnn-jn|fijna) bájno aj. Jus lidjiv máhttet de lulluv$(conc,ll-l|luluv) dimnajt sijás oasstet. Dimna skoava$(vowc,oa-uo|skuova) ja biktasa loaggi muv hárjjidallat€(infl,inf-sup|hárjjidalátjit) ienebu€(w,adj,adv|ienebut). Muv mielas dav¥0  galggá adnet biktasit¢(fin,t-jt|biktasijt) majt dav¥0  IESJ adná (le fijnnuga$(conc,jnn-jn|fijnuga))£(kongr|li fijnuga) ja ahte soabbdtso$(conc,bbdtso,pts|soaptso)(gåk tjáleduvva$(vowlat,a-á|tjáleduvvá)?) daj sinna. (Dat dáhká$(vowc,á-a|dahká) vaj¥(redun|0) hárjjidallam suohtasup$(conc,ht-htt|suohttasup) ja nágin bále álgep$(conc,lg-lkk|álkkep))£(case|Dat dahká hárjjidallamav suohttasabbon ja nágin bále álkkebun)) -
 (Dála l unnán arvesmahtte$(vowlat,e-u|arvusmahtte))£(x|Dála l unnán arvusmahttem) (Nikeas ja Adidasis sortimentas)£(case|Nikea ja Adidasa sortimentas:
 
 Ja sjattáj$(vowlat,á-a|sjattaj) inemus$(typo|ienemus) skoava$(vowc,oa-uo|skuova) danen gå nav (lijkkuv Nike skoavajt$(vowc,oa-uo|skuovajt))£(case|lijkkuv Nike skuovajda). (Lidjin riek fijnna)£(x|Lidjin riek fijnuga) JA vuohkkasa$(conc,hkk-hk|vuohkasa)!
@@ -30,7 +30,7 @@ tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 09:18
 Majt aná dán birra?
 
 GIJTTO
-(Hej)∞(swe) vas! Dálla lav ruopptot Ruoktos vas. Ja idet manáv Gierunij gilppostit¢(conc,lpp-lp;vowlat,o-u|gilpustit)€(der,inf-sup|gilpustittjat).
+(Hej)∞(swe) vas! Dálla lav ruopptot Ruoktos vas. Ja idet manáv Gierunij gilppostit¢(conc,lpp-lp;vowlat,o-u|gilpustit)€(infl,inf-sup|gilpustittjat).
 -
 Gå lidjiv Ruokton lij StoorStålka aj danna ja mån sjaddiv (sponsa)∞(nor) sijas$vowlat,a-á|sijás). (Shit)∞(eng) man (kult)∞(nor)! Oaddtjuv$(conc,ddtj-dtj|oadtjuv) snjisskumav&(vowlat,u-o|snjissjkomav) ja gehpav$(conc,hp-b|gebav). Riek buorre ja mån lav aj ájádallam guhkev vaj€(w|jus) oasstet galgav. Buorre l máj gå iv la oasstám dán rádjaj$(vowlat,a-á|rádjáj) de.
 
