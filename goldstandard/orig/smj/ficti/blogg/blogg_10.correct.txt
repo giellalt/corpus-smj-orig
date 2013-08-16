@@ -48,7 +48,7 @@ Udnásj biktasa
 
 Iektu lij vuostasj rássjodálkke dánna Gierunin, ja uddni lij vielggat ednamin gå smarediv.
 Gå lij nav (nievrre dálkke)¥(pred-attr|nievres dálkke) vierttijiv rássjojáhkkaj ja buorre båvsåjda tjágŋat.
-Dagáv dagu kjendisbloggára$(vowc,o-oa|kjendisbloaggára) ja biejav gåvåv udnásjbiejve (outfit'as$(x|outfitas))∞(eng), hehe∞(nor).
+Dagáv dagu kjendisbloggára$(vowc,o-oa|kjendisbloaggára) ja biejav gåvåv udnásjbiejve (outfit'as$(x|outfitas))∞(eng), hehe∞(sla).
 
 
 (Muv (ådå rássjojáhkka Haglöfs)¥(wo|ådå Haglöfs rássjojáhkka), ja ådå Climate båvsåjt)£(case|Muv ådå ådå Haglöfs rássjojáhkka ja Climate båvså) aj Haglöfsas ja stiebila Vikingis ;)
