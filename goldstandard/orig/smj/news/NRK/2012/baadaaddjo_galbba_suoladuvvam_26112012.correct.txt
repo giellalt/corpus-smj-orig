@@ -9,7 +9,7 @@ Juoga vádnun rijkkarahten gå Bådåddjuj la boahtemin. (Juo vat la)¥(wo|Juo l
 
 (Sådnåbiejven oattjoj åssudakdirektørra)£(case,ine-gen|Sådnåbiejve oattjoj åssudakdirektørra) Stáhta rahtedåjmadagán, Kjell Skjerve, diedov jut Bådåddjo-galbba lij suoláduvvam. Skjerve jáhkká sån jali sij gudi li galbav suoládam li dáv dahkam suohttasa diehti. Valla iehtja ij de dási galla tjajma.
 
-– Hådjånav gå vuojnáv mijá galba biejsteduvvi. Miján li ietjá ássje majt lulup$(fin,p-jma|lulujma) ruhtadit, valla lip oahppam vierttip rudájt vuorodit dákkir bahádagojda, javllá Skjerve (NRK.no:aj)$(suf|NRK.no:j).
+– Hådjånav gå vuojnáv mijá galba biejsteduvvi. Miján li ietjá ássje majt lulup$(infl,fin,p-jma|lulujma) ruhtadit, valla lip oahppam vierttip rudájt vuorodit dákkir bahádagojda, javllá Skjerve (NRK.no:aj)$(suf|NRK.no:j).
 
 Lågå: (Vegvesenet ber tyven melde seg)∞(nor)
 Ij la vuostasj bále gå gáhtu

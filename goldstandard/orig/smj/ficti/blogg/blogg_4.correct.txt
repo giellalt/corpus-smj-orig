@@ -26,7 +26,7 @@ Majt aná dán birra?
 ájggá
 Buoris vas!  (Åhåj)∞(sla) gåk ájgge gållå. Lij juo vargga vihtta máno dan rájes gå máŋemus$(ascii;vowc,á-a|maŋemus) dánna tjálliv. Iv la adnám tjállemhálov, valla de hähkkat iektu iehkedis de huomajiv$(concm,j-h|huomahiv) ahte sihtuv$(vowlat|sihtiv) sámegiellaj vas tjállet. Ja dåbbdiv$(conc,bbd-bdd|dåbddiv) ahte dárbahav hárjjanit$(vowlat,a-á|hárjjánit) tjállet sabmáj$(vowc,a-á|sábmáj) vas, dåbdåv ahte lav vajálduhttam$(vowlat,a-á|vajálduhttám) unnán. Sadnes$(vowc,a-á|Sádnes) la maj¢(vowc,a-á|máj) dat aj, valla dálla galgav vas buorranit$(vowlat,a-á|buorránit), ja ájn buorebut€(w,adv-adj|buorep) sjaddat.
 
-Dálla lav gåjt joarggaskåvllåj$(conc,rgg-rkk|joarkkaskåvllåj) alggam$(vowc,a-á;vowlat,a-á|álggám). Vadtsáv$(vowc,a-á;conc,dts-tts|váttsáv) samhällsprográmmav€(foreign,swe|sebrudakprográmmav) ja tjuojggamlinjav aktan. Suobtsov$(vowc,uo-oa;conc,bts-pts|Soaptsov) degu guolle tjátjen. Lav dåssju vadtsám$(vowc,a-á[vádtsám) danna gålmmå máno valla la riek suohtas, ájn gåjt. Le riek suohtas gå oadttju$(conc,dttj-dtj|oadtju) hárjjidallat skåvllåájgen ja (ietjadij(conc,tj-htj;vowlat,a-á|iehtjádij))¥(iehtjádij siegen) gudi aj lijkkuji sämmi sportaj€(foreign,swe|valástallamij). Ja ájn buorep la ahte oadtjov$(conc,dtj-ttj|oattjov) planáv$(vowc,a-á;vowlat,á-a|plánav) dáhkat$(vowc,á-a|dahkat) hárjjidallijn. Aktan måj hárjjidallijn planerijinj€(foreign,swe|gárvedin) majt,gåk ja goassa galgav hárjjidallat. Dálla dåbdåv ahte muv sportan€(foreign,swe|valástallamijn) bargav ávojn vas! Diedon dimna ulmutja adnin dakkár ”vuolus-mánojt$(cmp,hyph-0|vuolusmánojt)” viessomin, ja buorre l máj dat ietjan¢(vowlat,a-á|ietján) ij suohtas vas sjatta. Valla åvddål¥(missing|åvddål gå) (alggiv$(vowc,a-á|álggiv) tjuojggamlinjav)£(case|álggiv tjuojggamlinnjaj) de dåbddiv ahte lij gássjel ållit muv€(w,pers-refl|ietjam) ulmmáj ja niehkkuj$(conc,hkk-hk|niehkuj), supertjuojggen sjáddat$(vowc,á-a|sjaddat). Valla dálla dåbdåv ahte jus sidáv de máhtáv.
+Dálla lav gåjt joarggaskåvllåj$(conc,rgg-rkk|joarkkaskåvllåj) alggam$(vowc,a-á;vowlat,a-á|álggám). Vadtsáv$(vowc,a-á;conc,dts-tts|váttsáv) samhällsprográmmav€(foreign,swe|sebrudakprográmmav) ja tjuojggamlinjav aktan. Suobtsov$(vowc,uo-oa;conc,bts-pts|Soaptsov) degu guolle tjátjen. Lav dåssju vadtsám$(vowc,a-á|vádtsám) danna gålmmå máno valla la riek suohtas, ájn gåjt. Le riek suohtas gå oadttju$(conc,dttj-dtj|oadtju) hárjjidallat skåvllåájgen ja (ietjadij(conc,tj-htj;vowlat,a-á|iehtjádij))¥(iehtjádij siegen) gudi aj lijkkuji sämmi sportaj€(foreign,swe|valástallamij). Ja ájn buorep la ahte oadtjov$(conc,dtj-ttj|oattjov) planáv$(vowc,a-á;vowlat,á-a|plánav) dáhkat$(vowc,á-a|dahkat) hárjjidallijn. Aktan måj hárjjidallijn planerijinj€(foreign,swe|gárvedin) majt,gåk ja goassa galgav hárjjidallat. Dálla dåbdåv ahte muv sportan€(foreign,swe|valástallamijn) bargav ávojn vas! Diedon dimna ulmutja adnin dakkár ”vuolus-mánojt$(cmp,hyph-0|vuolusmánojt)” viessomin, ja buorre l máj dat ietjan¢(vowlat,a-á|ietján) ij suohtas vas sjatta. Valla åvddål¥(missing|åvddål gå) (alggiv$(vowc,a-á|álggiv) tjuojggamlinjav)£(case|álggiv tjuojggamlinnjaj) de dåbddiv ahte lij gássjel ållit muv€(w,pers-refl|ietjam) ulmmáj ja niehkkuj$(conc,hkk-hk|niehkuj), supertjuojggen sjáddat$(vowc,á-a|sjaddat). Valla dálla dåbdåv ahte jus sidáv de máhtáv.
 
 (Äsj)∞(swe), iv dessti$(conc,sst-st|desti) vissja$(conc,ssj-sj;vowlat,a-á|visjá) tjállet dán bále! Boadáv ruopptot ienep tjállusij boahtte vahko.
 
@@ -93,7 +93,7 @@ tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 07:32
 
 Majt aná dán birra?
 GIESSE!
-Buorre (beaivi)∞(sme), gåktu nuortagielaga$(x|nuortaga) javlli :)
+Buorre (beaivi)∞(sme), gåktu (nuortagielaga$(mix|nuorttasámegielaga))€(w|nuortaga) javlli :)
 
 Dat la juo mannam guokta máno dan rájes gå mangemus$(ascii|maŋemus) tjálliv dánna. Iv la riek astam$(conc,st-sst|asstam) jali vissjam. Jáhkáv sjaddá binna$(vowlat,a-á|binná) tjálosj€(w|tjállem) mangebut$(ascii|maŋebut) giesen aj, vierttibihtit vuorddet tjaktjáj$(vowlat,á-a|tjaktjaj). Giesse la gåjt lähkám hávsske ja dárbulasj dán rádjáj. Valla muv mielas mij lip adnám ilá binna$(vowlat,a-á|binná) biejvev, (mån ij)£(kongr|mån iv)¥(missing|la) solim€(foreign,swe|bájtádallam) ienep gå gålmmi-njiellji$(coninit,nj-n|gålmmi-niellji). (Mån lav Rijtsemin lähkám njuovvam)£(x|Mån lav Rijtsemin læhkám njuovvamin) guolijt ja Måsken ja Ájluovtan årrum (moadda vahkko)£(kongr|moadda vahko), dåppe lav tjiektam$(conc,kt-ktj|tjiektjam) bállov, vádtsam$(vowlat,a-á|vádtsám) várijt, ijájt gåhtsåm ja dåssju divtasvuonagij hávsskudallam.
 
@@ -106,7 +106,7 @@ tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 02:55
 Majt aná dán birra?
 
 ájllek idedisbiebbmo
-Buorre idet, jali buorre gasskabiejvve! Uddni mån smarediv juo avtsen idedis. Lij vuogas ja dárbulasj oadet unnán€(w|vehik) guhkebu€(w,adj-adv|guhkebut). Lidjiv riek nälggám ja álggiv idedisbiebmojn dalága. Bieddjiv$(conc,ssj-sj|Biedjiv) lájbijt vuodnáj, vuostjajn$(vowlat,a-á|vuostájn), skinckajn€(foreign,swe|tjårbielijn), tomátpureajn$(mix|tomáhttapureajn) ja oreganojn$(vowlat,a-á|oregánojn). Sjattáj$(vowlat,á-a|sjattaj) riek njálgge. Juhkiv mielkkev$(conc,lkk-lk|mielkev) dan guorraj ja dahkiv aj fruktsállatav$(mix|sjattossaláhtav) tjáhtjemelonajn$(vowc,o-å;conc,n-vn;vowlat,a-å|tjáhtjemelåvnåjn), clementijnaj$(coninit,c-k|klementijnajn) ja ähppelij$(vowlat,e-a|ähppalij).
+Buorre idet, jali buorre gasskabiejvve! Uddni mån smarediv juo avtsen idedis. Lij vuogas ja dárbulasj oadet unnán€(w|vehik) guhkebu€(w,adj-adv|guhkebut). Lidjiv riek nälggám ja álggiv idedisbiebmojn dalága. Bieddjiv$(conc,ssj-sj|Biedjiv) lájbijt vuodnáj, vuostjajn$(vowlat,a-á|vuostájn), skinckajn€(foreign,swe|tjårbielijn), tomátpureajn$(mix|tomáhttapureajn) ja oreganojn$(vowlat,a-á|oregánojn). Sjattáj$(vowlat,á-a|sjattaj) riek njálgge. Juhkiv mielkkev$(conc,lkk-lk|mielkev) dan guorraj ja dahkiv aj fruktsállatav€(foreign|sjattossaláhtav) tjáhtjemelonajn$(vowc,o-å;conc,n-vn;vowlat,a-å|tjáhtjemelåvnåjn), clementijnaj$(coninit,c-k|klementijnajn) ja ähppelij$(vowlat,e-a|ähppalij).
 
 
 tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 04:54
@@ -175,8 +175,7 @@ Mån tjuojggamin Rijtsemij <3
 Dav¥0 viertti ietjasav$(infl|ietjas) gåvvit...(hehe)∞(sla)
 
 
-(Johanna viegaj ja viegaj, diehtebihtit lij hárjji-
-dallam$(cmp,hyhp-0|hárjjidallam))£(case,ill-ine|Johanna viegaj ja viegaj, diehtebihtit sujna lij hárjjidallam)...genja$(typo|gejna) iv diede. Valla viegaj sån gåjt :)
+(Johanna viegaj ja viegaj, diehtebihtit lij hárjji<hyph/>dallam)£(case,ill-ine|Johanna viegaj ja viegaj, diehtebihtit sujna lij hárjjidallam)...genja$(typo|gejna) iv diede. Valla viegaj sån gåjt :)
 
 
 
@@ -199,7 +198,7 @@ Majt aná dán birra?
 (guolmat¢(vowc,uo-oa;vowlat,a-á|goalmát) biejvve moarmesmánon)¥(wo|moarmesmáno goalmát biejvve)
 Buoris!
 
-Tjåhkkåhav muv€(w,pers-refl|ietjam) sengan$(ascii|seŋgan), dáhtá asken, ja gehtjav (Sápmi Sessions)∞(eng) prográmmav. Vajálduhttiv gähttjat gå sáddiduváj tv:an$(acro,cap|TV:an). Lav jur gähttjam gå Inga Juuso ja Markus Krunegård lávlov¢(infl|lávllagav) aktan dagájga. Muv mielas dat sjattaj riek buorre ja fijna lávlla. Sunnu jiena hiepin$(conc,p-hp[hiehpin) nav buoragit aktan. Jus ehpit le vuojnnám jali gullam dav de vierttibihtit gähttjat internehtan.
+Tjåhkkåhav muv€(w,pers-refl|ietjam) sengan$(ascii|seŋgan), dáhtá asken, ja gehtjav (Sápmi Sessions)∞(eng) prográmmav. Vajálduhttiv gähttjat gå sáddiduváj tv:an$(acro,cap|TV:an). Lav jur gähttjam gå Inga Juuso ja Markus Krunegård lávlov¢(infl|lávllagav) aktan dagájga. Muv mielas dat sjattaj riek buorre ja fijna lávlla. Sunnu jiena hiepin$(conc,p-hp|hiehpin) nav buoragit aktan. Jus ehpit le vuojnnám jali gullam dav de vierttibihtit gähttjat internehtan.
 
 
 
@@ -228,7 +227,7 @@ Majt aná dán birra?
 muv bässásj
 Buoris vas!
 
-Dálla l bässásj ja loahpe l¥0 vássám, ja (vahkko 17)¥(wo|17. vahkko) la jur alggám$(vowc,a-á|álggám). Muv loahpe le lähkám hávsske. Mánniv¢(vowc,á-a|Manniv) maj¢(vowc,a-á|máj) Guovddagäjnnuj ja danna suohtastalliv Marenijn dajt vuostasj biejvijt. Måj Marenijn årojma sämmi bále Råmsån ja Båddåjon$(coninit,dd-d;conc,j-dj|Bådådjon) gå lijma unna nejtsutja. Munji dat lij riek suohtas, oadtjuv vuojnnet ja studerit (dajt nuorta)€(w|nuortagij) gáptijt, ja gåk mån lav studerim dajt. Iejvvijiv aj ållo ådå ulmutjijt ja lidjiv Juhl´sav$(prop,suf|Juhlsav) guossidime.
+Dálla l bässásj ja loahpe l¥0 vássám, ja (vahkko 17)¥(wo|17. vahkko) la jur alggám$(vowc,a-á|álggám). Muv loahpe le lähkám hávsske. Mánniv¢(vowc,á-a|Manniv) maj¢(vowc,a-á|máj) Guovddagäjnnuj ja danna suohtastalliv Marenijn dajt vuostasj biejvijt. Måj Marenijn årojma sämmi bále Råmsån ja Båddåjon$(coninit,dd-d;conc,j-dj|Bådådjon) gå lijma unna nejtsutja. Munji dat lij riek suohtas, oadtjuv vuojnnet ja studerit (dajt nuorta)€(w|nuortagij) gáptijt, ja gåk mån lav studerim dajt. Iejvvijiv aj ållo ådå ulmutjijt ja lidjiv (Juhl´sav)$(prop,suf|Juhlsav) guossidime.
 
 Ållijma sijddaj mánnodagá, ja dijstagá mån ja muv vehka Ruoktoj$(vowlat,o-u|Ruoktuj) vuoddjájma. Ruokton lij riek hávsske ja vuogas. Mån lidjiv ienemusát muv unnaoappátjij¥(missing|unnaoappátjij siegen) , stågajma ålggon muohttagin ja tjuojgajma Stuorjulevin. Manniv vas sijddaj duorastagá danen de€(w|gå) muohtá ja suv boadnjásj€(w|boaddnje) ja áhkko ja áddja$(vowlat,a-á|áddjá) båhtin mijá lusi Bårjjåsij. Dat lij suohtas, lij hávsske lagámus fuolkev iejvvit vas. Mån dahkiv oreo-gáhkov$(cmp|oreogáhkov) ja dav lip bårråm desik någåj!
 

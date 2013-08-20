@@ -27,7 +27,7 @@ Buoris!
 
 Skåvllå l álggám ja tjaktja le boahtám. Buorre l dánna Gierunin, valla vasstes¢(conc,sst-st|vastes) dálkke le galla. Rássjot juohkka biejve, ja navti le læhkám gåjt guokta vahko juo.
  (Ålov le dáhpáduvvam dáv maŋemus mánov)£(case|Ållo l dáhpáduvvam dán maŋemus máno). Lav duonna dánna gålggåm. Guovddogæjnno$(vowlat,o-a|Guovddagæjnno) lij ihkeva suohtas! Jáhkáv lej buoremus ájllek (dán giesen)£(kongr|dán giese). Karen Monika ja Nils Morten lijga nav tjáhpuga€(w|tjáppe) aktan! (Ållo ulmutja lidjin)£(x|Ållo ulmusj lej), ja buorre¥0 sjålle.
-Heja maŋŋela vuolggiv Gierunij. SM’an$(suf|SM:n) lidjiv Bårjjåsin, ja¥(ja dan) maŋŋela Ieddne bådij. Måj lijma (vádtsemin várijn)£(case| vádtsemin várijt) Abiskuovven$(mix|Ábeskåvon), buorre ja hávsskes manno lej. Ja dan maŋŋela manniv Jåhkåmåhkåj$(conc,hk-hkk|Jåhkåmåhkkåj) tjavtjamárnánij ja Árviesjávrráj Intrigue’av$(suf|Intrigueav) gehtjatjit.
+Heja maŋŋela vuolggiv Gierunij. (SM’an)$(suf|SM:n) lidjiv Bårjjåsin, ja¥(ja dan) maŋŋela Ieddne bådij. Måj lijma (vádtsemin várijn)£(case| vádtsemin várijt) Abiskuovven$(mix|Ábeskåvon), buorre ja hávsskes manno lej. Ja dan maŋŋela manniv Jåhkåmåhkåj$(conc,hk-hkk|Jåhkåmåhkkåj) tjavtjamárnánij ja Árviesjávrráj (Intrigue’av)$(suf|Intrigueav) gehtjatjit.
 Ja vijmak skåvllå álgij!
 Låssåt lej hæhkkat biel’ gietjan badjánit juohkka ideda, valla dálla lev rutijnajda boahtám vas. Oadet binnep ja ájádallat ålles biejvijt..
 Lip álggám (Matematikk-Dajn)∞(swe), ja dat la nav låsså fáhka. Iv diede jus nagáv dáv kursav dåssju (åvtåjn termijnan)£(kongr|åvtån termijnan) låhkåt, valla galgav gievrra liehket ja doarrot dajna desik buvtáv!
@@ -105,7 +105,7 @@ Buoris uddni
 Håhååj$(vowc,åå-å|Håhåj)!
 
 Galgav páhkkigoahtet, gå idet manáv Tjiehtelij (Kittelfjällaj)∞(swe) Sáminuorra jahketjoahkkimij$(sme-smj|jahketjåhkanibmáj). Danna oattjov moadda ietjá sáme nuorajt iejvvit ja oahpástuvvat¥(missing|oahpástuvvat sijájn), ja aj gulldalit guládallamijt€(w|lågådallamijt) ja (workshopaj)∞(eng) barggat. Doajvov ja jáhkáv dát ájllek huj buorre sjaddá! Ávvudaláv.
-Ietján de lav uddni IRF’an$(acro,suf|IRF:n) læhkám. IRF= (Institutet för Rymdfysik)∞(swe).
+Ietján de lav uddni (IRF’an)$(acro,suf|IRF:n) læhkám. IRF= (Institutet för Rymdfysik)∞(swe).
 Danna lip (astronautkunskap-ássjen)∞(swe) smáv rakehtajt biggim, ja uddni gæhttjalijma duokkár (Space Ball’av)∞(eng). Bijav$(vowc,i-ie|Biejav) filmav gånnå muv klássaráddna Lucas gæhttjal dav.
 
 

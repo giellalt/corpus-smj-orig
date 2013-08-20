@@ -11,7 +11,7 @@ Uddni almoduvvá Árran- julevsáme guovdátja 13 diedalasj ájggetjála “Bår
 
 Gitta 1999-jage rájes la dát ájggetjála boahtám jur javlaj åvddåla.
 
-– (Ájnas oadtjot låhkåt)¥(missing|Ájnas la oadtjot låhkåt) fágaartihkkalijt$(conc,g-hk|fáhkaartihkkalijt) sámegiellaj
+– (Ájnas oadtjot låhkåt)¥(missing|Ájnas la oadtjot låhkåt) fágaartihkkalijt$(cmp,gen-nom|fáhkaartihkkalijt) sámegiellaj
 
 
 Árrana rádevadde, Line Merete Skarvik.

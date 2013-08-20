@@ -7,7 +7,7 @@ Sáme allaskåvlån la (prosjevta åvdåsvásstádus)£(case|prosjækta åvdåsv
 Prosjæktajådediddje Sissel Mikkelsen doajvvu soames åhtså sáme oahpestiddjen.
 
 
--3 oahpestiddje galggi vat oadtjot máhttelisvuodav joarkkaskåvlåj milta mannat (subtsastittjat sáme nuoraj birra, ja vuosedit)£(x|subtsastittjat sáme nuoraj birra, ja vuosedittjat) sáme nuora aj laptop’ajn$(acro,suf|laptopajn) barggi ja iPod’an$(prop,suf|iPodan) musihkav gulldali. Prosjevta (ulmme l vuosedit nuorajskåvlåj oahppijda)£(case|ulmme l vuosedit nuorajskåvlå oahppijda) moattebielev$(w|moattevuodav) sámevuodas ja sámekultuvras, subtsas Sissel Mikkelsen.
+-3 oahpestiddje galggi vat oadtjot máhttelisvuodav joarkkaskåvlåj milta mannat (subtsastittjat sáme nuoraj birra, ja vuosedit)£(x|subtsastittjat sáme nuoraj birra, ja vuosedittjat) sáme nuora aj (laptop’ajn)$(acro,suf|laptopajn) barggi ja (iPod’an)$(prop,suf|iPodan) musihkav gulldali. Prosjevta (ulmme l vuosedit nuorajskåvlåj oahppijda)£(case|ulmme l vuosedit nuorajskåvlå oahppijda) moattebielev€(w|moattevuodav) sámevuodas ja sámekultuvras, subtsas Sissel Mikkelsen.
 
 Mikkelsen subtsas moattes e diede åvvå majdik sámij birra, ja nav de vuojnná (dárbov oahpestiddjijs)£(case|dárbov oahpestiddjijda).
 

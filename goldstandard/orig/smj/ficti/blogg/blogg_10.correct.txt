@@ -80,7 +80,7 @@ Dát la muv ådå blogga$(vowc,o-oa|bloagga) gåsi galgav sámegiellaj tjállet.
 
 Mån lav Lisa, lågenangávtsejagák Snåsas(ja aj Divtasvuonas). Muv áhttje la julevsábme Divtasvuonas ja muv ieddne la oarjjelsábme Åres/Östersundas. Dálla årov Gierunin Svierigin ja dánna joarkkaskåvlåv vádtsáv¢(conc,dts-tts|váttsáv).
 
-Iv visjá ålov ietjam birra dálla tjállet, valla jus bloggav$(vowc,o-oa;conc,gg-kk|bloakkav) tjuovo de oattjo muv iellema ja ájádusáj birra låhkåt!
+Iv visjá ålov ietjam birra dálla tjállet, valla jus bloggav$(vowc,o-å;conc,gg-kk|blåkkav) tjuovo de oattjo muv iellema ja ájádusáj birra låhkåt!
 
 Ulmme dájna bloggajn$(vowc,o-å|blåkkajn) le ahte galgav hárjjánit (ienebuv sámegielav tjállet)£(case|ienebuv sámegiellaj tjállet). Muv mielas dát le suohtas vuohke sámegielajn barggat!
 
