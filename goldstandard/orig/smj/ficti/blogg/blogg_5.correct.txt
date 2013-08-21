@@ -73,7 +73,7 @@ tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 11:47
 
 
 Majt aná dán birra?
-Stáhtistikka$(vowc,á-a;conc,ht-t;conc,kk-hkk|statistihkka) gielaj birra
+Stáhtistikka$(vowc,á-a;conc,ht-t;conc,kk-hkk|Statistihkka) gielaj birra
 Buoris vas!
 
 Sämmi bále gå dáv bloggav$(vowc,o-å;conc,gg-kk|blåkkav) dahkiv, de gáhtjiv$(infl|gatjádiv) muv rádnajs ja åhpådidjes$(vowlat,å-a;conc,dj-ddj|åhpadiddjes) ma lidjin sijá iedne-/vuostasjgiella,nubbegiella ja amásgiella. Ja dan¥0 resultáhtas€(foreign,swe|båhtusijs) lav mån dahkam tabelláv$(vowlat,á-a|tabellav). Náv dat sjattáj$(vowlat,á-a|sjattaj):
@@ -154,7 +154,7 @@ tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 12:28
 Majt aná dán birra?
 
 Buoris gájka!
-Buoris diek! Dán bloggan$(vowc,o-å;conc,gg-kk|blåkkan) mån sjattáv$(vowlat,á-a|sjattav) dåsju$(conc,sj-ssj|dåssju) julevsámegiellaj tjállet. Blogga$(vowc,o-oa|bloagga) la prosjäkttabárggo$(conc,ktt-kt|prosjäktabarggo) sámegielan. Så∞(swe) muv ieddne, gut le muv åhpådiddje$(vowlat,å-a|åhpadiddje) låhkå dáv bloggav$(vowc,o-å;conc,gg-kk|blåkkav). Mån viettiv$(conc,tt-rtt|vierttiv) tjállet buore¢(conc,rr-r|buorre) sámev de :) Dánna mån sjattáv$(vowlat,á-a|sjattav) tjállet duon dán birra degu, skåvllåbárgoj$(vowc,á-a|skåvllåbargoj) birra, majt mån dagáv biejvijt, gåk manná hárjjidallamijn ja ålov ienep (majt oajvvaj$(vowlat,a-á|oajvváj) dähppu)£(case|mij oajvváj dähppu). Gåvåjt oattjo aj vuojnnet dánna!
+Buoris diek! Dán bloggan$(vowc,o-å;conc,gg-kk|blåkkan) mån sjattáv$(vowlat,á-a|sjattav) dåsju$(conc,sj-ssj|dåssju) julevsámegiellaj tjállet. Blogga$(vowc,o-oa|Bloagga) la prosjäkttabárggo$(conc,ktt-kt|prosjäktabarggo) sámegielan. Så∞(swe) muv ieddne, gut le muv åhpådiddje$(vowlat,å-a|åhpadiddje) låhkå dáv bloggav$(vowc,o-å;conc,gg-kk|blåkkav). Mån viettiv$(conc,tt-rtt|vierttiv) tjállet buore¢(conc,rr-r|buorre) sámev de :) Dánna mån sjattáv$(vowlat,á-a|sjattav) tjállet duon dán birra degu, skåvllåbárgoj$(vowc,á-a|skåvllåbargoj) birra, majt mån dagáv biejvijt, gåk manná hárjjidallamijn ja ålov ienep (majt oajvvaj$(vowlat,a-á|oajvváj) dähppu)£(case|mij oajvváj dähppu). Gåvåjt oattjo aj vuojnnet dánna!
 
 
 

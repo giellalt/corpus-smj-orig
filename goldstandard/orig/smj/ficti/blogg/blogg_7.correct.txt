@@ -51,7 +51,7 @@ Iektu Sanne-Ristin riŋŋguj. (Márkkána$(conc,rkk-rn|Márnána) birra sáhkadi
 
 Gårruv ålles biejvev iektu. (Akta nuvtagijn gærggiv)£(kongr|Avtajn nuvtagijn gærggiv), ja nuppijn uddni gergav. Dåbddu buorre ja lav riek dudálasj daj. Suohtas J Sidáv sijddaj vádtset dal€(w|dálla) ja goarrot, valla vierttiv vuorddet Religiåvnåv¢(min|religiåvnåv).
 
-Ájllek lij riek buorre Rachela lunna. Vaddjujma, ja gårruv (gæhttjalam-gápptev$(conc,ppt-pt|gæhttjalam-gáptev))$(cmp|gæhttjalamgáptev). Sasev vierttijma ietjájduhttet, valla ietján lij buorre. Gårruv ietjam alek (cool wool)∞(eng) tyddjas$(conc,ddj-dj|tydjas), ja dálla le dåssju buddit ja sasijt vil goarrot. Galgav Rachela lusi vas gå la giellakonferánssa jåhkåmåhken$(cap|Jåhkåmåhken) guovvamánon. Dalloj jáhkáv gergav. Jáhkáv tjáppa gáppte sjaddá.
+Ájllek lij riek buorre Rachela lunna. Vaddjujma, ja gårruv (gæhttjalam-gápptev$(cmp,hyhp-0;conc,ppt-pt|gæhttjalamgáptev). Sasev vierttijma ietjájduhttet, valla ietján lij buorre. Gårruv ietjam alek (cool wool)∞(eng) tyddjas$(conc,ddj-dj|tydjas), ja dálla le dåssju buddit ja sasijt vil goarrot. Galgav Rachela lusi vas gå la giellakonferánssa jåhkåmåhken$(cap|Jåhkåmåhken) guovvamánon. Dalloj jáhkáv gergav. Jáhkáv tjáppa gáppte sjaddá.
 
 Buoris!
 

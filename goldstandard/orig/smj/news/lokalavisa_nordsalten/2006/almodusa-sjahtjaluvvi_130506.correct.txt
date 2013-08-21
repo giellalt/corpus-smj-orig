@@ -9,7 +9,7 @@ Bæjválasj jådediddje Báhko almmudagán Bård Eriksen javllá gåvvididdje vu
 
 Dárogielaga
 
-Eriksen aj adná dárogielak gåvvididdjijt, valla gå galggi sámegielagirjijt$(cmp,gen-nom|sámegiellagirjijt) gåvvidahttet, de hæhttuji vuostak oadtjot tjoahkkájgæssusav$(vowc,e-æ|tjoahkkájgessusav) dárogiellaj jårggåluvvam. Dát hiemssi bargov ja dahka$(vowlat,a-á|dahká) nav vaj girjjeprosjevta divrru.
+Eriksen aj adná dárogielak gåvvididdjijt, valla gå galggi sámegielagirjijt$(vowlat,a-o|sámegielgirjijt) gåvvidahttet, de hæhttuji vuostak oadtjot tjoahkkájgæssusav$(vowc,e-æ|tjoahkkájgessusav) dárogiellaj jårggåluvvam. Dát hiemssi bargov ja dahka$(vowlat,a-á|dahká) nav vaj girjjeprosjevta divrru.
 
 -Sámegielagirjijt$(cmp,gen-nom|sámegiellagirjijt) jårggålit jali edesik tjoahkkájgæssusav$(vowc,e-æ|tjoahkkájgessusav) dárruj jårggålit, divrrot ja hiemssidahtta$(vowlat,a-á|hiemssidahttá) girjjeprosjevtav nav vaj muhttijn ållu maññunip$(ascii|maŋŋunip), (dajna de lij ållu buoremus jus)£(infl,ind-cond|dajna de luluj ållu buoremus jus) lij gávnnut gåvvididdje guhti aj julevsámegielav dádjat, javllá Eriksen
 

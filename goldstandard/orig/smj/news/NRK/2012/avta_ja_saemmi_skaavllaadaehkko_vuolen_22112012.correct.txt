@@ -14,7 +14,7 @@ Lejga oahppeguovtes Wilma Jessen ja Martin Kuntsen gudi almmulattjat$(conc,lmm-l
 
 Dat merkaj mánájskåvllå ja nuorajskåvllå (li tjoahkkiduvvin)£(x|li tjoahkkidum) avta sadjáj ja ælla des dagu åvddål (guovte sierra skåvllåhuodnahijda)£(kongr|guovte sierra skåvllåhuodnahij) sieradum.
 
-Måttijt (lågevjagijt)$(cmp,1-hyph|lågev-jagijt) la nuorajskåvllå skåvllim Ájluovta oabme skåvlån mij la oabme ja ij la hiebadahtedum udnásj dárbojda ja gájbbádusájda.
+(Måttijt (lågevjagijt)$(cmp,1-X|lågev jagijt))£(x|Moadda låk jage) la nuorajskåvllå skåvllim Ájluovta oabme skåvlån mij la oabme ja ij la hiebadahtedum udnásj dárbojda ja gájbbádusájda.
 
 Valla dálla (li gájkka 105 oahppe)£(kongr|li gájka 105 oahppe) Ájluovta skåvlån tjoahkkidum avta sadjáj.
 
