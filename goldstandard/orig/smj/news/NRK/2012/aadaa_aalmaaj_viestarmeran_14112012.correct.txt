@@ -29,7 +29,7 @@ Gilpustallam bajemus sajijda
 
 Valla nav gåk mij dádjadip (de sihti dá gålmmåsa joarkket)£(x|sihti dá gålmås joarkket) ájrastit Barggijbelludagáv.
 
-Så∞(nor) (vuordedahtte sjaddá)¥(ind-pot|Sjattasj dávk) gilpustallam (gå Belludak$(cap;belludak) tjåhkan)¥(x|gå belludahka tjåhkan) nomineritjit lávvodagá Dieldanuore kro ja motellan, Skánegin.
+Så∞(nor) (vuordedahtte sjaddá)¥(ind-pot|Sjattasj dávk) gilpustallam gå Belludak$(cap|belludak) tjåhkan nomineritjit lávvodagá Dieldanuore kro ja motellan, Skánegin.
 
 Viestarmera válggabijrra
 

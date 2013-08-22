@@ -12,7 +12,7 @@ Anne Silja Turi la riek ávon gå la bessam oahpestiddjen, ja sujna l oalle miel
 
 Guovte sámekultuvrralasj$(conc,rvv-rv|sámekultuvralasj)
 
-(Anne Siljan la áhttje guovdagæjnok$(conc,vd-vdd|guovddagæjnok ja ieddne divtasvuonak)¥(Anne Silja áhttje la guovddagæjnok ja ieddne la divtasvuonak). Dajna l sån (oadtjum oasev nuorttasámekultuvras ja aj julevsámekultuvras, ja dideon$(typo|diedon) aj goappatja$(vowlat,a-á|goappátja) gielajda)£(case|oadtjum oasev nuorttasámekultuvras ja aj julevsámekultuvras, ja diedo aj goappátjij gielajs) aj.
+(Anne Siljan la áhttje guovdagæjnok$(conc,vd-vdd|guovddagæjnok) ja ieddne divtasvuonak)¥(wo;case|Anne Silja áhttje la guovddagæjnok ja ieddne la divtasvuonak). Dajna l sån (oadtjum oasev nuorttasámekultuvras ja aj julevsámekultuvras, ja dideon$(typo|diedon) aj goappatja$(vowlat,a-á|goappátja) gielajda)£(case|oadtjum oasev nuorttasámekultuvras ja aj julevsámekultuvras, ja diedo aj goappátjij gielajs) aj.
 -Mån lav mihá gå lav sábme, ja buoren¢(conc,r-rr,ine-ess|buorren) anáv gå dåbdåv ja ságastav guokta sámegiela ja guokta sierra sámekultuvra, javllá sån.
 Juska l nuorra, de la Anne Silja juo ålov háhppidam vásedit. Sån la joarkkaskåvlåjn ållim, ja sån la aj lådnomstudænntan læhkám åvdep skåvllåjage. Dan jage lij Ámerigin$(Vowc,á-a|Amerigin).
 Anne Silja l aj åvdep giese journálisstan$(loan,vowlat,á-a|journalisstan) barggam NRK Sámeradioa$(prop,suf|Sámerádio) åvdås, ja dajna de la (oahpástuvvam€(w|oahpásmuvvam) barggeiellemijn)£(case,com-ill|oahpásmuvvam barggoiellemij) aj.
@@ -20,6 +20,6 @@ Anne Silja l aj åvdep giese journálisstan$(loan,vowlat,á-a|journalisstan) bar
 Buorep dádjadip nuppe nuppev
 
 Ájnas oasse Anne Silja bargos masi tjaktjaj álggá, la stereotyjpajt gádodit dajs gudi jáhkki sáme li nav ietjálágátja gå ”dábálasj” ulmutja.
--Juska dal miján la ietjá histåvrrå, giella ja kultuvrra, da viessop dagu ”iemelágasj” ulmutja. Mij sáme nuora aj filmajt lájggip, SMS’ajt$(acro,suf|SMS:jt) rádjap, ja dahkap jur sæmmi dagu divna ietjá nuora. Dav de sidáv nuppij€(w|ietjá) ludtjusattjajda subtsastit, ja dasi de jáhkáv la dárbbo. Iv de jáhke divna ietjá nuora dav diehti, javllá Anne Silja ja duoddi: -Jus oadtjop ietjá kultuvra birra diehtet, de buorep dádjadip nubbe nuppev.
+-Juska dal miján la ietjá histåvrrå, giella ja kultuvrra, da viessop dagu ”iemelágasj” ulmutja. Mij sáme nuora aj filmajt lájggip, (SMS’ajt)$(acro,suf|SMS:jt) rádjap, ja dahkap jur sæmmi dagu divna ietjá nuora. Dav de sidáv nuppij€(w|ietjá) ludtjusattjajda subtsastit, ja dasi de jáhkáv la dárbbo. Iv de jáhke divna ietjá nuora dav diehti, javllá Anne Silja ja duoddi: -Jus oadtjop ietjá kultuvra birra diehtet, de buorep dádjadip nubbe nuppev.
 Ja bårggemáno maññegietjen$(ascii|maŋŋegietjen) la Anne Silja kursan Guovdagæjnon$(conc,vd-vdd|Guovddagæjnon) ja nav dan ådå virgen mij vihpa$(vowlat,a-á|vihpá) boahtte skåvllåjagev.
 Dajna aj Anne Silja oadtju dáv mijá guhka rijkav miehtáj gålggåt, subtsastittjat ietjas duogátja birra.

@@ -32,7 +32,7 @@ Strasbourg
 Buoris vas!
 
 Lidjiv loabedam vásse vahko tjálet¢(conc,l-ll|tjállet) , valla ij lim næhtta Strasbourgan, ja gå Svierigij jåvsådiv dåssju ådiv.
-Strasbourga lej ihkeva buorre ræjsso. Mij lip nav ålov dahkam ahte ij vargga dåhkki divna subtsastit. Lijma Eu-Parlamentan$(acro,cap|EU-Parlamentan) iejvvimin 5 eu$(arco,cap|EU) parlamentarikera Svierigis, gålmås mijás buktin presentasjåvnåv (Intergroup for traditional minoritiesaj)∞(eng), iejvvijma guokta (ulmutja guhti)£(kongr|ulmutja gudi) barggi minoritehtaj (birra€(w|miehtá) Europan)£(case|miehtá Europa), ja komissariev Thomas Hammarberg Europaráden. Lip sáhkadam (majt sáme nuora Svierigin berustip)£(kongr|majt sáme nuora Svierigin berusti) ja ássjij birra gånnå (EU’a$(arco,suf-0|EU) soajttá máhtti)£(kongr|EU soajttá máhttá) mijáv viehkedit. Ræjsso lij riek geldulasj ja oahppiv aj ålov. (Ássjijt majt giehtojma lij)£(kongr|Ássjijt majt giehtojma lidjin) diehttelis giella birra, ja ålov boahttsudoallo€(foreign,sme|ællosujtto) gåhtjulvisáj.!!!!
+Strasbourga lej ihkeva buorre ræjsso. Mij lip nav ålov dahkam ahte ij vargga dåhkki divna subtsastit. Lijma Eu-Parlamentan$(acro,cap|EU-Parlamentan) iejvvimin 5 eu$(arco,cap|EU) parlamentarikera Svierigis, gålmås mijás buktin presentasjåvnåv (Intergroup for traditional minoritiesaj)∞(eng), iejvvijma guokta (ulmutja guhti)£(kongr|ulmutja gudi) barggi minoritehtaj (birra€(w|miehtá) Europan)£(case|miehtá Europa), ja komissariev Thomas Hammarberg Europaráden. Lip sáhkadam (majt sáme nuora Svierigin berustip)£(kongr|majt sáme nuora Svierigin berusti) ja ássjij birra gånnå ((EU’a)$(arco,suf-0|EU) soajttá máhtti)£(kongr|EU soajttá máhttá) mijáv viehkedit. Ræjsso lij riek geldulasj ja oahppiv aj ålov. (Ássjijt majt giehtojma lij)£(kongr|Ássjijt majt giehtojma lidjin) diehttelis giella birra, ja ålov boahttsudoallo€(foreign,sme|ællosujtto) gåhtjulvisáj.!!!!
 
 
 
@@ -61,7 +61,7 @@ Uddni la låsså skåvllåbiejvve. Mij lip jur matematihkav adnám 2,5 tijma. Lu
 Mánnodagá vuolgáv Strasbourgaj. Mij lip 10 nuora Sáminuorras (sámenuora organisasjåvnnå) (guhti vuolggep)£(kongr|gudi vuolggep). Galggap EU-Parlamentaj¢(vowc,e-æ;conc,nt-nnt|EU-Parlamænntaj) iejvvitjit muhtem parlamentarikerajs$(mix|parlamentarihkkárijs), Europarádes ja Europa-duobbmoståvlås. Doajvov ja jáhkáv riek suohtas ja geldulasj ræjsso sjaddá!
 Galgav bloggav$(vowc,o-å;conc,gg-kk|blåkkav) tjállet dajt biejvijt nav álu gå máhttelis jus hotellan le internæhtta. (Mánnodagás gitta bierjjedagá)£(case|Mánnodagás gitta bierjjedahkaj) lip danna.
 
-Dálla la sámegiel’tijmma$(sámegieltijmma) álggám. Ruvvaláhkáj galgav filmav gæhttjat mij la sámenuoraj psykologalasj vádnasvuoda$(cmp,attr|vánesvuoda) birra..
+Dálla la (sámegiel’tijmma)$(cmp|sámegieltijmma) álggám. Ruvvaláhkáj galgav filmav gæhttjat mij la sámenuoraj psykologalasj vádnasvuoda$(cmp,attr|vánesvuoda) birra..
 
 Sáhkadibmáj!
 
