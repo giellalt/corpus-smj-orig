@@ -41,7 +41,7 @@ Giesen
 Sáme báhkodáhtátjoahkke rabáduvvam
 
 
-Sámedikke giellastsivrra$(typo|giellastivrra): Nora Marie Brandsfjell, Rolf Olsen, Magne Einejord, Karen Monica Paulsen ja Tor Magne Berg oassálasstin gå sáme báhkodáhtátjoahkke www.Risten.no rabáduváj. Dát báhkodáhtátjoahkke la næhttabielle gåsi divna sáme bágo julevsáme-, nuorttasáme- ja oarjjelsámegiellaj biejaduvvi ja gånnå aj máhtá åhtsåt juogu dal bágov jali gåktu bahko$(vowc,a-á|báhko) såjåduvvá.
+Sámedikke giellastsivrra$(typo|giellastivrra): Nora Marie Brandsfjell, Rolf Olsen, Magne Einejord, Karen Monica Paulsen ja Tor Magne Berg oassálasstin gå sáme báhkodáhtátjoahkke (www.Risten.no)∞(url) rabáduváj. Dát báhkodáhtátjoahkke la næhttabielle gåsi divna sáme bágo julevsáme-, nuorttasáme- ja oarjjelsámegiellaj biejaduvvi ja gånnå aj máhtá åhtsåt juogu dal bágov jali gåktu bahko$(vowc,a-á|báhko) såjåduvvá.
 
 -Dán báhkodáhtátjoahkken li juo12.000$(typo,cmp,X-1|juo 12.000) bágo, ja dát la ræjddo giellabarggijda ja diedon aj iehtjádijda gudi (gielav berusti)£(case|gielas berusti), javlaj Sámedikke giellastivtra$(typo|giellastivra) ájras Karen Monica Paulsen åvdås gå almulattjat dáv næhttabájkev rabáj.
 

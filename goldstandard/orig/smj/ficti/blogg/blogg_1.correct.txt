@@ -78,7 +78,7 @@ tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 04:52
 
 Majt aná dán birra?
 Stoorstålka
-Guossijdit¢(conm,jd-d|Guossidit) STOORSTÅLKA.COM sijddabielev! Muv mielas Stoorstålkan le riek (cool)∞(eng) ja buorre väddsaga$(conc,dds-dts|vädtsaga). (Munje$(vowlat,e-a;conc,nj-jn|Mujna) l iesj jeansávve ja snjisskom sijás! Gå dal¥(missing|dal ájn) de galgav aj oasstet sijá ådå gábmagijt ja duov dáv.
+Guossijdit¢(conm,jd-d|Guossidit) (STOORSTÅLKA.COM)∞(url) sijddabielev! Muv mielas Stoorstålkan le riek (cool)∞(eng) ja buorre väddsaga$(conc,dds-dts|vädtsaga). (Munje$(vowlat,e-a;conc,nj-jn|Mujna) l iesj jeansávve ja snjisskom sijás! Gå dal¥(missing|dal ájn) de galgav aj oasstet sijá ådå gábmagijt ja duov dáv.
 
 
 
@@ -107,11 +107,11 @@ Giesse
 Majt aná dán birra?
 
 Gietja¢(conc,tj-htj|Giehtja) biejve
-(Åh hei)∞(nor)! (Vuostasj biejvve biehtsemámon$(typo|biehtsemánon))¥(case;wo|Biehtsemáno vuostasj biejvve) ja dåbddu degu árra tjaktja, (brrr)∞(sla).. Dálla tjåhkåhav$(conc,hk-hkk|tjåhkkåhav) dåssju soffán€(foreign,swe|dibmanålånin) stånden€(foreign) ja vuojnadav$(ascii|vuojŋadav). Lav lähkám skåvlån uddni ja dahkiv mangemus$(ascii|maŋemus) gähtjalimev$(conc,htj-httj|gähttjalimev) dán jage. Ja dálla (la dåssju gietja¢(conc,tj-htj|giehtja) biejve)£(kongr|li dåssju giehtja biejve) (vil skåvlån muv vuostasj jagen (juorkka(vowc,uo-oa|joarkka) skåvlån)¢(cmp,X-1|joarkkaskåvlån))£(case|vil skåvlån muv vuostasj jages joarkkaskåvlån). Muv mielas la mannam riek ruvva€(w|jåhtelit) jus ga la lähkám ållo dahkat åvddål lav diel$(typo|diek) ållim. Lav oahppam ålov ja ij dåssju hijståvrråv$(conc,jst-st;conc,vrr-vr|histåvråv) ja ietja¢(vowlat,a-á;case|ietjáv) skåvlån valla aj ållo¥0 gåktu buorranit$(vowlat,a-á|buorránit) hárjjidallamijn ja gåktu åvddånit generelt€(foreign,swe|åbbålattjat). (Jaja)∞(sla)!
+(Åh hei)∞(nor)! (Vuostasj biejvve biehtsemámon$(typo|biehtsemánon))¥(case;wo|Biehtsemáno vuostasj biejvve) ja dåbddu degu árra tjaktja, (brrr)∞(sla).. Dálla tjåhkåhav$(conc,hk-hkk|tjåhkkåhav) dåssju soffán€(foreign,swe|dibmanålånin) stånden€(foreign) ja vuojnadav$(ascii|vuojŋadav). Lav lähkám skåvlån uddni ja dahkiv mangemus$(ascii|maŋemus) gähtjalimev$(conc,htj-httj|gähttjalimev) dán jage. Ja dálla (la dåssju gietja¢(conc,tj-htj|giehtja) biejve)£(kongr|li dåssju giehtja biejve) (vil skåvlån muv vuostasj jagen (juorkka$(vowc,uo-oa|joarkka) skåvlån)¢(cmp,X-1|joarkkaskåvlån))£(case|vil skåvlån muv vuostasj jages joarkkaskåvlån). Muv mielas la mannam riek ruvva€(w|jåhtelit) jus ga la lähkám ållo dahkat åvddål lav diel$(typo|diek) ållim. Lav oahppam ålov ja ij dåssju hijståvrråv$(conc,jst-st;conc,vrr-vr|histåvråv) ja ietja¢(vowlat,a-á;case|ietjáv) skåvlån valla aj ållo¥0 gåktu buorranit$(vowlat,a-á|buorránit) hárjjidallamijn ja gåktu åvddånit generelt€(foreign,swe|åbbålattjat). (Jaja)∞(sla)!
 
 Iektu lidjiv gåjt (buhtikkaj€(foreign,swe|rámbuvddaj;oassásij))¥(missing|oassásij milta) vádtsemin ja gávnnin nav (fijnna skuovajt)£(kongr|fijna skuovajt) ahte vierttiv oasstet sämmi lágátjit¢(fin,t-jt|lágátjijt) jus ij dajt! (Åh)∞(nor) man fijnnuga$(conc,jnn-jn|fijnuga)
 
-Buorre vahkkoloappe€(foreign,sme|ájllek) didjijde$(vowm,e-a|didjijda)!
+Buorre vahkkoloappe$(conc,hkk-hk;conc,pp-hpp;vowlat,e-a|vahkoloahppa) didjijde$(vowm,e-a|didjijda)!
 
 tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 06:15
 

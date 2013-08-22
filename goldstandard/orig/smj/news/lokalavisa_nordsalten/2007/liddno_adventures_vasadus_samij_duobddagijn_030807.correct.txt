@@ -12,7 +12,7 @@ Viddnudagán$(conc,ddn-dn|vidnudagán) li gålmmå doajmmatjerda. Várreoahpesti
 
 - Mij sihtap fállat vásádusájt luondo baktu ja miejnniv miján la buorre máhtudahka majt amás oahpestiddjen ij gávna, javllá Lars Theodor Kintel Divtasvuonas, ja¥0 gut la (bajás sjaddam)¢(cmp,X-1|bajássjaddam) dáppe. – Miján la ietjamijn$(infl|iehtjama) filosofia$(x|filosofija) ja diedo luondo birra, ja sihtap ietja dajna barggagoahtet åvdås iehtjáda ålggolis barggagåhti.
 
-Viddnudahka$(conc,ddn-dn|vidnudahkan) barggá ietjá viddnudagáj$(conc,ddn-dn|vidnudagáj) vuosstáj oarjján ja rijkagasskajt$(conc,ssk-sk|rijkagaskajt), tysklándan$(cap|Tysklándan) ja Storbritanian. Bálkkim li tyska$(mix|dujska) (studentav mij)£(kongr|studentav gut) galggá markedav€(foreign,nor|márnánav) guoradallat.
+Viddnudahka$(conc,ddn-dn|vidnudahkan) barggá ietjá viddnudagáj$(conc,ddn-dn|vidnudagáj) vuosstáj oarjján ja rijkagasskajt$(conc,ssk-sk|rijkagaskajt), tysklándan$(cap|Tysklándan) ja Storbritanian$(cmp,X-2;mix|Stuorra Británnia). Bálkkim li tyska$(mix|dujska) (studentav mij)£(kongr|studentav gut) galggá markedav€(foreign,nor|márnánav) guoradallat.
 
 
 Guoradallat gáldojt

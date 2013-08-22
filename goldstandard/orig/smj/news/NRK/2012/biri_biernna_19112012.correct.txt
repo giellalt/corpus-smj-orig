@@ -6,7 +6,7 @@ Gåvådibme Biri Biernas.
 Foto∞(nor): Harrieth Aira/NRK
 Biri Biernna la ådå julevsámegielak mánájTV-rájddo$(cmp,hyph|mánáj-TV-rájddo) mij uddni vuostasj bále vuojnnu (NRK Super:in)$(suf|NRK Superin).
 
-Harrieth Aira harrieth.aira@nrk.no
+Harrieth Aira (harrieth.aira@nrk.no)∞(url)
 
 – Dát la animasjåvnnårájddo bierna birra, Biri Biernna, subtsas Jon Isak Lyngman Gælok, NRK Sáme mánájTV-bargge$(cmp,1-hyph|mánáj-TV-bargge), gut la sån guhti la hiebadahttám dáv ådå TV-rájdov julevsámegiellaj.
 
