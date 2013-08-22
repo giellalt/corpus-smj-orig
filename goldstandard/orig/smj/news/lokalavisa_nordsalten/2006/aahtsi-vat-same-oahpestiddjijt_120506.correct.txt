@@ -1,7 +1,7 @@
 Åhtsi vat sáme oahpestiddjijt
 Vuostasj jage lidjin Ánte Siri Guovddagæjnos, Inga Mikkelsen Divtasvuonas ja Ellinor Marita Jåma Grongas sáme oahpestiddjen. Gåvvå: Elisabeth P. Jenssen.
 
-Sáme allaskåvllå åhtså vat 3 ådå sáme oahpestiddje boahtte skåvllåjáhkáj$(vowc,á-a|skåvllåjahkáj). Prosjækta l aktisasjbarggo Sáme allaskåvlå ja Barggo- ja aktijdimdepartementa$(conm,jd-d|aktidimdepartementa) gaskan, ja vihpá 3 jage. Boahtte jahke l aj dán prosjevta mañemus&(ascii|maŋemus) jahke, jus dal ij joarkeduvá.
+Sáme allaskåvllå åhtså vat 3 ådå sáme oahpestiddje boahtte skåvllåjáhkáj$(vowc,á-a|skåvllåjahkáj). Prosjækta l aktisasjbarggo Sáme allaskåvlå ja Barggo- ja aktijdimdepartementa$(conm,jd-d|aktidimdepartementa) gaskan, ja vihpá 3 jage. Boahtte jahke l aj dán prosjevta mañemus$(ascii|maŋemus) jahke, jus dal ij joarkeduvá.
 
 Sáme allaskåvlån la (prosjevta åvdåsvásstádus)£(case|prosjækta åvdåsvásstádus), ja prosjevta jådediddje Sissel Mikkelsen doajvvu moattes åhtsi dán ”virggáj”.
 Prosjæktajådediddje Sissel Mikkelsen doajvvu soames åhtså sáme oahpestiddjen.

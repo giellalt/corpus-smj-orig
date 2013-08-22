@@ -10,7 +10,7 @@ Badjel 15 jage li oahppe ja bargge Ájluovta skåvlån, Divtasvuonan hæhttum vu
 
 Lávllagij Ájluovta skåvlå mánájskåvlådáses ja báloaŋŋaspreggijmij$(mix|baloaŋŋasprieggimij) rahpin oahppe ietjasa ådå skåvlåv ja lieggijin vájmojt ja ávvudahttijn ájluovtagijt gudi dievddin skåvlåv gå vijmak Ájluovta ådå skåvllå rabáduváj.
 
-Lejga oahppeguovtes Wilma Jessen ja Martin Kuntsen gudi almmulattjat$(conc,lmm-lm|almulattjat) rabájga ådå skvållåhuodnahijt$(typo|skåvllåhuodnahijt)..
+Lejga oahppeguovtes Wilma Jessen ja Martin Kuntsen$(typo|Knutsen) gudi almmulattjat$(conc,lmm-lm|almulattjat) rabájga ådå skvållåhuodnahijt$(typo|skåvllåhuodnahijt)..
 
 Dat merkaj mánájskåvllå ja nuorajskåvllå (li tjoahkkiduvvin)£(x|li tjoahkkidum) avta sadjáj ja ælla des dagu åvddål (guovte sierra skåvllåhuodnahijda)£(kongr|guovte sierra skåvllåhuodnahij) sieradum.
 

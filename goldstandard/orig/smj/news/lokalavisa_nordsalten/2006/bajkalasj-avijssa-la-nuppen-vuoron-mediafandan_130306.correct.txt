@@ -1,6 +1,6 @@
 Bájkálasj ávijssa$(loan,vowc,á-a|avijssa) la nuppen vuoron mediafåndan
 
-Vuona sáme rijkasiebrre – NSR oajvvat sáme mediafåndav Sámedikken vuododit mij galggá barggat vaj oadtju sáme bæjválasj ávijsav$(loan,vowc,á-a|avijsav) jåhtuj. Ávijsan$(loan,vowc,á-a|Avijsan) galggá aj julevsáme- ja oarjjelsámgiellaj&(typos|oarjjelsámegiellaj) tjáleduvvat.
+Vuona sáme rijkasiebrre – NSR oajvvat sáme mediafåndav Sámedikken vuododit mij galggá barggat vaj oadtju sáme bæjválasj ávijsav$(loan,vowc,á-a|avijsav) jåhtuj. Ávijsan$(loan,vowc,á-a|Avijsan) galggá aj julevsáme- ja oarjjelsámgiellaj$(typos|oarjjelsámegiellaj) tjáleduvvat.
 
 Dáv subtsas VSR – (NSR jådediddje)¢(cmp,hyph|NSR-jådediddje) Martin Urheim. –Akta gájbbádusájs la julev- ja oarjjelsámegiella aj galggá dán bæjválasj ávijsan$(loan,vowc,á-a|avijsan) vuojnnut. Hæhttup vieledit unnep giellasuorgijt, subtsas Martin Urheim.
 
