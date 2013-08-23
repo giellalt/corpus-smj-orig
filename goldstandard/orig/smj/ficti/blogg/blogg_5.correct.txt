@@ -56,7 +56,7 @@ Mån ja muv rádna klásas¢(conc,s-ss|klássas) mánnap$(vowc,á-a|mannap) maj�
 
 Náv dat vuojnnu sisbieles.
 
-Muv rádna lidjijn$(fin,jn-n|lidjin) aj dahkam riek fijna bargojt. Akta la ållim  stuor sássnevässkojn$(vowc,á-a;conc,ssk-sk|sassneväskojn),gáffavuosajn$(coninit,g-k|káffavuosajn) ja nubbe le dahkam ávev$(vowc,á-a|avev) majt galggá adnet jeansajde$(vowm,e-a|jeansajda). Näjtso libá álggám gáptij, akta Gárasavvon&(vowlat,o-u|Gárasavvun) gáptijn suv€(w,pers-refl|ietjas) unnavielljaj€(der|unnavieljatjij) ja nubbe oarjjelgáptijn suv€(w,pers-refl|ietjas) unnaoabbáj€(der|unnaoappátjij). Såj libá aj danij gårrum. Ja akta la snjisskomin vuoddagijt. Muv mielas la nåv suohtas vuojnnet gå iehtjáda duodjuhi.
+Muv rádna lidjijn$(fin,jn-n|lidjin) aj dahkam riek fijna bargojt. Akta la ållim  stuor sássnevässkojn$(vowc,á-a;conc,ssk-sk|sassneväskojn),gáffavuosajn$(coninit,g-k|káffavuosajn) ja nubbe le dahkam ávev$(vowc,á-a|avev) majt galggá adnet jeansajde$(vowm,e-a|jeansajda). Näjtso libá álggám gáptij, akta Gárasavvon$(vowlat,o-u|Gárasavvun) gáptijn suv€(w,pers-refl|ietjas) unnavielljaj€(der|unnavieljatjij) ja nubbe oarjjelgáptijn suv€(w,pers-refl|ietjas) unnaoabbáj€(der|unnaoappátjij). Såj libá aj danij gårrum. Ja akta la snjisskomin vuoddagijt. Muv mielas la nåv suohtas vuojnnet gå iehtjáda duodjuhi.
 tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 08:16
 
 
@@ -154,7 +154,7 @@ tjállám: Naima kloahkká$(vowlat,á-a|kloahkka) 12:28
 Majt aná dán birra?
 
 Buoris gájka!
-Buoris diek! Dán bloggan$(vowc,o-å;conc,gg-kk|blåkkan) mån sjattáv$(vowlat,á-a|sjattav) dåsju$(conc,sj-ssj|dåssju) julevsámegiellaj tjállet. Blogga$(vowc,o-oa|Bloagga) la prosjäkttabárggo$(conc,ktt-kt|prosjäktabarggo) sámegielan. Så∞(swe) muv ieddne, gut le muv åhpådiddje$(vowlat,å-a|åhpadiddje) låhkå dáv bloggav$(vowc,o-å;conc,gg-kk|blåkkav). Mån viettiv$(conc,tt-rtt|vierttiv) tjállet buore¢(conc,rr-r|buorre) sámev de :) Dánna mån sjattáv$(vowlat,á-a|sjattav) tjállet duon dán birra degu, skåvllåbárgoj$(vowc,á-a|skåvllåbargoj) birra, majt mån dagáv biejvijt, gåk manná hárjjidallamijn ja ålov ienep (majt oajvvaj$(vowlat,a-á|oajvváj) dähppu)£(case|mij oajvváj dähppu). Gåvåjt oattjo aj vuojnnet dánna!
+Buoris diek! Dán bloggan$(vowc,o-å;conc,gg-kk|blåkkan) mån sjattáv$(vowlat,á-a|sjattav) dåsju$(conc,sj-ssj|dåssju) julevsámegiellaj tjállet. Blogga$(vowc,o-oa|Bloagga) la prosjäkttabárggo$(conc,ktt-kt|prosjäktabarggo) sámegielan. Så∞(swe) muv ieddne, gut le muv åhpådiddje$(vowlat,å-a|åhpadiddje) låhkå dáv bloggav$(vowc,o-å;conc,gg-kk|blåkkav). Mån viettiv$(conc,tt-rtt|vierttiv) tjállet buore¢(conc,rr-r|buorre) sámev de :) Dánna mån sjattáv$(vowlat,á-a|sjattav) tjállet (duon dán birra)¥(missing|duon dán ássje birra) degu, skåvllåbárgoj$(vowc,á-a|skåvllåbargoj) birra, majt mån dagáv biejvijt, gåk manná hárjjidallamijn ja ålov ienep (majt oajvvaj$(vowlat,a-á|oajvváj) dähppu)£(case|mij oajvváj dähppu). Gåvåjt oattjo aj vuojnnet dánna!
 
 
 
