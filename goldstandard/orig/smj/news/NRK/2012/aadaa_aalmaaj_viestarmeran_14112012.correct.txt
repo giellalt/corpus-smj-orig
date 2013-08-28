@@ -15,7 +15,7 @@ Dat mij la tjielgas la gåjt jut Viestarmera válggabijran (gåsi 35 suohkana si
 Sámedikke rádeájras, Vibeke Larsen
 
 Foto∞(nor): Dan Robert Larsen/NRK
-Nominasjåvnåjuogos (la oajvvadam Johan Daniel Hætta,Divtasvuonas lista bajemus sadjáj, Tove Berg, Rivtagis nuppát sadjáj ja Arild Inga Pettersen, Suorttas$(conc,rtt-rt|Suortas) goalmát sadjáj)£(case,nom-acc|la oajvvadam Johan Daniel Hættav,Divtasvuonas lista bajemus sadjáj, Tove Bergav, Rivtagis nuppát sadjáj ja Arild Inga Pettersenav, Suorttas$(conc,rtt-rt|Suortas) goalmát sadjáj.
+Nominasjåvnåjuogos (la oajvvadam Johan Daniel Hætta,Divtasvuonas lista bajemus sadjáj, Tove Berg, Rivtagis nuppát sadjáj ja Arild Inga Pettersen, Suorttas$(conc,rtt-rt|Suortas) goalmát sadjáj)£(case,nom-acc|la oajvvadam Johan Daniel Hættav,Divtasvuonas lista bajemus sadjáj, Tove Bergav, Rivtagis nuppát sadjáj ja Arild Inga Pettersenav, Suortas goalmát sadjáj).
 
 Lågå: (Sametingstopp vraket av sine egne)∞(nor)
 Lågå aj: Nominasjåvnåjuohkusa (sámedikkelistta$(conc,stt-sst|sámedikkelissta))¢(cmp,gen-nom|sámediggelissta) 2013
