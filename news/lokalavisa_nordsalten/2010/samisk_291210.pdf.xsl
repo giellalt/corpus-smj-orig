@@ -7,11 +7,11 @@
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/samisk_291210.pdf'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'NuorajTV: dárbulasj fálaldahka!'"/>
+<xsl:variable name="title" select="'NuorajTV: dárbulasj fálaldahka!'"/>
 <xsl:variable name="author1_fn" select="'Kitty'"/>
 <xsl:variable name="author1_ln" select="'Skapalen'"/>
 <xsl:variable name="author1_gender" select="'f'"/>
-<xsl:variable name="author1_nat" select="nor''"/>
+<xsl:variable name="author1_nat" select="'nor'"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author2_fn" select="''"/>
 <xsl:variable name="author2_ln" select="''"/>
