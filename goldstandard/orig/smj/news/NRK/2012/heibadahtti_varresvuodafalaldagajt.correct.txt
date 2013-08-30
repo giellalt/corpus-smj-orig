@@ -48,8 +48,8 @@ Dasi vásstet prosjæktajådediddje Erling Urheim náv:
 Erling Urheim la jådedam prosjevtav.
 
 Foto∞(nor): Harrieth Aira/NRK
-– Dánna li moadda oase majt lip vieledam. Sáhka la má dádjadusás, gåktu sámij barggat, vuosstij válldet ja aj diedojt sámij birra, duoje, åssko ja duot-dát. Ájnas la aj dádjadusáv oadtjot gåktu sáme li ájgij tjadá vájvástuvvam. Miján lij fáhkabiejvve mij dav tjalmostij – láddáduvvama båhtusa sámij varresvuodadilláj. Duodden lip tjadádam fáhkabiejvijt, maŋemus lij miehttseterapija, ja bargge li aj oassálasstám (duon-dán varresvuodaseminárajn)£(kongr|duojn-dájn varresvuodaseminárajn), subtsas prosjevta jådediddje, julevsábme Erling Urheim gut la dájna barggam Valnesvuona varresvuodaguovdátjin dán maŋemus jage.
-Duodden máhtudaklåpptimij barggij gaskan de la varresvuodaguovdásj álgadam duov-dáv (mij lulu)£(kongr|mij luluj) sámevuodav buorebut vuosedit. Buojkulvisá dagu låvdagådijt li tsieggim, sáme girjijt girjjevuorkkáj oadtjum, duodjekursajt tjadádam ja (oahpástuvvam sáme værmádahkaj)€(w|oahpásmuvvam sáme værmádahkaj).
+– Dánna li moadda oase majt lip vieledam. Sáhka la má dádjadusás, gåktu sámij barggat, vuosstij válldet ja aj diedojt sámij birra, duoje, åssko ja (duot-dát)$(cmp,hyhp-X|duot dát). Ájnas la aj dádjadusáv oadtjot gåktu sáme li ájgij tjadá vájvástuvvam. Miján lij fáhkabiejvve mij dav tjalmostij – láddáduvvama båhtusa sámij varresvuodadilláj. Duodden lip tjadádam fáhkabiejvijt, maŋemus lij miehttseterapija, ja bargge li aj oassálasstám ((duon-dán)$(cmp,hyph-X|duon dán) varresvuodaseminárajn)£(kongr|duojn dájn varresvuodaseminárajn), subtsas prosjevta jådediddje, julevsábme Erling Urheim gut la dájna barggam Valnesvuona varresvuodaguovdátjin dán maŋemus jage.
+Duodden máhtudaklåpptimij barggij gaskan de la varresvuodaguovdásj álgadam (duov-dáv)$(cmp,hyph-X|duov dáv) (mij lulu)£(kongr|mij luluj) sámevuodav buorebut vuosedit. Buojkulvisá dagu låvdagådijt li tsieggim, sáme girjijt girjjevuorkkáj oadtjum, duodjekursajt tjadádam ja (oahpástuvvam sáme værmádahkaj)€(w|oahpásmuvvam sáme værmádahkaj).
 
 Pasienta vuojnni ávkev
 

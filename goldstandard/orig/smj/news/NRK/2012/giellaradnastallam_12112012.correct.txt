@@ -1,7 +1,7 @@
 Giellarádnastallam
 
 
-Gåvådibme:Máná sjiejssiji Ájluovta jávren.
+(Gåvådibme:Máná)$(x|Gåvådibme: Máná) sjiejssiji Ájluovta jávren.
 
 Foto∞(nor): Harrieth Aira/NRK
 Giellarádnastallam la ådå sámegielak fálaldahka mánájda Ájluovtan, Divtasvuonan.
