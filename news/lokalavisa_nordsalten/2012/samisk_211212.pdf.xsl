@@ -5,9 +5,9 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://www.nord-salten.no/no/nyheter/samisk/s-me-varresvuodaf-laldahka-valnesfjord-varresvuodaval-stallamguovd-tjin.10528'"/>
+<xsl:variable name="filename" select="'http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/2012/samisk_211212.pdf'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'áme varresvuodafálaldahka Valnesfjord Varresvuodavalástallamguovdátjin'"/>
+<xsl:variable name="title" select="'Oabme muora vaddi ådå máhtudagáv'"/>
 <xsl:variable name="author1_fn" select="'Kitty'"/>
 <xsl:variable name="author1_ln" select="'Skapalen'"/>
 <xsl:variable name="author1_gender" select="'f'"/>
@@ -36,10 +36,10 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="'news'"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="'nob'"/>
-<xsl:variable name="translator_fn" select="'Divte media'"/>
-<xsl:variable name="translator_ln" select="''"/>
-<xsl:variable name="translator_gender" select="'unknown'"/>
+<xsl:variable name="translated_from" select="'nor'"/>
+<xsl:variable name="translator_fn" select="'Adrian'"/>
+<xsl:variable name="translator_ln" select="'Mikkelsen'"/>
+<xsl:variable name="translator_gender" select="'m'"/>
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="'nor'"/>
 <!-- select license type: free, standard or other -->
@@ -54,15 +54,15 @@
 <xsl:variable name="template_version" select="'$Revision: 64438 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
-<xsl:variable name="note" select="''"/>
+<xsl:variable name="note" select="'norsk bildetekst'"/>
 
 <!-- The main language of the document -->
 <xsl:variable name="mainlang" select="'smj'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-<xsl:variable name="monolingual" select="'1'"/> <!--lg rec is off!-->
-<xsl:variable name="multilingual" select="''"/> <!--this is default-->
+<xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
+<xsl:variable name="multilingual" select="'1'"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
 <!-- selection frame. If no languages are selected, the document is -->
@@ -95,7 +95,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'samisk_helsetilbud_181212.html'"/>
+<xsl:variable name="para_nob" select="'gamle-trar-gir-ny-kunnskap_221212.html'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
