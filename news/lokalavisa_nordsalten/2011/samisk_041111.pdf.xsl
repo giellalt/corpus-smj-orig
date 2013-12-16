@@ -36,12 +36,12 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="'news'"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
-<xsl:variable name="translator_fn" select="''"/>
-<xsl:variable name="translator_ln" select="''"/>
-<xsl:variable name="translator_gender" select="'unknown'"/>
-<xsl:variable name="translator_born" select="''"/>
-<xsl:variable name="translator_nat" select="''"/>
+<xsl:variable name="translated_from" select="'nob'"/>
+<xsl:variable name="translator_fn" select="'Idar'"/>
+<xsl:variable name="translator_ln" select="'Kintel'"/>
+<xsl:variable name="translator_gender" select="'m'"/>
+<xsl:variable name="translator_born" select="'1989'"/>
+<xsl:variable name="translator_nat" select="'nor'"/>
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="''"/>
 <xsl:variable name="sub_name" select="'Inga Mikkelen'"/>
