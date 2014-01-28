@@ -14,7 +14,7 @@ Måj Per Jonasijn
 Ráddnam :)
 
 
-Iehkedis kloahkka gietjan le sámeteahter$(vowc,a-á|sámeteáhter); (byfinnar, lappjävlar och annat pack)∞(swe). Gullam lav ahte le riek buorre ja suohtas teahter$(vowc,a-á|teáhter), ávvudaláv dallutji€(w|dassátjij)!
+Iehkedis kloahkka gietjan le sámeteahter$(vowc,a-á|sámeteáhter); (byfinnar, lappjävlar och annat pack)∞(swe). Gullam lav ahte le riek buorre ja suohtas teahter$(vowc,a-á|teáhter), ávvudaláv dallutji$(x|dallutjij))€(w|dassátjij)!
 Dan maŋŋela le tjiektjamhárjjidallam. Gieron$(vowlat,o-u|Gierun) Sáme Siebrre li stiellim hárjjidallamijt guokti vahkkuj. Dijstagájt le sisbandy ja duorastagájt le bállotjiektjam.
 
 
@@ -74,7 +74,7 @@ Vuoj, man gássjelis le álu dási tjálet¢(conc,l-ll|tjállet). Iv huomaha at�
 Maŋemus¥(missing|Maŋemus bloaggima) rájes lav Divtasvuonan læhkám muhtem biejve, ja dåssju skåvlån årrum. Valla dánna Gierunin muohttegådij vásse duorastagá/bierjedagá$(conc,rj-rjj|bierjjedagá) ijá. Dálla le ållu bedjat ålggon ja nav hávsske!
 
 
-Ittjiv jáhke muohta galgaj bissut, valla ájn le vielggat. Juo máhttep sabegijda tjágŋat, ja idet galgav skejttitjit€(foreign,swe|salostittjat) (aktan Per Jonasin)£(x|Per Jonasa siegen).
+Ittjiv jáhke muohta galgaj bissut, valla ájn le vielggat. Juo máhttep sabegijda tjágŋat, ja idet galgav (skejttitjit$(x|skiejttitjit))€(foreign,swe|salostittjat) (aktan Per Jonasin)£(x|Per Jonasa siegen).
 
 Iehkedis soajttá sjaddá (rail-session)∞(eng) aj.
 
