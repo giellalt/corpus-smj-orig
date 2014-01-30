@@ -10,7 +10,7 @@
 <xsl:variable name="title" select="'Mánnávuoda subtsasrijkka'"/>
 <xsl:variable name="author1_fn" select="'Ronald'"/>
 <xsl:variable name="author1_ln" select="'Urheim'"/>
-<xsl:variable name="author1_gender" select="'mn'"/>
+<xsl:variable name="author1_gender" select="'m'"/>
 <xsl:variable name="author1_nat" select="'nor'"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author2_fn" select="''"/>
