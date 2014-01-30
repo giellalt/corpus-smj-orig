@@ -7,7 +7,7 @@
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://www.sametinget.se/31959'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'Sámedikke Iellembirásprográmma IELLEMBIRÁS'"/>
+<xsl:variable name="title" select="'Sámedikke Iellembirásprográmma IELLEMBIRÁS'"/>
 <xsl:variable name="author1_fn" select="'svenske Sametinget'"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -61,8 +61,8 @@
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-<xsl:variable name="monolingual" select="'1'"/> <!--lg rec is off!-->
-<xsl:variable name="multilingual" select="''"/> <!--this is default-->
+<xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
+<xsl:variable name="multilingual" select="'1'"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
 <!-- selection frame. If no languages are selected, the document is -->
@@ -81,7 +81,7 @@
 <xsl:variable name="mlang_sma" select="''"/>
 <xsl:variable name="mlang_sme" select="''"/>
 <xsl:variable name="mlang_smj" select="''"/>
-<xsl:variable name="mlang_swe" select="''"/>
+<xsl:variable name="mlang_swe" select="'1'"/>
 <xsl:variable name="mlang_oth" select="''"/>
 
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
