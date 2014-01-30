@@ -76,7 +76,7 @@
 <xsl:variable name="mlang_kal" select="''"/>
 <xsl:variable name="mlang_kpv" select="''"/>
 <xsl:variable name="mlang_nno" select="''"/>
-<xsl:variable name="mlang_nob" select="''"/>
+<xsl:variable name="mlang_nob" select="'1'"/>
 <xsl:variable name="mlang_rus" select="''"/>
 <xsl:variable name="mlang_sma" select="''"/>
 <xsl:variable name="mlang_sme" select="''"/>
