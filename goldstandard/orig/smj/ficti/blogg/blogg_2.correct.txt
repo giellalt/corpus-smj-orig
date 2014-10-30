@@ -70,7 +70,7 @@ Mija$(vowlat,a-á|Mijá) årudak.
 
 Muv suohtas rádna!
 
-Mån<3njalggá$(vowc,a-á;vowlat,á-a;conc,lgg-lg|njálga) hamburger
+Mån<3njalggá$(vowc,a-á;conc,lgg-lg;vowlat,á-a|njálga) hamburger
 
 
 
