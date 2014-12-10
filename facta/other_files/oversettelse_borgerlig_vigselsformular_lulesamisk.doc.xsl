@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Format query results for display -->
+<xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
@@ -53,7 +54,7 @@
   <xsl:variable name="mainlang" select="'smj'"/>
   <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-  <xsl:variable name="monolingual" select="''"/>
+  <xsl:variable name="monolingual" select="'1'"/>
   <!--lg rec is off!-->
   <xsl:variable name="multilingual" select="''"/>
   <!--this is default-->
