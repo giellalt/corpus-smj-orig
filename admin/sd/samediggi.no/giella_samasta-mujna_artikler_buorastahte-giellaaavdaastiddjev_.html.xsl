@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
             <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -10,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.samernas.se/vatnoelohkehtajja-slojdlarare-100/?lang=ss'"/>
+    <xsl:variable name="filename" select="'http://www.samedigge.no/Giella/Samasta-mujna/Artikler/Buorastahte-giellaaavdaastiddjev%21'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -39,7 +38,7 @@
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
-    <xsl:variable name="genre" select="'facta'"/>
+    <xsl:variable name="genre" select="'admin'"/>
     <xsl:variable name="collection" select="''"/>
     <xsl:variable name="translated_from" select="''"/>
     <xsl:variable name="translator_fn" select="''"/>
@@ -95,8 +94,10 @@
         <!-- <language xml:lang="smn"/> -->
         <!-- <language xml:lang="sms"/> -->
         <!-- <language xml:lang="swe"/> -->
-    <language xml:lang="smj"/>
-	<language xml:lang="swe"/></xsl:variable>
+    <language xml:lang="nob"/>
+	<language xml:lang="eng"/>
+	<language xml:lang="sme"/>
+	<language xml:lang="smj"/></xsl:variable>
 
     <!-- If the document has parallel texts, uncomment the right languages
          (or add new lines with the right ISO-639-3 language codes) and
@@ -126,7 +127,9 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    </xsl:variable>
+    <parallel_text xml:lang="sma" location="giele_saemesth-munnjien_artikler_aaahpenh-giele-ierieguedtijigujmie!.html"/>
+	<parallel_text xml:lang="nob" location="spraak_snakk-samisk-te-mae_artikler_hils-paa-spraakambassadoerene.html"/>
+	<parallel_text xml:lang="sme" location="giella_samas-muinna_artikler_dearvvat-giellaambassadevrraid!.html"/></xsl:variable>
 
 
     <!--
