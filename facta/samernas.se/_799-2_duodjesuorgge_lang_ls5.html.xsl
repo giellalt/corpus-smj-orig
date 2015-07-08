@@ -125,7 +125,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sme" location="_oahpahusat_duodji__lang_sm5.html"/>
+    <parallel_text xml:lang="sme" location="_oahpahusat_duodji_lang_sm5.html"/>
 	<parallel_text xml:lang="swe" location="_utbildningar_duodji-sameslojdlinje5.html"/></xsl:variable>
 
 

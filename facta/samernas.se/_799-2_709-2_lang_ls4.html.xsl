@@ -125,7 +125,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sme" location="_oahpahusat_doaimmahat-boazodoallu-1-jagi__lang_sm4.html"/>
+    <parallel_text xml:lang="sme" location="_oahpahusat_doaimmahat-boazodoallu-1-jagi_lang_sm4.html"/>
 	<parallel_text xml:lang="swe" location="_utbildningar_boazodoallu-rennaring4.html"/></xsl:variable>
 
 

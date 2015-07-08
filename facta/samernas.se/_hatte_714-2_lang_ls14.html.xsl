@@ -125,7 +125,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sme" location="_bokningarblanketter_orrun__lang_sm14.html"/>
+    <parallel_text xml:lang="sme" location="_bokningarblanketter_orrun_lang_sm14.html"/>
 	<parallel_text xml:lang="swe" location="_bokningarblanketter_boende14.html"/></xsl:variable>
 
 

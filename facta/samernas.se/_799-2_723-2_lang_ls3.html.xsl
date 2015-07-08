@@ -125,7 +125,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sme" location="_oahpahusat_biebmu-sapmelas-biebmokultuvra__lang_sm3.html"/></xsl:variable>
+    <parallel_text xml:lang="sme" location="_oahpahusat_biebmu-sapmelas-biebmokultuvra_lang_sm3.html"/></xsl:variable>
 
 
     <!--

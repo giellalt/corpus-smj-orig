@@ -125,7 +125,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sme" location="_oahpahusat_gaiddusoahpahusat__lang_sm11.html"/>
+    <parallel_text xml:lang="sme" location="_oahpahusat_gaiddusoahpahusat_lang_sm11.html"/>
 	<parallel_text xml:lang="swe" location="_utbildningar_distansutbildningar11.html"/></xsl:variable>
 
 

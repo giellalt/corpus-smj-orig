@@ -125,7 +125,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sme" location="_oahpahusat_geassegursser__lang_sm8.html"/>
+    <parallel_text xml:lang="sme" location="_oahpahusat_geassegursser_lang_sm8.html"/>
 	<parallel_text xml:lang="swe" location="_utbildningar_geasse-sommarkurser8.html"/></xsl:variable>
 
 
