@@ -125,7 +125,17 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sma" location="ppt_sorsamisk_faktaark.pdf"/></xsl:variable>
+    <parallel_text xml:lang="sma" location="ppt_sorsamisk_faktaark.pdf"/>
+	<parallel_text xml:lang="ara" location="ppt_arabisk_faktaark.pdf"/>
+	<parallel_text xml:lang="ckb" location="ppt_sorani_faktaark.pdf"/>
+	<parallel_text xml:lang="eng" location="ppt_engelsk_faktaark.pdf"/>
+	<parallel_text xml:lang="fra" location="ppt_fransk_faktaark.pdf"/>
+	<parallel_text xml:lang="nob" location="ppt_norsk_bokmal_faktaark.pdf"/>
+	<parallel_text xml:lang="rus" location="ppt_russisk_faktaark.pdf"/>
+	<parallel_text xml:lang="sme" location="ppt_nordsamisk_faktaark.pdf"/>
+	<parallel_text xml:lang="tur" location="ppt_tyrkisk_faktaark.pdf"/>
+	<parallel_text xml:lang="urd" location="ppt_urdu_faktaark.pdf"/>
+	<parallel_text xml:lang="vie" location="ppt_vietnamesisk_faktaark.pdf"/></xsl:variable>
 
 
     <!--
