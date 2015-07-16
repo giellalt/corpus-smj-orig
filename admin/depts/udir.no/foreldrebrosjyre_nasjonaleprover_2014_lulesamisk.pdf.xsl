@@ -67,7 +67,7 @@
     <!-- In the case of a multilingual document, we may want to check for
          other languages. Set the variable monolingual to '1' to turn off
          language recognition (treating everything as mainlang) -->
-    <xsl:variable name="monolingual" select="''"/>
+    <xsl:variable name="monolingual" select="'1'"/>
 
     <!-- If monolingual is not set, the document is multilingual.
          Uncomment the languages you want to check for (or add new lines
@@ -125,7 +125,10 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sma" location="foreldrebrosjyre_nasjonaleprover_2014_sorsamisk.pdf"/></xsl:variable>
+    <parallel_text xml:lang="sma" location="foreldrebrosjyre_nasjonaleprover_2014_sorsamisk.pdf"/>
+	<parallel_text xml:lang="sme" location="foreldrebrosjyre_nasjonaleprover_2014_nordsamisk.pdf"/>
+	<parallel_text xml:lang="nno" location="foreldrebrosjyre-nasjonaleprover-2014-bm-nn.pdf"/>
+	<parallel_text xml:lang="nob" location="foreldrebrosjyre-nasjonaleprover-2014-bm-nn.pdf"/></xsl:variable>
 
 
     <!--
