@@ -125,7 +125,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sma" location="laererbrosjyre_ss.pdf"/></xsl:variable>
+    <parallel_text xml:lang="sma" location="laererbrosjyre_ss.pdf"/>
+	<parallel_text xml:lang="sme" location="laererbrosjyre_ns.pdf"/></xsl:variable>
 
 
     <!--
