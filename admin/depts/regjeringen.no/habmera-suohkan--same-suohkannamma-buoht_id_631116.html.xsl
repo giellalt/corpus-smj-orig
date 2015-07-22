@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/fad/pressesenter/preassadieahusat/2011/291-miljovnna-raehuskoartila-lassigoluid.html?id=659567'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/krd/Preassaguovdda/Preassadieahusat/2011/habmera-suohkan--same-suohkannamma-buoht.html?id=631116'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'291 miljovnna Ráđđehuskoartila lassigoluide - regjeringen.no'"/>
+<xsl:variable name="title" select="'Hábmera suohkan – sáme suohkannamma buohtalakkoj - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -36,7 +36,7 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="'admin'"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
+<xsl:variable name="translated_from" select="'nob'"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
@@ -46,12 +46,9 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'1219'"/>
-<!-- Set this variable to 1 if the source for this doc is OCR -->
-<!-- Those docs typically contain lots of orthographic errors and need special treatment -->
-<xsl:variable name="ocr" select="''"/>
+<xsl:variable name="wordcount" select="'186'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
-<xsl:variable name="template_version" select="'$Revision: 48460 $'"/>
+<xsl:variable name="template_version" select="'$Revision: 34357 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
@@ -72,9 +69,7 @@
      then the document is checked for all supported languages.
 -->
 <xsl:variable name="mlangs">
-	<language xml:lang="sma"/>
-	<language xml:lang="sme"/>
-	<language xml:lang="smj"/>
+	<language xml:lang="nob"/>
 </xsl:variable>
 
 <!-- Add the locations of the parallel files to the variables-->
@@ -90,17 +85,15 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="291-millioner-til-ekstrakostnader-i-regj.html_id=659567" xml:lang="nob"/>
-	<parallel_text location="291-miljovnna-raehuskoartila-lassigoluid.html_id=659567" xml:lang="sma"/>
-	<parallel_text location="291-miljovnna-raehuskoartila-lassigoluid.html_id=659567" xml:lang="sme"/>
+	<parallel_text location="hamaroy-kommune--samisk-parallellnamn-for-kommunen.html_id=631116" xml:lang="nno"/>
 </xsl:variable>
 
-<!-- Add all paragraphs that should have xml:lang=X           -->
-<!-- Uncomment the following and add the paths, for example:  -->
+<!-- Add all paragraphs that should have xml:lang=X-->
+<!-- Uncomment the following and add the paths, for example: -->
 <!-- <xsl:template match="/root/section[2]/paragraph[5] |
-                      /root/section[3]/paragraph[2] ">        -->
+                      /root/section[3]/paragraph[2] "> -->
 <!--
-<xsl:template match="//body/p[5]">
+<xsl:template match="">
 	<xsl:element name="p">
 	<xsl:attribute name="xml:lang">
 		<xsl:value-of select="$smelang"/>
@@ -110,40 +103,33 @@
  </xsl:template>
 -->
 
-<!-- Change or remove problematic characters from the text.   -->
-<!-- Specify the elements to match (here all p's within       -->
-<!-- //body, that do contain text, but do NOT contain em and  -->
-<!-- span elements), and specify the characters               -->
-<!-- to be replaced and the replacements. If needed,          -->
-<!-- copy this template and target several different elements,-->
-<!-- but don't make several templates that match the same set -->
-<!-- of elements - then only one of them will apply. Also try -->
-<!-- to restrict the template to nodes that do not contain    -->
-<!-- other markup, as such markup otherwise will be removed.  -->
+<!-- Change or remove problematic characters from the text. -->
+<!-- add the template to match (here all p:s), and write the -->
+<!-- replaced characters and the replacements. -->
 <!--
-<xsl:template match="p[parent::body][not(./em | ./span)][text()]">
-    <xsl:variable name="text" select='current()' />
-    <xsl:variable name="type" select='@type' />
-    <xsl:variable name="lang" select='@xml:lang' />
-    <xsl:element name="p">
-        <xsl:if test="$type">
+<xsl:template match="p">
+<xsl:variable name="text" select='current()' />
+<xsl:variable name="type" select='@type' />
+<xsl:variable name="lang" select='@xml:lang' />
+<xsl:element name="p">
+            <xsl:if test="$type">
             <xsl:attribute name="type">
-                <xsl:value-of select="$type"/>
+            <xsl:value-of select="$type"/>
             </xsl:attribute>
-        </xsl:if>
-        <xsl:if test="$lang">
+            </xsl:if>
+            <xsl:if test="$lang">
             <xsl:attribute name="xml:lang">
-                <xsl:value-of select="$lang"/>
+            <xsl:value-of select="$lang"/>
             </xsl:attribute>
-        </xsl:if>
+            </xsl:if>
 
-        <xsl:call-template name="globalTextReplace">
-           <xsl:with-param name="inputString" select="$text"/>
-           <xsl:with-param name="target" select="'str1/str2/str3/'"/>
-           <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
-           <xsl:with-param name="continue" select="0"/>
-        </xsl:call-template>
-    </xsl:element>
+            <xsl:call-template name="globalTextReplace">
+               <xsl:with-param name="inputString" select="$text"/>
+               <xsl:with-param name="target" select="'str1/str2/str3/'"/>
+               <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
+                <xsl:with-param name="continue" select="0"/>
+            </xsl:call-template>
+</xsl:element>
 </xsl:template>
 -->
 
