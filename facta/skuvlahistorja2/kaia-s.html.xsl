@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://skuvla.info/skolehist/kalle-s.htm'"/>
-<xsl:variable name="title" select="'Åhpadibme julevsámegiellaj dárojduhttemájgen'"/>
+<xsl:variable name="filename" select="'http://skuvla.info/skolehist/kaia-s.htm'"/>
+<xsl:variable name="title" select="'- Dan ájge ulmusj'"/>
 <xsl:variable name="author1_fn" select="'Svein'"/>
 <xsl:variable name="author1_ln" select="'Lund'"/>
 <xsl:variable name="author1_gender" select="'m'"/>
@@ -43,9 +43,9 @@
 <xsl:variable name="translator_nat" select="'NO'"/>
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="'free'"/>
-<xsl:variable name="sub_name" select="'Børre Gaup'"/>
-<xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'750'"/>
+<xsl:variable name="sub_name" select="''"/>
+<xsl:variable name="sub_email" select="''"/>
+<xsl:variable name="wordcount" select="'2638'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="'$Revision: 32948 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
@@ -57,7 +57,7 @@
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-<xsl:variable name="monolingual" select="'1'"/> <!-- checked for all the languages below. -->
+<xsl:variable name="monolingual" select="''"/> <!-- checked for all the languages below. -->
 
 
 <!-- If monolingual is not set, the language is multilingual.
@@ -83,7 +83,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="kalle-n.htm" xml:lang="nno"/>
+	<parallel_text location="kaia-n.htm" xml:lang="nno"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X-->
@@ -104,11 +104,11 @@
 <!-- Change or remove problematic characters from the text. -->
 <!-- add the template to match (here all p:s), and write the -->
 <!-- replaced characters and the replacements. -->
-<!--
+
 <xsl:template match="p">
-<xsl:variable name="text" select='current()' />
-<xsl:variable name="type" select='@type' />
-<xsl:variable name="lang" select='@xml:lang' />
+<xsl:variable name="text" select="current()"/>
+<xsl:variable name="type" select="@type"/>
+<xsl:variable name="lang" select="@xml:lang"/>
 <xsl:element name="p">
             <xsl:if test="$type">
             <xsl:attribute name="type">
@@ -123,12 +123,11 @@
 
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'str1/str2/str3/'"/>
-               <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
+               <xsl:with-param name="target" select="'ñ/'"/>
+               <xsl:with-param name="replacement" select="'ŋ/'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>
 </xsl:template>
--->
 
 </xsl:stylesheet>
