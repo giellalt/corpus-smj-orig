@@ -92,7 +92,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="fylkesmannsembete-gis-en-styrket-rolle-o.html_id=682371" xml:lang="nno"/>
 	<parallel_text location="fylkesmannsembete-gis-en-styrket-rolle-o.html_id=682371" xml:lang="nob"/>
-	<parallel_text location="fylkamannaj-vatteduvva-nannusap-roalla-n.html_id=682371" xml:lang="sma"/>
+	<parallel_text location="fylkamannaj-vatteduvva-nannusap-roalla-n_id_682371.html" xml:lang="sma"/>
 	<parallel_text location="fylkamannaj-vatteduvva-nannusap-roalla-n.html_id=682371" xml:lang="sme"/>
 </xsl:variable>
 

@@ -90,7 +90,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="mer-penger-til-behandling-av-klagesaker.html_id=659579" xml:lang="nob"/>
-	<parallel_text location="eanet-ruat-vaidalusaiid-meannudeapmai.html_id=659579" xml:lang="sma"/>
+	<parallel_text location="eanet-ruat-vaidalusaiid-meannudeapmai_id_659579.html" xml:lang="sma"/>
 	<parallel_text location="eanet-ruat-vaidalusaiid-meannudeapmai.html_id=659579" xml:lang="sme"/>
 </xsl:variable>
 

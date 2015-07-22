@@ -92,7 +92,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="lettere-a-fa-dagpenger-for-delvis-permit.html_id=682364" xml:lang="nno"/>
 	<parallel_text location="lettere-a-fa-dagpenger-for-delvis-permit.html_id=682364" xml:lang="nob"/>
-	<parallel_text location="alkkep-oadtjot-bargodisvuodarudajt-ga-le.html_id=682364" xml:lang="sma"/>
+	<parallel_text location="alkkep-oadtjot-bargodisvuodarudajt-ga-le_id_682364.html" xml:lang="sma"/>
 	<parallel_text location="alkkep-oadtjot-bargodisvuodarudajt-ga-le.html_id=682364" xml:lang="sme"/>
 </xsl:variable>
 

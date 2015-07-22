@@ -92,7 +92,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="historisk-lovreform-for-den-norske-kyrkj.html_id=675397" xml:lang="nno"/>
 	<parallel_text location="historisk-lovreform-for-den-norske-kirke.html_id=675397" xml:lang="nob"/>
-	<parallel_text location="norgga-girku-historjjala-lahkaoastus.html_id=675397" xml:lang="sma"/>
+	<parallel_text location="norgga-girku-historjjala-lahkaoastus_id_675397.html" xml:lang="sma"/>
 	<parallel_text location="norgga-girku-historjjala-lahkaoastus.html_id=675397" xml:lang="sme"/>
 </xsl:variable>
 
