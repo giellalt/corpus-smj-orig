@@ -160,8 +160,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="digitale-tjenester-til-innbyggerne-innen.html_id=706691" xml:lang="nob"/>
-	<parallel_text location="2013-kulturbueahtta--finnmarku.html_id=707179" xml:lang="sme"/>
+	<parallel_text location="digitale-tjenester-til-innbyggerne-innen_id_706691.html" xml:lang="nob"/>
+	<parallel_text location="2013-kulturbueahtta--finnmarku_id_707179.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 930560ee28 (Lule Saami regjeringen.no doc renamed, metadata updated in parallel files)
 

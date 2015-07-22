@@ -90,9 +90,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="bevilgninger-til-samiske-formal.html_id=659576" xml:lang="nob"/>
+	<parallel_text location="bevilgninger-til-samiske-formal_id_659576.html" xml:lang="nob"/>
 	<parallel_text location="juolludeamit-sami-ulbmiliidda_id_659576.html" xml:lang="sma"/>
-	<parallel_text location="juolludeamit-sami-ulbmiliidda.html_id=659576" xml:lang="sme"/>
+	<parallel_text location="juolludeamit-sami-ulbmiliidda_id_659576.html" xml:lang="sme"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->

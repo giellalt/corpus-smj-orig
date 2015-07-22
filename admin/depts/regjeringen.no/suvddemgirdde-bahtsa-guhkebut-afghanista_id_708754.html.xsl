@@ -157,7 +157,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="transportflyet-blir-varende-lenger-i-afg.html_id=708754" xml:lang="nob"/>
+	<parallel_text location="transportflyet-blir-varende-lenger-i-afg_id_708754.html" xml:lang="nob"/>
 </xsl:variable>
 >>>>>>> 930560ee28 (Lule Saami regjeringen.no doc renamed, metadata updated in parallel files)
 

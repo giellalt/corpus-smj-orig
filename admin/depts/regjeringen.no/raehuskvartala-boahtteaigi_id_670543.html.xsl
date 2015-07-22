@@ -5,9 +5,9 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/ad/preassaguovdda/preassadieahusat/2012/fylkamannaj-vatteduvva-nannusap-roalla-n.html?id=682371'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/fad/preassaguovdda/preassadieahusat/2012/raehuskvartala-boahtteaigi.html?id=670543'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'Fylkkamánneámmát  oažžu stuorit rolla NAV-geavaheddjiid ektui - regjeringen.no'"/>
+<xsl:variable name="title" select="'Ráđđehuskvartála boahtteáigi - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -46,7 +46,7 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'622'"/>
+<xsl:variable name="wordcount" select="'870'"/>
 <!-- Set this variable to 1 if the source for this doc is OCR -->
 <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
 <xsl:variable name="ocr" select="''"/>
@@ -90,10 +90,11 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="fylkesmannsembete-gis-en-styrket-rolle-o_id_682371.html" xml:lang="nno"/>
-	<parallel_text location="fylkesmannsembete-gis-en-styrket-rolle-o_id_682371.html" xml:lang="nob"/>
-	<parallel_text location="fylkamannaj-vatteduvva-nannusap-roalla-n_id_682371.html" xml:lang="sma"/>
-	<parallel_text location="fylkamannaj-vatteduvva-nannusap-roalla-n_id_682371.html" xml:lang="sme"/>
+	<parallel_text location="the-future-of-the-norwegian-government-q_id_670543.html" xml:lang="eng"/>
+	<parallel_text location="regjeringskvartalets-framtid-2_id_670543.html" xml:lang="nno"/>
+	<parallel_text location="rkv_id_670543.html" xml:lang="nob"/>
+	<parallel_text location="raehuskvartala-boahtteaigi_id_670543.html" xml:lang="sma"/>
+	<parallel_text location="raehuskvartala-boahtteaigi_id_670543.html" xml:lang="sme"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->

@@ -155,10 +155,10 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="yrkesskadereform.html_id=682373" xml:lang="nno"/>
-	<parallel_text location="yrkesskadereform.html_id=682373" xml:lang="nob"/>
+	<parallel_text location="yrkesskadereform_id_682373.html" xml:lang="nno"/>
+	<parallel_text location="yrkesskadereform_id_682373.html" xml:lang="nob"/>
 	<parallel_text location="virggevahagahttemadastus_id_682373.html" xml:lang="sma"/>
-	<parallel_text location="virggevahagahttemadastus.html_id=682373" xml:lang="sme"/>
+	<parallel_text location="virggevahagahttemadastus_id_682373.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 930560ee28 (Lule Saami regjeringen.no doc renamed, metadata updated in parallel files)
 

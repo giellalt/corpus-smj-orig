@@ -157,7 +157,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="humlegard-blir-ny-politidirektor-.html_id=708441" xml:lang="nob"/>
+	<parallel_text location="humlegard-blir-ny-politidirektor-_id_708441.html" xml:lang="nob"/>
 </xsl:variable>
 >>>>>>> 930560ee28 (Lule Saami regjeringen.no doc renamed, metadata updated in parallel files)
 

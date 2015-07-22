@@ -160,7 +160,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="auke-pa-nar-115-millionar-kroner-til-sce.html_id=701355" xml:lang="nno"/>
+	<parallel_text location="auke-pa-nar-115-millionar-kroner-til-sce_id_701355.html" xml:lang="nno"/>
 </xsl:variable>
 >>>>>>> 930560ee28 (Lule Saami regjeringen.no doc renamed, metadata updated in parallel files)
 

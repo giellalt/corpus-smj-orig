@@ -159,7 +159,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="avtale-sikrer-norsk-personell-i-utlandet.html_id=708369" xml:lang="nob"/>
+	<parallel_text location="avtale-sikrer-norsk-personell-i-utlandet_id_708369.html" xml:lang="nob"/>
 </xsl:variable>
 >>>>>>> 930560ee28 (Lule Saami regjeringen.no doc renamed, metadata updated in parallel files)
 
