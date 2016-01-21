@@ -12,7 +12,7 @@ Valla akta udnásj NSR:a sámedikkeájrrasijs, Miriam Paulsen, la galla mierreda
 
 Sihtá ietjas lagámusájt vuorodit
 
-Paulsen gut guokta ájggegávda$(cmp,nom-gen|ájgegávda) la Sámedikken tjåhkkåham dåbddå dárbov båddåj politihkas.
+Paulsen gut guokta ájggegávda¢(cmp,nom-gen|ájgegávda) la Sámedikken tjåhkkåham dåbddå dárbov båddåj politihkas.
 
 – Iv mån hálijda joarkket sámedikkeájrrasin. Sivva l gå hálijdav vuorodit ietjam familjav. Mån lav ham oadtjum guokta máná oanegis ájgen, ja hálijdav vuorodit ietjam lagámusájt. Mån doajvov nágin ietjes gut politihkalasj bargguj astijt, diedet ietjas kandidáhttan, javllá Miriam Paulsen.
 
@@ -28,7 +28,7 @@ Sálto sámesiebren le sebrulasjtjåhkanibme dán lávvodagá gånnå galggi sá
 
 Siebre jådediddje Hugo Kalstad, ij hálijda almodit majdik dálla javllá sån NRK:aj$(suf|NRK:j).
 
-Valla ((nav gåk NRK dádjat lulu åvdep sámedikkepresidenta Sven Roald Nystø:a$(suf|Nystøa) niehpe)£(kongr|nav gåk NRK dádjat luluj åvdep sámedikkepresidenta Sven Roald Nystøa niehpe))¥(missing|nav gåk NRK dádjat de luluj åvdep sámedikkepresidenta Sven Roald Nystøa niehpe), nuorra ja Sálto sámesiebre stivraájras$(cmp,gen-nom|stivrraájras), Sandra Nystø Ráhka jali Sálto sámesiebre jådediddje Hugo Kalstad, guovtes gudi luluba$(fin,ba-ga,lulujga) lisstakandidáhta.
+Valla ((nav gåk NRK dádjat lulu åvdep sámedikkepresidenta Sven Roald Nystø:a$(suf|Nystøa) niehpe)£(kongr|nav gåk NRK dádjat luluj åvdep sámedikkepresidenta Sven Roald Nystøa niehpe))¥(missing|nav gåk NRK dádjat de luluj åvdep sámedikkepresidenta Sven Roald Nystøa niehpe), nuorra ja Sálto sámesiebre stivraájras¢(cmp,gen-nom|stivrraájras), Sandra Nystø Ráhka jali Sálto sámesiebre jådediddje Hugo Kalstad, guovtes gudi luluba$(fin,ba-ga,lulujga) lisstakandidáhta.
 
 Ij ga Miriam Paulsen sidá nammadit suv tjuovvov.
 
@@ -36,7 +36,7 @@ Ij ga Miriam Paulsen sidá nammadit suv tjuovvov.
 
 NSR:an$(suf|NSR:n) li uddni gålmmå ájrrasa Sámedikken ja Barggijbelludagán guokta, aktij vihtta ájrrasa Viestarmera válggabijran.
 
-Boahtte sámedikkeválggaj$(cmp,gen-nom|sámediggeválggaj) bessi dåssju nieljes sisi dát válggabijras.
+Boahtte sámedikkeválggaj¢(cmp,gen-nom|sámediggeválggaj) bessi dåssju nieljes sisi dát válggabijras.
 
 Dan diehti sjattasj stuoráp gilpustallam listaj gaskan (gudi lulu Sámediggáj bessat)£(kongr|gudi lulun Sámediggáj bessat).
 
