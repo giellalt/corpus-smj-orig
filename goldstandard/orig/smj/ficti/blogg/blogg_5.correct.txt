@@ -91,7 +91,7 @@ Kinesisk∞(nor)
 Ieŋŋilsk$(fin,sk-s|Ieŋŋils)
 giella¥0
 (Fránsska¢(conc,nssk-nsk|Fránska) giella)¢(cmp,X-1|Fránskagiella)
-(Dusska$(conc,ssk-sjk|Dujska)
+(Dusska¢(conc,ssk-sjk|Dujska)
 giella)¢(cmp,X-1|Dujskagiella)
 (Suoma
 giella)¢(cmp,X-1|Suomagiella)
