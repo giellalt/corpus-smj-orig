@@ -4,7 +4,7 @@
 – Sihke nuorajn ja vuorasappujn$(conc,r-rr|vuorrasappujn) ålles rijkan li varresvuoda dárbo ma vierttiji gåtseduvvat, javllá Inga Karlsen. (Tjuorgasgåvvå)
 
 (Foto: LARTIGUE STEPHANE/PHOTOPQR/SUD OUEST)∞(mix)
-Sáme nasjonálalasj máhtudakguovdásj psykalasj$(conc,k-hk|psyhkalasj) varresvuodan ((SANKS) lulu)£(kongr|(SANKS) luluj) sjaddat fálaldahka dåssju Finnmárkogijda. – Vájves sága, javllá Inga Karlsen, Divtasvuonas.
+Sáme nasjonálalasj máhtudakguovdásj psykalasj varresvuodan ((SANKS) lulu)£(kongr|(SANKS) luluj) sjaddat fálaldahka dåssju Finnmárkogijda. – Vájves sága, javllá Inga Karlsen, Divtasvuonas.
 
 Vil uddni máhtti sáme ålles vuonarijkas oadtjot (SANKS-as)$(suf|SANKS:s) dálkudimfálaldagájt jus dav hálijdi, valla boahtte jage rájes (lulu láhkanjuolgadus)£(kongr|luluj láhkanjuolgadus) rievddat dáv. Boahtte jage rájes viertti SANKS åhtsåt fállat juogu nasjonálalasj máhtudakfálaldagájt jali nasjonálalasj máhtudakfálaldagájt ja moaddeguovloj$(mix|moatteguovluk) dálkudimfálaldagájt. 
 Lågå: – (SANKS-kutt en skandale)∞(nor)
@@ -21,8 +21,8 @@ Ij des sjattatja fálaldahka ålles rijkkaj
 
 Dát la SÁNAG (SANKS)
 
-Sáme nasjonálalasj máhtudakguovdásj – psykalasj$(conc,k-hk|psyhkalasj) varresvuodan (SÁNAG).
-La nasjonálalasj åvdåsvásstádus åvddånahttet avtaárvvusasj varresvuodafálaldagájt psykalasj$(conc,k-hk|psyhkalasj) varresvuodan.
+Sáme nasjonálalasj máhtudakguovdásj – psykalasj varresvuodan (SÁNAG).
+La nasjonálalasj åvdåsvásstádus åvddånahttet avtaárvvusasj varresvuodafálaldagájt psykalasj varresvuodan.
 Sáme máhtti oadtjot SÁNAG:is$(suf|SÁNAG:s) dálkudimfálaldagájt jus dav ietja hálijdi.
 SÁNAG-in$(suf|SÁNAG:n) la: ållessjattugijda åssudak, åssudak mánájda ja nuorajda ja dutkam-ja$(cmp,1-X|dutkam- ja) åvddånahttemåssudak.
 Gálldo: Helse Finnmark
