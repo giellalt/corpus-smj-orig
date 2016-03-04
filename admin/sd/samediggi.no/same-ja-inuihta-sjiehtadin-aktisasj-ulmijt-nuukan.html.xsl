@@ -129,7 +129,7 @@
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text xml:lang="sma" location="saemieh-jih-inuihth-siemes-tjaaenghkies-ulmiej-bijre-nuuk-sne.html"/>
 	<parallel_text xml:lang="nob" location="samer-og-inuitter-enige-om-felles-maalsettinger-i-nuuk.html"/>
-	<parallel_text xml:lang="sme" location="samit-ja-inuihtat-sohpe-oktasas-mihttomeriid-nuuk-s.html"/></xsl:variable>
+	<parallel_text xml:lang="sme" location=""/></xsl:variable>
 
 
     <!--
