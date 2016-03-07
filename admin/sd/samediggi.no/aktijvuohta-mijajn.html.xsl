@@ -127,8 +127,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sma" location="byjrese-areale-jih-kultuvrevarjelimmie_saemien-gaaetievaarjelimmie_gaskesadth-mijjine.html"/>
-	<parallel_text xml:lang="nob" location="miljoe-areal-og-kulturvern_samisk-bygningsvern_kontakt-oss.html"/>
+    <parallel_text xml:lang="sma" location=""/>
+	<parallel_text xml:lang="nob" location=""/>
 	<parallel_text xml:lang="sme" location="valdde-oktavuoda-minguin.html"/></xsl:variable>
 
 

@@ -127,9 +127,9 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sma" location="laante-jih-vierhtiereaktah_goeoelemereakta_voenges-reereme-goeoelemistie-deatnusne_voenges-reereme-goeoelemistie-deatnusne.html"/>
-	<parallel_text xml:lang="nob" location="land-og-ressursrettigheter_fiskerettigheter_lokal-forvaltning-av-fiske-i-tana_lokal-forvaltning-av-fiske-i-tana.html"/>
-	<parallel_text xml:lang="sme" location="eatnan-ja-resursavuoigatvuodat_bivdovuoigatvuohta_guolasteami-baikkalas-halddaseapmi-deanus_guolasteami-baikkalas-halddaseapmi-deanus.html"/></xsl:variable>
+    <parallel_text xml:lang="sma" location=""/>
+	<parallel_text xml:lang="nob" location=""/>
+	<parallel_text xml:lang="sme" location=""/></xsl:variable>
 
 
     <!--

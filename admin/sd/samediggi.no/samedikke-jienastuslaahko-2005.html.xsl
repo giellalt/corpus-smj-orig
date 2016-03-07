@@ -9,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.samedigge.no/Biras-arealla-ja-kultursuodjalus/Areala/Samedikke-pladnabagadus/Samedikke-pladnabagadus'"/>
+    <xsl:variable name="filename" select="'http://www.samedigge.no/layout/set/print/Valgga/Kampanjeside/Jienastuslaahko/Samedikke-jienastuslaahko-2005'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -127,9 +127,9 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sma" location="saemiedigkien-soejkesjebihkedaejja.html"/>
-	<parallel_text xml:lang="nob" location="miljoe-areal-og-kulturvern_areal_sametinget-planveileder_sametinget-planveileder.html"/>
-	<parallel_text xml:lang="sme" location="biras-areala-ja-kultursuodjaleapmi_areala_samedikki-planaveahkki_samedikki-planaveahkki.html"/></xsl:variable>
+    <parallel_text xml:lang="sma" location="saemiedigkien-veeljemelaahkosne-2005.html"/>
+	<parallel_text xml:lang="nob" location="sametingets-valgmanntall-2005.html"/>
+	<parallel_text xml:lang="sme" location="samedikki-jienastuslohku-2005.html"/></xsl:variable>
 
 
     <!--

@@ -9,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.samedigge.no/Giella/Samasta-mujna/Artikler/Buorastahte-giellaaavdaastiddjev%21'"/>
+    <xsl:variable name="filename" select="'http://www.samedigge.no/layout/set/print/Ednam-ja-resurssarievtesvuodaj/Karttim/Finnmarkokommisjaavnaan'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -127,9 +127,9 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sma" location="giele_saemesth-munnjien_artikler_aaahpenh-giele-ierieguedtijigujmie_.html"/>
-	<parallel_text xml:lang="nob" location="spraak_snakk-samisk-te-mae_artikler_hils-paa-spraakambassadoerene.html"/>
-	<parallel_text xml:lang="sme" location="giella_samas-muinna_artikler_dearvvat-giellaambassadevrraid_.html"/></xsl:variable>
+    <parallel_text xml:lang="sma" location="finnmaarhkekommisjovne.html"/>
+	<parallel_text xml:lang="nob" location="finnmarkskommisjonen.html"/>
+	<parallel_text xml:lang="sme" location="finnmarkokommisuvdna.html"/></xsl:variable>
 
 
     <!--

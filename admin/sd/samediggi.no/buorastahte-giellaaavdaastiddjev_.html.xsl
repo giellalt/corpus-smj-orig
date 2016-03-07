@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
             <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -10,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.samedigge.no/Ednam-ja-resurssarievtesvuodaj/Karttim/Finnmarkokommisjaavnaan/Finnmarko-miehttseduobmostaavllaa'"/>
+    <xsl:variable name="filename" select="'http://www.samedigge.no/layout/set/print/Giella/Samasta-mujna/Artikler/Buorastahte-giellaaavdaastiddjev%21'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -128,9 +127,9 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sma" location="laante-jih-vierhtiereaktah_goerehtalleme_finnmaarhkekommisjovne_finnmaarhken-miehtjiesdajvedaaapmestovle.html"/>
-	<parallel_text xml:lang="nob" location="land-og-ressursrettigheter_kartlegging_finnmarkskommisjonen_utmarksdomstolen-for-finnmark.html"/>
-	<parallel_text xml:lang="sme" location="eatnan-ja-resursavuoigatvuodat_karten_finnmarkokommisuvdna_finnmarkku-meahcceduopmostuollu.html"/></xsl:variable>
+    <parallel_text xml:lang="sma" location="aaahpenh-giele-ierieguedtijigujmie_.html"/>
+	<parallel_text xml:lang="nob" location="hils-paa-spraakambassadoerene.html"/>
+	<parallel_text xml:lang="sme" location="dearvvat-giellaambassadevrraid_.html"/></xsl:variable>
 
 
     <!--

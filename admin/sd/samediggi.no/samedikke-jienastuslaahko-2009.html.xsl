@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
             <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -10,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.samedigge.no/Biras-arealla-ja-kultursuodjalus/Energija-ja-minerala/Samedikke-minerallabagadus'"/>
+    <xsl:variable name="filename" select="'http://www.samedigge.no/layout/set/print/Valgga/Kampanjeside/Jienastuslaahko/Samedikke-jienastuslaahko-2009'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -128,9 +127,9 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sma" location="byjrese-areale-jih-kultuvrevarjelimmie_energije-jih-mineraalh_saemiedigkien-mineraalebihkedaejja.html"/>
-	<parallel_text xml:lang="nob" location="miljoe-areal-og-kulturvern_energi-og-mineraler_sametinget-mineralveileder.html"/>
-	<parallel_text xml:lang="sme" location="biras-areala-ja-kultursuodjaleapmi_energiija-ja-mineralat_samedikki-mineralaveahkki.html"/></xsl:variable>
+    <parallel_text xml:lang="sma" location="saemiedigkien-veeljemelaahkose-2009.html"/>
+	<parallel_text xml:lang="nob" location="sametingets-valgmanntall-2009.html"/>
+	<parallel_text xml:lang="sme" location="samedikki-jienastuslohku-2009.html"/></xsl:variable>
 
 
     <!--

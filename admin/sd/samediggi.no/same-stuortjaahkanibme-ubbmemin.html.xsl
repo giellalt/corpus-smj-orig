@@ -129,7 +129,7 @@
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text xml:lang="sma" location=""/>
 	<parallel_text xml:lang="nob" location="samisk-stormoete-i-umeaa.html"/>
-	<parallel_text xml:lang="sme" location="riikkaidgaskasas-bargu_sami-ovttasbargu_samisk-stormoete-i-umeaa.html"/></xsl:variable>
+	<parallel_text xml:lang="sme" location="samisk-stormoete-i-umeaa.html"/></xsl:variable>
 
 
     <!--

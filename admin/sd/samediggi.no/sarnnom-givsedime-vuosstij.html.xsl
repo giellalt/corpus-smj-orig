@@ -127,7 +127,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sma" location="lierehtimmie_manifeeste-irhkemen-voeoeste.html"/>
+    <parallel_text xml:lang="sma" location="manifeeste-irhkemen-voeoeste.html"/>
 	<parallel_text xml:lang="nob" location="arbeidet-mot-mobbing.html"/>
 	<parallel_text xml:lang="sme" location="julggastus-givssideami-vuosta.html"/></xsl:variable>
 
