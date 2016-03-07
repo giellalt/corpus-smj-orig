@@ -5,7 +5,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.samedigge.no/layout/set/print/Ednam-ja-resurssarievtesvuodaj/Guollimriekta/Merragaddenammadus/Kystfiskeutvalgets-innstilling'"/>
+    <xsl:variable name="filename" select="'http://www.samedigge.no/layout/set/print/Ednam-ja-resurssarievtesvuodaj/Guollimriekta/Merragaddenammadus/Merragaddeguollimnammadusa-maerradusarvvalussaj'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -120,7 +120,9 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="" xml:lang="nob"/>
+    <parallel_text location="eatnan-ja-resursavuoigatvuodat_bivdovuoigatvuohta_riddoguolastanlavdegotti_riddoguolastanlavdegotti.html" xml:lang="sme"/>
+<parallel_text location="kystfiskeutvalgets-innstilling.html" xml:lang="nob"/>
+<parallel_text location="kystfiskeutvalgets-innstilling.html" xml:lang="sma"/>
 </xsl:variable>
 
 
