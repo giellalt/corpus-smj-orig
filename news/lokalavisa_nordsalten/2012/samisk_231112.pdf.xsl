@@ -1,17 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://www.samediggi.se/31959'"/>
+<xsl:variable name="filename" select="'http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/2012/samisk_231112.pdf'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'Sámedikke Iellembirásprográmma IELLEMBIRÁS'"/>
-<xsl:variable name="author1_fn" select="'svenske Sametinget'"/>
-<xsl:variable name="author1_ln" select="''"/>
-<xsl:variable name="author1_gender" select="'unknown'"/>
-<xsl:variable name="author1_nat" select="''"/>
+<xsl:variable name="title" select="'Divtasvuodna åvddåla'"/>
+<xsl:variable name="author1_fn" select="'Børge'"/>
+<xsl:variable name="author1_ln" select="'Strandskog'"/>
+<xsl:variable name="author1_gender" select="'m'"/>
+<xsl:variable name="author1_nat" select="'nor'"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author2_fn" select="''"/>
 <xsl:variable name="author2_ln" select="''"/>
@@ -28,20 +28,20 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
-<xsl:variable name="publisher" select="'svenske Sametinget'"/>
+<xsl:variable name="publisher" select="'Lokalavisa Nordsalten'"/>
 <xsl:variable name="publChannel" select="''"/>
-<xsl:variable name="year" select="'2009'"/>
+<xsl:variable name="year" select="'2012'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
-<xsl:variable name="genre" select="'admin'"/>
+<xsl:variable name="genre" select="'news'"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
-<xsl:variable name="translator_fn" select="''"/>
+<xsl:variable name="translated_from" select="'nob'"/>
+<xsl:variable name="translator_fn" select="'Divte Media'"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
 <xsl:variable name="translator_born" select="''"/>
-<xsl:variable name="translator_nat" select="''"/>
+<xsl:variable name="translator_nat" select="'nor'"/>
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="''"/>
 <xsl:variable name="sub_name" select="'Inga Mikkelsen'"/>
@@ -54,7 +54,7 @@
 <xsl:variable name="template_version" select="'$Revision: 64438 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
-<xsl:variable name="note" select="''"/>
+<xsl:variable name="note" select="'norsk bildetekst'"/>
 
 <!-- The main language of the document -->
 <xsl:variable name="mainlang" select="'smj'"/>
@@ -72,7 +72,8 @@
      then the document is checked for all supported languages.
 -->
 <xsl:variable name="mlangs">
-	<language xml:lang="swe"/>
+	<language xml:lang="nob"/>
+	<language xml:lang="smj"/>
 </xsl:variable>
 
 <!-- Add the locations of the parallel files to the variables-->
@@ -88,8 +89,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="livsmiljoprogram_sma.pdf" xml:lang="sma"/>
-	<parallel_text location="livsmiljoprogram_swe.pdf" xml:lang="swe"/>
+	<parallel_text location="tysfjord_for_231112.html" xml:lang="nob"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->

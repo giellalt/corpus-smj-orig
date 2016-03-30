@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
-            <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
+            <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0a2-py2.7.egg/corpustools/xslt/common.xsl"/>
 
             <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
@@ -10,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.udir.no/Filer/Regelverk/Tidlig-innsats/Foreldreinfo/Spesialpedagogisk-lulesamisk.pdf?epslanguage=no'"/>
+    <xsl:variable name="filename" select="'https://www.tysfjord.kommune.no/getfile.php/2308620.1172.vdpeywqrya/Plakat+seminar+på+samisk.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -95,7 +94,9 @@
         <!-- <language xml:lang="smn"/> -->
         <!-- <language xml:lang="sms"/> -->
         <!-- <language xml:lang="swe"/> -->
-    </xsl:variable>
+    <language xml:lang="smj"/>
+	<language xml:lang="nob"/>
+	<language xml:lang="swe"/></xsl:variable>
 
     <!-- If the document has parallel texts, uncomment the right languages
          (or add new lines with the right ISO-639-3 language codes) and
@@ -125,47 +126,17 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sma" location="spesialpedagogisk-sorsamisk.pdf_epslanguage-no.pdf"/>
-	<parallel_text xml:lang="sme" location="spesialpedagogisk-nordsamisk.pdf_epslanguage-no.pdf"/></xsl:variable>
+    </xsl:variable>
 
 
-    <!--
-        For pdf documents, mark which pages should be ignored.
-        The format for this is a comma separated list of page number that
-        should be skipped. It is also possible to use ranges.
-        Examples:
-        1, 2, 3, 4
-        1, 6-10, 15, 20, 25-30
-    -->
+    <!-- For page oriented documents, mark which pages should be ignored -->
     <xsl:variable name="skip_pages" select="''"/>
-
-    <!--
-        Text outside these margins will be ignored.
-
-        The format for margin line is:
-        [all|odd|even|pagenumber]=integer
-
-        Margin lines *must* contain the keywords all, even, odd or a page
-        number followed by a = sign and an integer.
-
-        The integer must be between 0 and 100.
-
-        If there are several values, they are divided by commas.
-        Setting different margins for odd and even pages is done by writing
-        e.g. odd=8, even=15
-        It is also possible to set margins for particular pages:
-        8=8, 10=12
-        It is also possible to set margins for odd and even pages and
-        exceptions from those rules on particular pages.
-
-        Examples on how the select part could look:
-        odd=5, even=8, 8=15, 11=3
-        all=9, 8=12
-    -->
-    <xsl:variable name="right_margin" select="''"/>
-    <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <!-- Text outside these margins will be ignored.
+    These are defaults, that are settable documentwise -->
+    <xsl:variable name="right_margin" select="'all=7'"/>
+    <xsl:variable name="left_margin" select="'all=7'"/>
+    <xsl:variable name="top_margin" select="'all=7'"/>
+    <xsl:variable name="bottom_margin" select="'all=7'"/>
 
 
     <!-- Add all paragraphs that should have xml:lang=X           -->

@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://www.do.se/Documents/sprak/lulesamiska/DO%20birra%20(Om%20DO)%20G1%20SMJ-SE%20(lulesamiska)%202011.pdf'"/>
+<xsl:variable name="filename" select="'http://www.samediggi.se/31959'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'DO birra Om DO på lulesamiska'"/>
-<xsl:variable name="author1_fn" select="'Diskrimineringsombudsmannen'"/>
+<xsl:variable name="title" select="'Sámedikke Iellembirásprográmma IELLEMBIRÁS'"/>
+<xsl:variable name="author1_fn" select="'svenske Sametinget'"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
 <xsl:variable name="author1_nat" select="''"/>
@@ -28,15 +28,15 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
-<xsl:variable name="publisher" select="'Diskrimineringsombudsmannen'"/>
+<xsl:variable name="publisher" select="'svenske Sametinget'"/>
 <xsl:variable name="publChannel" select="''"/>
-<xsl:variable name="year" select="'2011'"/>
+<xsl:variable name="year" select="'2009'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
-<xsl:variable name="genre" select="'facta'"/>
+<xsl:variable name="genre" select="'admin'"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="'nob'"/>
+<xsl:variable name="translated_from" select="''"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
@@ -61,7 +61,7 @@
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-<xsl:variable name="monolingual" select="'1'"/> <!-- checked for all the languages below. -->
+<xsl:variable name="monolingual" select="''"/> <!-- checked for all the languages below. -->
 
 
 <!-- If monolingual is not set, the language is multilingual.
@@ -72,7 +72,8 @@
      then the document is checked for all supported languages.
 -->
 <xsl:variable name="mlangs">
-	</xsl:variable>
+	<language xml:lang="swe"/>
+</xsl:variable>
 
 <!-- Add the locations of the parallel files to the variables-->
 
@@ -87,7 +88,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	</xsl:variable>
+	<parallel_text location="eallinbiras_oarjelsam.pdf" xml:lang="sma"/>
+	<parallel_text location="livsmiljoprogram_swe.pdf" xml:lang="swe"/>
+</xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->
 <!-- Uncomment the following and add the paths, for example:  -->

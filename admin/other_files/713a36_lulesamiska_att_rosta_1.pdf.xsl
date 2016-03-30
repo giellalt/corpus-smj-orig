@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://www.val.se/tidigare_val/val2010/information/713a36_lulesamiska_att_rosta.pdf'"/>
+<xsl:variable name="filename" select="'http://boras.se/download/18.30e3e01312f0c73b07d800019177/713a36_lulesamiska_att_rosta.pdf'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'Jienastit válljimijn 2010'"/>
+<xsl:variable name="title" select="'Jienastit ådåsisválljimin 2011'"/>
 <xsl:variable name="author1_fn" select="'Valmyndigheten'"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -30,7 +30,7 @@
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="publisher" select="'Valmyndigheten'"/>
 <xsl:variable name="publChannel" select="''"/>
-<xsl:variable name="year" select="'2010'"/>
+<xsl:variable name="year" select="'2011'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="'swe'"/>
