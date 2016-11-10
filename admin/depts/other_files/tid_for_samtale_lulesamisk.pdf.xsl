@@ -34,7 +34,7 @@
 <xsl:variable name="ISBN" select="'82-92517-72-3'"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
-<xsl:variable name="genre" select="'facta'"/>
+<xsl:variable name="genre" select="'admin'"/>
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translated_from" select="'nob'"/>
 <xsl:variable name="translator_fn" select="''"/>
@@ -43,7 +43,7 @@
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
-<xsl:variable name="license_type" select="''"/>
+<xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="'Inga Mikkelsen'"/>
 <xsl:variable name="sub_email" select="'inga.l.mikkelsen@uit.no'"/>
 <xsl:variable name="wordcount" select="''"/>
