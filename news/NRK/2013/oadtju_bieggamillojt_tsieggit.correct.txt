@@ -3,7 +3,7 @@ Oadtju bieggamillojt tsieggit
 Diehki, Rijddabårråj, Slabávuonan, Divtasvuonan båhti 25-30 bieggamillo.
 
 Foto∞(nor): Sander Andersen/NRK
-NVE vattij javlaj åvddål energividnudahkaj€(foreign|fábmovidnudahkaj) Nordkraft Vind AS:aj$(suf|AS:j) Narvijkan, konsesjåvnåv tsieggitjit gasskon€(w|birrusin) 25-30 bieggamillo Slabávuona várijda, Rijddabårråj Divtasvuonan.
+NVE vattij javlaj åvddål energividnudahkaj€(foreign|fábmovidnudahkaj) Nordkraft Vind AS:aj Narvijkan, konsesjåvnåv tsieggitjit gasskon€(w|birrusin) 25-30 bieggamillo Slabávuona várijda, Rijddabårråj Divtasvuonan.
 
 Harrieth Aira (harrieth.aira@nrk.no)∞(url)
 
@@ -32,7 +32,7 @@ Lågå aj:(Kan tape vindmølle-penger)∞(nor)
 Lågå aj:(70 vindmøller i populært friluftsområde)∞(nor)
 Suohkan mielos bieggapárkkaj
 
-Divtasvuona suohkanstivrra avtajienalattjat miededij åhtsåmusájt sihke Nordkraft Vind AS:as$(suf|AS:s) ja Statskoga SF:as$(suf|SF:s).
+Divtasvuona suohkanstivrra avtajienalattjat miededij åhtsåmusájt sihke Nordkraft Vind AS:as ja Statskoga SF:as$(suf|SF:s).
 
 – Mijá mielas hiehpá guovllo buvtadittjat ådåstuhtedum€(der|ådåsmahtte) energijav. Guovlon la læhkám tjáhtjefábmoásadus juo tjuohte jage ja infrastruktuvrra guovlon la juo sajenis dagu strávvelinja ja rahte, javllá Divtasvuona suohkanoajvve Tor Asgeir Johansen avijssaj Fremover.
 
