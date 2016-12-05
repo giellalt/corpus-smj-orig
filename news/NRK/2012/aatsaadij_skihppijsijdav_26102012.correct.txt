@@ -13,9 +13,9 @@ Foto∞(nor): Harrieth Aira/NRK
 – Politihkkárij gaskan le má læhkám avtamielakvuohta jut galggi tsieggiduvvat huksosaje vuorasulmutjijda Ájluoktaj, ja dárbbo l lassánam. Mijá mielas bierri dal juoga dáhpáduvvat dájna ássjijn, ássje vuojnnet la sjávvunam, javllá Kurt Solstrøm.
 Snjuktjamáno dán jage guorrasij avtajienalasj suohkanstivrra plánajda ásadit Guovllomedisijnalasj guovdátjav Ájluoktaj ja gåhtjoj Åvddånammadusáv pládnabargov tjadádit.
 
-Dán Guovllomedisjnalasj guovdátjij galggi aj biejaduvvat 12 (idja-biejvve huksosaje)¢(cmp,X-1|idja-biejvvehuksosaje) ulmutjijda gudi e sijdajn des máhte årrot.
+Dán Guovllomedisjnalasjj$(typo|Guovllomedisijnalasj) guovdátjij galggi aj biejaduvvat 12 (idja-biejvve huksosaje)¢(cmp,X-1|idja-biejvvehuksosaje) ulmutjijda gudi e sijdajn des máhte årrot.
 
-Guovllomedisijnals guovdásj (GMG)
+Guovllomedisijnals(typo|Guovllomedisijnalasj) guovdásj (GMG)
 
 GMGan$(suf|GMG:n) li sihke sierratjiehppe varresvuodadievnastusá, dagu poliklinihkka, skihppijdåhpe j.n.v ja suohkanij vuodosvarresvuoda dievnastusá dagu váktadåktår, dåktårdievnastus j.n.v.
 Nammaduvvá aj lahkaskihppijviesson$(mix|lagosskihppijviesson) jali skihppijviesutjin.

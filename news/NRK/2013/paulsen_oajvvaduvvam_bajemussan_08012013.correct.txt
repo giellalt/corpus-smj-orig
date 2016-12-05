@@ -7,7 +7,7 @@ Foto∞(nor): Harrieth Aira/NRK
 (Oalgesbelludak oajvvat Lars Filip Paulsen)£(case,nom-acc|Oalgesbelludak oajvvat Lars Filip Paulsenav), Ájluovtas Divtasvuonan bajemus sadjáj dán tjavtja sámedikkeválggaj¢(cmp,gen-nom|sámediggeválggaj) Viestarmera válggabijran.
 
 Harrieth Aira (harrieth.aira@nrk.no)∞(url)
-Paulsen la Divtasvuona suohkanpolitihkkár Aktisasjlistan gåsi belludagá Oalges -, Gårå -, Krisstalasj álmmukbelludak - ja Belludahtága gulluji.
+Paulsen la Divtasvuona suohkanpolitihkkár Aktisasjlistan gåsi belludagá Oalges -, Gårå -, Krisstalasj álmmukbelludak - ja Belludahtága$(der,áhta-ibme|belludibme) gulluji.
 
 Sån la aj sadjásasj ájras Divtasvuona åvddånammadusán ja stuoves ájras Doajmmenammadusán.
 

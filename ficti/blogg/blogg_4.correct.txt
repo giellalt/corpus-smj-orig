@@ -58,7 +58,7 @@ Mikkel
 Ålles (basecamp-oassálasste$(cmp,hyph-0|basecampoassálasste))€(foreign|doajmmaoassálasste) vehka!
 
 
-Instruktörra€(foreign|Bagádiddje) vuoset gåktu daj dingaj$(conc,ng-ŋg|diŋgaj) dahká.
+Instruktörra$(ascii|Instrukterra) vuoset gåktu daj dingaj$(conc,ng-ŋg|diŋgaj) dahká.
 
 
 
