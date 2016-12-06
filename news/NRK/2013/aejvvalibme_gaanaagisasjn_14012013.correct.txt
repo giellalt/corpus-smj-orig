@@ -17,7 +17,7 @@ Vars ja Karlsen lijga Slåhtan giehttomin M.Gånågis Haraldij daj (hásstalusá
 LÅGÅ: (Inviterte Kong Harald til Tysfjord)∞(nor)
 LÅGÅ AJ: (Sametingets eldreråd besøker Kongen)∞(nor)
 LÅGÅ AJ: (Første samiske eldreråd opprettet)∞(nor)
-Diehtovájnogis Majestehtta
+Diehtovájnogis Majestehtta£(x|Majestiehtta)
 
 Vars ja Karlsen galgajga álgos iejvvit Gånågisáv 15 minuhta, valla æjvvalibme vibáj viehka guhkebuv gå dá 15 minuhta. Gånågis sidáj (duov-dáv)$(cmp,hyph-X|duov dáv) sunnus gullat mij guosská vuorasj¢(fin,sj-s|vuoras) sámij viessomdilláj Vuonan.
 

@@ -35,7 +35,7 @@ Lidjiv Bårjåsin$(conc,rj-rjj|Bårjjåsin) Rachela ja Per-Erica vega lunna åll
 
 
 
-Sæmmibále gå lav ávon, de lav oadtjum (nievre ådåsav)¥(pred-attr|nievres ådåsav). Uddni oadtjuv diehtet ahte skåvllåoajvve ij vatte munji ienep sámegiel'tijmajt$(x|sámegieltijmajt). Lav juo gærggam Sámegiella A:ajn$(suf|A:jn), ja måj Rachelijn lin juo álggám B kursajn. Valla (skåvllåoajvve ganugasstá munnu)£(case|skåvllåoajvve ganugasstá munnuv).
+Sæmmibále£(x|sæmmi bále) gå lav ávon, de lav oadtjum (nievre ådåsav)¥(pred-attr|nievres ådåsav). Uddni oadtjuv diehtet ahte skåvllåoajvve ij vatte munji ienep sámegiel'tijmajt$(x|sámegieltijmajt). Lav juo gærggam Sámegiella A:ajn$(suf|A:jn), ja måj Rachelijn lin juo álggám B kursajn. Valla (skåvllåoajvve ganugasstá munnu)£(case|skåvllåoajvve ganugasstá munnuv).
 La stuorra hådjånibme munji.
 Sámegiella (status$(vowc,a-á;conc,t-ht|stáhtus)€(foreign,swe|árvvo) ja dille skåvlån Svierigin ij la buorre. Mån lav sámegielav jagev ja 3-4 máno dálla låhkåm, suláj¢(conc,l-ll;vowlat,á-a|sullaj) 2 tijma vahkkuj. 2 TIJMA vahkkuj? Mij la dat??
 80 tijma galggin bielnupjahkáj . Valla måj Rachelijn lin juo gærggam daj tijmaj. Na majt dal? Mujna l riektá iednegiella åhpadusáv adnet joarkkaskåvlån, Svierigin aj. Iv riekta€(w|rat) dádjada manen sij máhtti javllat munji at$(foreign|ahte) iv oattjo ienebuv? Manen?

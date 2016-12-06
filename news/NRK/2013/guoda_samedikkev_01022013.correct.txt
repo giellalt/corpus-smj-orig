@@ -34,7 +34,7 @@ Ij ga Miriam Paulsen sidá nammadit suv tjuovvov.
 
 – Iv de mån galga avtak nammadit. Dav viertti Sálto sámesiebrre ja nominasjåvnnå Viestarmeran mierredit, javllá Paulsen.
 
-NSR:an$(suf|NSR:n) li uddni gålmmå ájrrasa Sámedikken ja Barggijbelludagán guokta, aktij vihtta ájrrasa Viestarmera válggabijran.
+NSR:an li uddni gålmmå ájrrasa Sámedikken ja Barggijbelludagán guokta, aktij vihtta ájrrasa Viestarmera válggabijran.
 
 Boahtte sámedikkeválggaj¢(cmp,gen-nom|sámediggeválggaj) bessi dåssju nieljes sisi dát válggabijras.
 
@@ -42,7 +42,7 @@ Dan diehti sjattasj stuoráp gilpustallam listaj gaskan (gudi lulu Sámediggáj 
 
 Ja goassa NSR:a galggá nominasjåvnnåtjåhkanimev tjadádit (ij ga la tjielgas)¥(wo|ij la ga tjielgas).
 
-Lista galggi sisi åvddål vuoratjismáno nuppát biejve, ja dan diehti ij la dal råhtto NSR:aj$(suf|NSR:j).
+Lista galggi sisi åvddål vuoratjismáno nuppát biejve, ja dan diehti ij la dal råhtto NSR:aj.
 
 – Ep la mij ájn mierredam goassa nominasjåvnnåtjåhkanibme sjaddá. (Jáhkedahtte sjaddá)£(infl,ind-pot|Sjattasj) maŋŋegietjen guovvamáno jali gassko snjuktjamáno. Dat esski tjielggá boahtte vahko gietjen, subtsas NSR:a guovloválggastivra jådediddje Viestarmera válggabijran Roger Pedersen NRK:aj$(suf|NRK:j). 
 

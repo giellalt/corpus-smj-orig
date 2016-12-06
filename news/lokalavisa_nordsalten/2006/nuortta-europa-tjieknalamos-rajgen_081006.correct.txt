@@ -1,11 +1,11 @@
 Duolvvasa ja vájbbam€(w,verb-adj|vájbbasa), valla dudálattja ietjá lágásj¢(cmp,X-1|ietjálágásj) skåvllådåbijn. Alvind Johnsen ja Håkon Mikkelsen libá suoñadime$(ascii|suoŋadime) mañemus$(ascii|maŋemus) mehtarijt$(vowlat,a-e|mehterijt) Nuortta Europa tjiekñalamos$(ascii;conc,kŋ-gŋ|tjiegŋalamos) rájges.
 
 Nuortta Europa tjiekñalamos$(ascii;conc,kŋ-gŋ|tjiegŋalamos) rájgen.
-Ájluovta skåvlå sámeoahppe nuorajskåvlås, aktan Måske skåvlå oahppe 7., 8. ja 9. klássas, lidjin Råggejávrerájgen suoñadallamin$(ascii|suoŋadallamin) vásse dijstagá.
+Ájluovta skåvlå sámeoahppe nuorajskåvlås, aktan Måske skåvlå oahppe 7., 8. ja 9. klássas, lidjin Råggejávrerájgenj€(w|Råggejávrrájgenj) suoñadallamin$(ascii|suoŋadallamin) vásse dijstagá.
 
 Oanegis¥(missing|Oanegis versjåvnnå) dárogiellaj
 
-Muhttijn dal hæhttu nielljegoanntsáj$(conc,llj-lj|nieljegoanntsáj) biehket ja aj ajtu guotsadit. Råggejávrerájgen li má tjuohte rájge gåsi máhtá suokñat$(ascii;conc,kŋ-gŋ|suogŋat) jus ájgo tjiehkádallat.
+Muhttijn dal hæhttu nielljegoanntsáj$(conc,llj-lj|nieljegoanntsáj) biehket ja aj ajtu guotsadit. Råggejávrerájgen€(w|Råggejávrrájgenj) li má tjuohte rájge gåsi máhtá suokñat$(ascii;conc,kŋ-gŋ|suogŋat) jus ájgo tjiehkádallat.
 
 
 Gåro bieles: Anders Kristian Kalstad, Paul Gælok(åhpadiddje), Åse Gælok(åhpadiddje), Adrian Nystø, Jørgen Kintel, Silja Mikkelsen, Marte Mikkelsen, Hanne Eriksen, Johan Daniel Mikkelsen, Markus Mikkelsen. Gájka Ájluovta skåvlås. Duodden aj Håkon Mikkelsen, Mikael Urheim ja Alvind Johnsen Måske skåvlås.
