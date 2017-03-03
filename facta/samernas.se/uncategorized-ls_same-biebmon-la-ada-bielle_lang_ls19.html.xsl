@@ -125,7 +125,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="swe" location="_nyheter_samisk-mat-har-ny-sida19.html"/></xsl:variable>
+    <parallel_text xml:lang="swe" location="nyheter_samisk-mat-har-ny-sida19.html"/></xsl:variable>
 
 
     <!--
