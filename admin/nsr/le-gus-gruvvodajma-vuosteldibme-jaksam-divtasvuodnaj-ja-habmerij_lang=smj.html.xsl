@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://www3.nsr.no/website.aspx?displayid=33755'"/>
+    <xsl:variable name="filename" select="'http://nsr.no/5768/le-gus-gruvvodajma-vuosteldibme-jaksam-divtasvuodnaj-ja-habmerij?lang=smj'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <!--
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="'2009'"/>
+    <xsl:variable name="year" select="'2017'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -94,7 +94,9 @@
     <xsl:variable name="translator_born" select="''"/>
     <xsl:variable name="translator_nat" select="''"/>
     <!-- select license type: free, standard or other -->
-    <xsl:variable name="license_type" select="'free'"/>
+    <xsl:variable name="license_type" select="''"/>
+    <!-- e.g. Sámediggi journal number -->
+    <xsl:variable name="contract_id" select="''"/>
     <!-- The name and email of the submitter -->
     <xsl:variable name="sub_name" select="''"/>
     <xsl:variable name="sub_email" select="''"/>
@@ -113,7 +115,7 @@
     <!-- Valid values are complete and uncomplete -->
     <xsl:variable name="metadata" select="'uncomplete'"/>
     <!-- Automatically filled in by CorpusTools -->
-    <xsl:variable name="template_version" select="'$Revision: 134043 $'"/>
+    <xsl:variable name="template_version" select="'$Revision: 150288 $'"/>
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="current_version" select="'Revision'"/>
     <!-- Free text field for notes -->
@@ -166,10 +168,10 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="http://www3.nsr.no/website.aspx?displayid=33749"/>
+        <parallel_text xml:lang="nob" location="har-kampen-mot-gruvedrift-kommet-til-tysfjord-og-hamaroy.html"/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location="http://www3.nsr.no/website.aspx?displayid=33761"/>
-        <parallel_text xml:lang="sme" location="http://www3.nsr.no/website.aspx?displayid=33752"/>
+        <parallel_text xml:lang="sma" location=""/>
+        <parallel_text xml:lang="sme" location=""/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
