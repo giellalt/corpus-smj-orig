@@ -10,7 +10,7 @@ Muhttijn dal hæhttu nielljegoanntsáj$(conc,llj-lj|nieljegoanntsáj) biehket ja
 
 Gåro bieles: Anders Kristian Kalstad, Paul Gælok(åhpadiddje), Åse Gælok(åhpadiddje), Adrian Nystø, Jørgen Kintel, Silja Mikkelsen, Marte Mikkelsen, Hanne Eriksen, Johan Daniel Mikkelsen, Markus Mikkelsen. Gájka Ájluovta skåvlås. Duodden aj Håkon Mikkelsen, Mikael Urheim ja Alvind Johnsen Måske skåvlås.
 
-Råggejávrerájgge la 597 miehtara$(vowc,ie-e;vowlat,a-e|mehtera)  tjiekñal(ascii;conc,kŋ-gŋ|tjiegŋal) Bårjåsnjárgaváre nalta gitta vuodnaj, ja la Nuortta-Europa tjiekñalamos$(ascii;conc,kŋ-gŋ|tjiegŋalamos) rájgge.
+Råggejávrerájgge la 597 miehtara$(vowc,ie-e;vowlat,a-e|mehtera)  tjiekñal$(ascii;conc,kŋ-gŋ|tjiegŋal) Bårjåsnjárgaváre nalta gitta vuodnaj, ja la Nuortta-Europa tjiekñalamos$(ascii;conc,kŋ-gŋ|tjiegŋalamos) rájgge.
 
 Råggejávrerájgge la Oarjjevuonan Divtasvuonan Måske sisñelin$(ascii;conc,sŋ-ssŋ|sissŋelin).
 
