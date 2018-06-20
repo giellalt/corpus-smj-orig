@@ -129,7 +129,7 @@
         other languages. Set the variable monolingual to '1' to turn off
         language recognition (treating everything as mainlang)
     -->
-    <xsl:variable name="monolingual" select="'1'"/>
+    <xsl:variable name="monolingual" select="''"/>
 
     <!--
         If monolingual is not set, the document is multilingual.
@@ -140,7 +140,8 @@
         then the document is checked for all supported languages.
     -->
     <xsl:variable name="mlangs">
-        <!-- <language xml:lang="dan"/> -->
+         <language xml:lang="nob"/>
+         <language xml:lang="eng"/> 
     </xsl:variable>
 
     <!--
@@ -321,6 +322,7 @@
         to restrict the template to nodes that do not contain
         other markup, as such markup otherwise will be removed.
     -->
+    <!--
 
     <xsl:template match="p[parent::body][not(./em | ./span)][text()]">
         <xsl:variable name="text" select='current()' />
@@ -346,5 +348,6 @@
             </xsl:call-template>
         </xsl:element>
     </xsl:template>
+  -->
 
 </xsl:stylesheet>
