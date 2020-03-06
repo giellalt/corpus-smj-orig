@@ -168,7 +168,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="miljoe-areal-og-kulturvern.html"/>
+        <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="byjrese-areale-jih-kultuvrevarjelimmie.html"/>
         <parallel_text xml:lang="sme" location="biras-areala-ja-kultursuodjaleapmi.html"/>
