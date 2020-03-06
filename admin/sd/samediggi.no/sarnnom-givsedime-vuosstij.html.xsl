@@ -168,7 +168,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="arbeidet-mot-mobbing.html"/>
+        <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="manifeeste-irhkemen-voeoeste.html"/>
         <parallel_text xml:lang="sme" location="julggastus-givssideami-vuosta.html"/>
