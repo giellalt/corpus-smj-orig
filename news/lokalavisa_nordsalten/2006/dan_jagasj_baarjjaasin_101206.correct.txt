@@ -1,7 +1,7 @@
 Dán jagásj ”Bårjås” la aj Buks-Berita ja Nils Størka birra. Goappátja lijga moaddi oajvven Lufåhtan$(vowc,u-o|Lofåhtan). Bårjjåså$(vowlat|Bårjjåsa) dåjmadiddje Lars Børge Myklevold vuoset Lufutgijsáv$(mix|Lofuohtagijsáv) mij la Árrana dávvervuorká vuosádusán.
 
 Dán jagásj Bårjjåsin: Sån lij sierralágásj sábme
-Dán jagásj Bårjjåsin li guokta vuostasj artihkkala guoktása birra gudi lijga sierralágásj ulmutja ietjaska viessomájgen. Vuostasj artihkkal$(conc,hkk-hk|artihkal) la oabme tjálos tjáledum Divtasvuona dålusj (báhpas Olaf Holmas)£(case,ela-nom|báhpas Olaf Holm) jagen 1880. Sån tjálij ”Nils Størka” birra, guhti lij sierralágásj ålmåj Divtasvuonan. Nubbe ártihkkal$(conc,hkk-hk;vowc,á-a|artihkal) la ”Buks-Bereta” birra.
+Dán jagásj Bårjjåsin li guokta vuostasj artihkkala guoktása birra gudi lijga sierralágásj ulmutja ietjaska viessomájgen. Vuostasj artihkkal$(conc,hkk-hk|artihkal) la oabme tjálos tjáledum Divtasvuona dålusj {báhpas Olaf Holmas}£{case,ela-nom|báhpas Olaf Holm} jagen 1880. Sån tjálij ”Nils Størka” birra, guhti lij sierralágásj ålmåj Divtasvuonan. Nubbe ártihkkal$(conc,hkk-hk;vowc,á-a|artihkal) la ”Buks-Bereta” birra.
 
 Oanegis¥(Oanegis versjåvnnå) dárogiellaj 
 
@@ -13,7 +13,7 @@ Dát la akta moattet ártihkkalijs$(vowc,á-a|artihkkalijs) majt dán jagásj B�
 
 
 -Åvdep jagijt lip gæhttjalam tiemáj milta tjállet. Dán jage lij gássjelabbo nuoges ártihkkalijt$(vowc,á-a|artihkkalijt) gávnnat avta tiemá birra. Valla javllap galla Bårjås 2006 la ulmutjij birra, dagu dal ártihkkal$(vowc,á-a;conc,hkk-hk|artihkal) Nils Størka birra. Duodden la aj sajij birra gånnå ulmutja årru, subtsas dåjmadiddje Lars Børge Myklevold.
-Dán jagásj ájggetjála Árrana dávvervuorkás sisanet aj ártihkkalijt$(vowc,á-a|artihkkalijt) årroma ja årudagáj birra. Lars Erik Narmo tjállá åvdep ájge årroma birra Vágijn Lufåhtan$(vowc,u-o|Lofåhtan), ja tsuojgot (ruovddeájge lidjin ienep sáme)£(case|ruovddeájgen lidjin ienep sáme) gudi dåppe årrun gå majt dán rádjáj li.
+Dán jagásj ájggetjála Árrana dávvervuorkás sisanet aj ártihkkalijt$(vowc,á-a|artihkkalijt) årroma ja årudagáj birra. Lars Erik Narmo tjállá åvdep ájge årroma birra Vágijn Lufåhtan$(vowc,u-o|Lofåhtan), ja tsuojgot {ruovddeájge lidjin ienep sáme}£{case|ruovddeájgen lidjin ienep sáme} gudi dåppe årrun gå majt dán rádjáj li.
 
 Arnstein Brekke giehttu bargo birra suoddjit ja divudit sáme årudagájt åvdep Skierrestáde suohkanin. Dát årudaksuoddjimprosjækta l sáme iesjdåbdov bigodahttám, ja sámevuohta l aj ienebut dåhkkidum Skierrestáden.
 Valla årromsadje l ienep gå årromguovllo ja årudahka. Guoradalle Sunniva Skålnes vuoset årromsajij tjadnasijt sosiálalasj luonnduj, ja adnem- ja mujttoluonnduj, adjáj Divtasvuonan. Sån moalggá duola dagu Divtasvuona sámijn li guokta årudagá; akta gånnå årru, ja nubbe masi utjárdi.

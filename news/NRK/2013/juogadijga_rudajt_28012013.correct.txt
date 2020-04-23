@@ -5,8 +5,8 @@ Fylkamánne$(conc,lk-lkk|Fylkkamánne) gatját dågålasjvuoda birra Divtasvuona
 Foto∞(nor):Sander Andersen/NRK
 Guokta Divtasvuona suohkanpolitihkkára háldadijga biednikfåndav gånnå ietja lijga åhttse. Sæmmi båttå gå ietja lijga åhttse de mierredijga gilpustiddjij åhtsåmusájt. Nordlánda fylkamánne gatját jus dát la dågålasj barggamvuohke.
 
-Harrieth Aira (harrieth.aira@nrk.no)∞(url)
-Sander Andersen (sander.andersen@nrk.no)∞(url)
+Harrieth Aira {harrieth.aira@nrk.no}∞{url}
+Sander Andersen {sander.andersen@nrk.no}∞{url}
 
 – Ij la sáhka gåk iesj sárno ietjat belulasjvuodav, valla gåktu iehtjáda dav dádjadi, javllá vuolepdirektørra Nordlánda fylkamánnen, Tor Sande.
 
@@ -17,10 +17,10 @@ Dav sæmmi lij aj Åvddånammadusá sebrulasj gut åvdet Aktisasjlistav Divtasvu
 Goappátja lijga rudájt åhtsåm vidnudagáj åvdås gånnå såj libá njunnjusattja.
 Johansen ja Mikkelsen sárnojga ietjasa belulattjan gå sunnu åhtsåmusá mierreduvvin, valla lijga fáron mierredime dåjt ietjá åhtsåmusájt ma gilpustin dáj ruhtajuollodimij.
 
-Lågå aj: (Stiller spørsmål ved pengebevilgnin)∞(nor)
+Lågå aj: {Stiller spørsmål ved pengebevilgnin}∞{nor}
 Ietjanis berustime
 
-Jagen 2011 ásadij Divtasvuona suohkan fåndav mij rudájt oadtju (daj guokta luossabiebbmamvidnudagájs)£(kongr|dat guovtet luossabiebbmamvidnudagás) ma li Divtasvuonan.
+Jagen 2011 ásadij Divtasvuona suohkan fåndav mij rudájt oadtju {daj guokta luossabiebbmamvidnudagájs}£{kongr|dat guovtet luossabiebbmamvidnudagás} ma li Divtasvuonan.
 
 Fånda sisboahto l akta millijåvnnå kråvnnå jahkáj goabbák viddnudagájs$(conc,ddn-dn|vidnudagájs) ja vihpá gålmmå jage.
 
@@ -44,7 +44,7 @@ Imájdallá barggamvuogev
 
 Nordlánda fylkamánnen imájdalli dáv barggamvuogev.
 
-– (Dádjadav dal sunnun gudi ietja lijga åhtsåm rudájt fåndas)£(case,ine-nom|Dádjadav dal såj gudi ietja lijga åhtsåm rudájt fåndas) ejga la fáron mierredime gå jur sunnu åhtsåmusá giehtadaláduvvin. Dat la dal riekta. Valla gatjálvis badján jus galgajga dåjt nuppijt åhtsåmusájt aj giehtadallat? Sierraláhkáj usjudaláv jus li ráddjidum rudá massta åhtsi nav vaj dat vájkkut majt ietja oadtjoba, javllá vuolepdirektørra Tor Sande, Nordlánda fylkamánnen.
+– {Dádjadav dal sunnun gudi ietja lijga åhtsåm rudájt fåndas}£{case,ine-nom|Dádjadav dal såj gudi ietja lijga åhtsåm rudájt fåndas} ejga la fáron mierredime gå jur sunnu åhtsåmusá giehtadaláduvvin. Dat la dal riekta. Valla gatjálvis badján jus galgajga dåjt nuppijt åhtsåmusájt aj giehtadallat? Sierraláhkáj usjudaláv jus li ráddjidum rudá massta åhtsi nav vaj dat vájkkut majt ietja oadtjoba, javllá vuolepdirektørra Tor Sande, Nordlánda fylkamánnen.
 
 – Åvddånammadus mierredij
 
@@ -52,7 +52,7 @@ Divtasvuona suohkanoajvve Tor Asgeir Johansen sivádahttá Åvddånammadusáv ja
 
 – Mij ságastijma dan birra Åvddånammadusán ja aj rádádijma$(vowlat,á-u|rádudijma) rádeålmmåjn, ja de mierredijma måj ejma la belulattja giehtadallat gåjt¢(coninit,g-d|dåjt) ietjá åhtsåmusájt. Dav ålles Åvddånammadus gávnadij, tjielggi Johansen.
 
-Valla sån vuojnná dálla (dát lulu unugis barggamvuohke)£(kongr|dát luluj unugis barggamvuohke).
+Valla sån vuojnná dálla {dát lulu unugis barggamvuohke}£{kongr|dát luluj unugis barggamvuohke}.
 
 – Ittjij de dalloj biello skuola. Valla gå dån dálla gatjáda de máhttá dal dálla vuojnnet dáv unugis barggamvuohken.
 
@@ -62,4 +62,4 @@ Valla sån vuojnná dálla (dát lulu unugis barggamvuohke)£(kongr|dát luluj u
 
 Filip Mikkelsen ij sidá ássjáj majdik moalgedit javllá sån SMS:a baktu NRK:aj$(suf|NRK:j).
 
-(GULLDAL ÅLLES ÁSSJEV DÁNNA)£(x|GULLDAL ÅLLES ÁSSJEV DÁNNA):
+{GULLDAL ÅLLES ÁSSJEV DÁNNA}£{x|GULLDAL ÅLLES ÁSSJEV DÁNNA}:

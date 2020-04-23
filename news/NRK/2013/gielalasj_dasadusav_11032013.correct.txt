@@ -6,7 +6,7 @@ Ingrid Kintel.
 Foto∞(nor): Harrieth Aira/NRK
 Nissunbiejve snjuktjamáno gávtsát biejve hålaj Ingrid Kintel, Divtasvuonas gielalasj dásádusá$(conc,s-ss|dássádusá) birra majt sån åhtsål suv€(w,pers-refl|ietjas) bájkálasj sebrudagán.
 
-Harrieth Aira (harrieth.aira@nrk.no)∞(url)
+Harrieth Aira {harrieth.aira@nrk.no}∞{url}
 
 – Ij gus galga dåhkkit jut ieneplåhko oasev válldá guovtegielak birrusis, oahppá vehi sámegielav ja gierddá gullat iehtjádijt sámástime, aj láttij siegen, gatját Ingrid Kintel.
 
@@ -20,8 +20,8 @@ Lågå aj: Mujttádahtti nissunbiejvev
 Åtsådaláj moattegielakvuodav Afrikan€(foreign|Afrihkán)
 
 Gå åhpadiddjáj lågåj de Ingrid Kintel åtsådaláj gielalasj moattebelakvuodajt mij vájkkudij gåktu sån dálla gæhttjá ietjas giellasebrudagáv Divtasvuonan.
-Gåktu - (gulldal dánna vuollelin)£(x|gulldala dánna vuollelin) .
+Gåktu - {gulldal dánna vuollelin}£{x|gulldala dánna vuollelin} .
 
-(GULLDAL OASEV INGRID KINTELA HÅLAS DÁNNA)£(x|GULLDALA OASEV INGRID KINTELA HÅLAS DÁNNA)
+{GULLDAL OASEV INGRID KINTELA HÅLAS DÁNNA}£{x|GULLDALA OASEV INGRID KINTELA HÅLAS DÁNNA}
 
 

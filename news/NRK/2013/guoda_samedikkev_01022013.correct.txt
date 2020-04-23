@@ -6,7 +6,7 @@ Miriam Paulsen
 Foto∞(nor): Harrrieth Aira/NRK
 Sámedikkeválgga$(cmp,gen-nom|Sámediggeválgga) la lahkanime ja sihke Barggijbelludahka ja Oalgesbelludahka li juo nominasjåvnåj gærggam Viestarmera válggabijran. Sijá stuorámus politihkalasj gilpustiddje Vuona sámij rijkkasiebrre (NSR) ij la ájn nominasjåvnnåtjåhkanimev tjadádam ja ij la ga mierredam goassa nominasjåvnnå galggá liehket.
 
-Harrieth Aira (harrieth.aira@nrk.no)∞(url)
+Harrieth Aira {harrieth.aira@nrk.no}∞{url}
 
 Valla akta udnásj NSR:a sámedikkeájrrasijs, Miriam Paulsen, la galla mierredam sån Sámedikkev guodá ja ij hálijda joarkket sámedikkeájrrasin tjavtja rájes.
 
@@ -22,9 +22,9 @@ Paulsen vuornnu jut smávvamáná ja fámilljaiellem$(vowc,á-a|familljaiellem) 
 
 – Ep la majdik mierredam
 
-Så guhtimusj de sjaddá ájras NSR:a listan (julevsáme guovlos)¢(cmp,X-1|julevsámeguovlos) la rabás gatjálvis uddni.
+Så guhtimusj de sjaddá ájras NSR:a listan {julevsáme guovlos}¢{cmp,X-1|julevsámeguovlos} la rabás gatjálvis uddni.
 
-Sálto sámesiebren le sebrulasjtjåhkanibme dán lávvodagá gånnå galggi ságastallat (guhtimuttja lulu kandidatáhta)£(kongr|guhtimuttja lulun kandidatáhta).
+Sálto sámesiebren le sebrulasjtjåhkanibme dán lávvodagá gånnå galggi ságastallat {guhtimuttja lulu kandidatáhta}£{kongr|guhtimuttja lulun kandidatáhta}.
 
 Siebre jådediddje Hugo Kalstad, ij hálijda almodit majdik dálla javllá sån NRK:aj$(suf|NRK:j).
 
@@ -38,11 +38,11 @@ NSR:an li uddni gålmmå ájrrasa Sámedikken ja Barggijbelludagán guokta, akti
 
 Boahtte sámedikkeválggaj¢(cmp,gen-nom|sámediggeválggaj) bessi dåssju nieljes sisi dát válggabijras.
 
-Dan diehti sjattasj stuoráp gilpustallam listaj gaskan (gudi lulu Sámediggáj bessat)£(kongr|gudi lulun Sámediggáj bessat).
+Dan diehti sjattasj stuoráp gilpustallam listaj gaskan {gudi lulu Sámediggáj bessat}£{kongr|gudi lulun Sámediggáj bessat}.
 
-Ja goassa NSR:a galggá nominasjåvnnåtjåhkanimev tjadádit (ij ga la tjielgas)¥(wo|ij la ga tjielgas).
+Ja goassa NSR:a galggá nominasjåvnnåtjåhkanimev tjadádit {ij ga la tjielgas}¥{wo|ij la ga tjielgas}.
 
 Lista galggi sisi åvddål vuoratjismáno nuppát biejve, ja dan diehti ij la dal råhtto NSR:aj.
 
-– Ep la mij ájn mierredam goassa nominasjåvnnåtjåhkanibme sjaddá. (Jáhkedahtte sjaddá)£(infl,ind-pot|Sjattasj) maŋŋegietjen guovvamáno jali gassko snjuktjamáno. Dat esski tjielggá boahtte vahko gietjen, subtsas NSR:a guovloválggastivra jådediddje Viestarmera válggabijran Roger Pedersen NRK:aj$(suf|NRK:j). 
+– Ep la mij ájn mierredam goassa nominasjåvnnåtjåhkanibme sjaddá. {Jáhkedahtte sjaddá}£{infl,ind-pot|Sjattasj} maŋŋegietjen guovvamáno jali gassko snjuktjamáno. Dat esski tjielggá boahtte vahko gietjen, subtsas NSR:a guovloválggastivra jådediddje Viestarmera válggabijran Roger Pedersen NRK:aj$(suf|NRK:j). 
 

@@ -8,10 +8,10 @@ Divtasvuona suohkanstivrra mierredij iektu avtajienalattjat doarjjot Måskerahte
 Aktisasjlista ájras Filip Mikkelsen åhtsålij árabut dán tjavtja ássjev gå suohkanstivrra ij la ássjev giehtadallam maŋŋel gå åvddåprosjækta lij gergas dijmmá, ja ruhtamerustallam tjielgaduváj.
 
 Lågå aj: Måskerahte sjávvunij
-Lågå aj: (Stilt om Muskenveien)∞(nor)
+Lågå aj: {Stilt om Muskenveien}∞{nor}
 Valla iektu de avtajienalasj suohkanstivrra mierredij doarjjot måskegij ja oarjjevuonagij rahtegájbbádusáv majt li gájbbedam juo 50-60 jage.
 
-(Suohkanstivra ájrrasa)¢(cmp,X-1|Suohkanstivraájrrasa) bivddi guovlo- ja (stáhta oajválattjajt)¢(cmp,X-1|stáhtaoajválattjajt) vuorodit rahteprosjevtav Måsskåj.
+{Suohkanstivra ájrrasa}¢{cmp,X-1|Suohkanstivraájrrasa} bivddi guovlo- ja {stáhta oajválattjajt}¢{cmp,X-1|stáhtaoajválattjajt} vuorodit rahteprosjevtav Måsskåj.
 
 Suohkanstivra mielas la ájnas rahtev Måsskåj oadtjot vaj:
 
@@ -21,12 +21,12 @@ Måsske aktan Måskeláhka€(w|Måskebirrusa) vuodnabájkátjijn la ájnas sadj
 Måskegijda ja Oarjjevuona viesádijda sjaddá buorre ja oalle almulasj dievnastusfálaldahka sæmmi láhkáj dagu ietján sebrudagán.
 Suohkanstivra mielas ij udnásj mannomáhttelisvuohta tjoavde álmmuga dárbojt jalik vatte buoremus tjoavddusijt.
 
-Ja suohkanstivrra de hasot almulasj oajválattjajt, guovlo,- ja (stáhta oajválattjat)£(cmp,X-1|stáhtaoajválattjat), vuorodit rahtev Måsskåj.
+Ja suohkanstivrra de hasot almulasj oajválattjajt, guovlo,- ja {stáhta oajválattjat}£{cmp,X-1|stáhtaoajválattjat}, vuorodit rahtev Måsskåj.
 
 - Ij la ietján gå barggagoahtet åttjudittjat ruhtadimev, javllaba Divtasvuona suohkanoajvve Tor Asgeir Johansen ja Aktisasjlista suohkanstivraájras Filip Mikkelsen gudi dán ássjen riek avtamielaga libá åttjudittjat rahtev Måsskåj, Divtasvuodnaj.
 
 
 Les∞(nor)
 
-(Stilt om Muskenveien)∞(nor)
+{Stilt om Muskenveien}∞{nor}
 Måskerahte sjávvunij

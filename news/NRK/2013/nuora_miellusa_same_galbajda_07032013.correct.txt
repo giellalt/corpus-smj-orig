@@ -2,7 +2,7 @@
 (Dát galbba berriji$(vowc,e-ie|bierriji))£(kongr|Dát galbba bierri) aj sámegiellaj boahtet oajvvadi Hábmera nuora.
 
 Foto∞(nor): NuorajTV
-(Nuora miellusa sáme galbajda)¥(missing|Nuora li miellusa sáme galbajda)
+{Nuora miellusa sáme galbajda}¥{missing|Nuora li miellusa sáme galbajda}
 
 Hábmera nuora li miellusa sáme galbajda sijá€(w,pers-refl|ietjasa) suohkanij.
 
@@ -10,8 +10,8 @@ Dijmmá dåhkkidij departemænnta sáme namáv Hábmera suohkanij, ja Hábmera �
 
 – Gatjálvis le gåktu sáme namma Hábmerin galggá tjalmostuvvat. Dav javlaj Hábmera suohkanoajvve Rolf Steffensen NRK:aj$(suf|NRK:j) ådåjakmáno.
 
-Lågå aj: (Hamarøy blir Hábmer)∞(nor)
-Lågå aj: (Hamarøy kommune får samisk skilter)∞(nor)
+Lågå aj: {Hamarøy blir Hábmer}∞{nor}
+Lågå aj: {Hamarøy kommune får samisk skilter}∞{nor}
 – Boandás sámevuohta Hábmerin
 
 Hábmera nuorajráde la riek mielos suohkana oajvvadussaj galbbigoahtet sáme galbaj suohkanin.

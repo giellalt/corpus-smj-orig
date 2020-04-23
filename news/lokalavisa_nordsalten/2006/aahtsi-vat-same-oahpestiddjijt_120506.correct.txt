@@ -3,15 +3,15 @@ Vuostasj jage lidjin Ánte Siri Guovddagæjnos, Inga Mikkelsen Divtasvuonas ja E
 
 Sáme allaskåvllå åhtså vat 3 ådå sáme oahpestiddje boahtte skåvllåjáhkáj$(vowc,á-a|skåvllåjahkáj). Prosjækta l aktisasjbarggo Sáme allaskåvlå ja Barggo- ja aktijdimdepartementa$(conm,jd-d|aktidimdepartementa) gaskan, ja vihpá 3 jage. Boahtte jahke l aj dán prosjevta mañemus$(ascii|maŋemus) jahke, jus dal ij joarkeduvá.
 
-Sáme allaskåvlån la (prosjevta åvdåsvásstádus)£(case|prosjækta åvdåsvásstádus), ja prosjevta jådediddje Sissel Mikkelsen doajvvu moattes åhtsi dán ”virggáj”.
+Sáme allaskåvlån la {prosjevta åvdåsvásstádus}£{case|prosjækta åvdåsvásstádus}, ja prosjevta jådediddje Sissel Mikkelsen doajvvu moattes åhtsi dán ”virggáj”.
 Prosjæktajådediddje Sissel Mikkelsen doajvvu soames åhtså sáme oahpestiddjen.
 
 
--3 oahpestiddje galggi vat oadtjot máhttelisvuodav joarkkaskåvlåj milta mannat (subtsastittjat sáme nuoraj birra, ja vuosedit)£(x|subtsastittjat sáme nuoraj birra, ja vuosedittjat) sáme nuora aj (laptop’ajn)$(acro,suf|laptopajn) barggi ja (iPod’an)$(prop,suf|iPodan) musihkav gulldali. Prosjevta (ulmme l vuosedit nuorajskåvlåj oahppijda)£(case|ulmme l vuosedit nuorajskåvlå oahppijda) moattebielev€(w|moattevuodav) sámevuodas ja sámekultuvras, subtsas Sissel Mikkelsen.
+-3 oahpestiddje galggi vat oadtjot máhttelisvuodav joarkkaskåvlåj milta mannat {subtsastittjat sáme nuoraj birra, ja vuosedit}£{x|subtsastittjat sáme nuoraj birra, ja vuosedittjat} sáme nuora aj {laptop’ajn}${acro,suf|laptopajn} barggi ja {iPod’an}${prop,suf|iPodan} musihkav gulldali. Prosjevta {ulmme l vuosedit nuorajskåvlåj oahppijda}£{case|ulmme l vuosedit nuorajskåvlå oahppijda} moattebielev€(w|moattevuodav) sámevuodas ja sámekultuvras, subtsas Sissel Mikkelsen.
 
-Mikkelsen subtsas moattes e diede åvvå majdik sámij birra, ja nav de vuojnná (dárbov oahpestiddjijs)£(case|dárbov oahpestiddjijda).
+Mikkelsen subtsas moattes e diede åvvå majdik sámij birra, ja nav de vuojnná {dárbov oahpestiddjijs}£{case|dárbov oahpestiddjijda}.
 
--Mij tjalmostip sáme identitehtav ja gielav, ja oahpestiddje li agev buorisboahtem akta ber gåsi båhti. Ja imálasj la gå nav ålos e diede majdik sámij birra, sierraláhkáj oarjjelij guovlojn. Dajna de vuojnáv (dárbov dássta)£(case|dárbov dasi). Valla e val divna skåvlå vuojne (dárbov mijá dievnastusás)£(vase|dábov mijá dievnastussaj), javllá Mikkelsen ja jáhkká aj dat la oahppamplána€(w|oahppoplána) vihke.
+-Mij tjalmostip sáme identitehtav ja gielav, ja oahpestiddje li agev buorisboahtem akta ber gåsi båhti. Ja imálasj la gå nav ålos e diede majdik sámij birra, sierraláhkáj oarjjelij guovlojn. Dajna de vuojnáv {dárbov dássta}£{case|dárbov dasi}. Valla e val divna skåvlå vuojne {dárbov mijá dievnastusás}£{vase|dábov mijá dievnastussaj}, javllá Mikkelsen ja jáhkká aj dat la oahppamplána€(w|oahppoplána) vihke.
 
 ”Virggáj” åhtsi 3 dábálasj sáme nuora gudi ælla ájn 25 jage ja gudi diehti vehik ietjas duogátja birra.
 

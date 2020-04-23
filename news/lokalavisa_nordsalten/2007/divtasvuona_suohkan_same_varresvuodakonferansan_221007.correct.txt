@@ -1,24 +1,24 @@
 Suohkandåktår Rolf Peder Tennebø ja varresvuoda- ja sosiálaoajvve Lill-Tove Hansen gåvå rievtes bielen.
 
-(Divtasvuodna suohkan)£(case|Divtasvuona suohkan) sáme varresvuodakonferánsan
-- Mån ávvusav gå vuojnáv åvdåstiddje (Divtasvuodna suohkanis)£(case|Divtasvuona suohkanis) li dánna uddni. Dav javllá sámediggeájras¢(cmp,nom-gen|sámedikkeájras) Miriam Paulsen (NSR), gut lij akta badjelasj (tjuohte oassálasstijs)£(x|tjuodet oassálasstes) Sámedikke varresvuoda -ja sosiálakonferánsan Råmsån åvdep váhko$(vowc,á-a|vahko).
+{Divtasvuodna suohkan}£{case|Divtasvuona suohkan} sáme varresvuodakonferánsan
+- Mån ávvusav gå vuojnáv åvdåstiddje {Divtasvuodna suohkanis}£{case|Divtasvuona suohkanis} li dánna uddni. Dav javllá sámediggeájras¢(cmp,nom-gen|sámedikkeájras) Miriam Paulsen (NSR), gut lij akta badjelasj {tjuohte oassálasstijs}£{x|tjuodet oassálasstes} Sámedikke varresvuoda -ja sosiálakonferánsan Råmsån åvdep váhko$(vowc,á-a|vahko).
 
 
-- Gájka vierttiji mujttádahteduvvat sámij pasientaj dárboj ja riektáj birra, aj (Divtasvuodna suohkan)£(case|Divtasvuona suohkan), javllá Paulsen. Suv mielas máhttá Divtasvuodna varresvuoda -ja sosiálafálaldagáv sámijda nannit: - Iv mån vuojne makkirak vuojnos dåjmajt (Divtasvuodna suohkanin)£(case|Divtasvuona suohkanin). Buojkulvissan le Divtasvuonan læhkám ássje sáme varresvuodasenntera$(mix|varresvuodaguovdátja) birra, mij ij la positivalattjat duostodum. Vuojnunagi le danen unna - jali ij makkirak - dádjadus mij guosská sáme pasientaj dárbojt.
+- Gájka vierttiji mujttádahteduvvat sámij pasientaj dárboj ja riektáj birra, aj {Divtasvuodna suohkan}£{case|Divtasvuona suohkan}, javllá Paulsen. Suv mielas máhttá Divtasvuodna varresvuoda -ja sosiálafálaldagáv sámijda nannit: - Iv mån vuojne makkirak vuojnos dåjmajt {Divtasvuodna suohkanin}£{case|Divtasvuona suohkanin}. Buojkulvissan le Divtasvuonan læhkám ássje sáme varresvuodasenntera$(mix|varresvuodaguovdátja) birra, mij ij la positivalattjat duostodum. Vuojnunagi le danen unna - jali ij makkirak - dádjadus mij guosská sáme pasientaj dárbojt.
 
-Konferánsan lij vijdes åvdåstibme duola dagu filkkasuohkanijs¢(vowc,i-y|fylkkasuohkanijs), suohkanijs, Sámedikkes, varresvuoda –ja (hukso depártementas$(vowc,á-a|departementas))¢(cmp,X-1|huksodepartementas) ja sáme institusjåvnåjs. (Divtasvuodna suohkanis)£(case|Divtasvuona suohkanis) lidjin avtses boahtám ságastalátjit sáme varresvuoda dilev. Da avtses lidjin bargge suohkana varresvuoda- ja (sosiála åssudagás)¢(cmp,X-1|sosiálaåssudagás), dagu suohkandåktår Rolf Peder Tennebø ja varresvuoda- ja sosiálaoajvve Lill-Tove Hansen.
+Konferánsan lij vijdes åvdåstibme duola dagu filkkasuohkanijs¢(vowc,i-y|fylkkasuohkanijs), suohkanijs, Sámedikkes, varresvuoda –ja (hukso depártementas$(vowc,á-a|departementas))¢(cmp,X-1|huksodepartementas) ja sáme institusjåvnåjs. {Divtasvuodna suohkanis}£{case|Divtasvuona suohkanis} lidjin avtses boahtám ságastalátjit sáme varresvuoda dilev. Da avtses lidjin bargge suohkana varresvuoda- ja {sosiála åssudagás}¢{cmp,X-1|sosiálaåssudagás}, dagu suohkandåktår Rolf Peder Tennebø ja varresvuoda- ja sosiálaoajvve Lill-Tove Hansen.
 
 Ij la vánesvuohta
 
-- Oassálastijma konferánsan åhpatjit ienep tiemá birra, javllá Rolf Tennebø. – Dát la vijdes ja gássjelis tiebmá gallegasj konkrehtalasj vásstádusáj. Le gássjelis dan diehti gå (gávnnu moadda vuojno mij guosská)£(kongr|gávnnuji moadda vuojno ma guosski) gåktu bierri liehket, ja dajt bierri roaddat, javllá suohkandåktår.
+- Oassálastijma konferánsan åhpatjit ienep tiemá birra, javllá Rolf Tennebø. – Dát la vijdes ja gássjelis tiebmá gallegasj konkrehtalasj vásstádusáj. Le gássjelis dan diehti gå {gávnnu moadda vuojno mij guosská}£{kongr|gávnnuji moadda vuojno ma guosski} gåktu bierri liehket, ja dajt bierri roaddat, javllá suohkandåktår.
 
-Doajmmá gus duv mielas varresvuodadievnastus buorre láhkáj (Divtasvuodna suohkanin)£(case|Divtasvuona suohkanin) sámij riektáj ja dárboj hárráj?
+Doajmmá gus duv mielas varresvuodadievnastus buorre láhkáj {Divtasvuodna suohkanin}£{case|Divtasvuona suohkanin} sámij riektáj ja dárboj hárráj?
 
-- Iv mån máhte vásstedit (nuppe åssudagáj)£(kongr|ietjá åssudagáj) åvdås, valla dåktårij gaskan (ep la oadtjum åvvånis avta gatjálvisáv)£(x|ep la oadtjum åvvånis avtak gatjálvisáv) dåktårdievnastusáv hiebadit (dájt 2 ½ jagijt)£(kongr|dáj 2 ½ jage) gå lav Divtasvuonan barggam, juogu de guosská guládallamij jali ietjá ássjijda. Dåktåra ælla åtsådallam makkirak vánesvuodav, juska dal dat ij sidá javllat muhtemij mielaj milta ij buoremus láhkáj dåjma.
+- Iv mån máhte vásstedit {nuppe åssudagáj}£{kongr|ietjá åssudagáj} åvdås, valla dåktårij gaskan {ep la oadtjum åvvånis avta gatjálvisáv}£{x|ep la oadtjum åvvånis avtak gatjálvisáv} dåktårdievnastusáv hiebadit {dájt 2 ½ jagijt}£{kongr|dáj 2 ½ jage} gå lav Divtasvuonan barggam, juogu de guosská guládallamij jali ietjá ássjijda. Dåktåra ælla åtsådallam makkirak vánesvuodav, juska dal dat ij sidá javllat muhtemij mielaj milta ij buoremus láhkáj dåjma.
 
 Vuorddá ienep dåjmajt
 
-NSR:a Miriam Paulsen vuorddá huoman ienep dåjmajt (Divtasvuodna suohkanin)£(case|Divtasvuona suohkanin), ja vuoset Divtasvuona sæbrramij sámegiela háldadusguovlluj. - Suohkan le oadtjum guovtegielakdoarjjagijt ma li binnát aneduvvam. Dájna hæhttu suohkan vijddásappot barggat, aj dajna mij guosská sáme pasientaj dárbojt.
+NSR:a Miriam Paulsen vuorddá huoman ienep dåjmajt {Divtasvuodna suohkanin}£{case|Divtasvuona suohkanin}, ja vuoset Divtasvuona sæbrramij sámegiela háldadusguovlluj. - Suohkan le oadtjum guovtegielakdoarjjagijt ma li binnát aneduvvam. Dájna hæhttu suohkan vijddásappot barggat, aj dajna mij guosská sáme pasientaj dárbojt.
 
 
 - Suohkana sjáhtjali åvdåsvásstádusáv ierit

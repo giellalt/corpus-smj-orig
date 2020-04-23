@@ -6,9 +6,9 @@ Divtasvuona suohkana giellabarggo, mij guosská sámegielav, la jåhtuj boahtám
 Oanegis¥(Oanegis versjåvnnå) dárogiellaj 
 
 Pládnabarggo bådij jåhtuj dán tjavtja, ja prosjæktabargge Tor Magne Berg, guhti l suohkana giellaplánajn barggamin, subtsas pládna ij la ájn ållu gárves. Berg giehttu moadda ássje li åvddåj boahtám gå la maññunam$(ascii|maŋŋunam).
--Ienemus åsijn lav juo gærggam, valla hæhttuv ájn plána tjadá snivva mannat vaj oattjov divna (unnep åsijt)£(x|unnep oasátjijt) mañen$(ascii|maŋen), subtsas Tor Magne Berg.
+-Ienemus åsijn lav juo gærggam, valla hæhttuv ájn plána tjadá snivva mannat vaj oattjov divna {unnep åsijt}£{x|unnep oasátjijt} mañen$(ascii|maŋen), subtsas Tor Magne Berg.
 
-Berg (jáhkká giellaplánajn la gárves vuostasj mánujn ådåjagen)£(case|jáhkká giellapládna l gárves vuostasj mánnuj ådåjahkáj), ja ij ga sidá giehttot majdik plána birra – dal ájn.
+Berg {jáhkká giellaplánajn la gárves vuostasj mánujn ådåjagen}£{case|jáhkká giellapládna l gárves vuostasj mánnuj ådåjahkáj}, ja ij ga sidá giehttot majdik plána birra – dal ájn.
 -Mujna ælla sivá plána birra almulattjat giehttot åvddål gå dajna gergav, javllá sån.
 
 Divtasvuona suohkan oassálasstij sáme giellaháldadusguovlluj ådåjagij rájes, ja giellapládna l vædtsak sámegiellaaddnuj$(conc,ddn-dn|sámegiellaadnuj) suohkanin.

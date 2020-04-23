@@ -3,7 +3,7 @@ Dálven
 
 Sámegiellaåhpadibme Divtasvuonas Jiellevárráj
 
-Divtasvuona suohkan la varresvuodatermaj barggamin (gånnå l ulmme)¥(wo|gånnå ulmme l) ietjasa barggijt åhpadit, ja Jielleváre suohkan aj sihtá dát bargos oasev válldet.
+Divtasvuona suohkan la varresvuodatermaj barggamin {gånnå l ulmme}¥{wo|gånnå ulmme l} ietjasa barggijt åhpadit, ja Jielleváre suohkan aj sihtá dát bargos oasev válldet.
 
 Dan diehti l Jielleváre suohkan Divtasvuona suohkanij girjev tjállám ja gatjádam jus dåhkki sámegiellakursav sijá barggijda aj ásadit. Divtasvuona suohkan ja Stig Eriksen sihti dáv dievnastusáv Jiellevárráj vuobddet, ja vájbi tjavtja guovlluj dát åhpadibme jåhtuj boahtá.
 
@@ -41,9 +41,9 @@ Giesen
 Sáme báhkodáhtátjoahkke rabáduvvam
 
 
-Sámedikke giellastsivrra$(typo|giellastivrra): Nora Marie Brandsfjell, Rolf Olsen, Magne Einejord, Karen Monica Paulsen ja Tor Magne Berg oassálasstin gå sáme báhkodáhtátjoahkke (www.Risten.no)∞(url) rabáduváj. Dát báhkodáhtátjoahkke la næhttabielle gåsi divna sáme bágo julevsáme-, nuorttasáme- ja oarjjelsámegiellaj biejaduvvi ja gånnå aj máhtá åhtsåt juogu dal bágov jali gåktu bahko$(vowc,a-á|báhko) såjåduvvá.
+Sámedikke giellastsivrra$(typo|giellastivrra): Nora Marie Brandsfjell, Rolf Olsen, Magne Einejord, Karen Monica Paulsen ja Tor Magne Berg oassálasstin gå sáme báhkodáhtátjoahkke {www.Risten.no}∞{url} rabáduváj. Dát báhkodáhtátjoahkke la næhttabielle gåsi divna sáme bágo julevsáme-, nuorttasáme- ja oarjjelsámegiellaj biejaduvvi ja gånnå aj máhtá åhtsåt juogu dal bágov jali gåktu bahko$(vowc,a-á|báhko) såjåduvvá.
 
--Dán báhkodáhtátjoahkken li (juo12.000)$(typo,cmp,X-1|juo 12.000) bágo, ja dát la ræjddo giellabarggijda ja diedon aj iehtjádijda gudi (gielav berusti)£(case|gielas berusti), javlaj Sámedikke giellastivtra$(typo|giellastivra) ájras Karen Monica Paulsen åvdås gå almulattjat dáv næhttabájkev rabáj.
+-Dán báhkodáhtátjoahkken li {juo12.000}${typo,cmp,X-1|juo 12.000} bágo, ja dát la ræjddo giellabarggijda ja diedon aj iehtjádijda gudi {gielav berusti}£{case|gielas berusti}, javlaj Sámedikke giellastivtra$(typo|giellastivra) ájras Karen Monica Paulsen åvdås gå almulattjat dáv næhttabájkev rabáj.
 
 
 Tjaktjagiesen
@@ -67,4 +67,4 @@ Tjaktjadálven
 
 Ep dal ájn diede jus girjjetjállen sjaddap
 
-Sjattaj ållu€(w|riek) hávsskes båttå¢(conc,tt-dd|båddå) gå sáme girjjetjálle goarrihin$(conm,h-j|goarrijin) Strávnjunje skåvlån gasskavahko, ja oahppe (Isabell, Katja, Are, Tony, Sivert, Tor Ivar, Andreas, Silje ja Birgitta oattjojga)£(kongr|Isabell, Katja, Are, Tony, Sivert, Tor Ivar, Andreas, Silje ja Birgitta oadtjun) gullat gånnå sámegiella aneduvvá, gåktu máhtá buorre subttsasav dahkat. Giella l aj ietjá gå dav majt dåssju njálme tjadá buvtá, ja dáhpádusás ja åtsådallamijs gitta tækstaj la guhka, ((roañkok$(ascii|roaŋkok) bálges)¥(pred-attr|roahkogis bálges), ja unna Strávnjunjátjis dåhkki aj geldulasj subttsasav dahkat. Tjálle sihtin oahppijda subtsastit vehik máhttelisvuodaj birra jus sidá tjállen sjaddat.
+Sjattaj ållu€(w|riek) hávsskes båttå¢(conc,tt-dd|båddå) gå sáme girjjetjálle goarrihin$(conm,h-j|goarrijin) Strávnjunje skåvlån gasskavahko, ja oahppe {Isabell, Katja, Are, Tony, Sivert, Tor Ivar, Andreas, Silje ja Birgitta oattjojga}£{kongr|Isabell, Katja, Are, Tony, Sivert, Tor Ivar, Andreas, Silje ja Birgitta oadtjun} gullat gånnå sámegiella aneduvvá, gåktu máhtá buorre subttsasav dahkat. Giella l aj ietjá gå dav majt dåssju njálme tjadá buvtá, ja dáhpádusás ja åtsådallamijs gitta tækstaj la guhka, ((roañkok$(ascii|roaŋkok) bálges)¥(pred-attr|roahkogis bálges), ja unna Strávnjunjátjis dåhkki aj geldulasj subttsasav dahkat. Tjálle sihtin oahppijda subtsastit vehik máhttelisvuodaj birra jus sidá tjállen sjaddat.

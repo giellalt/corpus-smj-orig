@@ -2,7 +2,7 @@ Njálgge¥(missing|Njálgge l) suovas biergojn
 
 Bårriv suovasbiergov rijsaj. Buorre buojdijn baksimijda :p
 
-Uddni lav (mannekeŋgan$(vowc,e-æ;conc,ŋg-ŋŋ|mannekæŋŋan))€(foreign,swe|bivtasmåvttåvuosádallen) årrum. Anna-Stina Svakko ja Solveig Labba anijga modevuosádusáv$(mix|måvttåvuosádusáv), ja (måj Sannejn$(vowlat,e-i|Sannijn) aktan moattes ietjá næjtsoj)£(x|måj Sannijn aktan moadda ietjá næjtsoj) lijma mannekenga$(conc,ŋg-ŋ|mannekeŋa)€(foreign,swe|bivtasmåvttåvuosádalle). . Riek suohtas lij!
+Uddni lav (mannekeŋgan$(vowc,e-æ;conc,ŋg-ŋŋ|mannekæŋŋan))€(foreign,swe|bivtasmåvttåvuosádallen) årrum. Anna-Stina Svakko ja Solveig Labba anijga modevuosádusáv$(mix|måvttåvuosádusáv), ja (måj Sannejn$(vowlat,e-i|Sannijn) aktan moattes ietjá næjtsoj)£(x|måj Sannijn aktan moadda ietjá næjtsoj) lijma mannekenga${conc,ŋg-ŋ|mannekeŋa}€{foreign,swe|bivtasmåvttåvuosádalle}. . Riek suohtas lij!
 
 Guokta tjáppa næjtso, Sanne ja Johanna :)
 
@@ -14,7 +14,7 @@ Måj Per Jonasijn
 Ráddnam :)
 
 
-Iehkedis kloahkka gietjan le sámeteahter$(vowc,a-á|sámeteáhter); (byfinnar, lappjävlar och annat pack)∞(swe). Gullam lav ahte le riek buorre ja suohtas teahter$(vowc,a-á|teáhter), ávvudaláv dallutji$(x|dallutjij)€(w|dassátjij)!
+Iehkedis kloahkka gietjan le sámeteahter$(vowc,a-á|sámeteáhter); {byfinnar, lappjävlar och annat pack}∞{swe}. Gullam lav ahte le riek buorre ja suohtas teahter$(vowc,a-á|teáhter), ávvudaláv dallutji${x|dallutjij}€{w|dassátjij}!
 Dan maŋŋela le tjiektjamhárjjidallam. Gieron$(vowlat,o-u|Gierun) Sáme Siebrre li stiellim hárjjidallamijt guokti vahkkuj. Dijstagájt le sisbandy ja duorastagájt le bállotjiektjam.
 
 
@@ -32,7 +32,7 @@ Strasbourg
 Buoris vas!
 
 Lidjiv loabedam vásse vahko tjálet¢(conc,l-ll|tjállet) , valla ij lim næhtta Strasbourgan, ja gå Svierigij jåvsådiv dåssju ådiv.
-Strasbourga lej ihkeva buorre ræjsso. Mij lip nav ålov dahkam ahte ij vargga dåhkki divna subtsastit. Lijma Eu-Parlamentan$(acro,cap|EU-Parlamentan) iejvvimin 5 eu$(arco,cap|EU) parlamentarikera Svierigis, gålmås mijás buktin presentasjåvnåv (Intergroup for traditional minoritiesaj)∞(eng), iejvvijma guokta (ulmutja guhti)£(kongr|ulmutja gudi) barggi minoritehtaj (birra€(w|miehtá) Europan)£(case|miehtá Europa), ja komissariev Thomas Hammarberg Europaráden. Lip sáhkadam (majt sáme nuora Svierigin berustip)£(kongr|majt sáme nuora Svierigin berusti) ja ássjij birra gånnå ((EU’a)$(arco,suf-0|EU) soajttá máhtti)£(kongr|EU soajttá máhttá) mijáv viehkedit. Ræjsso lij riek geldulasj ja oahppiv aj ålov. (Ássjijt majt giehtojma lij)£(kongr|Ássjijt majt giehtojma lidjin) diehttelis giella birra, ja ålov boahttsudoallo€(foreign,sme|ællosujtto) gåhtjulvisáj.!!!!
+Strasbourga lej ihkeva buorre ræjsso. Mij lip nav ålov dahkam ahte ij vargga dåhkki divna subtsastit. Lijma Eu-Parlamentan$(acro,cap|EU-Parlamentan) iejvvimin 5 eu$(arco,cap|EU) parlamentarikera Svierigis, gålmås mijás buktin presentasjåvnåv {Intergroup for traditional minoritiesaj}∞{eng}, iejvvijma guokta {ulmutja guhti}£{kongr|ulmutja gudi} barggi minoritehtaj (birra€(w|miehtá) Europan)£(case|miehtá Europa), ja komissariev Thomas Hammarberg Europaráden. Lip sáhkadam {majt sáme nuora Svierigin berustip}£{kongr|majt sáme nuora Svierigin berusti} ja ássjij birra gånnå {{EU’a}${arco,suf-0|EU} soajttá máhtti}£{kongr|EU soajttá máhttá} mijáv viehkedit. Ræjsso lij riek geldulasj ja oahppiv aj ålov. {Ássjijt majt giehtojma lij}£{kongr|Ássjijt majt giehtojma lidjin} diehttelis giella birra, ja ålov boahttsudoallo€(foreign,sme|ællosujtto) gåhtjulvisáj.!!!!
 
 
 
@@ -57,11 +57,11 @@ Buoris uddni
 Håj!
 
 Uddni la låsså skåvllåbiejvve. Mij lip jur matematihkav adnám 2,5 tijma. Lunsjan€(foreign|biejvvebiebbmon) lij luossa - njálgge.
-(Dát vahko)£(kongr|Dát vahkko) le buorre læhkám. Rádnaj siegen årrum, ja Sanne lunna oadám, buorre biebbmo, ja iektu lijma saunnimin$(mix|sávnnimin). Muv ráddna Krasta le dáppe Gierunin, så sån tjuovoj saunitjit$(mix|sávnnitjit) muv nuppij€(w|ietjá) rádnaj siegen. Vuogas!
-Mánnodagá vuolgáv Strasbourgaj. Mij lip 10 nuora Sáminuorras (sámenuora organisasjåvnnå) (guhti vuolggep)£(kongr|gudi vuolggep). Galggap EU-Parlamentaj¢(vowc,e-æ;conc,nt-nnt|EU-Parlamænntaj) iejvvitjit muhtem parlamentarikerajs$(mix|parlamentarihkkárijs), Europarádes ja Europa-duobbmoståvlås. Doajvov ja jáhkáv riek suohtas ja geldulasj ræjsso sjaddá!
-Galgav bloggav$(vowc,o-å;conc,gg-kk|blåkkav) tjállet dajt biejvijt nav álu gå máhttelis jus hotellan le internæhtta. (Mánnodagás gitta bierjjedagá)£(case|Mánnodagás gitta bierjjedahkaj) lip danna.
+{Dát vahko}£{kongr|Dát vahkko} le buorre læhkám. Rádnaj siegen årrum, ja Sanne lunna oadám, buorre biebbmo, ja iektu lijma saunnimin$(mix|sávnnimin). Muv ráddna Krasta le dáppe Gierunin, så sån tjuovoj saunitjit$(mix|sávnnitjit) muv nuppij€(w|ietjá) rádnaj siegen. Vuogas!
+Mánnodagá vuolgáv Strasbourgaj. Mij lip 10 nuora Sáminuorras (sámenuora organisasjåvnnå) {guhti vuolggep}£{kongr|gudi vuolggep}. Galggap EU-Parlamentaj¢(vowc,e-æ;conc,nt-nnt|EU-Parlamænntaj) iejvvitjit muhtem parlamentarikerajs$(mix|parlamentarihkkárijs), Europarádes ja Europa-duobbmoståvlås. Doajvov ja jáhkáv riek suohtas ja geldulasj ræjsso sjaddá!
+Galgav bloggav$(vowc,o-å;conc,gg-kk|blåkkav) tjállet dajt biejvijt nav álu gå máhttelis jus hotellan le internæhtta. {Mánnodagás gitta bierjjedagá}£{case|Mánnodagás gitta bierjjedahkaj} lip danna.
 
-Dálla la (sámegiel’tijmma)$(cmp|sámegieltijmma) álggám. Ruvvaláhkáj galgav filmav gæhttjat mij la sámenuoraj psykologalasj vádnasvuoda$(cmp,attr|vánesvuoda) birra..
+Dálla la {sámegiel’tijmma}${cmp|sámegieltijmma} álggám. Ruvvaláhkáj galgav filmav gæhttjat mij la sámenuoraj psykologalasj vádnasvuoda$(cmp,attr|vánesvuoda) birra..
 
 Sáhkadibmáj!
 
@@ -74,8 +74,8 @@ Vuoj, man gássjelis le álu dási tjálet¢(conc,l-ll|tjállet). Iv huomaha at�
 Maŋemus¥(missing|Maŋemus bloaggima) rájes lav Divtasvuonan læhkám muhtem biejve, ja dåssju skåvlån årrum. Valla dánna Gierunin muohttegådij vásse duorastagá/bierjedagá$(conc,rj-rjj|bierjjedagá) ijá. Dálla le ållu bedjat ålggon ja nav hávsske!
 
 
-Ittjiv jáhke muohta galgaj bissut, valla ájn le vielggat. Juo máhttep sabegijda tjágŋat, ja idet galgav (skejttitjit$(x|skiejttitjit))€(foreign,swe|salostittjat) (aktan Per Jonasin)£(x|Per Jonasa siegen).
+Ittjiv jáhke muohta galgaj bissut, valla ájn le vielggat. Juo máhttep sabegijda tjágŋat, ja idet galgav (skejttitjit$(x|skiejttitjit))€(foreign,swe|salostittjat) {aktan Per Jonasin}£{x|Per Jonasa siegen}.
 
-Iehkedis soajttá sjaddá (rail-session)∞(eng) aj.
+Iehkedis soajttá sjaddá {rail-session}∞{eng} aj.
 
 Uddni lav viehkam ja rádjam.

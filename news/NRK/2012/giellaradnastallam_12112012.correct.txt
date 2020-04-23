@@ -1,7 +1,7 @@
 Giellarádnastallam
 
 
-(Gåvådibme:Máná)$(x|Gåvådibme: Máná) sjiejssiji Ájluovta jávren.
+{Gåvådibme:Máná}${x|Gåvådibme: Máná} sjiejssiji Ájluovta jávren.
 
 Foto∞(nor): Harrieth Aira/NRK
 Giellarádnastallam la ådå sámegielak fálaldahka mánájda Ájluovtan, Divtasvuonan.
@@ -24,7 +24,7 @@ Ulmme l sámástit, valla gatjálvis le gåktu dav tjoavddet vaj oadtjot mánáj
 
 –Uddni ij dal nav ållo sámegiella sijdajn gullu, subtsas Kintel.
 
-–Ja gå luondulasj sáhka ij gullu sijdajn, (dat arena gånnå máná galggi sámegielav gullat)£(case,nom-ine|dan arenan gånnå máná galggi sámegielav gullat), gå dat vádnun sijda bieles, de dárbahip dahkat arenav gånnå máná iejvviji bágojt ja sosialiseriduvvi sámegiellaj. Mån jáhkáv sámegiella gullugoahtá gå hárjjánip sámástit nubbe nubbáj ja máná oadtju hárjjánit sijá ságastallamgiella máhttá liehket sámegiella, dættot sån.
+–Ja gå luondulasj sáhka ij gullu sijdajn, {dat arena gånnå máná galggi sámegielav gullat}£{case,nom-ine|dan arenan gånnå máná galggi sámegielav gullat}, gå dat vádnun sijda bieles, de dárbahip dahkat arenav gånnå máná iejvviji bágojt ja sosialiseriduvvi sámegiellaj. Mån jáhkáv sámegiella gullugoahtá gå hárjjánip sámástit nubbe nubbáj ja máná oadtju hárjjánit sijá ságastallamgiella máhttá liehket sámegiella, dættot sån.
 
 Lågå aj: Mij aktan sámástip
 –Dåssju akta njuolgadus: Sámástit
@@ -33,17 +33,17 @@ Rádnastallamprosjækta
 
 rádnastallama, suohtastallamij ja ávvudallamij baktu sámegielak arena gånnå máná ja nuora aktan hárjjáni sámástit buolvaj gaskan
 oadtjot sámegiela adnemav ålgos¢(vowlat,o-u|ålgus) institusjåvnåjs ja ásadit dádjadusáv dåhkki má akta ber gånnå sámástit
-la julevsáme skåvllåmánájda gejn la sámegiella (vuostasj giellan)¢(cmp,X-1|vuostasjgiellan) skåvlån
+la julevsáme skåvllåmánájda gejn la sámegiella {vuostasj giellan}¢{cmp,X-1|vuostasjgiellan} skåvlån
 mánájda vuostasj klássas giehttjit klássaj
 jådeduvvá gålmmå julevsámegielak nuorajs
 la akti vahkkuj, duorastagájt gudás gáktsáj
-gálldo: (tysfjordasvo.no)∞(url)
+gálldo: {tysfjordasvo.no}∞{url}
 
 Æjvvalimiehkedijn la akta njuolgadus.
 
 – Dájn æjvvalimijn la dåssju akta njuolgadus ja dat la sámástit. Dát la fálaldahka mánájda, sij bessi ietja válljit jus sihti fáron jali jus e sidá fáron. Ja gå mánná iesj bæssá válljit, “já¥(redun|0) dáv de mån sidáv”, de sån juo diehtá vuordeduvvá sujsta sámegiella jus galggá oassálasstet. Ja navti mij jåksåp nubbe nuppev, máná ja midja nuora, subtsas Kintel.
 
-Fálaldahka la skåvllåmánájda gejn la sámegiella (vuostasj giellan)¢(cmp,X-1|vuostasjgiellan) vuostasj klássas giehttjit klássaj, ja la akti vahkkuj.
+Fálaldahka la skåvllåmánájda gejn la sámegiella {vuostasj giellan}¢{cmp,X-1|vuostasjgiellan} vuostasj klássas giehttjit klássaj, ja la akti vahkkuj.
 
 Ja máná li diededam dási sij sihti sæbrrat.
 
@@ -57,4 +57,4 @@ Ja gånnå máná ja dá gålmmå nuora galggi æjvvalit ij la ga mierreduvvam �
 
 – Mij ep sidá sámástimev institusjåvnåjda tjadnat. Mij sihtap má juokkirik láhkáj privatiserit dáv. Sámegiella ij gullu dåssju skåvllåj, dåssju Árranij jali ASVOj$(suf|ASVO:j). Sámegiella ij la juoga mij dåssju dákkir sajijn galggá gullut. Mij máhttep akta ber gånnå sámástit, ja dan diehti ij la miján stuoves æjvvalimsadje. Muhttijn lip muv lunna, ietjá bále ålggon ja ietjá bále ihkap nágin iehtjádij lunna, subtsas sån.
 
-(GULLDAL ÅLLES ÁSSJEV)£(x|GULLDALA ÅLLES ÁSSJEV) DÁNNA:
+{GULLDAL ÅLLES ÁSSJEV}£{x|GULLDALA ÅLLES ÁSSJEV} DÁNNA:

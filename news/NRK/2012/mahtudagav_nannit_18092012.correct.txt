@@ -1,13 +1,13 @@
-Sihtá (sámegiela máhtudagáv)¢(cmp,X-1|sámegielmáhtudagáv) nannit
+Sihtá {sámegiela máhtudagáv}¢{cmp,X-1|sámegielmáhtudagáv} nannit
 
 Vuostasj studenta julevsáme bacheloråhpadusán Nordlánda universitehtan. Universitehta rektor Pål Pedersen guddnedij sijájt uddni.
 
 Foto∞(nor): Sander Andersen/NRK
 Uddni rahpusij julevsáme bacheloråhpadus Nordlánda universitehtan sierra mujttádahttemijn gåsi studenta lidjin bivddidum. Ja Bodø Glimta lijkkemållagáhttár, 20 jahkásasj Adrian Nystø Mikkelsen, la aj álggám dán åhpadussaj.
 
-– Mij ham dárbahip máhtudagáv sámegiellaj ja dan diehti la máj dárbbo låhkåt sámegielav javllá Adrian Nystø Mikkelsen akta dajs (21 studentajs gut uddni álgij)£(kongr|21 studentajs gudi uddni álggin) dan vuostasj bacheloråhpadussaj julevsámegielan, Nordlánda universitehtan.
+– Mij ham dárbahip máhtudagáv sámegiellaj ja dan diehti la máj dárbbo låhkåt sámegielav javllá Adrian Nystø Mikkelsen akta dajs {21 studentajs gut uddni álgij}£{kongr|21 studentajs gudi uddni álggin} dan vuostasj bacheloråhpadussaj julevsámegielan, Nordlánda universitehtan.
 
-– Ep la moattes, lip nav gallegattja julevsáme guovlon ja gå mån lav juo sámegielav oahppam (mánná rájes)£(case,nom-gen|máná rájes) de la luondulasj låhkåt sámegielav, dættot sån.
+– Ep la moattes, lip nav gallegattja julevsáme guovlon ja gå mån lav juo sámegielav oahppam {mánná rájes}£{case,nom-gen|máná rájes} de la luondulasj låhkåt sámegielav, dættot sån.
 
 Lågå aj: – Mærkkabiejvve julevsámijda
 Bodø Glimt-a$(suf|Glimta) mållagáhttár
@@ -22,7 +22,7 @@ Adrian Nystø Mikkelsen gut aj la buosjes ja vissjalis bállotjiektje ja uddni l
 
 Ja nuorra báhttja dal ij la uddni mierredam jus julevsámegiella sjaddá suv åhpadusgæjnno.
 
-(Duodden julevsáme bacheloråhpadus)£(case,nom-ill|Duodden julevsáme bacheloråhpadussaj) de sån aj histåvrråfágav låhkå universitehtan.
+{Duodden julevsáme bacheloråhpadus}£{case,nom-ill|Duodden julevsáme bacheloråhpadussaj} de sån aj histåvrråfágav låhkå universitehtan.
 
 - Iv la ájn mierredam makkir virggáj galgav låhkåt. Mån lav ájn álgon muv åhpadusán, subtsas sån.
 

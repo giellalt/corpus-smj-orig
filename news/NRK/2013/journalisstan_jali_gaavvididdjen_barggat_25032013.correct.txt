@@ -1,14 +1,14 @@
 Hálijda gus journalisstan jali gåvvididdjen barggat?
 
 
-NRK Sámi oahppehárjjidalle jn. 2012/13. (Gåro bieles)¢(cmp,X-1|Gårobieles) Maret Inga Smuk, Maren Inga Baer, Maija Holm Balto ja Vaino Rensberg
+NRK Sámi oahppehárjjidalle jn. 2012/13. {Gåro bieles}¢{cmp,X-1|Gårobieles} Maret Inga Smuk, Maren Inga Baer, Maija Holm Balto ja Vaino Rensberg
 
 Foto∞(nor): Berit Nystad/NRK
 Dála l máhttelisvuohta journalisstan barggat.
 
-Harrieth Aira (harrieth.aira@nrk.no)∞(url)
+Harrieth Aira {harrieth.aira@nrk.no}∞{url}
 
-(Ragátmáno 2. biejve rájes la nælljásijda máhttelisvuohta oadtjot mediaåhpadusáv)£(x|Ragátmáno 2. biejve rájes la nælljásij máhttelisvuohta oadtjot mediaåhpadusáv) NRK Sámen guhtta máno.
+{Ragátmáno 2. biejve rájes la nælljásijda máhttelisvuohta oadtjot mediaåhpadusáv}£{x|Ragátmáno 2. biejve rájes la nælljásij máhttelisvuohta oadtjot mediaåhpadusáv} NRK Sámen guhtta máno.
 
 Åhpadus bálkájn
 
@@ -16,8 +16,8 @@ Harrieth Aira (harrieth.aira@nrk.no)∞(url)
 
 Hárjjidallamájgen oadtju oahppe bálkáv ja gå ållim la hárjjidallamåsijn máhttá oahppe duodden oadtjot 50 000 kråvnå stipænndan jus vállji media- ja journalisstaåhpadusán joarkket.
 
-Lågå aj: – (Dette var artig og lærerikt)∞(nor)
-Lågå aj: (praktikantenes blogg)∞(nor)
+Lågå aj: – {Dette var artig og lærerikt}∞{nor}
+Lågå aj: {praktikantenes blogg}∞{nor}
 
 NRK Sápmi oahppehárjjidalle ja Arne Scheie.
 
@@ -26,9 +26,9 @@ Maŋŋel hárjjidallamájge galggá oahppen liehket buorre máhttelisvuohta bess
 
 Oahppehárjjidallam le NRK Sáme oajvvedåjmadusán Kárášjågån$(conwb,š-sj|Kárásjjågån)
 
-(Oahppe vierttiji ållim joarkkaskåvlåjn jali muodugasj máhtudahka)¥(missing|Oahppe vierttiji ållim joarkkaskåvlåjn jali viertti siján liehket muodugasj máhtudahka).
+{Oahppe vierttiji ållim joarkkaskåvlåjn jali muodugasj máhtudahka}¥{missing|Oahppe vierttiji ållim joarkkaskåvlåjn jali viertti siján liehket muodugasj máhtudahka}.
 
-(Gájbbeduvvá aj buorre sámegielmáhtudahka, sihke tjálalasj ja njálmálasj)£(x|Gájbbeduvvá aj buorre sámegielmáhtudahka, sihke tjálalattjat ja njálmálalattjat).
+{Gájbbeduvvá aj buorre sámegielmáhtudahka, sihke tjálalasj ja njálmálasj}£{x|Gájbbeduvvá aj buorre sámegielmáhtudahka, sihke tjálalattjat ja njálmálalattjat}.
 
 NRK Sábme sávvá ja ávttji åhttsijt ålles Nuorttarijkas åhtsåt oahppehárjjidallamvirgijda.
 

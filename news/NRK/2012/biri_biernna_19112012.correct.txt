@@ -4,9 +4,9 @@ Biri Biernna - Julevsámegielak mánáj-TV uddni álggá
 Gåvådibme Biri Biernas.
 
 Foto∞(nor): Harrieth Aira/NRK
-Biri Biernna la ådå julevsámegielak mánájTV-rájddo$(cmp,hyph|mánáj-TV-rájddo) mij uddni vuostasj bále vuojnnu (NRK Super:in)$(suf|NRK Superin).
+Biri Biernna la ådå julevsámegielak mánájTV-rájddo$(cmp,hyph|mánáj-TV-rájddo) mij uddni vuostasj bále vuojnnu {NRK Super:in}${suf|NRK Superin}.
 
-Harrieth Aira (harrieth.aira@nrk.no)∞(url)
+Harrieth Aira {harrieth.aira@nrk.no}∞{url}
 
 – Dát la animasjåvnnårájddo bierna birra, Biri Biernna, subtsas Jon Isak Lyngman Gælok, NRK Sáme mánájTV-bargge$(cmp,1-hyph|mánáj-TV-bargge), gut la sån guhti la hiebadahttám dáv ådå TV-rájdov julevsámegiellaj.
 
@@ -16,23 +16,23 @@ Biri Biernna la biernna mij dal duov-dáv hihtti€(foreign|huomaj) rádnajnisá
 Jon Isak Lyngman Gælok la hiebadahttám julevsábmáj.
 
 Foto∞(nor): Harrieth Aira/NRK
-– Biri Biernna la biernna gut sáhkát$(vowlat,á-a|sáhkat), ja sunja$(typo|sujna) li rádna dagu piŋgvijnna$(conc,ŋg-ng|pingvijnna) ja pelikádna gudi libá suv buoremus rádna. Ja duoppen-dáppen$(cmp,hyph-X|duoppen dáppen) manni sij ja ((duov-dát)$(cmp,hyph-X|duov dát))£(kongr|duot dát) dáhpáduvvá dáj sijá (manojnan)$(cmp,1-X|manoj nan). Mannamin li gåjt ekvatorin ja Nuorttapåvlån li aj mannam, valla maŋenagi vierttiji sijddaj máhttsat stádtjogáhkojt båråtjit, subtsas sån.
+– Biri Biernna la biernna gut sáhkát$(vowlat,á-a|sáhkat), ja sunja$(typo|sujna) li rádna dagu piŋgvijnna$(conc,ŋg-ng|pingvijnna) ja pelikádna gudi libá suv buoremus rádna. Ja duoppen-dáppen$(cmp,hyph-X|duoppen dáppen) manni sij ja {{duov-dát}${cmp,hyph-X|duov dát}}£{kongr|duot dát} dáhpáduvvá dáj sijá {manojnan}${cmp,1-X|manoj nan}. Mannamin li gåjt ekvatorin ja Nuorttapåvlån li aj mannam, valla maŋenagi vierttiji sijddaj máhttsat stádtjogáhkojt båråtjit, subtsas sån.
 
 Vuostasj animasjåvnnårájddo julevsámegiellaj
 
-Dát animasjåvnnårájddo la dat vuostasj animasjåvnnårájddo julevsámegiellaj mij (Mánáj-TV:an)$(suf|Mánáj-TV:n) vuoseduvvá.
+Dát animasjåvnnårájddo la dat vuostasj animasjåvnnårájddo julevsámegiellaj mij {Mánáj-TV:an}${suf|Mánáj-TV:n} vuoseduvvá.
 
-– De€(w|Dat) la vuostasj animasjåvnnårájddo mij (NRK Sáme:n)$(suf|NRK Sámen) la julevsámegiellaj dagáduvvam. (NRK Sáme:n)$(suf|NRK Sámen) la ulmme gåjt (galggi vihtta prográmma julevsámegiellaj jáhkáj$(vowc,á-a|jahkáj) dagáduvvat)¥(wo|vihtta prográmma julevsámegiellaj galggi jahkáj dagáduvvat). Ja mij jáhkkep animasjåvnnå la dat majna mij buoremusát oadtjop julevsáme mánájt gehtjatjit mánájTV:av$(suf|mánáj-TV:v), javllá NRK Sáme mánájTV-dåjmadusá$(suf|mánáj-TV-dåjmadusá) jådediddje, Norleif Krokmo.
+– De€(w|Dat) la vuostasj animasjåvnnårájddo mij {NRK Sáme:n}${suf|NRK Sámen} la julevsámegiellaj dagáduvvam. {NRK Sáme:n}${suf|NRK Sámen} la ulmme gåjt (galggi vihtta prográmma julevsámegiellaj jáhkáj$(vowc,á-a|jahkáj) dagáduvvat)¥(wo|vihtta prográmma julevsámegiellaj galggi jahkáj dagáduvvat). Ja mij jáhkkep animasjåvnnå la dat majna mij buoremusát oadtjop julevsáme mánájt gehtjatjit mánájTV:av$(suf|mánáj-TV:v), javllá NRK Sáme mánájTV-dåjmadusá$(suf|mánáj-TV-dåjmadusá) jådediddje, Norleif Krokmo.
 
-Ja uddni de vuojnnu vuostasj bále (NRK Super:in)$(suf|NRK Superin) kl. 17.00.
+Ja uddni de vuojnnu vuostasj bále {NRK Super:in}${suf|NRK Superin} kl. 17.00.
 
 Biri Biernna-rájddo vuoseduvvá juohkka mánnodagá, dán jage vihtta programma$(vowc,a-á|prográmma).
 
 Rájddo hiehpá vuostatjin nuoramusájda, valla Gælok aj hasot ållessjattugijt gehtjatjit.
 
-– Nuoramusájda hiehpá, sidjij lip mij hiebadam rádjov$(typo|rájdov), valla ållessjattugijda aj dåhkki gæhttjat gå danna la vehi gåhtjodum metahumor∞(nor) (mij lulu)£(kongr|mij luluj) ållessjattugijda aj miellagiddis gæhttjat, subtsas Gælok.
+– Nuoramusájda hiehpá, sidjij lip mij hiebadam rádjov$(typo|rájdov), valla ållessjattugijda aj dåhkki gæhttjat gå danna la vehi gåhtjodum metahumor∞(nor) {mij lulu}£{kongr|mij luluj} ållessjattugijda aj miellagiddis gæhttjat, subtsas Gælok.
 
 Så∞(nor) ij la de ietján gå tjåhkkidit gehtjatjit NRK Super, kl. 17.00 uddni.
 
-(GULLDAL ÁSSJEV)£(x|GULLDALA ÁSSJEV) BIRI BIERNA PROGRÁMMA BIRRA:
+{GULLDAL ÁSSJEV}£{x|GULLDALA ÁSSJEV} BIRI BIERNA PROGRÁMMA BIRRA:
 

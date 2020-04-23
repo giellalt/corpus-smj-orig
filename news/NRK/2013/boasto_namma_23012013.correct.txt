@@ -6,13 +6,13 @@ Oasse Láhku miehttseguovlos mij mierreduváj miehttseguovllon javllamánon 2012
 Foto∞(nor): Tom Edvindsen/NRK
 Javlaj åvddål ásaduváj ådå miehttseguovllo bidumsámeguovlluj Nordlándan, valla miehttseguovlo namma la nuorttasámegiellaj tjáleduvvam.
 
-Harrieth Aira (harrieth.aira@nrk.no)∞(url)
+Harrieth Aira {harrieth.aira@nrk.no}∞{url}
 
-Ådå miehttseguovllo mij gåbttjå Oarjjelij Bájddára, Melødjo ja Bájddára suohkanijt, (bidumsáme guovlon)¢(cmp,X-1|bidumsámeguovlon) Nordlándan, oattjoj namáv Láhku miehttseguovllo.
+Ådå miehttseguovllo mij gåbttjå Oarjjelij Bájddára, Melødjo ja Bájddára suohkanijt, {bidumsáme guovlon}¢{cmp,X-1|bidumsámeguovlon} Nordlándan, oattjoj namáv Láhku miehttseguovllo.
 
 Valla bájke ulmutja murkesti nammaj.
 
-Sijá mielas viertti namma liehket bidumsámegiellaj gå dat la ásaduvvam (bidumsáme guovlluj)¢(cmp,X-1|bidumsámeguovlluj).
+Sijá mielas viertti namma liehket bidumsámegiellaj gå dat la ásaduvvam {bidumsáme guovlluj}¢{cmp,X-1|bidumsámeguovlluj}.
 
 Láhku miehttseguovllo
 
@@ -28,6 +28,6 @@ Gatjálvis le jus miehttseguovllo galggá tjáleduvvat Láhku vaj Láhko miehtts
 
 – Mån vuojnáv namma la tjáleduvvam nuorttasáme tjállemvuogijn, vuojnáv u-bokstávva la maŋemus, valla mij tjállep unnán ietjáláhkáj gåjt de julevsámegielan. Så muv mielas bierri liehket namma mij gullu dan giellasuorggáj gånnå bájkke le ja tjuovvot dan guovlo giellasuorge jiednadimvuogev, javllá sámegiela universitehtalektur$(cmp,gen-nom;loan,vowc,e-ie|universitiehttaliektur) Nordlánda universitehtan, Anders Kintel.
 
-(Gulldal ålles ássjev vuollelin de oattjo gullat)£(x|Gulldala ålles ássjev vuollelin de oattjo gullat)  manen miehttseguovlo namma sjattaj gåk sjattaj, ja jus dát divoduvvá.
+{Gulldal ålles ássjev vuollelin de oattjo gullat}£{x|Gulldala ålles ássjev vuollelin de oattjo gullat}  manen miehttseguovlo namma sjattaj gåk sjattaj, ja jus dát divoduvvá.
 
 GULLDAL ÅLLES ÁSSJEV DÁNNA:

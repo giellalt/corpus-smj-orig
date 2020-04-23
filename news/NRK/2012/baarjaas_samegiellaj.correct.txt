@@ -5,13 +5,13 @@ Foto∞(nor): Harrieth Aira / NRK
 
 Uddni almoduvvá Árran- julevsáme guovdátja 13 diedalasj ájggetjála “Bårjås”. Dán jage la stuorra oasse artihkkalijs aj julevsámegiellaj tjáleduvvam.
 
-– Dán jage la (bielle oasse)¢(cmp,X-1|bielleoasse) artihkkalijs aj sámegiellaj jårggåluvvam ja dát la stuorra sieradus dijmásj ja åvdep jagij “Bårjås”-tjállagijs. Dát la stuorra giellalåpptim ja¥0 mij aj boahtte vaddusijn galggá boahtet, diedet Árrana rádevadde, Line Merete Skarvik.
+– Dán jage la {bielle oasse}¢{cmp,X-1|bielleoasse} artihkkalijs aj sámegiellaj jårggåluvvam ja dát la stuorra sieradus dijmásj ja åvdep jagij “Bårjås”-tjállagijs. Dát la stuorra giellalåpptim ja¥0 mij aj boahtte vaddusijn galggá boahtet, diedet Árrana rádevadde, Line Merete Skarvik.
 
 Árran - julevsáme guovdásj almot juohkke¢(vowlat,e-a|juohkka) jage diedalasj ájggetjállagav mij almoduvvá akti jahkáj.
 
 Gitta 1999-jage rájes la dát ájggetjála boahtám jur javlaj åvddåla.
 
-– (Ájnas oadtjot låhkåt)¥(missing|Ájnas la oadtjot låhkåt) fágaartihkkalijt$(cmp,gen-nom|fáhkaartihkkalijt) sámegiellaj
+– {Ájnas oadtjot låhkåt}¥{missing|Ájnas la oadtjot låhkåt} fágaartihkkalijt$(cmp,gen-nom|fáhkaartihkkalijt) sámegiellaj
 
 
 Árrana rádevadde, Line Merete Skarvik.
@@ -21,36 +21,36 @@ Dán jage la Árran válljim stuorra oasev artihkkalijs aj julevsámegiellaj alm
 
 Ja dav sij dahki moatte siváj diehti.
 
-– Ietjastis¥(redun|0) (la má ájnas artihkkala båhti)¥(missing|La má ájnas gå artihkkala båhti) julevsámegiellaj vaj ulmutja galggi máhttet låhkåt fágaartihkalijt$(conc,g-hk|fáhkaartihkkalijt) aj sámegiellaj. Dán jage lip aj oadtjum doarjjagav Sámedikkes sáme tjállusijda, ja danna l gájbbádus jut 50 prosenta tjállagijs galggi liehket sámegiellaj, subtsas Skarvik.
+– Ietjastis¥(redun|0) {la má ájnas artihkkala båhti}¥{missing|La má ájnas gå artihkkala båhti} julevsámegiellaj vaj ulmutja galggi máhttet låhkåt fágaartihkalijt$(conc,g-hk|fáhkaartihkkalijt) aj sámegiellaj. Dán jage lip aj oadtjum doarjjagav Sámedikkes sáme tjállusijda, ja danna l gájbbádus jut 50 prosenta tjállagijs galggi liehket sámegiellaj, subtsas Skarvik.
 
 Dássta la stuorre ávkke javllá Skarvik.
 
 – Gå artihkkala li sámegiellaj tjáleduvvam de li da fáron åvddånime julevsámegielav. Terma båhti sámegiellaj ja álu vuojn sámegiella ij adnu€(der|aneduvá) dakkár dutkam- ja muodugasj fágalasj aktijvuodan. Dan diehti l má viehka ájnas gávnnuji artihkkala ma li sámegiellaj tjáleduvvam majt ulmutja máhtti adnet.
 Dán jagásj "Bårjjåsin" li gålmmå oajvvetiemá ma li iellemvuoge ællosujton, varresvuohta ja dutkametihkka.
 
-Dánna li artihkkala dagu dálkádakhiebadibme ællosujton Nordlándan, ællosujto hiebadallamstrategija ja (ællosujto árvo kultuvrraguodden)£(case|ællosujto árvvo kultuvrraguodden) ja árbbedábálasj iellemvuohken.
+Dánna li artihkkala dagu dálkádakhiebadibme ællosujton Nordlándan, ællosujto hiebadallamstrategija ja {ællosujto árvo kultuvrraguodden}£{case|ællosujto árvvo kultuvrraguodden} ja árbbedábálasj iellemvuohken.
 
-Duodden li aj artihkkala dutkametihkas ja guokta tjállusa (gånnå varresvuohta la tiebmá)£(case,nom-ess|gånnå varresvuohta la tiebmán). Duodden la aj akta artihkal bidumsáme bájkkenamáj birra.
+Duodden li aj artihkkala dutkametihkas ja guokta tjállusa {gånnå varresvuohta la tiebmá}£{case,nom-ess|gånnå varresvuohta la tiebmán}. Duodden la aj akta artihkal bidumsáme bájkkenamáj birra.
 
-- Tjállagin li artihkkala (daj gålmmå tiemáj birra)£(kongr|dan gålmå tiemá birra) ma li ássje majna Árran la barggam dán maŋemus jage, subtsas Skarvik.
+- Tjállagin li artihkkala {daj gålmmå tiemáj birra}£{kongr|dan gålmå tiemá birra} ma li ássje majna Árran la barggam dán maŋemus jage, subtsas Skarvik.
 
 Uddni aj bidumsáme girjje almoduvvá
 
 
-Girjje 'Subttsasa dållågáttes - (Historier rundt kaffebålet)∞(nor)'.
+Girjje 'Subttsasa dållågáttes - {Historier rundt kaffebålet}∞{nor}'.
 
 Foto∞(nor): Præssagåvvå / Árran	
-(Uddni aj almot Árrana girjjealmmudahka)¥(wo|Uddni almot aj Árrana girjjealmmudahka), Báhko, girjev bidumsáme guovlos.
+{Uddni aj almot Árrana girjjealmmudahka}¥{wo|Uddni almot aj Árrana girjjealmmudahka}, Báhko, girjev bidumsáme guovlos.
 
-Dav girjev la bidumsábme Knut Sivertsen tjállám ja (la suv nubbe girjje)£(x|la suv nuppát girjje).
+Dav girjev la bidumsábme Knut Sivertsen tjállám ja {la suv nubbe girjje}£{x|la suv nuppát girjje}.
 
--Knut Sivertsen, Bájddáris la tjállám girjev majt gåhttjum la “Subttsasa dållågáttes”. Girjje l sihke julevsámegiellaj ja dárogiellaj ja gåhtjoduvvá dárruj “(Historier rundt kaffebålet)∞(nor)”. Girjen subtsas tjálle subttsasijt suv€(w,pers-refl|ietjas) sijddaguovlos Bájddárin, dáhpádusáj birra majt iesj la åtsådallam ja subttsasijt majt iehtjáda li sunji subtsastam. Girje vuodo l dålusj sáme subtsastallamvuohke ja girjje almoduvvá uddni, subtsas Skarvik.
+-Knut Sivertsen, Bájddáris la tjállám girjev majt gåhttjum la “Subttsasa dållågáttes”. Girjje l sihke julevsámegiellaj ja dárogiellaj ja gåhtjoduvvá dárruj “{Historier rundt kaffebålet}∞{nor}”. Girjen subtsas tjálle subttsasijt suv€(w,pers-refl|ietjas) sijddaguovlos Bájddárin, dáhpádusáj birra majt iesj la åtsådallam ja subttsasijt majt iehtjáda li sunji subtsastam. Girje vuodo l dålusj sáme subtsastallamvuohke ja girjje almoduvvá uddni, subtsas Skarvik.
 
 
 Girjjetjálle, Knut Sivertsen.
 
-Foto∞(nor): Sander Andersen (arkivfoto)∞(nor) / NRK
-Sån (ávttji ulmutjijt boahtet)£(x|ávttji ulmutjijt boadátjit) dán (javlajåvddål ávvudallamij)$(cmp,X-1;mix|åvddåljavlaávvudallamij) mij la bidumsáme guovdátjin, Duoddara ráfen, Bájddárin gietjan dán iehkeda.
+Foto∞(nor): Sander Andersen {arkivfoto}∞{nor} / NRK
+Sån {ávttji ulmutjijt boahtet}£{x|ávttji ulmutjijt boadátjit} dán {javlajåvddål ávvudallamij}${cmp,X-1;mix|åvddåljavlaávvudallamij} mij la bidumsáme guovdátjin, Duoddara ráfen, Bájddárin gietjan dán iehkeda.
 
-– Ij la ietján gå boahtet Duoddara ráfáj oassálastátjit girjálasjvuoda javlajåvddål-ávvudallamij$(hyph-0;mix|åvddåljavlaávvudallam) gånnå ienep diedo girjes gulluji ja gånnå aj tjálle tjavggalåhkå ietjas girjes. Mij (guossodip gløggajn ja javllagáhkoj)£(case|guossodip gløkkav ja javllagáhkov) ja gájka li buorisboahtem dåhku. Girjje l má viehka buorre javllavattáldahka, javllá Skarvik ja (ávttji ulmutjijt boahtet)£(x|ávttji ulmutjijt boadátjit).
+– Ij la ietján gå boahtet Duoddara ráfáj oassálastátjit girjálasjvuoda javlajåvddål-ávvudallamij$(hyph-0;mix|åvddåljavlaávvudallam) gånnå ienep diedo girjes gulluji ja gånnå aj tjálle tjavggalåhkå ietjas girjes. Mij {guossodip gløggajn ja javllagáhkoj}£{case|guossodip gløkkav ja javllagáhkov} ja gájka li buorisboahtem dåhku. Girjje l má viehka buorre javllavattáldahka, javllá Skarvik ja {ávttji ulmutjijt boahtet}£{x|ávttji ulmutjijt boadátjit}.
 

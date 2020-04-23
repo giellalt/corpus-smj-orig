@@ -1,12 +1,12 @@
 Sierralágálasj$(mix|Sierralágásj) vuodogiergge
 
 
-Dát la Árran - julevsáme guovdátja vuodogiergge,(ij rávvis giergge)¥(missing|ij la rávvis giergge) nav gåk dábálattjat vuodogiergge le.
+Dát la Árran - julevsáme guovdátja vuodogiergge,{ij rávvis giergge}¥{missing|ij la rávvis giergge} nav gåk dábálattjat vuodogiergge le.
 
 Foto∞(nor): Harrieth Aira/NRK
 Dán jage la 20 jage dat rájes gå vuodogiergge Árran, julevsáme guovdátjij, Divtasvuonan biejaduváj drådnik Sonjas.
 
-Harrieth Aira (harrieth.aira@nrk.no)∞(url)
+Harrieth Aira {harrieth.aira@nrk.no}∞{url}
 
 – Dát lij sierralágásj hávsskes dáhpádus, javllá Árrana udnásj hoajddár Oddmund Paulsen gut lij fáron gárvedime dán bæjvváj.
 
@@ -19,7 +19,7 @@ Ja dat mij lij viehka sierralágásj lij gå Árrana vuodogiergge ij lim dábál
 
 Sij gudi Árranav gárvedin sihtin farra gåvåstahttet vuodogiergev duojijn.
 
-MANEN DAV? (GULLDAL ÁSSJEV)£(x|GULLDALA ÁSSJEV) DÁNNA.
+MANEN DAV? {GULLDAL ÁSSJEV}£{x|GULLDALA ÁSSJEV} DÁNNA.
 
 
 Vuodogiergge

@@ -6,18 +6,18 @@ Sámedikke vuorrasijráde. Gåråbieles jådediddje Inga Karlsen, duodden Jonhil
 Foto∞(nor): Harrieth Aira/NRK
 Sámedikke vuorrasijráde la tjadádam tjåhkanimijt Divtasvuonan ja mannam gæhttjamin gåktu vuoras sámij sujtto ja hukso doajmmá Divtasvuonan.
 
-Harrieth Aira (harrieth.aira@nrk.no)∞(url)
+Harrieth Aira {harrieth.aira@nrk.no}∞{url}
 
-– Mij€(w|Dát) la ham ráde mij galggá doajmmat ålles Vuonarijkan ja dan diehti mannap (duonna-dánna)$(hyph-X|duonna dánna). Dán bále lip jåvsådam Divtasvuodnaj. Nuppe€(w|Nuppát) bále galggap Snoasáj$(vowc,oa-å|Snåsáj) ja goalmát bále mån dåbdåv sjaddá oarjján juonná, gånnå de, subtsas Sámedikke vuorrasijráde jådediddje Inga Karlsen.
+– Mij€(w|Dát) la ham ráde mij galggá doajmmat ålles Vuonarijkan ja dan diehti mannap {duonna-dánna}${hyph-X|duonna dánna}. Dán bále lip jåvsådam Divtasvuodnaj. Nuppe€(w|Nuppát) bále galggap Snoasáj$(vowc,oa-å|Snåsáj) ja goalmát bále mån dåbdåv sjaddá oarjján juonná, gånnå de, subtsas Sámedikke vuorrasijráde jådediddje Inga Karlsen.
 
 Ja jur dan diehti de aj Sámedikke vuorrasijráde manáj institusjåvnåj milta oahpástuvátjit vuoras sámij dilláj gudi huksoinstitusjåvnåjn årru.
 
 LÅGÅ AJ: – Vájmulasj æjvvalibme Gånågisájn
-LÅGÅ AJ: (Inviterte Kong Harald til Tysfjord)∞(nor)
-LÅGÅ AJ: (Sametingets eldreråd besøker Kongen)∞(nor)
+LÅGÅ AJ: {Inviterte Kong Harald til Tysfjord}∞{nor}
+LÅGÅ AJ: {Sametingets eldreråd besøker Kongen}∞{nor}
 Sámegiella ja sáme biebbmo guovdátjin
 
-Sij lidjin gæhttjamin sihke Ájluovta sjaljon Ájluovtan ja Gásluovta (vuorrasij sijdan)¢(cmp,X-1|vuorrasijsijdan) Gásluovtan ma li da guokta stuorámus (hukso- sujttoinstitusjåvnå)¥(missing|hukso- ja sujttoinstitusjåvnå) vuorrasij gáktuj Divtasvuonan.
+Sij lidjin gæhttjamin sihke Ájluovta sjaljon Ájluovtan ja Gásluovta {vuorrasij sijdan}¢{cmp,X-1|vuorrasijsijdan} Gásluovtan ma li da guokta stuorámus {hukso- sujttoinstitusjåvnå}¥{missing|hukso- ja sujttoinstitusjåvnå} vuorrasij gáktuj Divtasvuonan.
 
 Ájluovta sjaljon sjattaj sáhka sihke sámegiela birra ja biebmoj birra, maktas sáme oadtju dajt biebmojt ja bårråmusájt masi li hárjjánam ja maktas bargge gudi vuorasulmutjijt galggi sujttit, maktas sij sámástit máhtti.
 
@@ -25,9 +25,9 @@ Sij lidjin gæhttjamin sihke Ájluovta sjaljon Ájluovtan ja Gásluovta (vuorras
 
 Dasi oattjoj sån muhtem moalkedimijt Vuorrasijráde ájrrasijs.
 
-– Mij vuojnnep dajt sæmmi hásstalusájt dagu Skánegin muv suohkanin. Mån diedáv lidjin sáme (vuorrasij sijdajn)¢(cmp,X-1|vuorrasijsijdajn) gudi ållu sjávvunin ja ettjin åvvå bágov moalkeda åvdås gå nágin sámástahttjáj sidjij. De esski ællájin. Navti lij Skánegin, ja iv diede valla (jáhkáv dáppe aj lulu muodugasj dille)€(kongr|áhkáv dáppe aj luluj muodugasj dille), nammat vas ietjá Sámedikke (vuorrasijráde ájras)¢(cmp,X-1|vuorrasijrádeájras), Magne Einejord.
+– Mij vuojnnep dajt sæmmi hásstalusájt dagu Skánegin muv suohkanin. Mån diedáv lidjin sáme {vuorrasij sijdajn}¢{cmp,X-1|vuorrasijsijdajn} gudi ållu sjávvunin ja ettjin åvvå bágov moalkeda åvdås gå nágin sámástahttjáj sidjij. De esski ællájin. Navti lij Skánegin, ja iv diede valla {jáhkáv dáppe aj lulu muodugasj dille}€{kongr|áhkáv dáppe aj luluj muodugasj dille}, nammat vas ietjá Sámedikke {vuorrasijráde ájras}¢{cmp,X-1|vuorrasijrádeájras}, Magne Einejord.
 
-– Bargge dal diehttelis vierttiji sámegielav máhttet, dættot vas Sámedikke (Vuorrasijráde ájras)¢(cmp,X-1|Vuorrasijrádeájras), Anders P. Siri. 
+– Bargge dal diehttelis vierttiji sámegielav máhttet, dættot vas Sámedikke {Vuorrasijráde ájras}¢{cmp,X-1|Vuorrasijrádeájras}, Anders P. Siri. 
 
 
 
@@ -38,33 +38,33 @@ Sámedikke vuorrasijráde aj sidáj diehtet jus sáme dán institusjåvnån oadt
 
 Gåjkkebiebmojt dal Ájluovta sjaljon ietja riejddiji, valla málesbiebmo diŋgoduvvi bájkálasj kafeas Ájluovtan diededuváj Ájluovta sjaljo bieles.
 
-– Ep dal fála sierralágásj sáme biebmojt. Mujttet nágin bále lip málestam bájkálasj sáme biebmojt dánna nav gåk mån diedáv, valla (biebmojt majt oadtjop kafeas la dábálasj biebbmo)£(kongr|biebmojt majt oadtjop kafeas li dábálasj biebmo) majt Vuonan bårri. Ælla da sierraláhkáj hiebaduvvam sáme biebmo. (Jus ga)¢(cmp,X-1;conc,sg-sk|Juska) dá málesbiebmo ælla sierra sáme biebmo de biebbmo l bájkálasj bårråmus majt ulmutja dáppe bårri, subtsas Aspaas.
+– Ep dal fála sierralágásj sáme biebmojt. Mujttet nágin bále lip málestam bájkálasj sáme biebmojt dánna nav gåk mån diedáv, valla {biebmojt majt oadtjop kafeas la dábálasj biebbmo}£{kongr|biebmojt majt oadtjop kafeas li dábálasj biebmo} majt Vuonan bårri. Ælla da sierraláhkáj hiebaduvvam sáme biebmo. {Jus ga}¢{cmp,X-1;conc,sg-sk|Juska} dá málesbiebmo ælla sierra sáme biebmo de biebbmo l bájkálasj bårråmus majt ulmutja dáppe bårri, subtsas Aspaas.
 
-–(Jur dan diehti má Divtasvuona demænssasiebrre la sierra)¥(wo|Jur dan diehti la má Divtasvuona demænssasiebrre sierra) biebbmotjállusav almodam, Sáme biebmo vuorrasijda. Ja ulmme lij dát biebbmobagádus luluj aneduvvat dákkir institusjåvnån dagu dánná. Valla gå Ájluovta sjaljon ij la gievkan gånnå iehtja¢(conc,htj-tj|ietja) máhtti málestit de ij la dal vuordedahtte sij galggi málestit dáj biebbmobagádusáj milta, dættot Sámedikke vuorrasijráde jådediddje, Inga Karlsen.
+–{Jur dan diehti má Divtasvuona demænssasiebrre la sierra}¥{wo|Jur dan diehti la má Divtasvuona demænssasiebrre sierra} biebbmotjállusav almodam, Sáme biebmo vuorrasijda. Ja ulmme lij dát biebbmobagádus luluj aneduvvat dákkir institusjåvnån dagu dánná. Valla gå Ájluovta sjaljon ij la gievkan gånnå iehtja¢(conc,htj-tj|ietja) máhtti málestit de ij la dal vuordedahtte sij galggi málestit dáj biebbmobagádusáj milta, dættot Sámedikke vuorrasijráde jådediddje, Inga Karlsen.
 
-– (Jus ga)¢(cmp,X-1;conc,sg-sk|Juska) lij sávadahtte, de ij la miján loahpe málestit dánna dan diehti gå miján ælla da rustiga majt Biebbmooahttse gájbbet, dættot Aspaas.
+– {Jus ga}¢{cmp,X-1;conc,sg-sk|Juska} lij sávadahtte, de ij la miján loahpe málestit dánna dan diehti gå miján ælla da rustiga majt Biebbmooahttse gájbbet, dættot Aspaas.
 
 
 Inga Karlsen ja Morten Aspaas
 
 Foto∞(nor): Harrieth Aira/NRK
-Ja maŋŋáj dán guossidime Ájluovta sjaljon de vuolggi aj Gásluoktaj, gehtjatjit gåktu (vuorrasij sijdda)¢(cmp,X-1|vuorrasijsijdda) Divtasvuona suohkanguovdásjbájken doajmmá.
+Ja maŋŋáj dán guossidime Ájluovta sjaljon de vuolggi aj Gásluoktaj, gehtjatjit gåktu {vuorrasij sijdda}¢{cmp,X-1|vuorrasijsijdda} Divtasvuona suohkanguovdásjbájken doajmmá.
 
-– Midjij la viehka ájnas mij€(w|ahte) mannap ja oadtjop diehtet gåktu vuorrasijsujtto doajmmá, le gus sámegielak bargge, ja tjuovoduvvi gus da gájbbádusá maj milta Sámedikke vuorrasijráde barggá. Dat la ham mijá ássje, javllá Anders P. Siri (gut gåhttju ulmutjijt sijáj válldet aktijvuodav)£(case,gen-com|gut gåhttju ulmutjijt sijájn válldet aktijvuodav)  jus li ássje majna sihti Sámedikke vuorrasijráde galggá barggat.
+– Midjij la viehka ájnas mij€(w|ahte) mannap ja oadtjop diehtet gåktu vuorrasijsujtto doajmmá, le gus sámegielak bargge, ja tjuovoduvvi gus da gájbbádusá maj milta Sámedikke vuorrasijráde barggá. Dat la ham mijá ássje, javllá Anders P. Siri {gut gåhttju ulmutjijt sijáj válldet aktijvuodav}£{case,gen-com|gut gåhttju ulmutjijt sijájn válldet aktijvuodav}  jus li ássje majna sihti Sámedikke vuorrasijráde galggá barggat.
 
 – Sihke sáme, sáme suohkana ja iehtáda máhtti midjij buktet ássjijt ja de máhttep midja ássjijt giehtadallat ja tjalmostit dajt, javllá Anders Siri.
 
 Sihti aj politihkkárijt iejvvit
 
-Valla (Sámedikke (vuorrasij ráde)¢(cmp,X-1|vuorrasijráde) sihti)£(kongr|Sámedikke vuorrasijráde sihtá) aj iejvvit sijájt gudi mierredi gåktu vuorasulmutjij bæjválasj viessomdille galggá sjaddat.
+Valla {Sámedikke {vuorrasij ráde}¢{cmp,X-1|vuorrasijráde} sihti}£{kongr|Sámedikke vuorrasijráde sihtá} aj iejvvit sijájt gudi mierredi gåktu vuorasulmutjij bæjválasj viessomdille galggá sjaddat.
 
 
 Inga Karlsen jådet tjåhkanimev. Anders Siri gåråbielen¢(vowlat,å-o|gårobielen).
 
 Foto∞(nor): Harrieth Aira/NRK
-Dan diehti iejvviji aj Divtasvuona (njunnjusj politihkkárijt)¢(cmp,X-1|njunnjusjpolitihkkárijt) ja háldadusáv.
+Dan diehti iejvviji aj Divtasvuona {njunnjusj politihkkárijt}¢{cmp,X-1|njunnjusjpolitihkkárijt} ja háldadusáv.
 
-Sámedikke vuorrasijráde jådediddjen, Inga Karlsenin, li tjielgga (vuorddemusá Divtasvuona suohkanis)£(case,ela-ill|vuorddemusá Divtasvuona suohkanij).
+Sámedikke vuorrasijráde jådediddjen, Inga Karlsenin, li tjielgga {vuorddemusá Divtasvuona suohkanis}£{case,ela-ill|vuorddemusá Divtasvuona suohkanij}.
 
 – Mij sihtap diehtet gåktu Divtasvuona suohkan barggá vuorasulmutjij ássjij, sierraláhkáj mijáj sámij ássjij. Ja mij sihtap aj diehtet jus siján li plána gåktu barggat sáme vuorasulmutjij gáktuj, javllá Inga Karlsen.
 

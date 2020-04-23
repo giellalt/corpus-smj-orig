@@ -11,13 +11,13 @@ Dárogielaga
 
 Eriksen aj adná dárogielak gåvvididdjijt, valla gå galggi sámegielagirjijt$(vowlat,a-o|sámegielgirjijt) gåvvidahttet, de hæhttuji vuostak oadtjot tjoahkkájgæssusav$(vowc,e-æ|tjoahkkájgessusav) dárogiellaj jårggåluvvam. Dát hiemssi bargov ja dahka$(vowlat,a-á|dahká) nav vaj girjjeprosjevta divrru.
 
--Sámegielagirjijt$(cmp,gen-nom|Sámegiellagirjijt) jårggålit jali edesik tjoahkkájgæssusav$(vowc,e-æ|tjoahkkájgessusav) dárruj jårggålit, divrrot ja hiemssidahtta$(vowlat,a-á|hiemssidahttá) girjjeprosjevtav nav vaj muhttijn ållu maññunip$(ascii|maŋŋunip), (dajna de lij ållu buoremus jus)£(infl,ind-cond|dajna de luluj ållu buoremus jus) lij gávnnut gåvvididdje guhti aj julevsámegielav dádjat, javllá Eriksen
+-Sámegielagirjijt$(cmp,gen-nom|Sámegiellagirjijt) jårggålit jali edesik tjoahkkájgæssusav$(vowc,e-æ|tjoahkkájgessusav) dárruj jårggålit, divrrot ja hiemssidahtta$(vowlat,a-á|hiemssidahttá) girjjeprosjevtav nav vaj muhttijn ållu maññunip$(ascii|maŋŋunip), {dajna de lij ållu buoremus jus}£{infl,ind-cond|dajna de luluj ållu buoremus jus} lij gávnnut gåvvididdje guhti aj julevsámegielav dádjat, javllá Eriksen
 
 Eriksen ij la gæhttjalam gåvvididdjev ietjá sáme guovlojs. Sån usjudallá gájka gåvvididdje e rat julevsámegielav dádjada, ja dajna hæhttu huoman ássjev giehtadallat dagu dárogielagijda.
 
 
 Ij amatørajt¥(missing|amatørajt lágeda)
-Sámedikke gåvvididdjekonsulænnta Aino Hivand la (moadda gåvåjt gæhttjam)£(x|moadda gåvå gæhttjam;måttijt gåvåjt) ja válljim gåvåjt almmudagáj åvdås. Hivand gæhttjá vuostak makkár perspektijvva l gåvån ja aj ållesvuodav gåvån.
+Sámedikke gåvvididdjekonsulænnta Aino Hivand la {moadda gåvåjt gæhttjam}£{x|moadda gåvå gæhttjam;måttijt gåvåjt} ja válljim gåvåjt almmudagáj åvdås. Hivand gæhttjá vuostak makkár perspektijvva l gåvån ja aj ållesvuodav gåvån.
 
 -Gå lav mánusa tjadá låhkåm, de gehtjav gåvåjda ma girjjáj gulluji. Gehtjav makkár åvddånbuktemvuohke la gåvån, ja gehtjav aj vaj la sæmmi åvddånbuktemvuohke ålles girjen. Jus la dárbbo, de buvtáv ævtodusájt stuorrudahkaj ja vájbi ietjá elementajt adnet, giehttu Hivand.
 
@@ -27,4 +27,4 @@ Sámedikke gåvvididdjekonsulænnta Aino Hivand la (moadda gåvåjt gæhttjam)£
 
 Suv mielas ettjin galga divna girje almoduvvat gå gåvå li nav nievre, ja gåhttju almmudagájt snivva gåvvididdjijt åhtsåt.
 
--Ij la val dárbbo skåvlåjt vádtset jus galga buorre gåvvididdjen sjaddat. Hárjjidalá, ja de (hasodav gåvvididdjijda)£(case|hasodav gåvvodiddjijt) gåvåjt soames almmudahkaj vaddet ja danna oadtjot diededimev jus li dåhkkidahtte, javllá Hivand.
+-Ij la val dárbbo skåvlåjt vádtset jus galga buorre gåvvididdjen sjaddat. Hárjjidalá, ja de {hasodav gåvvididdjijda}£{case|hasodav gåvvodiddjijt} gåvåjt soames almmudahkaj vaddet ja danna oadtjot diededimev jus li dåhkkidahtte, javllá Hivand.

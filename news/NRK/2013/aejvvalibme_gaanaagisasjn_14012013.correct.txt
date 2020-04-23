@@ -4,43 +4,43 @@
 Laila Susanne Vars (g.b.) ja Inga Karlsen.
 
 Foto∞(nor): Dragan Cubrilo /NRK
-Sámedikke vuorrasijráde Inga Karlsen ja Sámedikke (sadjásasj presidænnta)¢(cmp,X-1|sadjásasjpresidænnta) Laila Susanne Vars ávvusijga gå Gånågis berustij gullat gåktu vuoras sámij dille le Vuonan.
+Sámedikke vuorrasijráde Inga Karlsen ja Sámedikke {sadjásasj presidænnta}¢{cmp,X-1|sadjásasjpresidænnta} Laila Susanne Vars ávvusijga gå Gånågis berustij gullat gåktu vuoras sámij dille le Vuonan.
 
-Harrieth Aira (harrieth.aira@nrk.no)∞(url)
+Harrieth Aira {harrieth.aira@nrk.no}∞{url}
 Johannes E. Kalvemo Johannes.E.Kalvemo@nrk.no
 Mette Ballovara mette.ballovara@nrk.no
 
 – Hávsske lij Gånågisáv iejvvit ja sujna lij duodaj berustibme gullat ienebuv vuoras sámij dile birra, javllá Sámedikke vuorrasijráde jådediddje, Inga Karlsen.
 
-Vars ja Karlsen lijga Slåhtan giehttomin M.Gånågis Haraldij daj (hásstalusáj birra mij duosstu)£(kongr|hásstalusáj birra ma duosstu) vuoras sámijt uddni, ja (duodden tjalmostit vuoras sámij máhtudagáv sebrudahkaj ávkken)¥(missing|duodden tjalmostit vuoras sámij máhtudagáv mij sebrudahkaj luluj ávkken).
+Vars ja Karlsen lijga Slåhtan giehttomin M.Gånågis Haraldij daj {hásstalusáj birra mij duosstu}£{kongr|hásstalusáj birra ma duosstu} vuoras sámijt uddni, ja {duodden tjalmostit vuoras sámij máhtudagáv sebrudahkaj ávkken}¥{missing|duodden tjalmostit vuoras sámij máhtudagáv mij sebrudahkaj luluj ávkken}.
 
-LÅGÅ: (Inviterte Kong Harald til Tysfjord)∞(nor)
-LÅGÅ AJ: (Sametingets eldreråd besøker Kongen)∞(nor)
-LÅGÅ AJ: (Første samiske eldreråd opprettet)∞(nor)
+LÅGÅ: {Inviterte Kong Harald til Tysfjord}∞{nor}
+LÅGÅ AJ: {Sametingets eldreråd besøker Kongen}∞{nor}
+LÅGÅ AJ: {Første samiske eldreråd opprettet}∞{nor}
 Diehtovájnogis Majestehtta£(x|Majestiehtta)
 
-Vars ja Karlsen galgajga álgos iejvvit Gånågisáv 15 minuhta, valla æjvvalibme vibáj viehka guhkebuv gå dá 15 minuhta. Gånågis sidáj (duov-dáv)$(cmp,hyph-X|duov dáv) sunnus gullat mij guosská vuorasj¢(fin,sj-s|vuoras) sámij viessomdilláj Vuonan.
+Vars ja Karlsen galgajga álgos iejvvit Gånågisáv 15 minuhta, valla æjvvalibme vibáj viehka guhkebuv gå dá 15 minuhta. Gånågis sidáj {duov-dáv}${cmp,hyph-X|duov dáv} sunnus gullat mij guosská vuorasj¢(fin,sj-s|vuoras) sámij viessomdilláj Vuonan.
 
 – Munnun lij ållo giehttot ja sån aj gatjádij soames gatjálvisájt, subtsas Sámedikke sadjásasj presidænnta, Laila Susanne Vars.
 
 – Diedij gus Gånågis vuoras sámij dilij birra?
 
-– Mån jáhkáv Gånågis diehtá viehka buoragit makkir hásstalusá duosstu vuoras sámijt sihke ((sámegiela hárráj ja kultuvrraj)£(case,ill-gen|sámegiela hárráj ja kultuvra))¥(wo|sámegiela ja kultuvra hárráj) gå vuorastuvvi ja jus intuisjåvnåjda båhti ja sujtov dárbahi. Miján ham ælla nuoges sámegielak dåktåra ja varresvuodabargge , javllá Vars.
+– Mån jáhkáv Gånågis diehtá viehka buoragit makkir hásstalusá duosstu vuoras sámijt sihke {{sámegiela hárráj ja kultuvrraj}£{case,ill-gen|sámegiela hárráj ja kultuvra}}¥{wo|sámegiela ja kultuvra hárráj} gå vuorastuvvi ja jus intuisjåvnåjda båhti ja sujtov dárbahi. Miján ham ælla nuoges sámegielak dåktåra ja varresvuodabargge , javllá Vars.
 
-Sámedigge ja Sámedikke (vuorrasij ráde)¢(cmp,X-1|vuorrasijráde) aj sihti Gånågis galggá diehtet (vuorasj¢(fin,sj-s|vuoras) sámij máhttelisvuodav€(w|máhtti))£(case,gen-nom|vuoras sáme máhtti) liehket resurssan sebrudahkaj. 
+Sámedigge ja Sámedikke {vuorrasij ráde}¢{cmp,X-1|vuorrasijráde} aj sihti Gånågis galggá diehtet (vuorasj¢(fin,sj-s|vuoras) sámij máhttelisvuodav€(w|máhtti))£(case,gen-nom|vuoras sáme máhtti) liehket resurssan sebrudahkaj. 
 LÅGÅ AJ: (Dronning Sonja på fjelltur i Hellmobotn (Ekstern lenke))∞(nor)
 Oajvvadij boahtet Divtasvuodnaj
 
-Gå dal állis Gånågisáv Slåhtan iejvvij, de Sámedikke (vuorrasij ráde)¢(cmp,X-1|vuorrasijráde) tjabu danga båttå gåhtjoj Gånågisáv guossen Divtasvuodnaj.
+Gå dal állis Gånågisáv Slåhtan iejvvij, de Sámedikke {vuorrasij ráde}¢{cmp,X-1|vuorrasijráde} tjabu danga båttå gåhtjoj Gånågisáv guossen Divtasvuodnaj.
 
 
 Inga Karlsen, Divtasvuonas.
 
 Foto∞(nor): Sander Andersen/NRK
 – Javlliv sunji sån vierttij nav gåk Dråtning$(conc,tn-dn;fin,ng-k|Drådnik) boahtet Divtasvuodnaj ietjas vantsajn ja ihkap aj viegadit gitta ráján, nav gåk Dråtning$(conc,tn-dn;fin,ng-k|Drådnik) Sonja dagáj jagen 2011, subtsas Karlsen.
-Karlsen doajvvu Gånågis boahtá vaj sån aj oadtju iejvvit vuoras sámijt julevsáme guovlon. Ja sån jáhkká (Gånågissaj lulu)£(kongr|Gånågissaj luluj) vuogas oaggomin mannat Vuodnabadán.
+Karlsen doajvvu Gånågis boahtá vaj sån aj oadtju iejvvit vuoras sámijt julevsáme guovlon. Ja sån jáhkká {Gånågissaj lulu}£{kongr|Gånågissaj luluj} vuogas oaggomin mannat Vuodnabadán.
 
-– Gå Gånågispárra lijga Divtasvuonan 20 jage dás åvddål sunnu sjivnnjádusmanon de M. Gånågis Harald nammadij luluj vuogas máhttsat Divtasvuodnaj luosav oakkotjit Vuodnabadán, ja mån mujttádahttiv suvva ja (sávviv suv vájmostimme (buoris boahtem)¢(cmp,X-1|buorisboahtem))£(kongr|sávviv suv vájmostam buorisboahtem) mijá lusi guollitjit, javllá Karlsen.
+– Gå Gånågispárra lijga Divtasvuonan 20 jage dás åvddål sunnu sjivnnjádusmanon de M. Gånågis Harald nammadij luluj vuogas máhttsat Divtasvuodnaj luosav oakkotjit Vuodnabadán, ja mån mujttádahttiv suvva ja {sávviv suv vájmostimme {buoris boahtem}¢{cmp,X-1|buorisboahtem}}£{kongr|sávviv suv vájmostam buorisboahtem} mijá lusi guollitjit, javllá Karlsen.
 
 Gånågis aj oattjoj káffavuossav vattáldahkan.
 
@@ -48,4 +48,4 @@ Gånågis aj oattjoj káffavuossav vattáldahkan.
 
 Sámedikke sadjásasj presidænnta, Laila Susanne Vars vattij Gånågissaj hullolijnav¢(vowlat,a-e|hullolijnev) ja hullofáhtsajt.
 
-– Dálla l má viehka tjoaskes Oslon ja (miján li sávvamus)£(kongr|miján lij sávvamus) sunji vaddet árbbedábálasj duojev mij biktá suv dánna dálvveguovddela, javllá Vars.
+– Dálla l má viehka tjoaskes Oslon ja {miján li sávvamus}£{kongr|miján lij sávvamus} sunji vaddet árbbedábálasj duojev mij biktá suv dánna dálvveguovddela, javllá Vars.
