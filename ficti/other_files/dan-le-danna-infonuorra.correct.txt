@@ -122,7 +122,7 @@ tjåhkkåhit ja skielbestit. {Ietján mij le ájnas le oadet}¥{redun|Ietján la
 gárves {"action"-ij}∞{eng}. Bårå buoragit. Ij dåssju sjokoládav ja bruvsav.
 {Riekta}¢{w|Almma} biebbmo le buorre, ja {riekta}¢{w|almma} idedisbiebbmo le
 riek ájnas. De máhtá (bårråt sjokoládav
-{eksábmájgev${typo|eksábmaájgev}}}£{case,acc-ine|bårråt sjokoládav
+{{eksábmájgev}${{}typo|eksábmaájgev}}}£{case,acc-ine|bårråt sjokoládav
 eksábmaájgen}, ja nav varrasåhkkårav lasedit ja {energijav}€{w|fámojt}
 jåhtelit oadtjot. (Mujte {ållo}€{e|edna} juhkusav, tjáhtje ja
 {bruvssa}}£{case,nom-acc|Mujte edna juhkusav, tjátjev ja bruvsav}. Ja mujte
@@ -133,7 +133,7 @@ Jus dát ij åvvånis viehkeda, ja dån suhta, ale rádnajda suhta. {Tjurvvista
 páhppárijs}£{case,ela-acc|Tjurvvista páhppárijt} ja
 {luossa}£{verb,fin,nomsg,imprt,mix|luosa} sæjnnáj). Jali maná viegatjit. Dat
 soajttá suhtov gádot. Ale viega (skåvlå vásuk jali
-{eksábmalajná${noun,conc|eksábmalanjá}}}¥{wo|skåvlå jali eksábmalanjá vásuk},
+{{eksábmalajná}${{}noun,conc|eksábmalanjá}}}¥{wo|skåvlå jali eksábmalanjá vásuk},
 gå dát máhttá {værádit}${verb,mix|vieredit} "eksábmanervajt". Jus sjaddá riek
 {nievrre}€{w|vájvve}, máhtá válldet maŋen {páppárijt}${conc,pp-hpp|páhppárijt}
 viegatjit, ja (håjggådit {åhpådiddje}${vowlat,å-a|åhpadiddje} goade
@@ -148,8 +148,8 @@ geladit ráddnágådijn}£{kongr;case| gå gehtjadi balvajt almen jali
 silbbabårråmvædtsagij geladi ráddnágådijt}. (Ihkap sáva dån ittji ålles
 pensumav lågå eksábmaijáv)£. Ij la buorre boahtet eksábmaj {guobbo
 {tjalmij}${adv,cmp|guoppotjalmij}}€{w|gájtsatjalmij}). Jus girje {la}€{w|ja}
-{{låhkådibme${conc,hk-g|lågådibme}}}€{w|låhkåm} (ij åvvånis le juoga
-{dunju${typo|dunji}}}£{x|ij åvvånis duv mielav båvte}, hæhttup sávvat dån le
+{{{låhkådibme}${{}conc,hk-g|lågådibme}}}€{w|låhkåm} (ij åvvånis le juoga
+{{dunju}${{}typo|dunji}}}£{x|ij åvvånis duv mielav båvte}, hæhttup sávvat dån le
 riek tjiehppe jali riek vuorbálasj, dat sihtá javllat, komá sinna vællahit
 jali juoga dan láhkáj eksábmabiejven. {Valla juska vil}¥{x|Vájk gåk}, dån i
 besa eksámas. Eksámav {hæhttu tjadádit akti}¥{wo| hæhttu akti tjadádit}.

@@ -42,7 +42,7 @@ Sunji la luondulasj gæhttjagoahtet jus dåhkki vijdedit dáv åhpadusfálaldag�
 
 Sámedigge aj vuojnná luondulattjan dáv {fáláldagáv}${vowlat,á-a|fálaldagáv} vijdedit.
 
-– Gå dal bacheloråhpadus la juolgij nanna. De usjudaláv ruvva láhkáj dal aj dåhkki oadtjot (mástergráda {fáláldagáv${vowlat,á-a|fálaldagáv}}}€{cmp,X-1|mastergrádafálaldagáv} sadjáj. Gålmån jagen li dá studenta gærggam bacheloråhpadusájn, ja sihti joarkket mastergrádajn. Dan diehti viertti {mastergrádafáládahka}${voclat,á-a|mastergrádafálaldahka} {lihket}${vowc,i-ie|liehket} sajen gålmån jagen, dættot Sámedikkeráde ájras Ellinor Marita Jåma gut Sámedikkev ájrastij dán rahpamin {Bådåddjon}¢{conc,ddj-dj|Bådådjon}.
+– Gå dal bacheloråhpadus la juolgij nanna. De usjudaláv ruvva láhkáj dal aj dåhkki oadtjot (mástergráda {{fáláldagáv}${{}vowlat,á-a|fálaldagáv}}}€{cmp,X-1|mastergrádafálaldagáv} sadjáj. Gålmån jagen li dá studenta gærggam bacheloråhpadusájn, ja sihti joarkket mastergrádajn. Dan diehti viertti {mastergrádafáládahka}${voclat,á-a|mastergrádafálaldahka} {lihket}${vowc,i-ie|liehket} sajen gålmån jagen, dættot Sámedikkeráde ájras Ellinor Marita Jåma gut Sámedikkev ájrastij dán rahpamin {Bådåddjon}¢{conc,ddj-dj|Bådådjon}.
 
 
 Sámeássjij stáhttatjálle Ragnhild Vassvik Kalstad lij aj guddnedime studentajt.

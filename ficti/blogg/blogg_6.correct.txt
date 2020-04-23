@@ -44,7 +44,7 @@ Buoris vas!
 Mån lav nav nievrre sjaddam dánna tjállet!
 Huomahiv gå lidjiv Naima {bloggan}${vowc,o-oa;conc,gg-kk|blåkkan} låhkåmin ahte mån vierttiv ienebuv tjállegoahtet.
 Nav {suohtas}¥{missing|suohtas la} suv {bloggav}${vowc,o-oa;conc,gg-kk|blåkkav} tjuovvot gå dat la dåssju sámegiellaj {tjálledum}${conc,ll-l|tjáledum}. Lidjiv sihtat ienep {sámebloggajt}${vowc,o-oa;conc,gg-kk|sámeblåkkajt} låhkåt!
-Gå mujna ij la {vil}€{w|desti} sámegiella skåvlån (la ájn ájnnasabbo dánna tjálláv¢{conc,ll-l|tjálav}£{x|la ájn ájnnasabbo dánna tjállet}. Adnet gielav le nav ájnas gå sámegiella la árvulasj giella. Mån sidáv gielav vaddet muv mánájda, ja sidáv muv áhkkova (riekta?) galggi gielav oadtjot.
+Gå mujna ij la {vil}€{w|desti} sámegiella skåvlån (la ájn ájnnasabbo dánna {tjálláv}¢{{}conc,ll-l|tjálav}£{x|la ájn ájnnasabbo dánna tjállet}. Adnet gielav le nav ájnas gå sámegiella la árvulasj giella. Mån sidáv gielav vaddet muv mánájda, ja sidáv muv áhkkova (riekta?) galggi gielav oadtjot.
 {Suddo}¥{missing|Suddo l} gå {ittjiv sámegielajn oadtjuv}£{kongr|ittjiv sámegielajn oattjo} joarkket skåvlån. Dálla ij la nuoges ájgge vil skåvlås. Dåssju 6 {váhko}${vowc,á-a|vahko}, ja iv háhppida dajt 60 tijmajt {adnet}€{w|tjadádit} dan ájgen. {Mujna l ållo ietjá bargo aj ma vierttiji gærggat}£{x|Mujna l ållo ietjá bargo aj majna vierttiv gærggat}.
 
 Biejav gåvåv dálvveloabes gå lijma Åren.

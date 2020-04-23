@@ -27,7 +27,7 @@ Vars ja Karlsen galgajga álgos iejvvit Gånågisáv 15 minuhta, valla æjvvalib
 
 – Mån jáhkáv Gånågis diehtá viehka buoragit makkir hásstalusá duosstu vuoras sámijt sihke {{sámegiela hárráj ja kultuvrraj}£{case,ill-gen|sámegiela hárráj ja kultuvra}}¥{wo|sámegiela ja kultuvra hárráj} gå vuorastuvvi ja jus intuisjåvnåjda båhti ja sujtov dárbahi. Miján ham ælla nuoges sámegielak dåktåra ja varresvuodabargge , javllá Vars.
 
-Sámedigge ja Sámedikke {vuorrasij ráde}¢{cmp,X-1|vuorrasijráde} aj sihti Gånågis galggá diehtet {{vuorasj}¢{fin,sj-s|vuoras} sámij {máhttelisvuodav€{w|máhtti}}}£{case,gen-nom|vuoras sáme máhtti} liehket resurssan sebrudahkaj. 
+Sámedigge ja Sámedikke {vuorrasij ráde}¢{cmp,X-1|vuorrasijráde} aj sihti Gånågis galggá diehtet {{vuorasj}¢{fin,sj-s|vuoras} sámij {{máhttelisvuodav}€{{}w|máhtti}}}£{case,gen-nom|vuoras sáme máhtti} liehket resurssan sebrudahkaj. 
 LÅGÅ AJ: (Dronning Sonja på fjelltur i Hellmobotn (Ekstern {lenke}}}∞{nor}
 Oajvvadij boahtet Divtasvuodnaj
 

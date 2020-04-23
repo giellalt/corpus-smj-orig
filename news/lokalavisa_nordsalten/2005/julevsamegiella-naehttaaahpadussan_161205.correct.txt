@@ -1,5 +1,5 @@
 Julevsámegiella næhttaåhpadussan
-Julevsámegielav dal ruvva dåhkki internehta baktu aj oahppat. {Viddnudak}${conc,ddn-dn|vidnudak} E-skuvla la åhpadimev åvddånahttemin mij la gárves gidá guovlluj. –Dát la álggokurssa julevsámegiellaj, ja la dunji guhti sidá sámegielav oahppat jali vehik máhtá sámástit ja sidá {ienebut}€{w,adv-adj|ienebuv} oahppat, subtsas Jan Skoglund Paltto guhti {{doajmma¢{vowlat,a-á|doajmmá}}}€{w|dåjmat} {viddnudagáv}${conc,ddn-dn|vidnudagáv}.
+Julevsámegielav dal ruvva dåhkki internehta baktu aj oahppat. {Viddnudak}${conc,ddn-dn|vidnudak} E-skuvla la åhpadimev åvddånahttemin mij la gárves gidá guovlluj. –Dát la álggokurssa julevsámegiellaj, ja la dunji guhti sidá sámegielav oahppat jali vehik máhtá sámástit ja sidá {ienebut}€{w,adv-adj|ienebuv} oahppat, subtsas Jan Skoglund Paltto guhti {{{doajmma}¢{{}vowlat,a-á|doajmmá}}}€{w|dåjmat} {viddnudagáv}${conc,ddn-dn|vidnudagáv}.
 Duodden kurssagirjijda oattjo aj persåvnålasj oatsodimev åhpadiddjes, ja njálmálasj hárjjidusáv oadtju oahppe aj {internahta}${vowc,a-e|internehta} jali telefåvnå baktu.
 Dájna åhpadusájn aj dåhkki eksámav válldet nuppátgiellan vuodoskåvlå dásen. 
 Lågå {ienebut}€{w,adv-adj|ienebuv} {páhperalmmudusán}${conc,lmm-lm;vow,u-o|páhperalmodusán} 

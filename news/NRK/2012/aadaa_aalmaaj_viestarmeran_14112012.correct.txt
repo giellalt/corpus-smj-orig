@@ -18,7 +18,7 @@ Sámedikke rádeájras, Vibeke Larsen
 Nominasjåvnåjuogos (la oajvvadam Johan Daniel Hætta,Divtasvuonas lista bajemus sadjáj, Tove Berg, Rivtagis nuppát sadjáj ja Arild Inga Pettersen, {Suorttas}${conc,rtt-rt|Suortas} goalmát {sadjáj}}£{case,nom-acc|la oajvvadam Johan Daniel Hættav,Divtasvuonas lista bajemus sadjáj, Tove Bergav, Rivtagis nuppát sadjáj ja Arild Inga Pettersenav, Suortas goalmát sadjáj}.
 
 Lågå: {Sametingstopp vraket av sine egne}∞{nor}
-Lågå aj: Nominasjåvnåjuohkusa {{sámedikkelistta${conc,stt-sst|sámedikkelissta}}}¢{cmp,gen-nom|sámediggelissta} 2013
+Lågå aj: Nominasjåvnåjuohkusa {{{sámedikkelistta}${{}conc,stt-sst|sámedikkelissta}}}¢{cmp,gen-nom|sámediggelissta} 2013
 Dát merkaj ælla aktak udnásj Viestarmera sámedikkeájrrasijs ådå luohtádusáv oadtjum {nominasjåvnnåjuohkusis}¢{cmp,nom-gen|nominasjåvnåjuohkusis}.
 
 Vuostatjin guosská dat Vibeke Larsenij, Áravuomes, valla aj Geir Johnsenij, {Ruŋggogieras}${conc,ŋgg-ŋŋg|Ruŋŋgogieras} ja goalmádij Inga-Lill Sundsetaj, Bådådjos {gudi uddni li válljiduvvam Barggijbelludagá sámedikkeájrrasa}£{case,gen-ess|gudi uddni li válljiduvvam Barggijbelludagá sámedikkeájrrasin}.

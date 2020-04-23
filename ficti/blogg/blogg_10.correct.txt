@@ -35,7 +35,7 @@ Huoman dal ájádaláv
 Jus goassak la dádjadam
 Man ålov duv æhtsáv
 
-(Dal {vuolggon¢{vowlat|vuolggun}}}¥{wo|Vuolggun dal} de sijddasimme
+(Dal {{vuolggon}¢{{}vowlat|vuolggun}}}¥{wo|Vuolggun dal} de sijddasimme
 Iv le ållu vieddje, javlav
 Ja de gálggiv  tjoavddagijt
 Viehket oaddátjit
@@ -65,7 +65,7 @@ Skåvllåbiejvve
 Tjåhkkåhav tijman skåvlån. Elektronihkka le dálla ja mij oahppap Transiståvrå birra. Mån {vádtsáv}¢{conc,dts-tts|váttsáv} teknihkalasj linjav aktan {freestyle}∞{eng}/sabegijtjerastallam. {Vádtsáv}¢{conc,dts-tts|váttsáv} nuppát jagev, ja ruvva le dát skåvllåjahke vássám!
 Iv mån diede majt sidáv joarkkaskåvlå maŋŋela dahkat, valla niegadiv dán ijá ahte subtsastiv sihtiv {polijsan}¢{conc,js-jss,ine-ess|polijssan} barggat boahtteájge. Na avtav diŋgav gåjt diedáv, ja dat la {at}€{foreign,nob|ahte} sidáv praktihkalasj bargojn barggat. Munji ij lijssi dåssju ståvlån tjåhkkåhit datåvrå åvdån (juska tjåhkkåhav vehi ålov dábálattjat ;)) {vaj}¥{w|jali} låhkåt ja tjállet ålles biejvijt. Ulmusj máj dassta vájbbá.
 
-{{Lunsjaj${conc,nsj-nnsj|Lunssjaj}}}€{w,swe|Biejvvebiebbmuj} ávvudaláv. Buoremus dánna Svierigin skåvlåv vádtset le ahte {oadtjop málesbiebmov {{lunsjaj}${conc,nsj-nssj|lunssjaj}}€{foreign|biejvvebiebbmuj}£{case|oadtjop málesbiebmov biejvvebiebbmon} juohkka biejve!.Vuoj man njálga biebmojt oadtjop!
+{{{Lunsjaj}${{}conc,nsj-nnsj|Lunssjaj}}}€{w,swe|Biejvvebiebbmuj} ávvudaláv. Buoremus dánna Svierigin skåvlåv vádtset le ahte {oadtjop málesbiebmov {{lunsjaj}${conc,nsj-nssj|lunssjaj}}€{foreign|biejvvebiebbmuj}£{case|oadtjop málesbiebmov biejvvebiebbmon} juohkka biejve!.Vuoj man njálga biebmojt oadtjop!
 {Guláv moaddása e}£{x|Guláv moattes e} {lijkku biebmojt}£{case|lijkku biebbmuj} majt oadtju skåvlån. Divna duokkár {suohkan-barggamsaje}¢{mix|suohkanbarggosajijn} oadtju sæmmilágásj biebmojt. Le dakkár biebbmo majt dåssju lieggisti ja {bårrå}¥{de bårrå}. Muv skåvllå la priváhtaskåvllå, ja dánna l aj álmmukallaskåvllå (gijtto Marita bágo åvdås). Dánna oadtjop ållu sijddadagádum biebmojt, ja {gåjt}€{w|nav} gåktu mån lav dádjadam le miján ihkeva buorre biebbmo jus {ietjá skåvlåjda buohtastahttep}£{case|jus ietjá skåvlåj buohtastahttep}.
 Uddni la dakkár {raggmunk}∞{swe} ja buojdde {siegen}€{w|guorraj}. {Raggmunk}∞{swe} la beruna ja slåppå segadum ja basedum.
 

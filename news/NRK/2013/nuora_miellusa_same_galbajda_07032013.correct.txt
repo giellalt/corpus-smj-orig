@@ -1,5 +1,5 @@
 
-(Dát galbba {berriji${vowc,e-ie|bierriji}}}£{kongr|Dát galbba bierri} aj sámegiellaj boahtet oajvvadi Hábmera nuora.
+(Dát galbba {{berriji}${{}vowc,e-ie|bierriji}}}£{kongr|Dát galbba bierri} aj sámegiellaj boahtet oajvvadi Hábmera nuora.
 
 {Foto}∞{nor}: NuorajTV
 {Nuora miellusa sáme galbajda}¥{missing|Nuora li miellusa sáme galbajda}

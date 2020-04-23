@@ -19,7 +19,7 @@ Vuorddi sajev
 
 Agnethe Johnsen vuojnná dárbov, ja la aj mihá gå nav moattes Árrana mánájgárddáj åhtsi. Tjaktjaj lij juo 16 máná åhtsåm. 12 li nuorap gå 3 jage.
 
--Stuorra oasse dájs æjgádijs gudi li {mánájdisá sajev dási åhtsåm}£{case|mánájdisesa sajev dási åhtsåm}, lij ietja åtsådallam sámegielav lij massám. Ja diedáv da æjgáda e sidá máná galggi sæmmi vásedit. Ja danen e sidá dárogielamánájgárddáj${cmp|dárogielmánájgárddáj}¢{x|dárogielakmánájgárddáj} mánájdisá rádjat, ienni Árrana mánájgárddáj gånnå le máhttelisvuohta sámegielav oahppat, javllá mánájgárde jådediddje Árranin.
+-Stuorra oasse dájs æjgádijs gudi li {mánájdisá sajev dási åhtsåm}£{case|mánájdisesa sajev dási åhtsåm}, lij ietja åtsådallam sámegielav lij massám. Ja diedáv da æjgáda e sidá máná galggi sæmmi vásedit. Ja danen e sidá {dárogielamánájgárddáj}${{}cmp|dárogielmánájgárddáj}¢{x|dárogielakmánájgárddáj} mánájdisá rádjat, ienni Árrana mánájgárddáj gånnå le máhttelisvuohta sámegielav oahppat, javllá mánájgárde jådediddje Árranin.
 
 Tjaktjaj li juo 3 máná gudi vuorddi sajev. Da máná dal {jáhkedahtti}¢{vowlat,i-e|jáhkedahtte} sajev oadtju, valla åvdås gå jådediddje duosstá sajijt jáhttet, {de hæhttu suohkan dåhkkidit oasev udnásj girjjevuorkká lanjájt}£{case|de hæhttu suohkan dåhkkidit oasev udnásj girjjevuorkká lanjájs} mánájgárde lanjájda.
 
