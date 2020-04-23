@@ -116,7 +116,7 @@ Majt aná dán birra?
 tjaktjaj de {algga}${vowc,a-á;vowlat,a-á|álggá}
 Uddni {lav lähkám guossidim}£{x|lav lähkám guossidime} {tjuojggam-gymnássav}${cmp;conc,ss-s|tjuojggamgymnásav} Jielleváren, danna galgav {maj}€{w|má} álgget tjaktjaj. Munji lij gåjt riek suohtas danna guossidit. Suohtas {liehkket}${conc,hkk-hk|liehket} {daj lanjájn}£{kongr|dajn lanjájn} gånnå galgav skåvlåv {váddset}${conc,dds-dts|vádtset}, suohtas iejvvit dajt nuppijt gudi aj galggi álgget danna.
 
-Dát biejvve lij dakkár biejvve gå äjgáda {tjuovvojin}${infl|tjuovvun} dåk, akta {åhpadidjijs}${conc,dj-ddj|åhpadiddjijs} subtsastij gåk da barggi danna, gåk {hárjjidallamsjiebmáv}${conc,bm-m|hárjjidallamsjiemáv} {dahka}${vowlat,a-á|dahká}, gåk dav¥0 {galgga}${vowlat,a-á|galggá} hárjjidallat "riekta {lahkáj}${vowc,a-á|láhkáj}", (dat lij dakkár ássjijt mij oattjojma {diehttet¢{conc,htt|diehtet}}}¥{dat lij dakkár ássjij birra mij oattjojma diehtet}.  Mij oahppe anijma aj dakkár {viehkkamtestav}€{foreign,swe|viehkamgæhttjalimev}. Låssåt lij dat¥0 {viehkkat}${conc,hkk-hk|viehkat}. Mij lip aj {hárjjidallamsjiebmáv}${conc,bm-m|hárjjidallamsjiemáv} {oattjom}${conc,ttj.dtj;vowlat,o-u|oadtjum}, ja mánnodagá de {algav}${vowc,a-á;vowlat,a-á|álgáv} muv ådå hárjjidallam viessomav. {Eller}€{foreign,nob|Jali} de {algav}${vowc,a-á;vowlat,a-á|álgáv} {sjiebmáv}${conc,bm-m|sjiemáv} tjuovvot.
+Dát biejvve lij dakkár biejvve gå äjgáda {tjuovvojin}${infl|tjuovvun} dåk, akta {åhpadidjijs}${conc,dj-ddj|åhpadiddjijs} subtsastij gåk da barggi danna, gåk {hárjjidallamsjiebmáv}${conc,bm-m|hárjjidallamsjiemáv} {dahka}${vowlat,a-á|dahká}, gåk {dav}¥{0} {galgga}${vowlat,a-á|galggá} hárjjidallat "riekta {lahkáj}${vowc,a-á|láhkáj}", (dat lij dakkár ássjijt mij oattjojma {diehttet¢{conc,htt|diehtet}}}¥{dat lij dakkár ássjij birra mij oattjojma diehtet}.  Mij oahppe anijma aj dakkár {viehkkamtestav}€{foreign,swe|viehkamgæhttjalimev}. Låssåt lij {dat}¥{0} {viehkkat}${conc,hkk-hk|viehkat}. Mij lip aj {hárjjidallamsjiebmáv}${conc,bm-m|hárjjidallamsjiemáv} {oattjom}${conc,ttj.dtj;vowlat,o-u|oadtjum}, ja mánnodagá de {algav}${vowc,a-á;vowlat,a-á|álgáv} muv ådå hárjjidallam viessomav. {Eller}€{foreign,nob|Jali} de {algav}${vowc,a-á;vowlat,a-á|álgáv} {sjiebmáv}${conc,bm-m|sjiemáv} tjuovvot.
 
 
 
@@ -172,7 +172,7 @@ Majsing suv vuostasj guolijn majt iesj oattjoj oaggomijn
 Mån tjuojggamin {Rijtsemij}${conc,jts-jtts|Rijttsemij} <3
 
 
-Dav¥0 viertti {ietjasav}${infl|ietjas} gåvvit...{hehe}∞{sla}
+{Dav}¥{0} viertti {ietjasav}${infl|ietjas} gåvvit...{hehe}∞{sla}
 
 
 {Johanna viegaj ja viegaj, diehtebihtit lij hárjji<hyph/>dallam}£{case,ill-ine|Johanna viegaj ja viegaj, diehtebihtit sujna lij {hárjjidallam}...genja}${typo|gejna} iv diede. Valla viegaj sån gåjt :)
@@ -227,7 +227,7 @@ Majt aná dán birra?
 muv bässásj
 Buoris vas!
 
-Dálla l bässásj ja loahpe l¥0 vássám, ja {vahkko 17}¥{wo|17. vahkko} la jur {alggám}${vowc,a-á|álggám}. Muv loahpe le lähkám hávsske. {Mánniv}¢{vowc,á-a|Manniv} {maj}¢{vowc,a-á|máj} Guovddagäjnnuj ja danna suohtastalliv Marenijn dajt vuostasj biejvijt. Måj Marenijn årojma sämmi bále Råmsån ja {Båddåjon}${coninit,dd-d;conc,j-dj|Bådådjon} gå lijma unna nejtsutja. Munji dat lij riek suohtas, oadtjuv vuojnnet ja studerit {dajt nuorta}€{w|nuortagij} gáptijt, ja gåk mån lav studerim dajt. Iejvvijiv aj ållo ådå ulmutjijt ja lidjiv {Juhl´sav}${prop,suf|Juhlsav} guossidime.
+Dálla l bässásj ja loahpe {l}¥{0} vássám, ja {vahkko 17}¥{wo|17. vahkko} la jur {alggám}${vowc,a-á|álggám}. Muv loahpe le lähkám hávsske. {Mánniv}¢{vowc,á-a|Manniv} {maj}¢{vowc,a-á|máj} Guovddagäjnnuj ja danna suohtastalliv Marenijn dajt vuostasj biejvijt. Måj Marenijn årojma sämmi bále Råmsån ja {Båddåjon}${coninit,dd-d;conc,j-dj|Bådådjon} gå lijma unna nejtsutja. Munji dat lij riek suohtas, oadtjuv vuojnnet ja studerit {dajt nuorta}€{w|nuortagij} gáptijt, ja gåk mån lav studerim dajt. Iejvvijiv aj ållo ådå ulmutjijt ja lidjiv {Juhl´sav}${prop,suf|Juhlsav} guossidime.
 
 Ållijma sijddaj mánnodagá, ja dijstagá mån ja muv vehka {Ruoktoj}${vowlat,o-u|Ruoktuj} vuoddjájma. Ruokton lij riek hávsske ja vuogas. Mån lidjiv ienemusát muv {unnaoappátjij}¥{missing|unnaoappátjij siegen} , stågajma ålggon muohttagin ja tjuojgajma Stuorjulevin. Manniv vas sijddaj duorastagá danen {de}€{w|gå} muohtá ja suv {boadnjásj}€{w|boaddnje} ja áhkko ja {áddja}${vowlat,a-á|áddjá} båhtin mijá lusi Bårjjåsij. Dat lij suohtas, lij hávsske lagámus fuolkev iejvvit vas. Mån dahkiv {oreo-gáhkov}${cmp|oreogáhkov} ja dav lip bårråm desik någåj!
 

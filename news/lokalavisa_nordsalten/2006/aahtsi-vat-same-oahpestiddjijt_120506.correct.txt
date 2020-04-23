@@ -15,6 +15,6 @@ Mikkelsen subtsas moattes e diede åvvå majdik sámij birra, ja nav de vuojnná
 
 ”Virggáj” åhtsi 3 dábálasj sáme nuora gudi ælla ájn 25 jage ja gudi diehti vehik ietjas duogátja birra.
 
--Nuora aj oadtju 15 {studiepoenga}€{foreign|oahppotjuorga} {kursav}¥{msissing|tjadádit} miján¥0 dáppen, ja dat la dagu duodde ieme máhtudahkaj, javllá Sissel Mikkelsen {mañutjissaj}${ascii|maŋutjissaj}.
+-Nuora aj oadtju 15 {studiepoenga}€{foreign|oahppotjuorga} {kursav}¥{msissing|tjadádit} {miján}¥{0} dáppen, ja dat la dagu duodde ieme máhtudahkaj, javllá Sissel Mikkelsen {mañutjissaj}${ascii|maŋutjissaj}.
 
 Oahpestiddje oadtju 150.000 kråvnå stipænndan dat jages gå la oahpestiddje, ja åhtsåmájgge l biehtsemáno 9. biejve.

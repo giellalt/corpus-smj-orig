@@ -5,7 +5,7 @@ Bårjås 2012 - dán bále aj julevsámegiellaj.
 
 Uddni almoduvvá Árran- julevsáme guovdátja 13 diedalasj ájggetjála “Bårjås”. Dán jage la stuorra oasse artihkkalijs aj julevsámegiellaj tjáleduvvam.
 
-– Dán jage la {bielle oasse}¢{cmp,X-1|bielleoasse} artihkkalijs aj sámegiellaj jårggåluvvam ja dát la stuorra sieradus dijmásj ja åvdep jagij “Bårjås”-tjállagijs. Dát la stuorra giellalåpptim ja¥0 mij aj boahtte vaddusijn galggá boahtet, diedet Árrana rádevadde, Line Merete Skarvik.
+– Dán jage la {bielle oasse}¢{cmp,X-1|bielleoasse} artihkkalijs aj sámegiellaj jårggåluvvam ja dát la stuorra sieradus dijmásj ja åvdep jagij “Bårjås”-tjállagijs. Dát la stuorra giellalåpptim {ja}¥{0} mij aj boahtte vaddusijn galggá boahtet, diedet Árrana rádevadde, Line Merete Skarvik.
 
 Árran - julevsáme guovdásj almot {juohkke}¢{vowlat,e-a|juohkka} jage diedalasj ájggetjállagav mij almoduvvá akti jahkáj.
 

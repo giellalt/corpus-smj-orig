@@ -6,7 +6,7 @@ Doajvvu ienep {sajev}¥{sajev oadtju} tjaktjaj
 
 {Rádenålmåj}${conwb,n-0|Rádeålmåj} Yvonne Mikalsen ij duosta jáhttet ássjev giehtadalli åvddål giesseloabe.
 
--Moattes æjgádijs lij ietjasa iednegielav massám, ælla åvvånis sámegielav oahppam, ja sæmmi dilláj e sidá ietjasa mánájt, jáhkká bæjválasj jådediddje sáme mánájgárden Árranin, Agnethe Johnsen. Johnsen jáhkká dat la aj¥0 sivvan gå nav moattes lij (dáj {mañemus}${ascii|maŋemus} jagij sáme mánájgárddáj {åhtsåm}}£{case|dájt maŋemus jagijt sáme mánájgárddáj åhtsåm}, ja {tjaktjarájes}¢{conc,kt-vt;cmp,1-x|tjavtja rájes} doajvvu Johnsen ienebujda oadtju sajijt fállat. 
+-Moattes æjgádijs lij ietjasa iednegielav massám, ælla åvvånis sámegielav oahppam, ja sæmmi dilláj e sidá ietjasa mánájt, jáhkká bæjválasj jådediddje sáme mánájgárden Árranin, Agnethe Johnsen. Johnsen jáhkká dat la {aj}¥{0} sivvan gå nav moattes lij (dáj {mañemus}${ascii|maŋemus} jagij sáme mánájgárddáj {åhtsåm}}£{case|dájt maŋemus jagijt sáme mánájgárddáj åhtsåm}, ja {tjaktjarájes}¢{conc,kt-vt;cmp,1-x|tjavtja rájes} doajvvu Johnsen ienebujda oadtju sajijt fállat. 
 
 Árrana mánájgárden ælla desti saje ienep mánájda, ja soames æjgáda li vilá vuorddemin jus ietjasa mánájda sajev danna oadtju. Tjaktjaj jåhtå álmmukgirjjevuorkká Árranis, ja bargge dajna doajvvu divna mánájda oadtju sajev fállat. 
 Vuostasj biejve rájes la Árran Mánájgárdde hudjam gå la nav binná sajes, {juogu dal}€{w|sihke} sinna {jali}€{w|ja} ålggon. Valla {tjaktjarájes}¢{conc,kt-vt;cmp,1-x|tjavtja rájes} doajvvu bargge buorep sadje sidjij sjaddá.

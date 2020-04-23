@@ -5,7 +5,7 @@ Aline Mikkelsen la njunnjusj siebren “Duodje {Nordlannda}${vowc,a-á|Nordlánn
 
 {Oanegis}¥{missing|Oanegis versjåvnnå} dárogiellaj
 
-Manen sihti dån¥0 duojijn álgget?
+Manen sihti {dån}¥{0} duojijn álgget?
 -Mån ittjiv máhte majdik, ja danen {sihtiv ienep}£{case|sihtiv ienebuv} oahppat.
 Majna lijkku buoremusát barggat?
 -Buoremusát lijkkuv sasnijn barggat.

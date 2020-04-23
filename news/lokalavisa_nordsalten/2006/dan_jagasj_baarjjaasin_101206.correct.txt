@@ -5,7 +5,7 @@ Dán jagásj Bårjjåsin li guokta vuostasj artihkkala guoktása birra gudi lijg
 
 {Oanegis}¥{Oanegis versjåvnnå} dárogiellaj 
 
-{Ártihkkalav}${vowc,á-a|Artihkkalav} ”En egen lap” tjálij Olaf Holm tjállagin ”Skillingsmagasin” jagen 1880. Dát¥0 sábme gen birra Olaf Holm tjállá la Nils Størk. Nils Størk lij oasestiddje Jågåsijdan Divtasvuonan, ja sån aj oasestij sámij gudi {jåhtalin}${vowlat,a-å|jåhtålin} Svieriga ja Vuona gaskav.
+{Ártihkkalav}${vowc,á-a|Artihkkalav} ”En egen lap” tjálij Olaf Holm tjállagin ”Skillingsmagasin” jagen 1880. {Dát}¥{0} sábme gen birra Olaf Holm tjállá la Nils Størk. Nils Størk lij oasestiddje Jågåsijdan Divtasvuonan, ja sån aj oasestij sámij gudi {jåhtalin}${vowlat,a-å|jåhtålin} Svieriga ja Vuona gaskav.
 
 Nils Størk rivggodij jáfojt kálkajn, ja dáv jáfov lij jåhttesábme Svieriga bieles akti oasstám. Gå dát sábme dáv jáfov bårrågådij, biestij divna vuoptajt. Sån dal árvvedij mij dal dát la, ja de rájaj noajdev {osestiddje}${vowc,o-oa|oasestiddje} lusi Jågåsijddaj. Nils Størk danga {maññela}${ascii|maŋŋela} hárddos sjattaj, ja dat {ájge}€{w|biejve} {rájges}¢{conc,jg-j|rájes} dåjmadij ietjas oassásav {{skihpasengas${ascii|skihpaseŋgas}}}€{w|skihppijlátjos}.
 

@@ -5,7 +5,7 @@ Divtasvuona suohkana bargge rádevieson galggi dal sámegielav oahppagoahtet. {D
 {Foto}∞{nor}: Harrieth Aira/NRK
 Dán tjavtja rájes åhpadallagoahtá {Divtasvuona suohkan ietjasa}£{kongr|Divtasvuona suohkan ietjas} barggijt sámegiellaj, sihke rádevieson ja ietjá sajijn suohkanin.
 
-Dav duodastij Divtasvuona rádeålmåj Konrad Sætra uddni¥0 gå suohkanstivrra tjåhkanij dán ideda.
+Dav duodastij Divtasvuona rádeålmåj Konrad Sætra {uddni}¥{0} gå suohkanstivrra tjåhkanij dán ideda.
 
 Divtasvuona {suohkanstivra ájras}¢{cmp,X-1|suohkanstivraájras}, Johan Daniel Hætta, Barggijbelludagás.
 

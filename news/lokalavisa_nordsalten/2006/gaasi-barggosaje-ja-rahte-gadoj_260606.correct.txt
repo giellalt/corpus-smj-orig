@@ -5,14 +5,14 @@ Peder Pedersen soapptsu Måsken juska dal nav ålos e danna åro. –Måsken la 
 {Oanegis}¥{Oanegis versjåvnnå} dárogiellaj 
 
 
-Peder Pedersen(88), jali¥0 {ienemusát oahpes}£{x|oahppásamos} Mihkkila-Petterin, la aj várijs ja nuores viessomlájbev viedtjam.
+Peder Pedersen(88), {jali}¥{0} {ienemusát oahpes}£{x|oahppásamos} Mihkkila-Petterin, la aj várijs ja nuores viessomlájbev viedtjam.
 
 
 10 jage dás åvddål manáj Peder Pedersen Gånågisá lunna subtsastittjat dárbbo l sierra dåjmajda jus Måsske galggá årromsadjen bissot. Dalloj årrun {birrusit}¢{fin,t-n|birrusin} 80 Måsken. Skåvlån lidjin dalloj 15 oahppe. 3 sávttsabånndura lidjin, ja {boargál}€{w|rámbuvdda} lij gånnå oadtju vargga gájklágásj gálvojt oasstet. Duodden aj gålmmå guollárvantsa.
 
 Uddni l ulmusjlåhko lahkkáj binnum, valla e val rat divna Måskes jåde – vájku dal {gáktu}${vowc,á-å|gåktu}, dille sjaddá.
 
-Lågev jage dás åvddåla lij Måsske viesso sáme {årrudahka}${conc,rr-r|årudahka}, gånnå ulmutja duov dáv virgev adnin, ja massta aj viessun. Skåvlån lidjin ållo oahppe, ja vihtta åhpadiddje ålles virgen. Duodden aj basse ja hoajddár. Barggokurssa lij aj jådon, ja moattes dav kursav {tjadádin guovte jage}£{case|tjadádin guovten jagen} birán¥0. Duodden lidjin aj {asstoájgedåjma}¢{cmp,gen-nom|asstoájggedåjma} ja lásjmudallama juohkka iehkeda, juogu dal skåvlå sisbielen jali ålgusjbielen. Ja oahppe kafeav ásadin juohkka dijstakiehkeda. Gålmmå guollárvantsa gullujin aj Måsskåj.
+Lågev jage dás åvddåla lij Måsske viesso sáme {årrudahka}${conc,rr-r|årudahka}, gånnå ulmutja duov dáv virgev adnin, ja massta aj viessun. Skåvlån lidjin ållo oahppe, ja vihtta åhpadiddje ålles virgen. Duodden aj basse ja hoajddár. Barggokurssa lij aj jådon, ja moattes dav kursav {tjadádin guovte jage}£{case|tjadádin guovten jagen} {birán}¥{0}. Duodden lidjin aj {asstoájgedåjma}¢{cmp,gen-nom|asstoájggedåjma} ja lásjmudallama juohkka iehkeda, juogu dal skåvlå sisbielen jali ålgusjbielen. Ja oahppe kafeav ásadin juohkka dijstakiehkeda. Gålmmå guollárvantsa gullujin aj Måsskåj.
 
 
 Binnum
@@ -30,7 +30,7 @@ Hámnnaj la dåssju akta guollárvanntsa báhtsám, valla dåbbelin gårvvu luos
 
 Håjen
 
-Peder Pedersen(88), jali¥0 {ienemusát oahpes}£{x|oahppásamos} Mihkkila-Petterin, manáj jagen 1996 Gånågisá lunna subtsastittjat dán aksjåvnå birra, ja juoga dal hæhttu dáhpáduvvat jus Måsske ij galga {ávdas}¢{conc,vd-vt;nom-ess|ávttasin} sjaddat. Sån aj dan sæmmi manon nammadij rádjálåvsåj {viddjurijt}${conc,ddj-dj|vidjurijt}.
+Peder Pedersen(88), {jali}¥{0} {ienemusát oahpes}£{x|oahppásamos} Mihkkila-Petterin, manáj jagen 1996 Gånågisá lunna subtsastittjat dán aksjåvnå birra, ja juoga dal hæhttu dáhpáduvvat jus Måsske ij galga {ávdas}¢{conc,vd-vt;nom-ess|ávttasin} sjaddat. Sån aj dan sæmmi manon nammadij rádjálåvsåj {viddjurijt}${conc,ddj-dj|vidjurijt}.
 
 Petter lij dalloj måvtuk. Vuojnij Måsken dåhkki årrot nuorra ulmutjijda aj, ja dåhkki aj {bargosajijt}${conc,rg-rgg|barggosajijt} ásadit. Sån vuojnij moadda tjoavddusa, ja doajvoj juoga dal aj Måsskåj vierttij ásaduvvat. Valla ittjij dal åvvå sjatta gåktu Petter usjudaláj.
 

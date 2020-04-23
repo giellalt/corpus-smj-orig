@@ -28,7 +28,7 @@ NSR
 
 Gå dal presidænnta návti nammat sån la dudálasj dájna oajvvadusájn, de ham de sån rádjá signálajt oajválattjada jut dát la nuoges ja de ham Stuorradigge ij des dárbaha usjudallat Sámedikkev, jáhkká sån.
 
-Sámedigge l iehtja¥0 mierredam gájbbedit lassedoarjjagav (139 {milliåvnå}${conm,0-j|millijåvnå} {kråvnåj}}£{case|139:jn millijåvnåjn kråvnåjn}, valla dán oajvvadusán boahtá 32 lasse {milliåvnå}${conm,0-j|millijåvnå}.
+Sámedigge l {iehtja}¥{0} mierredam gájbbedit lassedoarjjagav (139 {milliåvnå}${conm,0-j|millijåvnå} {kråvnåj}}£{case|139:jn millijåvnåjn kråvnåjn}, valla dán oajvvadusán boahtá 32 lasse {milliåvnå}${conm,0-j|millijåvnå}.
 
 – Ep de máhte dudálattja liehket budsjæhttalassánimijn mij la 100 {milliåvnå}${conm,0-j|millijåvnå} kråvnå vuolep gå dav majt lijma sávvam, dættot Keskitalo.
 
