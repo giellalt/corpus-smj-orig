@@ -35,6 +35,6 @@ Ja gatjálvissaj jus la vejulasj gáptijn ållit guovten biejven ja avtan iehked
 Kurssa l {navgu}${conc,vg-vk|navku}. {Sámedigge ja Nordlánda fylkka libá}£{kongr|Sámedigge ja Nordlánda fylkka li} rudájt dán duodjeprosjæktaj juollodam.
 
 
-Gáptegisá {ávvdallin}${vowlat,0-u|ávvudallin} (Sámeálmmuk biejvev)¢(cmp,X-1|{Sámeálmmukbiejvev}¢{cmp,1-X|Sáme álmmukbiejvev}. {Vuordedahtte ienep gáptegisá galggi vuojnnut}£{infl,ind-pot|Vuojnnutji ienep gáptegisá} {maŋŋel dáj duodjekursaj}¥{wo|dáj duodjekursaj maŋŋel} Árranin.
+Gáptegisá {ávvdallin}${vowlat,0-u|ávvudallin} {Sámeálmmuk biejvev}¢{cmp,X-1|{Sámeálmmukbiejvev}}¢{cmp,1-X|Sáme álmmukbiejvev}. {Vuordedahtte ienep gáptegisá galggi vuojnnut}£{infl,ind-pot|Vuojnnutji ienep gáptegisá} {maŋŋel dáj duodjekursaj}¥{wo|dáj duodjekursaj maŋŋel} Árranin.
 
 {Foto}∞{nor}: Harrieth Aira

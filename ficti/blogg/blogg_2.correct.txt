@@ -1,6 +1,6 @@
 viehkam
 {Heej}€{swe} vas! Nike,Craft ja Adidas adni riek ålov majt {vuobbdi}${conc,bbd-bdd|vuobddi} ja ållo le {nav}€{w|huj} tjábbe jus dåhkki nav javllat. Muv mielas siján li nav buorre {bájnokombinasjåvvnå}${cmp,gen-nom;conc,vvn-vnn|bájnnokombinasjåvnnå}, ja li riek {fijnna}¢{conc,jnn-jn|fijna} bájno aj. Jus lidjiv máhttet de {lulluv}${conc,ll-l|luluv} dimnajt sijás oasstet. Dimna {skoava}${vowc,oa-uo|skuova} ja biktasa loaggi muv {hárjjidallat}€{infl,inf-sup|hárjjidalátjit} {ienebu}€{w,adj,adv|ienebut}. Muv mielas {dav}¥{0}  galggá adnet {biktasit}¢{fin,t-jt|biktasijt} majt {dav}¥{0}  IESJ adná (le {fijnnuga${conc,jnn-jn|fijnuga}}}£{kongr|li fijnuga} ja ahte {soabbdtso}${conc,bbdtso,pts|soaptso}(gåk {tjáleduvva}${vowlat,a-á|tjáleduvvá}?) daj sinna. (Dat {dáhká}${vowc,á-a|dahká} {vaj}¥{redun|0} hárjjidallam {suohtasup}${conc,ht-htt|suohttasup} ja nágin bále {álgep${conc,lg-lkk|álkkep}}}£{case|Dat dahká hárjjidallamav suohttasabbon ja nágin bále álkkebun}) -
-(Dála l unnán {arvesmahtte${vowlat,e-u|arvusmahtte}}}£{x|Dála l unnán arvusmahttem} (Nikeas ja Adidasis sortimentas)£(case|Nikea ja Adidasa sortimentas:
+(Dála l unnán {arvesmahtte${vowlat,e-u|arvusmahtte}}}£{x|Dála l unnán arvusmahttem} {Nikeas ja Adidasis sortimentas}£{case|Nikea ja Adidasa sortimentas}:
 
 Ja {sjattáj}${vowlat,á-a|sjattaj} {inemus}${typo|ienemus} {skoava}${vowc,oa-uo|skuova} danen gå nav (lijkkuv Nike {skoavajt${vowc,oa-uo|skuovajt}}}£{case|lijkkuv Nike skuovajda}. {Lidjin riek fijnna}£{x|Lidjin riek fijnuga} JA {vuohkkasa}${conc,hkk-hk|vuohkasa}!
 tjállám: Naima {kloahkká}${vowlat,á-a|kloahkka} 11:37
@@ -144,7 +144,7 @@ Majt aná dán birra?
 Buojdde biejvve??
 Håj! Uddni l juo duorastak, ja idet le maŋemus biejvve skåvlån. Valla dijstagá lij máj "{fettisdagen}∞{swe}" majt {gåhjtuduvvá}${typo|gåhtjuduvvá}. {Vierttjiv}${vowlat,0-i|Vierttijiv} {báhkot}${conc,hk-hkk;vowlat,o-u|báhkkut} ja båråstit njálga {semlajt}∞{swe}. {Sjáddiv}${vowc,á-a|Sjaddiv} riek dudálasj daj, {doajvov muv vehka aj lijkkujin dajt}£{case|doajvov muv vehka aj lijkkujin dajda}.
 
-Idet {{alggá}${vowc,a-á|álggá} {Sámegilppusa}}£{kongr|álggi Sámegilppusa}. Sjaddá riek suohtas, ja mån lav juo {nervös}∞{swe}. (Jus sihtabihtit {låhkåt ienep}£{case|låhkåt ienebuv} dan {birra}¥{missing|birra de} {däbbtjo}${conc,bbtj-bttj|däbttjo} dánna)£(kongr|Jus sihtabihtit låhkåt ienebuv dan birra de dæbttjut dánna.
+Idet {{alggá}${vowc,a-á|álggá} {Sámegilppusa}}£{kongr|álggi Sámegilppusa}. Sjaddá riek suohtas, ja mån lav juo {nervös}∞{swe}. {Jus sihtabihtit {låhkåt ienep}£{case|låhkåt ienebuv} dan {birra}¥{missing|birra de} {däbbtjo}${conc,bbtj-bttj|däbttjo} dánna}£{kongr|Jus sihtabihtit låhkåt ienebuv dan birra de dæbttjut dánna}.
 
 Hivás..
 tjállám: Naima {kloahkká}${vowlat,á-a|kloahkka} 08:35
