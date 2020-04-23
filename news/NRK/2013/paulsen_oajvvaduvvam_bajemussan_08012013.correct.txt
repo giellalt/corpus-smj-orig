@@ -1,24 +1,24 @@
 {Paulsen oajvvaduvvám bajemusán}¥{missing|Paulsen la oajvvaduvvám bajemusán}
 
 
-Lars Filip Paulsen, Divtasvuonas la oajvvaduvvam bajemus sadjáj Oalgesbelludagá listan sámedikkeválggaj¢(cmp,gen-nom|sámediggeválggaj).
+Lars Filip Paulsen, Divtasvuonas la oajvvaduvvam bajemus sadjáj Oalgesbelludagá listan {sámedikkeválggaj}¢{cmp,gen-nom|sámediggeválggaj}.
 
-Foto∞(nor): Harrieth Aira/NRK
-{Oalgesbelludak oajvvat Lars Filip Paulsen}£{case,nom-acc|Oalgesbelludak oajvvat Lars Filip Paulsenav}, Ájluovtas Divtasvuonan bajemus sadjáj dán tjavtja sámedikkeválggaj¢(cmp,gen-nom|sámediggeválggaj) Viestarmera válggabijran.
+{Foto}∞{nor}: Harrieth Aira/NRK
+{Oalgesbelludak oajvvat Lars Filip Paulsen}£{case,nom-acc|Oalgesbelludak oajvvat Lars Filip Paulsenav}, Ájluovtas Divtasvuonan bajemus sadjáj dán tjavtja {sámedikkeválggaj}¢{cmp,gen-nom|sámediggeválggaj} Viestarmera válggabijran.
 
 Harrieth Aira {harrieth.aira@nrk.no}∞{url}
-Paulsen la Divtasvuona suohkanpolitihkkár Aktisasjlistan gåsi belludagá Oalges -, Gårå -, Krisstalasj álmmukbelludak - ja Belludahtága$(der,áhta-ibme|belludibme) gulluji.
+Paulsen la Divtasvuona suohkanpolitihkkár Aktisasjlistan gåsi belludagá Oalges -, Gårå -, Krisstalasj álmmukbelludak - ja {Belludahtága}${der,áhta-ibme|belludibme} gulluji.
 
 Sån la aj sadjásasj ájras Divtasvuona åvddånammadusán ja stuoves ájras Doajmmenammadusán.
 
-Lars Filip Paulsen barggá sámegiella rádevadden Árran - julevsáme guovdátjin ja la udnásj NSR:a sámedikkeájrrasa, Miriam Paulsen:a$(suf|Paulsena) viellja.
+Lars Filip Paulsen barggá sámegiella rádevadden Árran - julevsáme guovdátjin ja la udnásj NSR:a sámedikkeájrrasa, Miriam {Paulsen:a}${suf|Paulsena} viellja.
 
 Lågå aj: {Høyre vil være med i kampen}∞{nor}
-Dán bále la vuostasj bále gå Oalgesbelludak tsieggi listav sámedikkeválggaj¢(cmp,gen-nom|sámediggeválggaj) Viestarmera válggabijran.
+Dán bále la vuostasj bále gå Oalgesbelludak tsieggi listav {sámedikkeválggaj}¢{cmp,gen-nom|sámediggeválggaj} Viestarmera válggabijran.
 
 Nominasjåvnnåtjåhkanibme Bådåddjon
 
-Oalgesbelludagá nominasjåvnnåtjåhkanibme Viestarmera válggabijran la Bådåddjon¢(conc,ddj-dj|Bådådjon), bierjjedagá ådåjakmáno 18. biejve.
+Oalgesbelludagá nominasjåvnnåtjåhkanibme Viestarmera válggabijran la {Bådåddjon}¢{conc,ddj-dj|Bådådjon}, bierjjedagá ådåjakmáno 18. biejve.
 {Dála oajvvaduvvam lissta}¥{missing|Dála l oajvvaduvvam lissta}:
 
 1. Lars Filip Paulsen, 33 jagák, Divtasvuodna
@@ -36,12 +36,12 @@ Oalgesbelludagá nominasjåvnnåtjåhkanibme Viestarmera válggabijran la Bådå
 
 Filip Mikkelsen ij sebra
 
-Divtasvuona suohkanpolitihkkár ja sadjásasj jådediddje Oalgesbelludagá sámepolitihkalasj juohkusin , Filip Mikkelsen (ij la oajvvaduvvam gånnån$(fin,n-k|gånnåk) sajen)£(case,ine-ill|ij la oajvvaduvvam gånnåk sadjáj) dán listan.
+Divtasvuona suohkanpolitihkkár ja sadjásasj jådediddje Oalgesbelludagá sámepolitihkalasj juohkusin , Filip Mikkelsen (ij la oajvvaduvvam {gånnån}${fin,n-k|gånnåk} {sajen}}£{case,ine-ill|ij la oajvvaduvvam gånnåk sadjáj} dán listan.
 
 Filip Mikkelsen tjielggi manen sån ij la listan {jus ga}¢{cmp,X-1;conc,sg-sk|juska} sån la lista duogen.
 
-– Suohkanpolitihkka la munji nuoges doajmma ja mån iv hálida sæbrrat sámedikkepolitihkkárin. Sidáv aj lahtjet$(vowc,a-á|láhtjet) sájev$(vowc,á-a|sajev) nuorap ulmutjijda, le má sidja gudi li sámedikke {boahtte ájgge}¢{cmp,-X-1|boahtteájgge}, javllá Mikkelsen NRK:aj$(suf|NRK:j).
+– Suohkanpolitihkka la munji nuoges doajmma ja mån iv hálida sæbrrat sámedikkepolitihkkárin. Sidáv aj {lahtjet}${vowc,a-á|láhtjet} {sájev}${vowc,á-a|sajev} nuorap ulmutjijda, le má sidja gudi li sámedikke {boahtte ájgge}¢{cmp,-X-1|boahtteájgge}, javllá Mikkelsen {NRK:aj}${suf|NRK:j}.
 Viestarmera válggabijrra
 
-Viestarmera válggabijrra la akta {gietjav válggabijrajs}£{case,nom-par;x|gietjat válggabijras} sámedikkeválggaj¢(cmp,gen-nom|sámediggeválggaj). {Divrráid, Siellaga, Loabága, Rivttaga, Skániid, Ivvárstáđiid, Harstad, Bjarkøy, Giehtavuona, Ánddasullo, Ikšnášši, Bieváid, Suortta, Válafierdda, Voagaj, Vestvågøy, Flakstad, Moskenes, Værøy, Røst, Lådiga, Dielddanuori, Evenášši, Nárvijka, Bálága, Divtasvuona, Hábmera, Stájgo, Oarjjelij Fuoldá, Bådådjo, Fuosko, Sáláda, Oarjelij Bájddára, Bájddára ja Meløy}∞{nor/sme} suohkana gulluji dán válggabijrraj.
+Viestarmera válggabijrra la akta {gietjav válggabijrajs}£{case,nom-par;x|gietjat válggabijras} {sámedikkeválggaj}¢{cmp,gen-nom|sámediggeválggaj}. {Divrráid, Siellaga, Loabága, Rivttaga, Skániid, Ivvárstáđiid, Harstad, Bjarkøy, Giehtavuona, Ánddasullo, Ikšnášši, Bieváid, Suortta, Válafierdda, Voagaj, Vestvågøy, Flakstad, Moskenes, Værøy, Røst, Lådiga, Dielddanuori, Evenášši, Nárvijka, Bálága, Divtasvuona, Hábmera, Stájgo, Oarjjelij Fuoldá, Bådådjo, Fuosko, Sáláda, Oarjelij Bájddára, Bájddára ja Meløy}∞{nor/sme} suohkana gulluji dán válggabijrraj.
 Oalgesbelludagán la uddni akta ájras Sámedikken.

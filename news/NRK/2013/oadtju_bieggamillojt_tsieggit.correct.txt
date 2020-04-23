@@ -2,41 +2,41 @@ Oadtju bieggamillojt tsieggit
 
 Diehki, Rijddabårråj, Slabávuonan, Divtasvuonan båhti 25-30 bieggamillo.
 
-Foto∞(nor): Sander Andersen/NRK
-NVE vattij javlaj åvddål energividnudahkaj€(foreign|fábmovidnudahkaj) Nordkraft Vind AS:aj Narvijkan, konsesjåvnåv tsieggitjit gasskon€(w|birrusin) 25-30 bieggamillo Slabávuona várijda, Rijddabårråj Divtasvuonan.
+{Foto}∞{nor}: Sander Andersen/NRK
+NVE vattij javlaj åvddål {energividnudahkaj}€{foreign|fábmovidnudahkaj} Nordkraft Vind AS:aj Narvijkan, konsesjåvnåv tsieggitjit {gasskon}€{w|birrusin} 25-30 bieggamillo Slabávuona várijda, Rijddabårråj Divtasvuonan.
 
 Harrieth Aira {harrieth.aira@nrk.no}∞{url}
 
-NVE mij la Vuonarijka {tjáhtje-ja}${cmp,1-X|tjáhtje- ja} energijadåjmadahka€(foreign|fábmodåjmadahka) vuojnná stuoráp ávkev gå nievrep bielijt tsieggitjit bieggamillopárkav Divtasvuona rádjávárijda, ja dan diehti loabev vattij tsieggitjit bieggamillojt dán guovlluj.
+NVE mij la Vuonarijka {tjáhtje-ja}${cmp,1-X|tjáhtje- ja} {energijadåjmadahka}€{foreign|fábmodåjmadahka} vuojnná stuoráp ávkev gå nievrep bielijt tsieggitjit bieggamillopárkav Divtasvuona rádjávárijda, ja dan diehti loabev vattij tsieggitjit bieggamillojt dán guovlluj.
 
-NVE dættot guovlluj gåsi bieggamillo galggi tsieggiduvvat juo la dulvvaduvvamguovllo, ja bieggamillotsieggim vájkkut binnep láhkáj luonnduj gå dav¥(redun|0) jus guovlon åvdutjis ællim makkirik ásadusá tsieggiduvvam.
+NVE dættot guovlluj gåsi bieggamillo galggi tsieggiduvvat juo la dulvvaduvvamguovllo, ja bieggamillotsieggim vájkkut binnep láhkáj luonnduj gå {dav}¥{redun|0} jus guovlon åvdutjis ællim makkirik ásadusá tsieggiduvvam.
 
 Oasse Slabávuona bieggamillopárkas gullu Divtasvuona - Vuodnabadá álmmukmiehttse guoradallamguovlluj {ja oajvvaduvvam Vuona biele Laponia væráltárbbeguovlluj}¥{missing|ja la oajvvaduvvam Vuona biele Laponia væráltárbbeguovlluj}. Dát luonndosuoddjimprosæssa ganugahteduváj jagen 2001 ja guovllo ij la desti juridihkalattjat tjanáduvvam makkirik láhkáj tjállá NVE.
 
 {Slabávuonavárre Bieggapárkka}£{case,nom-gen|Slabávuonváre Bieggapárkka} la stuorra bieggaprosjækta mij máhttá buvtadit 250 GWh jahkáj, mij merkaj ásadus máhttá buvtadit strávvev {12.500 gådijda}£{x|12.500 goahtáj}.
 
-(Tsieggimbarggo jahkedahtte$(vowc,a-á|jáhkedahtte) álggá)£(infl,ind-pot|Tsieggimbarggo álgisj) jagen 2014.
+(Tsieggimbarggo {jahkedahtte}${vowc,a-á|jáhkedahtte} {álggá}}£{infl,ind-pot|Tsieggimbarggo álgisj} jagen 2014.
 
 
-Navti máhtti bieggamillo vuojnnut vuoset {gåvvåaktijbiedjam}${cmp,1-X|gåvvå aktijbiejdjam}€(der|aktijbiejadum)) NVE:as$(suf|NVE:s).
+Navti máhtti bieggamillo vuojnnut vuoset {gåvvåaktijbiedjam}${cmp,1-X|gåvvå {aktijbiejdjam}}€{der|aktijbiejadum}) {NVE:as}${suf|NVE:s}.
 
-Foto∞(nor): NVE
+{Foto}∞{nor}: NVE
 Statskog ittjij konsesjåvnåv oattjo
-Statskog AS lij aj åhtsåm loabev tsieggit sulálasj bieggamillojt Vuovddejávrráj vehi dåbbelin sæmmi bájken, valla NVE ittjij Statskog:aj$(suf|Statskogaj) loabev vatte.
+Statskog AS lij aj åhtsåm loabev tsieggit sulálasj bieggamillojt Vuovddejávrráj vehi dåbbelin sæmmi bájken, valla NVE ittjij {Statskog:aj}${suf|Statskogaj} loabev vatte.
 
 Sivva l gå udnásj strávvelinja Slabávuona ja Gásluovta gaskan máhtti strávvev suvddet dåssju {avtav bieggamilloásadusás ja ij guokta}£{x|avtat bieggamilloásadusás ja ij guovtet}.
 
-Duodden aj boahtá Statskog:a$(suf|Statskoga) ásadus ilá næjgga ájdeduvvam sjattojda ma danna lahkusin sjaddi.
+Duodden aj boahtá {Statskog:a}${suf|Statskoga} ásadus ilá næjgga ájdeduvvam sjattojda ma danna lahkusin sjaddi.
 
 Lågå aj:{Kan tape vindmølle-penger}∞{nor}
 Lågå aj:{70 vindmøller i populært friluftsområde}∞{nor}
 Suohkan mielos bieggapárkkaj
 
-Divtasvuona suohkanstivrra avtajienalattjat miededij åhtsåmusájt sihke Nordkraft Vind AS:as ja Statskoga SF:as$(suf|SF:s).
+Divtasvuona suohkanstivrra avtajienalattjat miededij åhtsåmusájt sihke Nordkraft Vind AS:as ja Statskoga {SF:as}${suf|SF:s}.
 
-– Mijá mielas hiehpá guovllo buvtadittjat ådåstuhtedum€(der|ådåsmahtte) energijav. Guovlon la læhkám tjáhtjefábmoásadus juo tjuohte jage ja infrastruktuvrra guovlon la juo sajenis dagu strávvelinja ja rahte, javllá Divtasvuona suohkanoajvve Tor Asgeir Johansen avijssaj Fremover.
+– Mijá mielas hiehpá guovllo buvtadittjat {ådåstuhtedum}€{der|ådåsmahtte} energijav. Guovlon la læhkám tjáhtjefábmoásadus juo tjuohte jage ja infrastruktuvrra guovlon la juo sajenis dagu strávvelinja ja rahte, javllá Divtasvuona suohkanoajvve Tor Asgeir Johansen avijssaj Fremover.
 
-Sån la de viehka dudálasj gå NVE loabev vattij dán buvtadibmáj ja doajvvu dát vaddá suohkanij sulle$(conc,ll-l;vowlat,e-á;fin,0-j|suláj) gietjav milliåvnå$(coninit,0-j|millijåvnå) jahkásattjat sisboahton, ja niellja-gietjav stuoves barggosaje.
+Sån la de viehka dudálasj gå NVE loabev vattij dán buvtadibmáj ja doajvvu dát vaddá suohkanij {sulle}${conc,ll-l;vowlat,e-á;fin,0-j|suláj} gietjav {milliåvnå}${coninit,0-j|millijåvnå} jahkásattjat sisboahton, ja niellja-gietjav stuoves barggosaje.
 
 Guohtomguovllo ja rádjebálges
 
@@ -50,5 +50,5 @@ Duola dagu galggá tsieggijiddje hiebadahttet tsieggimbargov ællosujttuj ja geh
 
 Duodden aj gájbbeduvvá tsieggijiddje oajvvat {dåjmajt mij sihke gåtset ja åvddånahttá Rádjebálggáv}£{kongr|dåjmat ma sihke gåtsedi ja åvddånahtti Rádjebálggáv} gaskan Vuona ja Svieriga.
 
-Ålles loabev NVE:as$(suf|NVE:s) lågå dánna.
+Ålles loabev {NVE:as}${suf|NVE:s} lågå dánna.
 

@@ -1,55 +1,55 @@
 
 Gåsi {barggosaje ja rahte gádoj}£{kongr|barggosaje ja rahte gáhtun}?
-Peder Pedersen soapptsu Måsken juska dal nav ålos e danna åro. –Måsken la hávskke$(conc,vskk-vssk|hávsske), ja dánna sidáv årrot, juska dal ulmusjlåhko l binnum (dáj mañemus$(ascii|maŋemus) jagijt)£(kongr|dájt maŋemus jagijt), javllá sån, ja vuoset berunáhkkarav majt iesj la sáddjim.
+Peder Pedersen soapptsu Måsken juska dal nav ålos e danna åro. –Måsken la {hávskke}${conc,vskk-vssk|hávsske}, ja dánna sidáv årrot, juska dal ulmusjlåhko l binnum (dáj {mañemus}${ascii|maŋemus} {jagijt}}£{kongr|dájt maŋemus jagijt}, javllá sån, ja vuoset berunáhkkarav majt iesj la sáddjim.
 
-Oanegis¥(Oanegis versjåvnnå) dárogiellaj 
+{Oanegis}¥{Oanegis versjåvnnå} dárogiellaj 
 
 
 Peder Pedersen(88), jali¥0 {ienemusát oahpes}£{x|oahppásamos} Mihkkila-Petterin, la aj várijs ja nuores viessomlájbev viedtjam.
 
 
-10 jage dás åvddål manáj Peder Pedersen Gånågisá lunna subtsastittjat dárbbo l sierra dåjmajda jus Måsske galggá årromsadjen bissot. Dalloj årrun birrusit¢(fin,t-n|birrusin) 80 Måsken. Skåvlån lidjin dalloj 15 oahppe. 3 sávttsabånndura lidjin, ja boargál€(w|rámbuvdda) lij gånnå oadtju vargga gájklágásj gálvojt oasstet. Duodden aj gålmmå guollárvantsa.
+10 jage dás åvddål manáj Peder Pedersen Gånågisá lunna subtsastittjat dárbbo l sierra dåjmajda jus Måsske galggá årromsadjen bissot. Dalloj årrun {birrusit}¢{fin,t-n|birrusin} 80 Måsken. Skåvlån lidjin dalloj 15 oahppe. 3 sávttsabånndura lidjin, ja {boargál}€{w|rámbuvdda} lij gånnå oadtju vargga gájklágásj gálvojt oasstet. Duodden aj gålmmå guollárvantsa.
 
-Uddni l ulmusjlåhko lahkkáj binnum, valla e val rat divna Måskes jåde – vájku dal gáktu$(vowc,á-å|gåktu), dille sjaddá.
+Uddni l ulmusjlåhko lahkkáj binnum, valla e val rat divna Måskes jåde – vájku dal {gáktu}${vowc,á-å|gåktu}, dille sjaddá.
 
-Lågev jage dás åvddåla lij Måsske viesso sáme årrudahka$(conc,rr-r|årudahka), gånnå ulmutja duov dáv virgev adnin, ja massta aj viessun. Skåvlån lidjin ållo oahppe, ja vihtta åhpadiddje ålles virgen. Duodden aj basse ja hoajddár. Barggokurssa lij aj jådon, ja moattes dav kursav {tjadádin guovte jage}£{case|tjadádin guovten jagen} birán¥0. Duodden lidjin aj asstoájgedåjma¢(cmp,gen-nom|asstoájggedåjma) ja lásjmudallama juohkka iehkeda, juogu dal skåvlå sisbielen jali ålgusjbielen. Ja oahppe kafeav ásadin juohkka dijstakiehkeda. Gålmmå guollárvantsa gullujin aj Måsskåj.
+Lågev jage dás åvddåla lij Måsske viesso sáme {årrudahka}${conc,rr-r|årudahka}, gånnå ulmutja duov dáv virgev adnin, ja massta aj viessun. Skåvlån lidjin ållo oahppe, ja vihtta åhpadiddje ålles virgen. Duodden aj basse ja hoajddár. Barggokurssa lij aj jådon, ja moattes dav kursav {tjadádin guovte jage}£{case|tjadádin guovten jagen} birán¥0. Duodden lidjin aj {asstoájgedåjma}¢{cmp,gen-nom|asstoájggedåjma} ja lásjmudallama juohkka iehkeda, juogu dal skåvlå sisbielen jali ålgusjbielen. Ja oahppe kafeav ásadin juohkka dijstakiehkeda. Gålmmå guollárvantsa gullujin aj Måsskåj.
 
 
 Binnum
 
-Uddni ælla Måsken gå nieljelåges gudi vilá årru. Stuorra oasse le davás jåhtålam. Vilá ij le rahte Måsskåj boahtám. Ij la desti boargál. Dåssju akta sávttsabåndor le virgen. Skåvlån li dåssju 6 oahppe, ja ælla desti ((friddjájgedåjma$(vowlat,0-a;cmp,gen-nom|friddjaájggedåjma))€(w|asstoájggedåjma), danna dagu dåjt jagijt. Ij la desti oahppijn kafea. Ja hámnan ledåssju$(cmp,1-X|le dåssju) akta guollárvanntsa.
+Uddni ælla Måsken gå nieljelåges gudi vilá årru. Stuorra oasse le davás jåhtålam. Vilá ij le rahte Måsskåj boahtám. Ij la desti boargál. Dåssju akta sávttsabåndor le virgen. Skåvlån li dåssju 6 oahppe, ja ælla desti {{{friddjájgedåjma${vowlat,0-a;cmp,gen-nom|friddjaájggedåjma}}}€{w|asstoájggedåjma}, danna dagu dåjt jagijt. Ij la desti oahppijn kafea. Ja hámnan {ledåssju}${cmp,1-X|le dåssju} akta guollárvanntsa.
 
-”Måske-aksjåvnnå$(conc-sk-ssk|Måsske-aksjåvnnå)" almodij jagen 1996 Måskev oasen. Vuojnnin Måsske ij bierggi€(w|biso) jus e sierralágásj dåjma sjatta, ja jus e barggosaje ásaduvá. Dan aksjåvnå maññela$(ascii|maŋŋela) lij Måsske vargga juohkka ávijsan$(vowc,á-a|avijsan) ja måttijn TV-kanalajn$(vowc,a-á|TV-kanálajn). Ulmutja sihtin vuojn Måsken ja Oarjjevuonan årrot.
+{”Måske-aksjåvnnå}${conc-sk-ssk|Måsske-aksjåvnnå}" almodij jagen 1996 Måskev oasen. Vuojnnin Måsske ij {bierggi}€{w|biso} jus e sierralágásj dåjma sjatta, ja jus e barggosaje ásaduvá. Dan aksjåvnå {maññela}${ascii|maŋŋela} lij Måsske vargga juohkka {ávijsan}${vowc,á-a|avijsan} ja måttijn {TV-kanalajn}${vowc,a-á|TV-kanálajn}. Ulmutja sihtin vuojn Måsken ja Oarjjevuonan årrot.
 
-”Måske-aksjåvnnå$(conc-sk-ssk|Måsske-aksjåvnnå)” åtsåj rudájt, ja biedjin {ulmutjav virggáj mij}£{x|ulmutjav virggáj gut} galgaj Måsskåj barggosajijt åttjudit.
+{”Måske-aksjåvnnå}${conc-sk-ssk|Måsske-aksjåvnnå}” åtsåj rudájt, ja biedjin {ulmutjav virggáj mij}£{x|ulmutjav virggáj gut} galgaj Måsskåj barggosajijt åttjudit.
 
 Galla sjaddin soames ådå barggosaje gå luossabiebmadak Måsskåj ásaduváj, valla ælla dal huoman Måsken dálla ienep barggosaje gå lågev jage dás åvddål. Farra binnep.
 
-Hámnnaj la dåssju akta guollárvanntsa báhtsám, valla dåbbelin gårvvu luossabiebmadahka mij Måsskåj ásaduváj gålmmå jage dás åvddål, ja mij le ájnna boados ”Måske-aksjåvnås$(conc-sk-ssk|Måsske-aksjåvnås)”.
+Hámnnaj la dåssju akta guollárvanntsa báhtsám, valla dåbbelin gårvvu luossabiebmadahka mij Måsskåj ásaduváj gålmmå jage dás åvddål, ja mij le ájnna boados {”Måske-aksjåvnås}${conc-sk-ssk|Måsske-aksjåvnås}”.
 
 
 Håjen
 
-Peder Pedersen(88), jali¥0 {ienemusát oahpes}£{x|oahppásamos} Mihkkila-Petterin, manáj jagen 1996 Gånågisá lunna subtsastittjat dán aksjåvnå birra, ja juoga dal hæhttu dáhpáduvvat jus Måsske ij galga ávdas¢(conc,vd-vt;nom-ess|ávttasin) sjaddat. Sån aj dan sæmmi manon nammadij rádjálåvsåj viddjurijt$(conc,ddj-dj|vidjurijt).
+Peder Pedersen(88), jali¥0 {ienemusát oahpes}£{x|oahppásamos} Mihkkila-Petterin, manáj jagen 1996 Gånågisá lunna subtsastittjat dán aksjåvnå birra, ja juoga dal hæhttu dáhpáduvvat jus Måsske ij galga {ávdas}¢{conc,vd-vt;nom-ess|ávttasin} sjaddat. Sån aj dan sæmmi manon nammadij rádjálåvsåj {viddjurijt}${conc,ddj-dj|vidjurijt}.
 
-Petter lij dalloj måvtuk. Vuojnij Måsken dåhkki årrot nuorra ulmutjijda aj, ja dåhkki aj bargosajijt$(conc,rg-rgg|barggosajijt) ásadit. Sån vuojnij moadda tjoavddusa, ja doajvoj juoga dal aj Måsskåj vierttij ásaduvvat. Valla ittjij dal åvvå sjatta gåktu Petter usjudaláj.
+Petter lij dalloj måvtuk. Vuojnij Måsken dåhkki årrot nuorra ulmutjijda aj, ja dåhkki aj {bargosajijt}${conc,rg-rgg|barggosajijt} ásadit. Sån vuojnij moadda tjoavddusa, ja doajvoj juoga dal aj Måsskåj vierttij ásaduvvat. Valla ittjij dal åvvå sjatta gåktu Petter usjudaláj.
 
--Jáhkkiv dal mån galgajma dalloj barggosajijt Måsskåj oadtjot nav vaj nuorap ulmutja máhtti dánna årrot. Valla ij la gåjt dálátjij mige¥(missing|mige dassta) sjaddam, ietján gå dåt luossabiebbmam. Ja gåsi rahte gádoj? Sjávvunin gåjt dajna, javllá Petter ja gæhttja$(vowlat,a-á|gæhttjá) vuonav davás.
+-Jáhkkiv dal mån galgajma dalloj barggosajijt Måsskåj oadtjot nav vaj nuorap ulmutja máhtti dánna årrot. Valla ij la gåjt dálátjij {mige}¥{missing|mige dassta} sjaddam, ietján gå dåt luossabiebbmam. Ja gåsi rahte gádoj? Sjávvunin gåjt dajna, javllá Petter ja {gæhttja}${vowlat,a-á|gæhttjá} vuonav davás.
 
  
 
 Låssåt
 
-Petter ájn háhkaviermij málesguolev bivddá, berunijt iesj sáddji ja vat dåhpu, ja harvuk la ájn muorritjit. Valla sávstajt$(typo|sávtsajt) la de njuovadam soames jage dás åvddåla.
+Petter ájn háhkaviermij málesguolev bivddá, berunijt iesj sáddji ja vat dåhpu, ja harvuk la ájn muorritjit. Valla {sávstajt}${typo|sávtsajt} la de njuovadam soames jage dás åvddåla.
 
-Vájku ij la rahte, jali ettjin nav ållo barggosaje sjatta gåktu€(w|dagu) Petter doajvov¢(fin,v-j|doajvoj), da¢(typo|de) la huoman sunji hávskke$(conc,vskk-vssk|hávsske) Måsken årrot.
+Vájku ij la rahte, jali ettjin nav ållo barggosaje sjatta {gåktu}€{w|dagu} Petter {doajvov}¢{fin,v-j|doajvoj}, {da}¢{typo|de} la huoman sunji {hávskke}${conc,vskk-vssk|hávsske} Måsken årrot.
 
-Petter la vilá måvtuk. Ij sån vuojne Måske håhkkånimev vájku dal ulmutja lij manádam, ja juska dal dåssju avta galla bargosaje$(conc,rg-rgg|barggosaje)  lij luosas sjaddam.
+Petter la vilá måvtuk. Ij sån vuojne Måske håhkkånimev vájku dal ulmutja lij manádam, ja juska dal dåssju avta galla {bargosaje}${conc,rg-rgg|barggosaje}  lij luosas sjaddam.
 
-Petter aj boargálav€(w|rámbuvdav) åhtsål.
+Petter aj {boargálav}€{w|rámbuvdav} åhtsål.
 
--Mån lav juo 88 jage vuoras, ja lav bajássjaddam dánna. Dáppe sidáv årrot, ja jáhkáv aj iehtjáda dánna sihti årrot vájk gåktu sjaddá. Iv de Måskes jåde. Valla låssåt la gal gå hæhttu davven biebmojt oasestit, ja vantsa mañen$(ascii|maŋen) suvdatjit, javllá sån.
+-Mån lav juo 88 jage vuoras, ja lav bajássjaddam dánna. Dáppe sidáv årrot, ja jáhkáv aj iehtjáda dánna sihti årrot vájk gåktu sjaddá. Iv de Måskes jåde. Valla låssåt la gal gå hæhttu davven biebmojt oasestit, ja vantsa {mañen}${ascii|maŋen} suvdatjit, javllá sån.
 
 Petter årru ietjas riek tjáppa ja stuorra dåben Måsken, ja sihtá årrot dánna nav guhkev gå viessu. Doajvvu buorep ájge Måsskåj båhti, ja ulmutja vat sisi jåhtåli – gå dal ájn.
 
--{Ij la val buorep sadje dán væráldin gå Måsken}£{case|Ij la val buorep sadje dán væráldin gå Måsske} - ij la, javllá Petter mañutjissaj$(ascii|maŋutjissaj) ja tsåggå snuvsajt baksima vuolláj.
+-{Ij la val buorep sadje dán væráldin gå Måsken}£{case|Ij la val buorep sadje dán væráldin gå Måsske} - ij la, javllá Petter {mañutjissaj}${ascii|maŋutjissaj} ja tsåggå snuvsajt baksima vuolláj.

@@ -1,9 +1,9 @@
 Duodjeprosjækta {julevsáme guovlon}¢{cmp,X-1|julevsámeguovlon} joarkká
 
 
-Gápptegoarre Sigrun Andersen (gåro bielen) vuoset mihát suv€(w,pers-refl|ietjas) bargov majt duodjeprosjevta baktu la tjadádam. Oalges bielen Árrana duodjebagádalle, Lilian Urheim. (Gåvvå l tjavtjas 2012)
+Gápptegoarre Sigrun Andersen (gåro bielen) vuoset mihát {suv}€{w,pers-refl|ietjas} bargov majt duodjeprosjevta baktu la tjadádam. Oalges bielen Árrana duodjebagádalle, Lilian Urheim. (Gåvvå l tjavtjas 2012)
 
-Foto∞(nor): Harrieth Aira/NRK
+{Foto}∞{nor}: Harrieth Aira/NRK
 Duodjeprosjevtajn majt Árran - Julevsáme guovdásj, Divtasvuona ASVO ja Duodje Nordlánnda tjadádin Divtasvuonan åvdep jage sjaddá joarkket aj dán jage.
 
 Harrieth Aira {harrieth.aira@nrk.no}∞{url}
@@ -21,11 +21,11 @@ LÅGÅ: Stuorra berustibme duodjelåpptimij
 LÅGÅ AJ: Sihtá dal duojev nannit
 LÅGÅ AJ: {Árran satser på duodji}∞{nor}
 
-Vásse tjavtja ságastijma oasseválldij ja prosjevta jådediddjij, ja dála gulá majt dalloj NRK:aj$(suf|NRK:j) javllin (báddidum basádismáno 2012):
+Vásse tjavtja ságastijma oasseválldij ja prosjevta jådediddjij, ja dála gulá majt dalloj {NRK:aj}${suf|NRK:j} javllin (báddidum basádismáno 2012):
 
 Jáhttá duodderudájt
 
-Prosjevtas la stuorra berustibme ja dá gålmmå oassálasste sihti joarkket prosjevtajn aj dan¢(vowc,a-á|dán) ja boahtte jage.
+Prosjevtas la stuorra berustibme ja dá gålmmå oassálasste sihti joarkket prosjevtajn aj {dan}¢{vowc,a-á|dán} ja boahtte jage.
 
 Sámedigge jáhttá biednigijt vaj prosjevtajn máhtti joarkket dán jage aj.
 
@@ -34,12 +34,12 @@ Sámedigge jáhttá biednigijt vaj prosjevtajn máhtti joarkket dán jage aj.
 
 Sihke Árrana direktørra, Lars Andreassen ja stivrrajådediddje Sonja Steen {oalges bielen}¢{cmp,X-1|oalgesbielen} ja {Sámedikkeráde ájras}¢{cmp,X-1|Sámedikkerádeájras} Vibeke Larsen {gåro bielen}¢{cmp,X-1|gårobielen} li vuojnnet dudálattja tjåhkanimijn.
 
-Foto∞(nor): Harrieth Aira/NRK
+{Foto}∞{nor}: Harrieth Aira/NRK
 Ruhta aj rádjáoahpestiddjeprosjæktaj
 
 Duodden dási vuojnnet rádjáoahpestiddjeprosjækta majt Árran háldat aj sjaddá joarkket.
 
-Árran dal åhtsåmusáv sáddi Rijkaantikváraj¢(conc,r-rr|Rijkaantikvárraj) ja Sámediggáj {dáv prosjevtav ållidittjat dagu dal}¥{missing|dáv prosjevtav ållidittjat galggi dagu dal} {doaro kulturmujtojt}¥{wo;case|kulturmujtojt doaros} åbdedit$(infl|åbddit), prosjevtav digitaliserit ja aj vuosádusáv gárvedahttját€(der|gárvedit).
+Árran dal åhtsåmusáv sáddi {Rijkaantikváraj}¢{conc,r-rr|Rijkaantikvárraj} ja Sámediggáj {dáv prosjevtav ållidittjat dagu dal}¥{missing|dáv prosjevtav ållidittjat galggi dagu dal} {doaro kulturmujtojt}¥{wo;case|kulturmujtojt doaros} {åbdedit}${infl|åbddit}, prosjevtav digitaliserit ja aj vuosádusáv {gárvedahttját}€{der|gárvedit}.
 
 Moadda oase fájlluji, javllá Árrana stivrrajådediddje Sonja A. Steen ja hasot dajna Sámedikkev rudájt rádjáoahpestiddjeprosjæktaj juollodit.
 
@@ -47,7 +47,7 @@ Moadda oase fájlluji, javllá Árrana stivrrajådediddje Sonja A. Steen ja haso
 
 Duodden dal aj Sámedigge dáv sihtá vuorodit ja nav dán jagásj budsjæhttaj la dav biedjam.
 
-– {Ruhtadittjat dáv prosjevtav la aktisasjbarggo Rijkaantikvárajn}£{x|Ruhtadit dáv prosjevtav la aktisasjbarggo Rijkaantikvárajn} ja Sámedigge doarjju Árrana åhtsåmusáv Rijkaantikváraj$(conc,r-rr|Rijkaantikvárraj). Ja de lip midja ietja diededam Árranij mij sihtap dáv doarjjat¢(vowlat,a-o|doarjjot), ja dan diehti lip mij biedjam rudájt ietjama budsjæhttaj jahkáj 2013. Så mij vuorddep dal åhtsåmusáv Árranis ja gå uddni lip gullam ienebuv prosjevta birra de mij jáhkkep dán prosjæktaj, javllá Vibeke Larsen. 
+– {Ruhtadittjat dáv prosjevtav la aktisasjbarggo Rijkaantikvárajn}£{x|Ruhtadit dáv prosjevtav la aktisasjbarggo Rijkaantikvárajn} ja Sámedigge doarjju Árrana åhtsåmusáv {Rijkaantikváraj}${conc,r-rr|Rijkaantikvárraj}. Ja de lip midja ietja diededam Árranij mij sihtap dáv {doarjjat}¢{vowlat,a-o|doarjjot}, ja dan diehti lip mij biedjam rudájt ietjama budsjæhttaj jahkáj 2013. Så mij vuorddep dal åhtsåmusáv Árranis ja gå uddni lip gullam ienebuv prosjevta birra de mij jáhkkep dán prosjæktaj, javllá Vibeke Larsen. 
 
 LÅGÅ AJ: {Forfulgt grunnet sin etnisitet}∞{nor}
 {GULLDAL ÅLLES ÁSSJEV DÁNNA}£{x|GULLDALA ÅLLES ÁSSJEV DÁNNA}:

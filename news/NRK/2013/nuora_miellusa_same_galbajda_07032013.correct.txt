@@ -1,14 +1,14 @@
 
-(Dát galbba berriji$(vowc,e-ie|bierriji))£(kongr|Dát galbba bierri) aj sámegiellaj boahtet oajvvadi Hábmera nuora.
+(Dát galbba {berriji${vowc,e-ie|bierriji}}}£{kongr|Dát galbba bierri} aj sámegiellaj boahtet oajvvadi Hábmera nuora.
 
-Foto∞(nor): NuorajTV
+{Foto}∞{nor}: NuorajTV
 {Nuora miellusa sáme galbajda}¥{missing|Nuora li miellusa sáme galbajda}
 
-Hábmera nuora li miellusa sáme galbajda sijá€(w,pers-refl|ietjasa) suohkanij.
+Hábmera nuora li miellusa sáme galbajda {sijá}€{w,pers-refl|ietjasa} suohkanij.
 
 Dijmmá dåhkkidij departemænnta sáme namáv Hábmera suohkanij, ja Hábmera åvddånammadus la ássjev giehtadallam ja mierredam dav rádjat guláskuddamij.
 
-– Gatjálvis le gåktu sáme namma Hábmerin galggá tjalmostuvvat. Dav javlaj Hábmera suohkanoajvve Rolf Steffensen NRK:aj$(suf|NRK:j) ådåjakmáno.
+– Gatjálvis le gåktu sáme namma Hábmerin galggá tjalmostuvvat. Dav javlaj Hábmera suohkanoajvve Rolf Steffensen {NRK:aj}${suf|NRK:j} ådåjakmáno.
 
 Lågå aj: {Hamarøy blir Hábmer}∞{nor}
 Lågå aj: {Hamarøy kommune får samisk skilter}∞{nor}
@@ -22,4 +22,4 @@ Nuoraj mielas la ájnas galbbigoahtet sámegiellaj ij dåssju Hábmera dålusj s
 
 – Valla galbbit sámegiellaj la vuogas aj udnásj ja boahtte ájge boandás sámevuoda diehti, javlli nuora Hábmerin.
 
-Hábmera suohkanstivrra mierret ássjev dán gidá-giese$(cmp,hyph-1|gidágiese).
+Hábmera suohkanstivrra mierret ássjev dán {gidá-giese}${cmp,hyph-1|gidágiese}.

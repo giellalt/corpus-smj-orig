@@ -3,13 +3,13 @@
 
 Kurt Oddekalv tjåhkanimen Gásluovtan, Divtasvuonan.
 
-Foto∞(nor): Harrieth Aira/NRK
+{Foto}∞{nor}: Harrieth Aira/NRK
 Birástjendis várrodij guollebiebmadimæládusás.
 
 Harrieth Aira {harrieth.aira@nrk.no}∞{url}
 Sander Andersen {sander.andersen@nrk.no}∞{url}
 
-– Divtasvuodna sjielmmávuodnan {la gållegijsá}£{kongr|la gållegijssá} gånnå ållo€(w|ienep) {iesjgeŋga lágásj}¢{cmp,X-1|iesjgengalágásj} guolleslája sjaddi gå ietjá sajijn Vuonan. Ehpit bierri gal dákkir vuonajda ásadit guollebiebmadimæládusáv gå {vuodna má lulu}£{kongr|vuodna má luluj} nuoskoduvvat, várrodij birástjendis ja Vuona birásgáhttimlihto jådediddje, Kurt Oddekalv.
+– Divtasvuodna sjielmmávuodnan {la gållegijsá}£{kongr|la gållegijssá} gånnå {ållo}€{w|ienep} {iesjgeŋga lágásj}¢{cmp,X-1|iesjgengalágásj} guolleslája sjaddi gå ietjá sajijn Vuonan. Ehpit bierri gal dákkir vuonajda ásadit guollebiebmadimæládusáv gå {vuodna má lulu}£{kongr|vuodna má luluj} nuoskoduvvat, várrodij birástjendis ja Vuona birásgáhttimlihto jådediddje, Kurt Oddekalv.
 
 Vásse vahko lij sån Divtasvuonan tjadádime álmmuktjåhkanimev guollebiebmadime birra ja danna várrodij divtasvuonagijt dibddet guollebiebmadimæládusáv nuoskodahttet vuonav.
 
@@ -19,8 +19,8 @@ Lågå aj: {Oppdrettsnæringen satser i Tysfjord}∞{nor}
 
 Luossabiebmadibme Måsken, Divtasvuonan.
 
-Foto∞(nor): Harriet Aira/NRK
-Valla guollebiebmadimæládus vásstedij dajt garra ládádallamijt$(vowlat,á-a|ládadallamijt) Kurt Oddekalv:as$(suf|Oddekalvas).
+{Foto}∞{nor}: Harriet Aira/NRK
+Valla guollebiebmadimæládus vásstedij dajt garra {ládádallamijt}${vowlat,á-a|ládadallamijt} Kurt {Oddekalv:as}${suf|Oddekalvas}.
 
 Vuollelin {gulá majt guollebiebmadimæládus vásstedij ja ienep diedojt dát dágástallamis}¥{missing|gulá majt guollebiebmadimæládus vásstedij ja oattjo ienep diedojt dát dágástallamis}.
 
@@ -28,5 +28,5 @@ Vuollelin {gulá majt guollebiebmadimæládus vásstedij ja ienep diedojt dát d
 Guollebiebmadibme Divtasvuonan
 
 Uddni li 8691,22 tånna biebmadimguole Divtasvuonan {iesj genga}¢{cmp,X-1|iesjgeŋga} sajijn. Æládusán li lågånanakta guollebiebmadimsaje vuonan ja uddni li biebmadimguole vihtta sajijn.
-8691 tånna merkaj jut 3.795.459 biebmadimguole li Divtasvuona meran uddni. Dav diedet rádevadde Snorre Killie Guolástusdirektorahtan$(vowc,a-á|Guolástusdirektoráhtan).
+8691 tånna merkaj jut 3.795.459 biebmadimguole li Divtasvuona meran uddni. Dav diedet rádevadde Snorre Killie {Guolástusdirektorahtan}${vowc,a-á|Guolástusdirektoráhtan}.
 Guokta guollebiebmadimvidnudagá dåjmadi æládusáv Divtasvuonan. Da li Nordlaks AS, Viestarálas ja Ellingsen Seafood AS, Skrovás Lofåhtan.

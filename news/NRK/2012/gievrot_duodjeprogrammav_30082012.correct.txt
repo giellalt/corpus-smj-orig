@@ -2,10 +2,10 @@
 
 Árran.
 
-Foto∞(nor): Harrieth Aira/NRK
+{Foto}∞{nor}: Harrieth Aira/NRK
 Julevsáme guovdásj Árran Ájluovtan Divtasvuonan la dal duojev vieledime.
 
-Gidán biejaj Árran duodjebagádiddjev virggáj. Dav aktisattjat Divtasvuona ASVOjn$(suf|ASVO:jn) ja duodjesiebrijn Duodje Nordlánnda. Tjuodtjelij vahkojt máhtti de duodjára ávvusit gå dal seminára ja kursa ásaduvvi Árranin.
+Gidán biejaj Árran duodjebagádiddjev virggáj. Dav aktisattjat Divtasvuona {ASVOjn}${suf|ASVO:jn} ja duodjesiebrijn Duodje Nordlánnda. Tjuodtjelij vahkojt máhtti de duodjára ávvusit gå dal seminára ja kursa ásaduvvi Árranin.
 
 Lågå aj: {Fikk duodjepris}∞{nor}.
 
@@ -13,15 +13,15 @@ Lågå aj: {Skal dokumentere lulesamisk duodje}∞{nor}.
 
 Gáptijn álggi
 
-Gaskavahkko$(conc,sk-ssk;conc,hkk-hk|Gasskavahko) la álggo dán vuostasj duodjeseminárraj gånnå ságastallam ja bagádallam la {gáppte birra}£{case,nom-gen|gápte birra}. Gáppte mij álgos lij bæjválasj bivtas, valla aj bivtas mij aneduváj gilldegárvvon sierralagásj$(vowc,a-á|sierralágásj) dahpádusájn$(vowc,a-á|dáhpádusájn). Uddni dal gáppte ienemusát gilldegárvvon aneduvvá.
+{Gaskavahkko}${conc,sk-ssk;conc,hkk-hk|Gasskavahko} la álggo dán vuostasj duodjeseminárraj gånnå ságastallam ja bagádallam la {gáppte birra}£{case,nom-gen|gápte birra}. Gáppte mij álgos lij bæjválasj bivtas, valla aj bivtas mij aneduváj gilldegárvvon {sierralagásj}${vowc,a-á|sierralágásj} {dahpádusájn}${vowc,a-á|dáhpádusájn}. Uddni dal gáppte ienemusát gilldegárvvon aneduvvá.
 
-Niellja kursa dal tjavtjan ja dálven ásaduvvi, ja juohkka kursan la sierra duodje-tiebmá$(cmp,hyph-0|duodjetiebmá). Åvddål gå kursa álggi la seminárasj dan tiemá birra.
-(Gaskavahkko$(conc,sk-ssk;conc,hkk-hk|Gasskavahko) l de)¥(wo|Gasskavahko de la) seminárra mij de kursajn joarkká duorastak ja bierjjedak iehkeda, ja hæjtto l dal lávvodagá biejven
+Niellja kursa dal tjavtjan ja dálven ásaduvvi, ja juohkka kursan la sierra {duodje-tiebmá}${cmp,hyph-0|duodjetiebmá}. Åvddål gå kursa álggi la seminárasj dan tiemá birra.
+{{Gaskavahkko}${conc,sk-ssk;conc,hkk-hk|Gasskavahko} l {de}}¥{wo|Gasskavahko de la} seminárra mij de kursajn joarkká duorastak ja bierjjedak iehkeda, ja hæjtto l dal lávvodagá biejven
 
 
 Árrana duodjebagádalle Lilian Urheim.
 
-Foto∞(nor): Sander Andersen/NRK
+{Foto}∞{nor}: Sander Andersen/NRK
 Lågådalle Jåhkåmåhkes
 
 Kursalågådalle li dal Svieriga ja aj Vuona bieles.
@@ -32,9 +32,9 @@ Ja gatjálvissaj jus la vejulasj gáptijn ållit guovten biejven ja avtan iehked
 
 – Ij la de dárbbo gáptijn dán kursan ållit dajna gå, {sidjij gesi l dárbbo}£{case|siján gænna l dárbbo}, máhtti Árranin goarristit jus viehkev dárbahi, javllá Urheim.
 
-Kurssa l navgu$(conc,vg-vk|navku). {Sámedigge ja Nordlánda fylkka libá}£{kongr|Sámedigge ja Nordlánda fylkka li} rudájt dán duodjeprosjæktaj juollodam.
+Kurssa l {navgu}${conc,vg-vk|navku}. {Sámedigge ja Nordlánda fylkka libá}£{kongr|Sámedigge ja Nordlánda fylkka li} rudájt dán duodjeprosjæktaj juollodam.
 
 
-Gáptegisá ávvdallin$(vowlat,0-u|ávvudallin) (Sámeálmmuk biejvev)¢(cmp,X-1|{Sámeálmmukbiejvev}¢{cmp,1-X|Sáme álmmukbiejvev}. {Vuordedahtte ienep gáptegisá galggi vuojnnut}£{infl,ind-pot|Vuojnnutji ienep gáptegisá} {maŋŋel dáj duodjekursaj}¥{wo|dáj duodjekursaj maŋŋel} Árranin.
+Gáptegisá {ávvdallin}${vowlat,0-u|ávvudallin} (Sámeálmmuk biejvev)¢(cmp,X-1|{Sámeálmmukbiejvev}¢{cmp,1-X|Sáme álmmukbiejvev}. {Vuordedahtte ienep gáptegisá galggi vuojnnut}£{infl,ind-pot|Vuojnnutji ienep gáptegisá} {maŋŋel dáj duodjekursaj}¥{wo|dáj duodjekursaj maŋŋel} Árranin.
 
-Foto∞(nor): Harrieth Aira
+{Foto}∞{nor}: Harrieth Aira

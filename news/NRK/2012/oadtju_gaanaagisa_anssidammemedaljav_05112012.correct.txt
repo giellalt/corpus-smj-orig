@@ -1,21 +1,21 @@
 Oadtju Gånågisá ánssidammedáljav
 
-Mikal Urheim ávvusij gå guláj sån oadtju Gånågisa$(vowlat,a-á|Gånågisá) ánssidammedáljav.
+Mikal Urheim ávvusij gå guláj sån oadtju {Gånågisa}${vowlat,a-á|Gånågisá} ánssidammedáljav.
 
-Foto∞(nor): Harrieth Aira/NRK
+{Foto}∞{nor}: Harrieth Aira/NRK
 {Sáme sebrudagá gállájs ja sebrudakberustiddjijs}£{x|Sáme sebrudagá gálles ja sebrudakberustiddje}, julevsábme Mikal Urheim (80) oadtju Gånågisá ánssidammedáljav.
 
 {Lidjin Divtasvuona ja Hábmera suohkanoajve}£{kongr|Lijga Divtasvuona ja Hábmera suohkanoajve} aktan Árran – julevsáme guovdátja direktørajn, gudi oajvvadin Mikal Urheim ánssit Gånågisá ánssidammedáljav oadtjot.
 
-– Mikal Urheim la badjel 50 jage iesjgeŋgalágásj rållaj ja dåjmaj baktu åvdedam nasjonála ja bájkálasj ássjijt ma li sebrudahkaj læhkám stuorra ávkken, sierraláhkáj sáme álmmuga åvdås ja julevsámij åvdås sierra. Mikal Urheima barggo le læhkám tjielgga njunnusjbarggo$(conc,nn-nnj|njunnjusjbarggo) åvddånahtátjit sáme sebrudakiellemav Vuonan (tjálli suohkanoajve-guovtes$(cmp,hyhp-X|suohkanoajve guovtes) ja Árran-direktørra)£(kongr|tjálleba suohkanoajve guovtes ja Árran-direktørra præssadiedádusán.
+– Mikal Urheim la badjel 50 jage iesjgeŋgalágásj rållaj ja dåjmaj baktu åvdedam nasjonála ja bájkálasj ássjijt ma li sebrudahkaj læhkám stuorra ávkken, sierraláhkáj sáme álmmuga åvdås ja julevsámij åvdås sierra. Mikal Urheima barggo le læhkám tjielgga {njunnusjbarggo}${conc,nn-nnj|njunnjusjbarggo} åvddånahtátjit sáme sebrudakiellemav Vuonan (tjálli {suohkanoajve-guovtes}${cmp,hyhp-X|suohkanoajve guovtes} ja Árran-direktørra)£(kongr|tjálleba suohkanoajve guovtes ja Árran-direktørra præssadiedádusán.
 
 «Ælla da tsuvkkám åvvå báhkogietjev dán birra munji. Diedá alvaduvviv.»
 
 Mikal Urheim
 Gånågisá ánssidammedállja
 
-Lij Gånågis Haakon gut vuododij Ánssidammedáljav, guovvamáno 1. bve$(x|b.).1908. Ulmme lij lasedit St. Olavs Ordenav.
-(Vattteduvvá$(conc,ttt-tt|Vatteduvvá) sahte vuonagij sierra bargos dájdan, diehtagin ja æládusiellemin ja sierra barggo)£(case|Vatteduvvá sahte vuonagij sierra bargos dájdan, diehtagin ja æládusiellemin ja sierra bargos) almmulasj$(conc,lmm-lm|almulasj) dievnastusán. Medállja lij joarkka Gånågis Oscar {IIa}${suf|II:a} máksemmedálljas mij hiejteduváj jagen 1905.
+Lij Gånågis Haakon gut vuododij Ánssidammedáljav, guovvamáno 1. {bve}${x|b.}.1908. Ulmme lij lasedit St. Olavs Ordenav.
+{{Vattteduvvá}${conc,ttt-tt|Vatteduvvá} sahte vuonagij sierra bargos dájdan, diehtagin ja æládusiellemin ja sierra {barggo}}£{case|Vatteduvvá sahte vuonagij sierra bargos dájdan, diehtagin ja æládusiellemin ja sierra bargos} {almmulasj}${conc,lmm-lm|almulasj} dievnastusán. Medállja lij joarkka Gånågis Oscar {IIa}${suf|II:a} máksemmedálljas mij hiejteduváj jagen 1905.
 Gálldo: {kongehuset.no}∞{nor}
 Ja vásse bierjjedagá bådij diehto Gånågis la miededam dáv åhtsåmusáv.
 –Duodaj lij ávvosáhka, javllá Divtasvuona suohkanoajvve Tor Asgeir Johansen gut de dalága diededij Urheimav.
@@ -33,7 +33,7 @@ Ja Urheim la ávon ja dudálasj gå Gånågisá ánssidammedáljav oadtju.
 
 – Mån la ávon ja dudálasj. Gå mijá rijka gånågis la gávnnam muv bargov buorren de lev mån ávon ja dajna dudálasj. Valla dát vuosádus ij la dåssju munji aktu, valla aj muv mánájda gudi li muv doarjodam agev ja ietjá sámijda gudi li {mujna viehkken årrum}£{case,ine-ill|munji viehkken årrum}, javllá Mikal Urheim.
 
-Sån aj gæssá åvddån suv€(w,pers-refl|ietjas) áhkáv, Elin Urheim-rávkkev, gut suv duogen agev la årrum.
+Sån aj gæssá åvddån {suv}€{w,pers-refl|ietjas} áhkáv, Elin Urheim-rávkkev, gut suv duogen agev la årrum.
 
 – Muv buoremus venak ja viehkediddje, muv iehttselis Elin ij la desti viesso. Muhtem låsså ájge de javlliv mån sunji; “Hæhttutjip má de hiejttet årromis sábmen”. Dasi Elin náv javlaj; “Ep gåjt dal mij máhte hiejttet majt ep la álggám, mij lip riegádam”. Ja divna dát la baddjen anedam muv juolgij nanna, javllá Urheim.
 
@@ -43,10 +43,10 @@ Gájkka sebrudakbargos majt sån la åvdedam ja mij sunji ájnnasabmusin uddni v
 
 – 20 jage åvddål gå Sámedigge vuododuváj de oajvvadiv mån bierri ásaduvvat parlamænnta sámijda mij sierralágásj sáme ássjijt giehtadallá. Ja dat la ådå barggo mijá rijkan årrum, gånnå unneplåhko geográfalattjat la segadum ieneplågoálmmugijn. Ja gå dási lip gávnnam tjoavddusav jut sáme máhtti adnet parlamentav la dat ájnnasamos barggo mij muv miela milta la boahtám, dættot sån.
 
-Gånågisá ánssidammedállja vatteduvvá Mikal Urheimaj sierra sermonijan$(vowlat,0-e|seremonijan), ja la Divtasvuona suohkanoajvve gut gånågisá åvdås medáljav sunji vaddá. Goassa ja gånnå dat sjaddá ij la ájn mierreduvvam.
+Gånågisá ánssidammedállja vatteduvvá Mikal Urheimaj sierra {sermonijan}${vowlat,0-e|seremonijan}, ja la Divtasvuona suohkanoajvve gut gånågisá åvdås medáljav sunji vaddá. Goassa ja gånnå dat sjaddá ij la ájn mierreduvvam.
 
 {GULLDAL ÅLLES ÁSSJEV}£{x|GULLDALA ÅLLES ÁSSJEV} DÁNNA:
 
 
-Gånågisá ánssidammedallja$(vowc,a-á|ánssidammedállja) Mikal Urheimaj
+Gånågisá {ánssidammedallja}${vowc,a-á|ánssidammedállja} Mikal Urheimaj
 

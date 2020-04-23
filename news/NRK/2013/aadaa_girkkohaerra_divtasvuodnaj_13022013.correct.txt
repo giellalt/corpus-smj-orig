@@ -1,6 +1,6 @@
 Ájluovta/Ájlátte girkko, Divtasvuonan.
 
-Foto∞(nor): Sander Andersen / NRK
+{Foto}∞{nor}: Sander Andersen / NRK
 Ådå girkkohærrá Divtasvuodnaj
 
 Divtasvuodna oadtju ådå girkkohærráv. Magne Kolvik gut 18 jage la girkkohærrán Divtasvuonan doajmmam la diededam sån Divtasvuonav guodá gæssáj gå pensjonisstan sjaddá.
@@ -8,10 +8,10 @@ Divtasvuodna oadtju ådå girkkohærráv. Magne Kolvik gut 18 jage la girkkohær
 
 Biskoahppa Tor B. Jørgensen.
 
-Foto∞(nor): Harrieth Aira / NRK
+{Foto}∞{nor}: Harrieth Aira / NRK
 Vuona girkko l almodam virgev rahpusin ja Oarjje-Hålogalátte biskoahppa Tor B. Jørgensen ij dal jáhke oadtju avtak sámegielak åhttsijt dán virggáj.
 
-– Majdis galga ælla miján avtak julevsámegielak girkkohærrákandidáhta jur dálla. Så∞(nor) danen vierttip oadtjot náginav gut hálijt julevsámegielav oahppagoahtet, javllá Oarjje-Hålogalátte biskoahppa Tor B. Jørgensen. 
+– Majdis galga ælla miján avtak julevsámegielak girkkohærrákandidáhta jur dálla. {Så}∞{nor} danen vierttip oadtjot náginav gut hálijt julevsámegielav oahppagoahtet, javllá Oarjje-Hålogalátte biskoahppa Tor B. Jørgensen. 
 
 Julevsámegiellaj almulasj giellan girkkon
 
@@ -20,7 +20,7 @@ Udnásj girkkohærrá Magne Kolvik la doajmmam Divtasvuona girkkohærrán 18 jag
 
 Divtasvuona udnásj girkkohærrá, Magne Kolvik.
 
-Foto∞(nor): Harrieth Aira / NRK
+{Foto}∞{nor}: Harrieth Aira / NRK
 Dájn jagijn sjattaj julevsámegiella almulasj giellan girkkon Divtasvuonan.
 
 Ådå testamænnta julevsámegiellaj jårggåluváj ja Julevsáme sálmmagirjje almoduváj.
@@ -33,12 +33,12 @@ Biskåhpa mielas la girkkohærrádievnastussaj Divtasvuonan ållu dárbulasj gir
 
 Dan diehti la aj virggealmodusán nammaduvvam galggá liehket máhttelisvuohta oadtjot dågålasj julevsámegiela åhpadusáv sunji gut åhtså virggáj.
 
-– Ja de doajvvop mij gávnnap buorre girkkohærráv Magne Kolkvik:a$(suf|Kolvika) sadjáj. Mij dájna barggap {jus ga}¢{cmp,X-1;conc,sg-sk|juska} ep la ájn dási tjoavddusav gávnnam, subtsas Tor B. Jørgensen.
+– Ja de doajvvop mij gávnnap buorre girkkohærráv Magne {Kolkvik:a}${suf|Kolvika} sadjáj. Mij dájna barggap {jus ga}¢{cmp,X-1;conc,sg-sk|juska} ep la ájn dási tjoavddusav gávnnam, subtsas Tor B. Jørgensen.
 
-– Vájván¢(fin,n-j|Vájvaj) gå ij la julevsámegielak giellabargge
+– {Vájván}¢{fin,n-j|Vájvaj} gå ij la julevsámegielak giellabargge
 
-Biskoahppa aj vájván¢(fin,n-j|vájvaj) gå girkkuj ælla ájn oadtjum julevsámegielak giellabarggev nav gåktu ájggomus lij juo dijmmá oadtjot.
+Biskoahppa aj {vájván}¢{fin,n-j|vájvaj} gå girkkuj ælla ájn oadtjum julevsámegielak giellabarggev nav gåktu ájggomus lij juo dijmmá oadtjot.
 
 Sån huoman doajvvu boahtte jahkáj la máhttelis virggáj biedjat julevsámegielak barggev.
 
-– Doajvvomis boahtte jage lulup$(infl|lulujma) julevsámegielak barggev oadtjot. Muv mielas la vájvve gå vilák ij la sajen, ja dát virgge la ájnas åvddånahtátjit sáme oasev mijá bisspaguovlon, javllá Jørgensen.
+– Doajvvomis boahtte jage {lulup}${infl|lulujma} julevsámegielak barggev oadtjot. Muv mielas la vájvve gå vilák ij la sajen, ja dát virgge la ájnas åvddånahtátjit sáme oasev mijá bisspaguovlon, javllá Jørgensen.

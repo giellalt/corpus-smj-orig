@@ -1,23 +1,23 @@
 Ájluovta skåvlå {8. klássaga baktu}£{case|8. klássagij baktu}: Silja Mikkelsen, Anders Kristian Kalstad ja Markus Mikkelsen
 
 Ságájdahttem Aline Mikkelsenijn
-Aline Mikkelsen la njunnjusj siebren “Duodje Nordlannda$(vowc,a-á|Nordlánnda)”, ja la iesj duodjár. Sån årru Ajluovtan$(vowc,a-á|Ájluovtan) Divtasvuonan.
+Aline Mikkelsen la njunnjusj siebren “Duodje {Nordlannda}${vowc,a-á|Nordlánnda}”, ja la iesj duodjár. Sån årru {Ajluovtan}${vowc,a-á|Ájluovtan} Divtasvuonan.
 
-Oanegis¥(missing|Oanegis versjåvnnå) dárogiellaj
+{Oanegis}¥{missing|Oanegis versjåvnnå} dárogiellaj
 
 Manen sihti dån¥0 duojijn álgget?
 -Mån ittjiv máhte majdik, ja danen {sihtiv ienep}£{case|sihtiv ienebuv} oahppat.
 Majna lijkku buoremusát barggat?
 -Buoremusát lijkkuv sasnijn barggat.
-Manen dån aná€(w|ásada) duodjekursajt?
+Manen dån {aná}€{w|ásada} duodjekursajt?
 -Danen gå dåssju gallegattja máhtti, ja {danen gå}€{w|váj} nuora aj galggi oahppat.
-Mákkir$(vowc,á-a|Makkir) åhpadus la dujna?
+{Mákkir}${vowc,á-a|Makkir} åhpadus la dujna?
 -Guokta jage Sámij Álmmukallaskåvlån Jåhkåmåhken, ja de lav avtav jagev oahppam turisma birra. Duodden lav aj nágin unnep kursatjijt vádtsám.
-Daga dån€(w|gus) dåssju dábálasj duojev?
+Daga {dån}€{w|gus} dåssju dábálasj duojev?
 -Iv.
-Mij mielastuhttá duv ådådahkkuj$(conc,hkk-hk|ådådahkuj)?
--Árbbedáhpe muv mielastuhtta$(vowlat,a-á|mielastuhttá).
-La gus duv mielas ájnas nuorajda oassalasstet$(vowc,a-á|oassálasstet) dán seminárraj?
+Mij mielastuhttá duv {ådådahkkuj}${conc,hkk-hk|ådådahkuj}?
+-Árbbedáhpe muv {mielastuhtta}${vowlat,a-á|mielastuhttá}.
+La gus duv mielas ájnas nuorajda {oassalasstet}${vowc,a-á|oassálasstet} dán seminárraj?
 -Muv mielas la, danen gå {sij galggin oahpástuvvat sijájn gudi ságasti}£{x|sij galggi oahpástuvvat sijájn gudi ságasti}, ja galggi mielav oadtjot duodjáj.
-Le gus juojdá$(conc,jd-jdd|juojddá) ietjan$(vowlat,a-á|ietján) majt sidá subtsastit duoje birra?
+Le gus {juojdá}${conc,jd-jdd|juojddá} {ietjan}${vowlat,a-á|ietján} majt sidá subtsastit duoje birra?
 -Duodje ij la dåssju gáppte ja nijbbe ja dakkira. Duodje aj {subtsas ållo}£{case|subtsas ålov} luondo birra. Dijá mielas ij la dávk nav suohtas dálla, valla muv mielas galgajda {astov váldet duodjuhit}£{x|astov váldet duodjuhittjat}.

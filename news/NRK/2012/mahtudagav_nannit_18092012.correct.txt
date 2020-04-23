@@ -2,7 +2,7 @@ Sihtá {sámegiela máhtudagáv}¢{cmp,X-1|sámegielmáhtudagáv} nannit
 
 Vuostasj studenta julevsáme bacheloråhpadusán Nordlánda universitehtan. Universitehta rektor Pål Pedersen guddnedij sijájt uddni.
 
-Foto∞(nor): Sander Andersen/NRK
+{Foto}∞{nor}: Sander Andersen/NRK
 Uddni rahpusij julevsáme bacheloråhpadus Nordlánda universitehtan sierra mujttádahttemijn gåsi studenta lidjin bivddidum. Ja Bodø Glimta lijkkemållagáhttár, 20 jahkásasj Adrian Nystø Mikkelsen, la aj álggám dán åhpadussaj.
 
 – Mij ham dárbahip máhtudagáv sámegiellaj ja dan diehti la máj dárbbo låhkåt sámegielav javllá Adrian Nystø Mikkelsen akta dajs {21 studentajs gut uddni álgij}£{kongr|21 studentajs gudi uddni álggin} dan vuostasj bacheloråhpadussaj julevsámegielan, Nordlánda universitehtan.
@@ -10,13 +10,13 @@ Uddni rahpusij julevsáme bacheloråhpadus Nordlánda universitehtan sierra mujt
 – Ep la moattes, lip nav gallegattja julevsáme guovlon ja gå mån lav juo sámegielav oahppam {mánná rájes}£{case,nom-gen|máná rájes} de la luondulasj låhkåt sámegielav, dættot sån.
 
 Lågå aj: – Mærkkabiejvve julevsámijda
-Bodø Glimt-a$(suf|Glimta) mållagáhttár
+Bodø {Glimt-a}${suf|Glimta} mållagáhttár
 
 
 Adrian Nystø Mikkelsen, sámegielstudænnta ja mållagáhttár Bodø Glimt lágan.
 
-Privat∞(nor)
-Adrian Nystø Mikkelsen gut aj la buosjes ja vissjalis bállotjiektje ja uddni l sadjásasj jali lijkkemållagáhttár Bodø Glimt lágan€(w|juohkusin) mij la 1. divisjåvnån, ij dal bárep sámegielav dárbaha gå bállov la tjiektjamin.
+{Privat}∞{nor}
+Adrian Nystø Mikkelsen gut aj la buosjes ja vissjalis bállotjiektje ja uddni l sadjásasj jali lijkkemållagáhttár Bodø Glimt {lágan}€{w|juohkusin} mij la 1. divisjåvnån, ij dal bárep sámegielav dárbaha gå bállov la tjiektjamin.
 
 - Ij la dal julevsámegiella ájnas gal bállotjiektjamin, valla sámegiella l dal oasse muv identitehtas ja la luondulasj oasse munji, dættot sån.
 
@@ -28,23 +28,23 @@ Ja nuorra báhttja dal ij la uddni mierredam jus julevsámegiella sjaddá suv å
 
 Valla soajttá sámegiela mastergráda loaggá.
 
-- Ja, jus sjaddá fálaldak matergrádaj$(conc,t-st|mastergrádaj) de máhtáv usjudallat álgget dasi. Jus dát bachelor la miellagiddis ja ålliv dajna, de soajttá álgáv, ij dav diehttu.
+- Ja, jus sjaddá fálaldak {matergrádaj}${conc,t-st|mastergrádaj} de máhtáv usjudallat álgget dasi. Jus dát bachelor la miellagiddis ja ålliv dajna, de soajttá álgáv, ij dav diehttu.
 
-– Vuorddeba mástergrádav$(vowc,á-a|mastergrádav)
+– Vuorddeba {mástergrádav}${vowc,á-a|mastergrádav}
 
-Rahpamin lij aj áttják$(vowlat,á-a|áttjak) álggám ådå sámeássjij stáhttatjálle Ragnhild Vassvik Kalstad.
+Rahpamin lij aj {áttják}${vowlat,á-a|áttjak} álggám ådå sámeássjij stáhttatjálle Ragnhild Vassvik Kalstad.
 
-Dát lij suv vuostasj almmulasj$(conc,lmm|almulasj) manno ja bådij de julevsáme guovlluj.
+Dát lij suv vuostasj {almmulasj}${conc,lmm|almulasj} manno ja bådij de julevsáme guovlluj.
 
-Sunji la luondulasj gæhttjagoahtet jus dåhkki vijdedit dáv åhpadusfálaldagáv julevsámegiela mástergrádaj$(vowc,á-a|mastergrádaj).
+Sunji la luondulasj gæhttjagoahtet jus dåhkki vijdedit dáv åhpadusfálaldagáv julevsámegiela {mástergrádaj}${vowc,á-a|mastergrádaj}.
 
-– Ij la dal ietján gå vádtset gæjnov vijddábut. Ga¢(vow,a-å|Gå) dal juo bacheloråhpadus la sajen de la ham gæjnno rabás matergrádafáládagáv$(conc,t-st;vowlat,á-a|mastergrádafálaldagáv) fállagoahtet. Så∞(nor) dav de vuordáv fágabirás$(cmp,gen-nom|fáhkabirás) dánná Nordlánda universitehtan plánigoahtá, javllá Ragnhild Vassvik Kalstad gut rámmpu Nordlánda universitehtav ja julevsáme birrasav dát buorre bargos mij la dagádum.
+– Ij la dal ietján gå vádtset gæjnov vijddábut. {Ga}¢{vow,a-å|Gå} dal juo bacheloråhpadus la sajen de la ham gæjnno rabás {matergrádafáládagáv}${conc,t-st;vowlat,á-a|mastergrádafálaldagáv} fállagoahtet. {Så}∞{nor} dav de vuordáv {fágabirás}${cmp,gen-nom|fáhkabirás} dánná Nordlánda universitehtan plánigoahtá, javllá Ragnhild Vassvik Kalstad gut rámmpu Nordlánda universitehtav ja julevsáme birrasav dát buorre bargos mij la dagádum.
 
-Sámedigge aj vuojnná luondulattjan dáv fáláldagáv$(vowlat,á-a|fálaldagáv) vijdedit.
+Sámedigge aj vuojnná luondulattjan dáv {fáláldagáv}${vowlat,á-a|fálaldagáv} vijdedit.
 
-– Gå dal bacheloråhpadus la juolgij nanna. De usjudaláv ruvva láhkáj dal aj dåhkki oadtjot (mástergráda fáláldagáv$(vowlat,á-a|fálaldagáv))€(cmp,X-1|mastergrádafálaldagáv) sadjáj. Gålmån jagen li dá studenta gærggam bacheloråhpadusájn, ja sihti joarkket mastergrádajn. Dan diehti viertti mastergrádafáládahka$(voclat,á-a|mastergrádafálaldahka) lihket$(vowc,i-ie|liehket) sajen gålmån jagen, dættot Sámedikkeráde ájras Ellinor Marita Jåma gut Sámedikkev ájrastij dán rahpamin Bådåddjon¢(conc,ddj-dj|Bådådjon).
+– Gå dal bacheloråhpadus la juolgij nanna. De usjudaláv ruvva láhkáj dal aj dåhkki oadtjot (mástergráda {fáláldagáv${vowlat,á-a|fálaldagáv}}}€{cmp,X-1|mastergrádafálaldagáv} sadjáj. Gålmån jagen li dá studenta gærggam bacheloråhpadusájn, ja sihti joarkket mastergrádajn. Dan diehti viertti {mastergrádafáládahka}${voclat,á-a|mastergrádafálaldahka} {lihket}${vowc,i-ie|liehket} sajen gålmån jagen, dættot Sámedikkeráde ájras Ellinor Marita Jåma gut Sámedikkev ájrastij dán rahpamin {Bådåddjon}¢{conc,ddj-dj|Bådådjon}.
 
 
 Sámeássjij stáhttatjálle Ragnhild Vassvik Kalstad lij aj guddnedime studentajt.
 
-Foto∞(nor): Sander Andersen/NRK
+{Foto}∞{nor}: Sander Andersen/NRK

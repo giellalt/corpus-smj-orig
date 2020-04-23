@@ -3,7 +3,7 @@ Mujttádahtti nissunbiejvev
 
 Rádevadde Árran - julevsáme guovdátjin, Päivi Alanen. Gåvvå Árrana musea vuosádusás.
 
-Foto∞(nor): Harrieth Aira/NRK
+{Foto}∞{nor}: Harrieth Aira/NRK
 Dán jage galggá julevsáme guovdásj, Árran mujttádahttet rijkajgasskasasj nissunbiejvev sierra mujttádahttemprográmmajn.
 
 Harrieth Aira {harrieth.aira@nrk.no}∞{url}
@@ -21,11 +21,11 @@ Nuorra nissun ja åhpadiddje {{Ingrid Kintel galggá lågådallat sámegiella ja
 
 – {Dárbbo mujttádahttet}¥{missing|Dárbbo l mujttádahttet}
 
-Alanen:a$(suf|Alanena) mielas la dárbbo mujttádahttet dássádusáv sjiervij gaskan vilák uddni ja aj sáme sebrudagájn.
+{Alanen:a}${suf|Alanena} mielas la dárbbo mujttádahttet dássádusáv sjiervij gaskan vilák uddni ja aj sáme sebrudagájn.
 
 – Vádnun ájn dássádus vaj nissunij dille la sæmmi dásen gå ålmmåj.
 
-– Álu li má {ålmmåjn sijájn gænna}£{kongr|ålmmåjn sijájn gejn} l fábmo, sij gudi li jådediddje ja sij gudi tjåhkkåhi biednikvuossa nanna ja gudi mierredi ássjijt politihkan. Ja álu de sjaddi€(w|li) ålmmå gudi ráddiji sebrudagán {jus ga}¢{cmp,X-1;conc,sg-sk|juska} {miján li {moadda berustiddjes}£{kongr|moattes berustiddjijs} nissuna}¥{redun;wo|moattes berustiddjijs li nissuna}. Så vilák vierttiji nissuna tjalmostahteduvvat vaj sjaddá almma dássádus gájkaj ulmutjij gaskan dættot Alanen.
+– Álu li má {ålmmåjn sijájn gænna}£{kongr|ålmmåjn sijájn gejn} l fábmo, sij gudi li jådediddje ja sij gudi tjåhkkåhi biednikvuossa nanna ja gudi mierredi ássjijt politihkan. Ja álu de {sjaddi}€{w|li} ålmmå gudi ráddiji sebrudagán {jus ga}¢{cmp,X-1;conc,sg-sk|juska} {miján li {moadda berustiddjes}£{kongr|moattes berustiddjijs} nissuna}¥{redun;wo|moattes berustiddjijs li nissuna}. Så vilák vierttiji nissuna tjalmostahteduvvat vaj sjaddá almma dássádus gájkaj ulmutjij gaskan dættot Alanen.
 
 {GULLDAL ÅLLES ÁSSJEV SÁMEGIELLAJ DÁNNA}£{x|GULLDALA ÅLLES ÁSSJEV SÁMEGIELLAJ DÁNNA}:
 

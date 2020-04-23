@@ -2,19 +2,19 @@ Hiebadahtti varresvuodafálaldagájt
 
 Dá vidás li sáme prosjevtajn Valensvuona varresvuodaguovdátjin barggam. Gåråbieles: Trond Bliksvær, Hanne Jakobsen, Arnfinn Pavall, Erling Urheim ja Tove Bergkvist.
 
-Foto∞(nor): Harrieth Aira/NRK
+{Foto}∞{nor}: Harrieth Aira/NRK
 Jagev la Valnesvuona varresvuodaguovdátjin, Valnesvuonan, Fuoskon læhkám sierra sáme prosjækta. Ulmme l læhkám hiebadahttet varresvuodafálaldagájt vaj buorebut galggi sáme pasientaj dárbojt gåtsedit.
 
 
 Trond Bliksvær.
 
-Foto∞(nor): Harrieth Aira/NRK
+{Foto}∞{nor}: Harrieth Aira/NRK
 – Mij lip dáv juo ájggá ælvvám mij vierttip tjiehpebu sjaddat duostotjit sámijt gudi diehki båhti, javllá Trond Bliksvær gut la {dutkam-ja}${cmp,1-X|dutkam- ja} åvddånahttemoajvve Valnesvuona varresvuodaguovdátjijn.
-Valnesvuona varresvuodaguovdásj mij la Fuosko ja Bådåddjo gassko fállá varresvuodadievnastusájt sierratjiehppedásen ulmutjijda gudi oatsodimev ja máhtsastimev dárbahi. Dav duola dagu gå skihpudagáj diehti li ierit barggoiellemis gahttjam, {dat mij gåhtjoduvvá dárruj}¥{wo|dat mij dárruj gåhtjoduvvá} rehabilitering∞(nor).
+Valnesvuona varresvuodaguovdásj mij la Fuosko ja Bådåddjo gassko fállá varresvuodadievnastusájt sierratjiehppedásen ulmutjijda gudi oatsodimev ja máhtsastimev dárbahi. Dav duola dagu gå skihpudagáj diehti li ierit barggoiellemis gahttjam, {dat mij gåhtjoduvvá dárruj}¥{wo|dat mij dárruj gåhtjoduvvá} {rehabilitering}∞{nor}.
 
-Valnesvuona varresvuodaguovdásj aj fálla$(vowlat,a-á|fállá) sierratjiehppe dievnastusájt fábmálisájda gudi dárbahi viehkev viesotjit buoremus láhkáj ietjasa skihpudagáj, dat mij dárruj gåhtjoduvvá habilitering∞(nor).
+Valnesvuona varresvuodaguovdásj aj {fálla}${vowlat,a-á|fállá} sierratjiehppe dievnastusájt fábmálisájda gudi dárbahi viehkev viesotjit buoremus láhkáj ietjasa skihpudagáj, dat mij dárruj gåhtjoduvvá {habilitering}∞{nor}.
 
-Dåhku ållo pasienta båhti€(der|båhtali) ja aj sáme pasienta, sierraláhkáj julev- ja oarjjelsáme guovlos, Nordlándan, valla aj nuorttat.
+Dåhku ållo pasienta {båhti}€{der|båhtali} ja aj sáme pasienta, sierraláhkáj julev- ja oarjjelsáme guovlos, Nordlándan, valla aj nuorttat.
 
 Ienep diedojt Valnesvuona varresvuodaguovdátja birra gávna dánna.
 
@@ -23,7 +23,7 @@ Sámevuohta ij bárep vuojnnu
 
 Diedo ælla sámegiellaj almoduvvam.
 
-Foto∞(nor): Harrieth Aira/NRK
+{Foto}∞{nor}: Harrieth Aira/NRK
 Gå ulmusj dåhku boahtá de sámevuohta ij dal bárep vuojnnu institusjåvnån.
 
 Sáme dájdda ja sáme kártta, oabme gábmaga gahtsahi siejnen, valla danna ælla galba jalik ietjá diededime sámegiellaj jalik ietjáláhkáj juoga mij vuoset institusjåvnnå galggá aj varresvuodafálaldagájt fállat vaj sámijda dåbddu oahpes.
@@ -47,7 +47,7 @@ Dasi vásstet prosjæktajådediddje Erling Urheim náv:
 
 Erling Urheim la jådedam prosjevtav.
 
-Foto∞(nor): Harrieth Aira/NRK
+{Foto}∞{nor}: Harrieth Aira/NRK
 – Dánna li moadda oase majt lip vieledam. Sáhka la má dádjadusás, gåktu sámij barggat, vuosstij válldet ja aj diedojt sámij birra, duoje, åssko ja {duot-dát}${cmp,hyhp-X|duot dát}. Ájnas la aj dádjadusáv oadtjot gåktu sáme li ájgij tjadá vájvástuvvam. Miján lij fáhkabiejvve mij dav tjalmostij – láddáduvvama båhtusa sámij varresvuodadilláj. Duodden lip tjadádam fáhkabiejvijt, maŋemus lij miehttseterapija, ja bargge li aj oassálasstám {{duon-dán}${cmp,hyph-X|duon dán} varresvuodaseminárajn}£{kongr|duojn dájn varresvuodaseminárajn}, subtsas prosjevta jådediddje, julevsábme Erling Urheim gut la dájna barggam Valnesvuona varresvuodaguovdátjin dán maŋemus jage.
 Duodden máhtudaklåpptimij barggij gaskan de la varresvuodaguovdásj álgadam {duov-dáv}${cmp,hyph-X|duov dáv} {mij lulu}£{kongr|mij luluj} sámevuodav buorebut vuosedit. Buojkulvisá dagu låvdagådijt li tsieggim, sáme girjijt girjjevuorkkáj oadtjum, duodjekursajt tjadádam ja {oahpástuvvam sáme værmádahkaj}€{w|oahpásmuvvam sáme værmádahkaj}.
 
@@ -68,11 +68,11 @@ Svenn Johnsen.
 
 Svenn Johnsen ij dåssju vuojne ávkev dássta dåssju sámij diehti.
 
-Sån aj dættot man ávkálasj la dáttjasebrudahkaj oahpástuvvat€(w|oahpásmuvvat) sámegiellaj ja kultuvrraj.
+Sån aj dættot man ávkálasj la dáttjasebrudahkaj {oahpástuvvat}€{w|oahpásmuvvat} sámegiellaj ja kultuvrraj.
 
 – Gå mån sáhkadahttjájiv sámegiellaj daj láttij ja rivggoj guoran de sidja midjij gæhttjin ja gatjádin makkir gielav midja ságastijma. Ja de subtsastijma mij lip sáme ja oahppása Divtasvuonas. Vuojná sáme kultuvrra dakkir stuor sajen ij la læhkám åvddål, esski gå dálla Erling Urheim danna barggagådij. Ja dat la buorre, gå dán mijá væráldin vilák ulmutja gatjádi hájn mij la sábme, {majt la sábme}£{case|mij la sábme} ja gånnå sábme årru. “Sáme årru gámájn”, javlli, ja mån de hæhttujiv tjajmmat ja javllat ulmutjijda ma dav jáhkki, "Jubmelam, midja lip ham jagen 2012. Makkir diedojt lihpit oadtjum mijá birra," subtsas Johnsen.
 
-Så∞(nor) le gus duv mielas dát buorre prosjækta mij la tjadáduvvam Valnesvuonan?
+{Så}∞{nor} le gus duv mielas dát buorre prosjækta mij la tjadáduvvam Valnesvuonan?
 
 – Buorak la dat divnajda, aj midjij sámijda gudi sámegielav sáhkadip látte ja rivggo væráldin. Navti vuojn de aj látte ja rivggo oadtju gullat mijá vidjurijt, javllá Johnsen.
 

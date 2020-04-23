@@ -3,7 +3,7 @@ Hálijda gus journalisstan jali gåvvididdjen barggat?
 
 NRK Sámi oahppehárjjidalle jn. 2012/13. {Gåro bieles}¢{cmp,X-1|Gårobieles} Maret Inga Smuk, Maren Inga Baer, Maija Holm Balto ja Vaino Rensberg
 
-Foto∞(nor): Berit Nystad/NRK
+{Foto}∞{nor}: Berit Nystad/NRK
 Dála l máhttelisvuohta journalisstan barggat.
 
 Harrieth Aira {harrieth.aira@nrk.no}∞{url}
@@ -21,10 +21,10 @@ Lågå aj: {praktikantenes blogg}∞{nor}
 
 NRK Sápmi oahppehárjjidalle ja Arne Scheie.
 
-Foto∞(nor): Berit Nystad/NRK
+{Foto}∞{nor}: Berit Nystad/NRK
 Maŋŋel hárjjidallamájge galggá oahppen liehket buorre máhttelisvuohta bessat media -ja journalisstafágalasj åhpadusájda álgget.
 
-Oahppehárjjidallam le NRK Sáme oajvvedåjmadusán Kárášjågån$(conwb,š-sj|Kárásjjågån)
+Oahppehárjjidallam le NRK Sáme oajvvedåjmadusán {Kárášjågån}${conwb,š-sj|Kárásjjågån}
 
 {Oahppe vierttiji ållim joarkkaskåvlåjn jali muodugasj máhtudahka}¥{missing|Oahppe vierttiji ållim joarkkaskåvlåjn jali viertti siján liehket muodugasj máhtudahka}.
 

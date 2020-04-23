@@ -1,25 +1,25 @@
 Ávos sihtá ietjas kultuvra birra subtsastit
 
-Guokta jage dás åvddål lij Anne Silja Turiin$(vowm,ii-iji|Turijin)(19) giessebarggo journálisstan$(loan,vowlat,á-a|journalisstan)  NRK Sámerádioan$(prop,suf,loan,vowc,á-a|Sámeradion). Boahtte skåvllåjage la virgen oahpestiddjen, ja ávos sihtá ietjas kultuvra birra nuppij€(w|ietjá) nuorajda subtsastit. Vuorkkágåvvå.
+Guokta jage dás åvddål lij Anne Silja {Turiin}${vowm,ii-iji|Turijin}(19) giessebarggo {journálisstan}${loan,vowlat,á-a|journalisstan}  NRK {Sámerádioan}${prop,suf,loan,vowc,á-a|Sámeradion}. Boahtte skåvllåjage la virgen oahpestiddjen, ja ávos sihtá ietjas kultuvra birra {nuppij}€{w|ietjá} nuorajda subtsastit. Vuorkkágåvvå.
 
-Oanegis¥(Oanegis versjåvnnå) dárogiellaj 
+{Oanegis}¥{Oanegis versjåvnnå} dárogiellaj 
 
--Mån lav ávon gå besav ietjam duogátja ja ietjam kultuvra birra (nuppij€(w|ietjá) nuorajda subtsastittjat)£(x|ietjá nuorajda subtsastit). Dasi diedáv la dárbbo, javllá Anne Silja Turi(19) Divtasvuonas.
-Anne Silja la aktan Mats Pavvalijn Fuosskos$(prop,conc,ssk-sk|Fuoskos) ja Elle Sofe Henriksenajn$(prop,suf|Henriksenijn) Guovdagæjnos$(conc,vd-vdd|Guovddagæjons) válljidum sáme oahpestiddjen boahtte skåvllåjage. Jus ij departemænnta dav guhkeda, da€(w|de) la mañemus$(ascii|maŋemus) jahke gå dát gålmåjahkásasj prosjækta l jåden$(vowlat,e-o|jådon).
+-Mån lav ávon gå besav ietjam duogátja ja ietjam kultuvra birra {{nuppij}€{w|ietjá} nuorajda {subtsastittjat}}£{x|ietjá nuorajda subtsastit}. Dasi diedáv la dárbbo, javllá Anne Silja Turi(19) Divtasvuonas.
+Anne Silja la aktan Mats Pavvalijn {Fuosskos}${prop,conc,ssk-sk|Fuoskos} ja Elle Sofe {Henriksenajn}${prop,suf|Henriksenijn} {Guovdagæjnos}${conc,vd-vdd|Guovddagæjons} válljidum sáme oahpestiddjen boahtte skåvllåjage. Jus ij departemænnta dav guhkeda, {da}€{w|de} la {mañemus}${ascii|maŋemus} jahke gå dát gålmåjahkásasj prosjækta l {jåden}${vowlat,e-o|jådon}.
 Prosjevta ulmme l {oabllot sáme kultuvrav}£{x|oablodit sáme kultuvrav}, ja sebrudakdilij birra subtsastit ietjá nuorajda Vuonan.
 Anne Silja Turi la riek ávon gå la bessam oahpestiddjen, ja sujna l oalle miella dájna prosjevtajn barggat. Ja manen {sån jur dasi besaj i iesj rat diede}£{kongr|sån jur dasi besaj ij iesj rat diede}.
 -Jáhkáv hiebav dasi. Ietján dal iv lim åhtsåt, ja iv lim ga virggáj biejaduvvat. Ja mån lav nav dudálasj ja ávon gå besav dájna prosjevtajn barggat, giehttu Anne Silja.
 
-Guovte sámekultuvrralasj$(conc,rvv-rv|sámekultuvralasj)
+Guovte {sámekultuvrralasj}${conc,rvv-rv|sámekultuvralasj}
 
-(Anne Siljan la áhttje guovdagæjnok$(conc,vd-vdd|guovddagæjnok) ja ieddne divtasvuonak)¥(wo;case|Anne Silja áhttje la guovddagæjnok ja ieddne la divtasvuonak). Dajna l sån (oadtjum oasev nuorttasámekultuvras ja aj julevsámekultuvras, ja dideon$(typo|diedon) aj goappatja$(vowlat,a-á|goappátja) gielajda)£(case|oadtjum oasev nuorttasámekultuvras ja aj julevsámekultuvras, ja diedo aj goappátjij gielajs) aj.
--Mån lav mihá gå lav sábme, ja buoren¢(conc,r-rr,ine-ess|buorren) anáv gå dåbdåv ja ságastav guokta sámegiela ja guokta sierra sámekultuvra, javllá sån.
-Juska l nuorra, de la Anne Silja juo ålov háhppidam vásedit. Sån la joarkkaskåvlåjn ållim, ja sån la aj lådnomstudænntan læhkám åvdep skåvllåjage. Dan jage lij Ámerigin$(Vowc,á-a|Amerigin).
-Anne Silja l aj åvdep giese journálisstan$(loan,vowlat,á-a|journalisstan) barggam NRK Sámeradioa$(prop,suf|Sámeradio) åvdås, ja dajna de la (oahpástuvvam€(w|oahpásmuvvam) barggeiellemijn)£(case,com-ill|oahpásmuvvam barggoiellemij) aj.
+(Anne Siljan la áhttje {guovdagæjnok}${conc,vd-vdd|guovddagæjnok} ja ieddne {divtasvuonak}}¥{wo;case|Anne Silja áhttje la guovddagæjnok ja ieddne la divtasvuonak}. Dajna l sån (oadtjum oasev nuorttasámekultuvras ja aj julevsámekultuvras, ja {dideon}${typo|diedon} aj {goappatja}${vowlat,a-á|goappátja} {gielajda}}£{case|oadtjum oasev nuorttasámekultuvras ja aj julevsámekultuvras, ja diedo aj goappátjij gielajs} aj.
+-Mån lav mihá gå lav sábme, ja {buoren}¢{conc,r-rr,ine-ess|buorren} anáv gå dåbdåv ja ságastav guokta sámegiela ja guokta sierra sámekultuvra, javllá sån.
+Juska l nuorra, de la Anne Silja juo ålov háhppidam vásedit. Sån la joarkkaskåvlåjn ållim, ja sån la aj lådnomstudænntan læhkám åvdep skåvllåjage. Dan jage lij {Ámerigin}${Vowc,á-a|Amerigin}.
+Anne Silja l aj åvdep giese {journálisstan}${loan,vowlat,á-a|journalisstan} barggam NRK {Sámeradioa}${prop,suf|Sámeradio} åvdås, ja dajna de la {{oahpástuvvam}€{w|oahpásmuvvam} {barggeiellemijn}}£{case,com-ill|oahpásmuvvam barggoiellemij} aj.
 
 Buorep dádjadip nuppe nuppev
 
 Ájnas oasse Anne Silja bargos masi tjaktjaj álggá, la stereotyjpajt gádodit dajs gudi jáhkki sáme li nav ietjálágátja gå ”dábálasj” ulmutja.
--Juska dal miján la ietjá histåvrrå, giella ja kultuvrra, da viessop dagu ”iemelágasj” ulmutja. Mij sáme nuora aj filmajt lájggip, {SMS’ajt}${acro,suf|SMS:jt} rádjap, ja dahkap jur sæmmi dagu divna ietjá nuora. Dav de sidáv nuppij€(w|ietjá) ludtjusattjajda subtsastit, ja dasi de jáhkáv la dárbbo. Iv de jáhke divna ietjá nuora dav diehti, javllá Anne Silja ja duoddi: -Jus oadtjop ietjá kultuvra birra diehtet, de buorep dádjadip nubbe nuppev.
-Ja bårggemáno maññegietjen$(ascii|maŋŋegietjen) la Anne Silja kursan Guovdagæjnon$(conc,vd-vdd|Guovddagæjnon) ja nav dan ådå virgen mij vihpa$(vowlat,a-á|vihpá) boahtte skåvllåjagev.
+-Juska dal miján la ietjá histåvrrå, giella ja kultuvrra, da viessop dagu ”iemelágasj” ulmutja. Mij sáme nuora aj filmajt lájggip, {SMS’ajt}${acro,suf|SMS:jt} rádjap, ja dahkap jur sæmmi dagu divna ietjá nuora. Dav de sidáv {nuppij}€{w|ietjá} ludtjusattjajda subtsastit, ja dasi de jáhkáv la dárbbo. Iv de jáhke divna ietjá nuora dav diehti, javllá Anne Silja ja duoddi: -Jus oadtjop ietjá kultuvra birra diehtet, de buorep dádjadip nubbe nuppev.
+Ja bårggemáno {maññegietjen}${ascii|maŋŋegietjen} la Anne Silja kursan {Guovdagæjnon}${conc,vd-vdd|Guovddagæjnon} ja nav dan ådå virgen mij {vihpa}${vowlat,a-á|vihpá} boahtte skåvllåjagev.
 Dajna aj Anne Silja oadtju dáv mijá guhka rijkav miehtáj gålggåt, subtsastittjat ietjas duogátja birra.

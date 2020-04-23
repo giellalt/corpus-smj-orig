@@ -2,13 +2,13 @@
 
 Sámedikkeájras Kirsti Guvsám ávvus gå dálla la julevsáme dålkkå Sámedikken.
 
-Foto∞(nor): Dan Robert Larsen/NRK
+{Foto}∞{nor}: Dan Robert Larsen/NRK
 Sámedikkeájras Kirsti Guvsám la riek ávon gå Sámedikken vijmak la julevsáme dålkkumdievnastus sajen.
 
 Harrieth Aira {harrieth.aira@nrk.no}∞{url}
 – Dát beras luluj juo láŋŋga sajen, javllá Guvsám.
 
-Dán ideda gå sámedikkeájrrasa tjåhkanin ållestjåhkanibmáj Kárášjogån$(conwb,š-sj;vowc,o-å|Kárásjjågån) de diededij Sámedikke tjåhkanimjådediddje Jarle Jonassen dálla l sihke nuortta- julev- ja oarjjelsámegiela dålkkumdievnastus sajen Sámedikken.
+Dán ideda gå sámedikkeájrrasa tjåhkanin ållestjåhkanibmáj {Kárášjogån}${conwb,š-sj;vowc,o-å|Kárásjjågån} de diededij Sámedikke tjåhkanimjådediddje Jarle Jonassen dálla l sihke nuortta- julev- ja oarjjelsámegiela dålkkumdievnastus sajen Sámedikken.
 
 – Miján la sihke nuorttasáme, julevsáme ja oarjjelsáme dålkkå dán ållestjåhkanimen, så sidjij gudi sihti ietjasa sámegielajt adnet de la dat dálla máhttelis, javlaj Jonassen.
 
@@ -16,7 +16,7 @@ Dán ideda gå sámedikkeájrrasa tjåhkanin ållestjåhkanibmáj Kárášjogån
 
 Vásse tjavtja {gulájma sámedikkeájras Kirsti Guvsám}£{case|gulájma sámedikkeájras Kirsti Guvsámav} gut åhtsålij julevsáme dålkkumdievnastusáv Sámedikken.
 
-Dalutjij$(conc,l-ll|Dallutjij) ij lim sierra julevsáme dålkkå Sámedikken, valla sij gudi dålkkuji nuorttasámegiellaj aj dålkkujin jus julevsámegiellaj håladuváj.
+{Dalutjij}${conc,l-ll|Dallutjij} ij lim sierra julevsáme dålkkå Sámedikken, valla sij gudi dålkkuji nuorttasámegiellaj aj dålkkujin jus julevsámegiellaj håladuváj.
 
 – Mån sávav sierra julevsáme dålkåv. Sámedigge ham vuorddá háldadimsuohkana gudi li sámegiela háldadimguovlon galggi dievnastit sábmáj ietjasa addnijt, valla Sámedigge iesj ij la sæmmi tjiehppe dav fállat julevsámegiellaj ja oarjjelsámegiellaj, javlaj Guvsám dijmmá tjavtja.
 
@@ -24,15 +24,15 @@ Dalutjij$(conc,l-ll|Dallutjij) ij lim sierra julevsáme dålkkå Sámedikken, va
 
 Ja dán bále de lij julevsáme dålkkå sajen Sámedikken gå ållestjåhkanibme álgij.
 
-– Dát la buorre. Mij lip dáv viehke¢(vowlat,e-a|viehka) mælggadav vuorddám ja mån ávvusav gå de vijmak la julevsáme dålkkå dánna, javllá Guvsám.
+– Dát la buorre. Mij lip dáv {viehke}¢{vowlat,e-a|viehka} mælggadav vuorddám ja mån ávvusav gå de vijmak la julevsáme dålkkå dánna, javllá Guvsám.
 
 Guvsám gut iesj ij la julevsámegiela vuostasjgielak vuojnná aj máhttelisvuohtan gullat julevsámegielav Sámedikke tjåhkanimen oassen suv giellaoahppamis.
 
 – Jus dal dålkkuduvvá julevsámegiellaj de máhtáv ham mån sámegielav oahppat navti. Ja munji aj sjaddá dálla máhttelis iehtja sámástit ja dat la buorre. Dat dal munji sjaddá hásstalussan gå iesj iv máhte julevsámegielav nav buoragit, valla dálla l gåjt munji máhttelis dav dahkat. Ja diehttelis de hæhttutjav de dálla sábmáj hållagoahtet, javllá Guvsám.
 
-Sån árvvet dát dás-duohku$(conc,s-sst;vowlat,0-a;cmp,hyph-X|dássta duohku) sjaddá stuoves fálaldahkan.
+Sån árvvet dát {dás-duohku}${conc,s-sst;vowlat,0-a;cmp,hyph-X|dássta duohku} sjaddá stuoves fálaldahkan.
 
-– Dát beras luluj juo láŋŋga sjaen$(typo|sajen) ja diehttelis árvvedav dát sjaddá doajmmat juohkka bále gå midja tjåhkanip Sámedikken, dættot sån.
+– Dát beras luluj juo láŋŋga {sjaen}${typo|sajen} ja diehttelis árvvedav dát sjaddá doajmmat juohkka bále gå midja tjåhkanip Sámedikken, dættot sån.
 
 {GULLDAL ÅLLES ÁSSJEV SÁMEGIELLAJ DÁNNA}£{x|GULLDALA ÅLLES ÁSSJEV SÁMEGIELLAJ DÁNNA}:
 

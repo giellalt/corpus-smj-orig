@@ -1,17 +1,17 @@
-Arealpládna$(vowc,a-á;conc,l-ll;vowlat,0-a|Areállapládna) guláskuddamin
+{Arealpládna}${vowc,a-á;conc,l-ll;vowlat,0-a|Areállapládna} guláskuddamin
 
 
 Divtasvuona suohkan - {Tysfjord kommune}∞{nor}
 
-Foto∞(nor):Sander Andersen/NRK
+{Foto}∞{nor}:Sander Andersen/NRK
 Divtasvuona åvddånammadus sihtá álmmugis vuojnojt gåktu areála suohkanin bierriji aneduvvat.
 
 Harrieth Aira {harrieth.aira@nrk.no}∞{url}
 Sander Andersen {sander.andersen@nrk.no}∞{url}
 
-Ådå arealpládna$(vowc,a-á;conc,l-ll;vowlat,0-a|areállapládna) la vijmak guláskuddamij boahtám. Plánajn majna Divtasvuona suohkan la barggam ålles vásse tjavtja biejaduváj Divtasvuona åvddånammadusás dán vahko almulasj guláskuddamij.
+Ådå {arealpládna}${vowc,a-á;conc,l-ll;vowlat,0-a|areállapládna} la vijmak guláskuddamij boahtám. Plánajn majna Divtasvuona suohkan la barggam ålles vásse tjavtja biejaduváj Divtasvuona åvddånammadusás dán vahko almulasj guláskuddamij.
 
-Arealpládna$(vowc,a-á;conc,l-ll;vowlat,0-a|Areállapládna) aktan arealkártajn$(vowc,a-á;conc,l-ll;vowlat,0-a|areállakártajn) vuoset gåktu suohkana areála galggi aneduvvat.
+{Arealpládna}${vowc,a-á;conc,l-ll;vowlat,0-a|Areállapládna} aktan {arealkártajn}${vowc,a-á;conc,l-ll;vowlat,0-a|areállakártajn} vuoset gåktu suohkana areála galggi aneduvvat.
 
 Gå suohkanstivrra la plánav mierredam de la vælggo suohkanij dav tjuovvot ja dan milta barggat gå ådå dåjma galggi álgaduvvat, lesj dal ådå æládusdåjma, goahtetsieggima, hyhttotsieggima, ådå guollebiebmadimsaje jali rahteplána.
 
@@ -28,33 +28,33 @@ Divtasvuona merra l aj oajvvaduvvam suoddjidumguovllon.
 Sæmmi båttå li Divtasvuonan luondo bieles aj edna luonndoressursa massta vas muhtema vuojnni stuorra ávkástallammáhttelisvuodajt, dagu industriddjaásadusá, minerállaåhtsåma, energijamáhttelisvuoda dagu dulvvadimmáhttelisvuoda ja bieggamilloásadusá ja meran vas guollebiebmadimmáhttelisvuoda.
 
 
-Divtasvuona rádeålmåj, Konras$(fin,s-d|Konrad) Sætra.
+Divtasvuona rádeålmåj, {Konras}${fin,s-d|Konrad} Sætra.
 
-Foto∞(nor): Sander Andersen/NRK
+{Foto}∞{nor}: Sander Andersen/NRK
 Divtasvuona rádeålmåj ij sidá ilá stuorra oasev areálajs suoddjit.
 
-– Mijá mielas sjaddá suohkanij gássjelis {boahtte ájgge}¢{cmp,X-1|boahtteájgge} jus ilá edna€(w|stuor) oasse suohkana areálajs suoddjiduvvi. De vuojn sjaddá gássjel åttjudit ådå barggosajijt diehki ja dat máhttá hieredit åvddånahttemav, javllá rádeålmåj, Konrad Sætra.
+– Mijá mielas sjaddá suohkanij gássjelis {boahtte ájgge}¢{cmp,X-1|boahtteájgge} jus ilá {edna}€{w|stuor} oasse suohkana areálajs suoddjiduvvi. De vuojn sjaddá gássjel åttjudit ådå barggosajijt diehki ja dat máhttá hieredit åvddånahttemav, javllá rádeålmåj, Konrad Sætra.
 
 Lågå aj: Dåssjen adni pládnabargov
 Lågå aj: {Slakter planprosess}∞{nor}
 Lågå aj: {Avviser plankritikk}∞{nor}
-Arealplánan la duola dagu bijllarahte Måsskåj biejadum, færjodak E-6 {nieljijn råvij}£{kongr|nieljijn råvijn} Divtasvuona sisvuonaj rastá, tjáhtjefábmoávkástallam Svieriga bieles Utsvuona bajelt Rudnávuonan ja gasskarijkasasj$(mix|rijkajgasskasasj) bijllarahte Divtasvuona ja Svieriga gaskan.
+Arealplánan la duola dagu bijllarahte Måsskåj biejadum, færjodak E-6 {nieljijn råvij}£{kongr|nieljijn råvijn} Divtasvuona sisvuonaj rastá, tjáhtjefábmoávkástallam Svieriga bieles Utsvuona bajelt Rudnávuonan ja {gasskarijkasasj}${mix|rijkajgasskasasj} bijllarahte Divtasvuona ja Svieriga gaskan.
 
 Duodden aj tjuodtju juoga {Rumbojávrij birra, Davve-Vássján}£{case,ess-ine|Rumbojávrij birra, Davve-Vásján} dajt dulvvadit ja muhtem bájkijt vuorodit bieggamilloásadusájda.
 
 Duodden aj oajvvaduvvá {tjadnat areálajt turissmalágásj dåjmajda Vuodnabahtaj Oarjjevuonan ja Vuodnagæhtjáj Áhkávuonan}£{case,ill-ine|tjadnat areálajt turissmalágásj dåjmajda Vuodnabadán Oarjjevuonan ja Vuodnagietjen Áhkávuonan}.
 
-Sætra mielas la suohkan gæhttjalam gåtsedit vaj goappátjagá¥(redun|0) sihke adno ja suodjalibme gåtseduvvi. Sån sievet guollebiebmadimdåjmajda gånnå oajvvadij binnep areálajt vuorodit guollebiebmadimæládussaj gå åvddål.
+Sætra mielas la suohkan gæhttjalam gåtsedit vaj {goappátjagá}¥{redun|0} sihke adno ja suodjalibme gåtseduvvi. Sån sievet guollebiebmadimdåjmajda gånnå oajvvadij binnep areálajt vuorodit guollebiebmadimæládussaj gå åvddål.
 
-– Mij oajvvadip goappátjagá. Muhtem merraguovlojt dåhkki ávkástallat guollebiemadibmáj$(conc,m-b,|guollebiebmadibmáj), valla mij oajvvadip suoddjit sissŋemus$(conc,ssŋ-sŋ|sisŋemus) vuodnasåkkijt ådå guollebiebmadimdåjmajs ja farra davemus vuodnaguovlojt adnegoahtet.
+– Mij oajvvadip goappátjagá. Muhtem merraguovlojt dåhkki ávkástallat {guollebiemadibmáj}${conc,m-b,|guollebiebmadibmáj}, valla mij oajvvadip suoddjit {sissŋemus}${conc,ssŋ-sŋ|sisŋemus} vuodnasåkkijt ådå guollebiebmadimdåjmajs ja farra davemus vuodnaguovlojt adnegoahtet.
 
 Álmmuk galggá javllat majt sihti
 
-Álmmugin la de dálla máhttelisvuohta buktet sijá€(w,pers-refl|ietjas) vuojnojt areállapládnaj mij la guláskuddamin gitta guovvamáno 25. bæjvváj.
+Álmmugin la de dálla máhttelisvuohta buktet {sijá}€{w,pers-refl|ietjas} vuojnojt areállapládnaj mij la guláskuddamin gitta guovvamáno 25. bæjvváj.
 
 – Jus gájkka manná nav gåk lip plánim de máhttá suohkanstivrra giehtadallat areállaplánav juo snjuktjamánon, subtsas Sætra.
 
-– Valla jus stáhtalasj¢(mix|stáhta) etáhta bukti tsuojggidusájt de gájkka maŋŋun, javllá sån.
+– Valla jus {stáhtalasj}¢{mix|stáhta} etáhta bukti tsuojggidusájt de gájkka maŋŋun, javllá sån.
 
 – {Gássjelis liehket politihkkár}¥{attr-pred|Gássjel liehket politihkkár}
 
@@ -63,14 +63,14 @@ Sjaddá de Divtasvuona suohkanpolitihkkárijda gudi maŋŋutjissaj mierredi gåk
 
 Divtasvuona sadjásasj suohkanoajvve, Guttorm Aasebøstøl galggá maŋutjissaj mierredit.
 
-Foto∞(nor): Harrieth Aira/NRK
+{Foto}∞{nor}: Harrieth Aira/NRK
 Divtasvuona sadjásasj suohkanoajvve Guttorm Aasebøstøl vuojnná dát máhttá sjaddat gássjel.
 
 – Ep dal galga ietjama jámas suoddjit, mij ham galggap dánna årrot ja mij galggap åvddånahteduvvat. Valla sæmmi båttå galggap aj várjjalit mijá luondov. Dat la viehka ájnas. Så soames rievddadusá båditji majt mån sjattatjav oajvvadit dan hárráj, javllá Aasebøstøl.
 
-Sån hálli dan guovlluj jut luondov ienebuv€(w,adj-adv|ienebut) suoddjit ienni gå æládussaj vaddet friddjavuodav dahkat gåktu sij sihti.
+Sån hálli dan guovlluj jut luondov {ienebuv}€{w,adj-adv|ienebut} suoddjit ienni gå æládussaj vaddet friddjavuodav dahkat gåktu sij sihti.
 
 – {Dá la viehka gássjelis gatjálvisá}£{kongr|Dá li viehka gássjelis gatjálvisá}. Miján la viehka stuorra nággo dálla {guollebiebmadimæládusás ma sihti}£{kongr|guollebiebmadimæládusás mij sihtá} mierdijt biedjat {duon-dán}${cmp,hyph-X|duon dán} vuodnaj ja dát båktå rijdojt. {Ja gå gehtjada mij dássta árvvoháhkuhibmen sjaddá ja nuppen bielen}£{case|Ja gå gehtjada mij dássta árvvoháhkuhibmen sjaddá ja nuppet bieles} vas álmmuga dárbojt guovlojt adnet, de la viehka gássjel liehket politihkkár gå de galga mierredit, javllá Aasebøstøl gut vuorddá dágástallamijt ja ságastimev.
 
-Areálpládna$(conc,l-ll;vowlat,0-a|Areállapládna) {gávnnu Divtasvuonas næhttabielen}£{case,ela-gen|gávnnu Divtasvuona næhttabielen}. Danna aj arealkártta$(vowc,a-á;conc,l-ll;vowlat,0-a|Areállakártta) gávnnu mij njuolgga vuoset gåktu guovlo oajvvaduvvi aneduvvat.
+{Areálpládna}${conc,l-ll;vowlat,0-a|Areállapládna} {gávnnu Divtasvuonas næhttabielen}£{case,ela-gen|gávnnu Divtasvuona næhttabielen}. Danna aj {arealkártta}${vowc,a-á;conc,l-ll;vowlat,0-a|Areállakártta} gávnnu mij njuolgga vuoset gåktu guovlo oajvvaduvvi aneduvvat.
 

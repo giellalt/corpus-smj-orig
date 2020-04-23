@@ -1,19 +1,19 @@
-Duolvvasa ja vájbbam€(w,verb-adj|vájbbasa), valla dudálattja ietjá lágásj¢(cmp,X-1|ietjálágásj) skåvllådåbijn. Alvind Johnsen ja Håkon Mikkelsen libá suoñadime$(ascii|suoŋadime) mañemus$(ascii|maŋemus) mehtarijt$(vowlat,a-e|mehterijt) Nuortta Europa tjiekñalamos$(ascii;conc,kŋ-gŋ|tjiegŋalamos) rájges.
+Duolvvasa ja {vájbbam}€{w,verb-adj|vájbbasa}, valla dudálattja ietjá {lágásj}¢{cmp,X-1|ietjálágásj} skåvllådåbijn. Alvind Johnsen ja Håkon Mikkelsen libá {suoñadime}${ascii|suoŋadime} {mañemus}${ascii|maŋemus} {mehtarijt}${vowlat,a-e|mehterijt} Nuortta Europa {tjiekñalamos}${ascii;conc,kŋ-gŋ|tjiegŋalamos} rájges.
 
-Nuortta Europa tjiekñalamos$(ascii;conc,kŋ-gŋ|tjiegŋalamos) rájgen.
-Ájluovta skåvlå sámeoahppe nuorajskåvlås, aktan Måske skåvlå oahppe 7., 8. ja 9. klássas, lidjin Råggejávrerájgenj€(w|Råggejávrrájgenj) suoñadallamin$(ascii|suoŋadallamin) vásse dijstagá.
+Nuortta Europa {tjiekñalamos}${ascii;conc,kŋ-gŋ|tjiegŋalamos} rájgen.
+Ájluovta skåvlå sámeoahppe nuorajskåvlås, aktan Måske skåvlå oahppe 7., 8. ja 9. klássas, lidjin {Råggejávrerájgenj}€{w|Råggejávrrájgenj} {suoñadallamin}${ascii|suoŋadallamin} vásse dijstagá.
 
-Oanegis¥(missing|Oanegis versjåvnnå) dárogiellaj
+{Oanegis}¥{missing|Oanegis versjåvnnå} dárogiellaj
 
-Muhttijn dal hæhttu nielljegoanntsáj$(conc,llj-lj|nieljegoanntsáj) biehket ja aj ajtu guotsadit. Råggejávrerájgen€(w|Råggejávrrájgenj) li má tjuohte rájge gåsi máhtá suokñat$(ascii;conc,kŋ-gŋ|suogŋat) jus ájgo tjiehkádallat.
+Muhttijn dal hæhttu {nielljegoanntsáj}${conc,llj-lj|nieljegoanntsáj} biehket ja aj ajtu guotsadit. {Råggejávrerájgen}€{w|Råggejávrrájgenj} li má tjuohte rájge gåsi máhtá {suokñat}${ascii;conc,kŋ-gŋ|suogŋat} jus ájgo tjiehkádallat.
 
 
 Gåro bieles: Anders Kristian Kalstad, Paul Gælok(åhpadiddje), Åse Gælok(åhpadiddje), Adrian Nystø, Jørgen Kintel, Silja Mikkelsen, Marte Mikkelsen, Hanne Eriksen, Johan Daniel Mikkelsen, Markus Mikkelsen. Gájka Ájluovta skåvlås. Duodden aj Håkon Mikkelsen, Mikael Urheim ja Alvind Johnsen Måske skåvlås.
 
-Råggejávrerájgge la 597 miehtara$(vowc,ie-e;vowlat,a-e|mehtera)  tjiekñal$(ascii;conc,kŋ-gŋ|tjiegŋal) Bårjåsnjárgaváre nalta gitta vuodnaj, ja la Nuortta-Europa tjiekñalamos$(ascii;conc,kŋ-gŋ|tjiegŋalamos) rájgge.
+Råggejávrerájgge la 597 {miehtara}${vowc,ie-e;vowlat,a-e|mehtera}  {tjiekñal}${ascii;conc,kŋ-gŋ|tjiegŋal} Bårjåsnjárgaváre nalta gitta vuodnaj, ja la Nuortta-Europa {tjiekñalamos}${ascii;conc,kŋ-gŋ|tjiegŋalamos} rájgge.
 
-Råggejávrerájgge la Oarjjevuonan Divtasvuonan Måske sisñelin$(ascii;conc,sŋ-ssŋ|sissŋelin).
+Råggejávrerájgge la Oarjjevuonan Divtasvuonan Måske {sisñelin}${ascii;conc,sŋ-ssŋ|sissŋelin}.
 
-Oahppijda sjattaj ietjá lágásj¢(cmp,X-1|ietjálágásj) klássaladnja, ja ”fáhkan” lidjin luonndo ja birásfáhka, sámegiella, mátemátihkka$(vowc,á-a;vowc,á-a|matematihkka) sijddaoahppa, valla ienemusát lásjmudallam.
+Oahppijda sjattaj ietjá {lágásj}¢{cmp,X-1|ietjálágásj} klássaladnja, ja ”fáhkan” lidjin luonndo ja birásfáhka, sámegiella, {mátemátihkka}${vowc,á-a;vowc,á-a|matematihkka} sijddaoahppa, valla ienemusát lásjmudallam.
 
 Oahppij mielas lij riek suohtas gå bessin ieme skåvllådåben tjåhkkåhit gulldalime gå åhpadiddje ”sárnnet”.
