@@ -18,7 +18,7 @@ Oasse Slabávuona bieggamillopárkas gullu Divtasvuona - Vuodnabadá álmmukmieh
 (Tsieggimbarggo {jahkedahtte}${vowc,a-á|jáhkedahtte} {álggá}}£{infl,ind-pot|Tsieggimbarggo álgisj} jagen 2014.
 
 
-Navti máhtti bieggamillo vuojnnut vuoset {gåvvåaktijbiedjam}${cmp,1-X|gåvvå {aktijbiejdjam}}€{der|aktijbiejadum}) {NVE:as}${suf|NVE:s}.
+Navti máhtti bieggamillo vuojnnut vuoset {{gåvvåaktijbiedjam}${cmp,1-X|gåvvå aktijbiejdjam}}€{der|gåvvå aktijbiejadum}) {NVE:as}${suf|NVE:s}.
 
 {Foto}∞{nor}: NVE
 Statskog ittjij konsesjåvnåv oattjo

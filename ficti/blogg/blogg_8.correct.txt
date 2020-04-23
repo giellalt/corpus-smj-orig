@@ -2,7 +2,7 @@
 
 Bårriv suovasbiergov rijsaj. Buorre buojdijn baksimijda :p
 
-Uddni lav {{{mannekeŋgan}${{}vowc,e-æ;conc,ŋg-ŋŋ|mannekæŋŋan}}}€{foreign,swe|bivtasmåvttåvuosádallen} årrum. Anna-Stina Svakko ja Solveig Labba anijga {modevuosádusáv}${mix|måvttåvuosádusáv}, ja (måj {Sannejn}${vowlat,e-i|Sannijn} aktan moattes ietjá {næjtsoj}}£{x|måj Sannijn aktan moadda ietjá næjtsoj} lijma {mannekenga}${{}conc,ŋg-ŋ|mannekeŋa}€{foreign,swe|bivtasmåvttåvuosádalle}. . Riek suohtas lij!
+Uddni lav {{mannekeŋgan}${vowc,e-æ;conc,ŋg-ŋŋ|mannekæŋŋan}}€{foreign,swe|bivtasmåvttåvuosádallen} årrum. Anna-Stina Svakko ja Solveig Labba anijga {modevuosádusáv}${mix|måvttåvuosádusáv}, ja (måj {Sannejn}${vowlat,e-i|Sannijn} aktan moattes ietjá {næjtsoj}}£{x|måj Sannijn aktan moadda ietjá næjtsoj} lijma {{mannekenga}${conc,ŋg-ŋ|mannekeŋa}}€{foreign,swe|bivtasmåvttåvuosádalle}. . Riek suohtas lij!
 
 Guokta tjáppa næjtso, Sanne ja Johanna :)
 
@@ -14,7 +14,7 @@ Måj Per Jonasijn
 Ráddnam :)
 
 
-Iehkedis kloahkka gietjan le {sámeteahter}${vowc,a-á|sámeteáhter}; {byfinnar, lappjävlar och annat pack}∞{swe}. Gullam lav ahte le riek buorre ja suohtas {teahter}${vowc,a-á|teáhter}, ávvudaláv {dallutji}${{}x|dallutjij}€{w|dassátjij}!
+Iehkedis kloahkka gietjan le {sámeteahter}${vowc,a-á|sámeteáhter}; {byfinnar, lappjävlar och annat pack}∞{swe}. Gullam lav ahte le riek buorre ja suohtas {teahter}${vowc,a-á|teáhter}, ávvudaláv {{dallutji}${x|dallutjij}}€{w|dassátjij}!
 Dan maŋŋela le tjiektjamhárjjidallam. {Gieron}${vowlat,o-u|Gierun} Sáme Siebrre li stiellim hárjjidallamijt guokti vahkkuj. Dijstagájt le sisbandy ja duorastagájt le bállotjiektjam.
 
 
@@ -74,7 +74,7 @@ Vuoj, man gássjelis le álu dási {tjálet}¢{conc,l-ll|tjállet}. Iv huomaha {
 {Maŋemus}¥{missing|Maŋemus bloaggima} rájes lav Divtasvuonan læhkám muhtem biejve, ja dåssju skåvlån årrum. Valla dánna Gierunin muohttegådij vásse {duorastagá/bierjedagá}${conc,rj-rjj|bierjjedagá} ijá. Dálla le ållu bedjat ålggon ja nav hávsske!
 
 
-Ittjiv jáhke muohta galgaj bissut, valla ájn le vielggat. Juo máhttep sabegijda tjágŋat, ja idet galgav {{{skejttitjit}${{}x|skiejttitjit}}}€{foreign,swe|salostittjat} {aktan Per Jonasin}£{x|Per Jonasa siegen}.
+Ittjiv jáhke muohta galgaj bissut, valla ájn le vielggat. Juo máhttep sabegijda tjágŋat, ja idet galgav {{skejttitjit}${x|skiejttitjit}}€{foreign,swe|salostittjat} {aktan Per Jonasin}£{x|Per Jonasa siegen}.
 
 Iehkedis soajttá sjaddá {rail-session}∞{eng} aj.
 
