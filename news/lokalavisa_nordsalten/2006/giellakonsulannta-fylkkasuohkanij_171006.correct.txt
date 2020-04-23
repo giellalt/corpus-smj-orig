@@ -1,2 +1,2 @@
 Giellakonsulænnta fylkkasuohkanij
-Ráddidus la mierredam Divtasvuona suohkan la oasse sáme giellaháldadumguovlos$(vowm|giellaháldadimguovlos) 2006 rájes. Dajna de hæhttu aj Nordlánda fylkkasuohkan tjuovvot sámelága giellanjuolgadusájt, ja åhtså dan diehti sámegiellakonsulentav ålles virggáj. Åhtsåmájgge l 20. biejve dán máno.
+Ráddidus la mierredam Divtasvuona suohkan la oasse sáme {giellaháldadumguovlos}${vowm|giellaháldadimguovlos} 2006 rájes. Dajna de hæhttu aj Nordlánda fylkkasuohkan tjuovvot sámelága giellanjuolgadusájt, ja åhtså dan diehti sámegiellakonsulentav ålles virggáj. Åhtsåmájgge l 20. biejve dán máno.
