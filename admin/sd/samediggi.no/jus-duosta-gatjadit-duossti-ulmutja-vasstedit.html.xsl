@@ -168,7 +168,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location=""/>
+        <parallel_text xml:lang="nob" location="inviterer-samiske-kommuner-til-samarbeid.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="jis-doesth-gihtjedh-almetjh-duestieh-vaestiedidh.html"/>
         <parallel_text xml:lang="sme" location="bovde-sami-suohkaniid-ovttasbargat.html"/>

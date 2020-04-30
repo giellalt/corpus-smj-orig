@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://www.samedigge.no/Samedikke-birra'"/>
+    <xsl:variable name="filename" select="'https://www.samedigge.no/Daarja-ja-stipenda/Girjalasjvuohta'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sámedikke birra'"/>
+    <xsl:variable name="title" select="'Girjálasjvuohta'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -168,10 +168,10 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="om-sametinget.html"/>
+        <parallel_text xml:lang="nob" location="litteraturproduksjon.html"/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location="saemiedigkien-bijre2.html"/>
-        <parallel_text xml:lang="sme" location="samedikki-birra2.html"/>
+        <parallel_text xml:lang="sma" location="lidteratuvre.html"/>
+        <parallel_text xml:lang="sme" location="girjjalasvuodabuvttadeapmi.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
