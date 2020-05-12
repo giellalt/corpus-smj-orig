@@ -2,7 +2,7 @@
 
 Bårriv suovasbiergov rijsaj. Buorre buojdijn baksimijda :p
 
-Uddni lav {{mannekeŋgan}${vowc,e-æ;conc,ŋg-ŋŋ|mannekæŋŋan}}€{foreign,swe|bivtasmåvttåvuosádallen} årrum. Anna-Stina Svakko ja Solveig Labba anijga {modevuosádusáv}${mix|måvttåvuosádusáv}, ja (måj {Sannejn}${vowlat,e-i|Sannijn} aktan moattes ietjá {næjtsoj}}£{x|måj Sannijn aktan moadda ietjá næjtsoj} lijma {{mannekenga}${conc,ŋg-ŋ|mannekeŋa}}€{foreign,swe|bivtasmåvttåvuosádalle}. . Riek suohtas lij!
+Uddni lav {{mannekeŋgan}${loan,vowc,e-æ;conc,ŋg-ŋŋ|mannekæŋŋan}}€{foreign,swe|bivtasmåvttåvuosádallen} årrum. Anna-Stina Svakko ja Solveig Labba anijga {modevuosádusáv}${loan,mix|måvttåvuosádusáv}, ja {måj {Sannejn}${vowlat,e-i|Sannijn} aktan moattes ietjá næjtsoj}£{x|måj Sannijn aktan moadda ietjá næjtsoj} lijma {{mannekenga}${loan,conc,ŋg-ŋ|mannekeŋŋa}}€{foreign,swe|bivtasmåvttåvuosádalle}. . Riek suohtas lij!
 
 Guokta tjáppa næjtso, Sanne ja Johanna :)
 
@@ -14,7 +14,7 @@ Måj Per Jonasijn
 Ráddnam :)
 
 
-Iehkedis kloahkka gietjan le {sámeteahter}${vowc,a-á|sámeteáhter}; {byfinnar, lappjävlar och annat pack}∞{swe}. Gullam lav ahte le riek buorre ja suohtas {teahter}${vowc,a-á|teáhter}, ávvudaláv {{dallutji}${x|dallutjij}}€{w|dassátjij}!
+Iehkedis kloahkka gietjan le {sámeteahter}${loan,vowc,a-á|sámeteáhter}; {byfinnar, lappjävlar och annat pack}∞{swe}. Gullam lav ahte le riek buorre ja suohtas {teahter}${loan,vowc,a-á|teáhter}, ávvudaláv {{dallutji}${x|dallutjij}}€{w|dassátjij}!
 Dan maŋŋela le tjiektjamhárjjidallam. {Gieron}${vowlat,o-u|Gierun} Sáme Siebrre li stiellim hárjjidallamijt guokti vahkkuj. Dijstagájt le sisbandy ja duorastagájt le bállotjiektjam.
 
 
@@ -32,7 +32,7 @@ Strasbourg
 Buoris vas!
 
 Lidjiv loabedam vásse vahko {tjálet}¢{conc,l-ll|tjállet} , valla ij lim næhtta Strasbourgan, ja gå Svierigij jåvsådiv dåssju ådiv.
-Strasbourga lej ihkeva buorre ræjsso. Mij lip nav ålov dahkam ahte ij vargga dåhkki divna subtsastit. Lijma {Eu-Parlamentan}${acro,cap|EU-Parlamentan} iejvvimin 5 {eu}${arco,cap|EU} parlamentarikera Svierigis, gålmås mijás buktin presentasjåvnåv {Intergroup for traditional minoritiesaj}∞{eng}, iejvvijma guokta {ulmutja guhti}£{kongr|ulmutja gudi} barggi minoritehtaj {{birra}€{w|miehtá} {Europan}}£{case|miehtá Europa}, ja komissariev Thomas Hammarberg Europaráden. Lip sáhkadam {majt sáme nuora Svierigin berustip}£{kongr|majt sáme nuora Svierigin berusti} ja ássjij birra gånnå {{EU’a}${arco,suf-0|EU} soajttá máhtti}£{kongr|EU soajttá máhttá} mijáv viehkedit. Ræjsso lij riek geldulasj ja oahppiv aj ålov. {Ássjijt majt giehtojma lij}£{kongr|Ássjijt majt giehtojma lidjin} diehttelis giella birra, ja ålov {boahttsudoallo}€{foreign,sme|ællosujtto} gåhtjulvisáj.!!!!
+Strasbourga lej ihkeva buorre ræjsso. Mij lip nav ålov dahkam ahte ij vargga dåhkki divna subtsastit. Lijma {Eu-Parlamentan}${acro,cap|EU-Parlamentan} iejvvimin 5 {{eu}${arco,cap|EU} {parlamentarikera}${mix|parlamentarihkkára}}¢{cmp,2-hyph|EU-parlamentarihkkára} Svierigis, gålmås mijás buktin presentasjåvnåv {Intergroup for traditional minoritiesaj}∞{eng}, iejvvijma guokta {ulmutja guhti}£{kongr|ulmutja gudi} barggi minoritehtaj {{birra}€{w|miehtá} {Europan}}£{case|miehtá Europa}, ja komissariev Thomas Hammarberg Europaráden. Lip sáhkadam {majt sáme nuora Svierigin berustip}£{kongr;case|massta sáme nuora Svierigin berusti} ja ássjij birra gånnå {{EU’a}${arco,suf-0|EU} soajttá máhtti}£{kongr;x|EU soajttá} mijáv viehkedit. Ræjsso lij riek geldulasj ja oahppiv aj ålov. {Ássjijt majt giehtojma lij}£{kongr|Ássjijt majt giehtojma lidjin} diehttelis giella birra, ja ålov {boahttsudoallo}€{foreign,sme|ællosujtto} gåhtjulvisáj.!!!!
 
 
 
@@ -42,12 +42,12 @@ Strasbourga lej ihkeva buorre ræjsso. Mij lip nav ålov dahkam ahte ij vargga d
 
 Tjåhkanibme
 
-Gæhttjamin {plenumsálan}€{foreign|ållestjåhkanimehuodnahin}
-Biejav gåvåjt {mobil-kameras}${foreign|mobijllakámeras} de oadtjobihtit gæhttjat gåktu dåppe vuojnnuj.
+Gæhttjamin {{plenumsálan}${conc,l-ll|plenumsállan}}€{foreign|ållestjåhkanimehuodnahin}
+Biejav gåvåjt {mobil-kameras}${vowlat,a-á;cmp,hyph-1|mobilakamerás} de oadtjobihtit gæhttjat gåktu dåppe vuojnnuj.
 
 Bårråmin
 
-Iehkedis måj iednijn lin sjnjissjkomav suohppum. Vuostatjin buoragit manáj, valla maŋŋela, gå  mån galggiv {sjnjisskogoahtet}${conc,ssk-ssjk|sjnjissjkogoahtet} (iv {riekta}€{w|rat} diede majt {dáhpáduváj}}£{case|iv rat diede mij dáhpáduváj}. Idet hæhttujin joarkket. Mujna l gåjt barggo muhtem vahko ;)
+Iehkedis måj iednijn lin sjnjissjkomav suohppum. Vuostatjin buoragit manáj, valla maŋŋela, gå  mån galggiv {sjnjisskogoahtet}${conc,ssk-ssjk|sjnjissjkogoahtet} {iv {riekta}€{w|rat} diede majt dáhpáduváj}}£{case,acc-nom|iv rat diede mij dáhpáduváj}. Idet hæhttujin joarkket. Mujna l gåjt barggo muhtem vahko ;)
 
 Buorre idja!
 
@@ -57,11 +57,11 @@ Buoris uddni
 Håj!
 
 Uddni la låsså skåvllåbiejvve. Mij lip jur matematihkav adnám 2,5 tijma. {Lunsjan}€{foreign|biejvvebiebbmon} lij luossa - njálgge.
-{Dát vahko}£{kongr|Dát vahkko} le buorre læhkám. Rádnaj siegen årrum, ja Sanne lunna oadám, buorre biebbmo, ja iektu lijma {saunnimin}${mix|sávnnimin}. Muv ráddna Krasta le dáppe Gierunin, så sån tjuovoj {saunitjit}${mix|sávnnitjit} muv {nuppij}€{w|ietjá} rádnaj siegen. Vuogas!
-Mánnodagá vuolgáv Strasbourgaj. Mij lip 10 nuora Sáminuorras (sámenuora organisasjåvnnå) {guhti vuolggep}£{kongr|gudi vuolggep}. Galggap {EU-Parlamentaj}¢{vowc,e-æ;conc,nt-nnt|EU-Parlamænntaj} iejvvitjit muhtem {parlamentarikerajs}${mix|parlamentarihkkárijs}, Europarádes ja Europa-duobbmoståvlås. Doajvov ja jáhkáv riek suohtas ja geldulasj ræjsso sjaddá!
-Galgav {bloggav}${vowc,o-å;conc,gg-kk|blåkkav} tjállet dajt biejvijt nav álu gå máhttelis jus hotellan le internæhtta. {Mánnodagás gitta bierjjedagá}£{case|Mánnodagás gitta bierjjedahkaj} lip danna.
+{Dát vahko}£{kongr,pron|Dát vahkko} le buorre læhkám. Rádnaj siegen årrum, ja Sanne lunna oadám, buorre biebbmo, ja iektu lijma {saunnimin}${loan,mix|sávnnimin}. Muv ráddna Krasta le dáppe Gierunin, så sån tjuovoj {saunitjit}${loan,mix|sávnnitjit} muv {nuppij}€{w|ietjá} rádnaj siegen. Vuogas!
+Mánnodagá vuolgáv Strasbourgaj. Mij lip 10 nuora Sáminuorras (sámenuora organisasjåvnnå) {guhti vuolggep}£{kongr|gudi vuolggep}. Galggap {EU-Parlamentaj}¢{loan,vowc,e-æ;conc,nt-nnt|EU-Parlamænntaj} iejvvitjit muhtem {parlamentarikerajs}${mix|parlamentarihkkárijs}, Europarádes ja Europa-duobbmoståvlås. Doajvov ja jáhkáv riek suohtas ja geldulasj ræjsso sjaddá!
+Galgav {bloggav}${loan,vowc,o-å;conc,gg-kk|blåkkav} tjállet dajt biejvijt nav álu gå máhttelis jus hotellan le internæhtta. {Mánnodagás gitta bierjjedagá}£{case|Mánnodagás gitta bierjjedahkaj} lip danna.
 
-Dálla la {sámegiel’tijmma}${cmp|sámegieltijmma} álggám. Ruvvaláhkáj galgav filmav gæhttjat mij la sámenuoraj psykologalasj {vádnasvuoda}${cmp,attr|vánesvuoda} birra..
+Dálla la {sámegiel’tijmma}${cmp|sámegieltijmma} álggám. Ruvvaláhkáj galgav filmav gæhttjat mij la sámenuoraj {psykologalasj}${loan,mix|psykologijjalasj} {vádnasvuoda}${cmp,attr|vánesvuoda} birra..
 
 Sáhkadibmáj!
 
@@ -70,11 +70,11 @@ Gábbmis vuoptajt oadtjum
 Iektu bájnnijiv vuoptajt
 
 Buorre biejvve!
-Vuoj, man gássjelis le álu dási {tjálet}¢{conc,l-ll|tjállet}. Iv huomaha {at}€{foreign,swe|ahte} mujna l {blogga}${vowc,o-oa|bloagga}, ja gå {kameraladdarav}${vowc,a-á;vowc,a-á;vowlat,a-ák|ámeraláddárav} lav {láhppum}€{w|láhppám} {ij}¥{missing|de ij} la nav suohtas. Sidáv biedjat {ienebuv}€{w|ienep} gåvåjt ja vuosedit majt dagáv, farra gå dåssju {tjálet}¢{conc,l-ll|tjállet}.
-{Maŋemus}¥{missing|Maŋemus bloaggima} rájes lav Divtasvuonan læhkám muhtem biejve, ja dåssju skåvlån årrum. Valla dánna Gierunin muohttegådij vásse {duorastagá/bierjedagá}${conc,rj-rjj|bierjjedagá} ijá. Dálla le ållu bedjat ålggon ja nav hávsske!
+Vuoj, man gássjelis le álu dási {tjálet}¢{conc,l-ll|tjállet}. Iv huomaha {at}€{foreign,swe|ahte} mujna l {blogga}${loan,vowc,o-oa|bloagga}, ja gå {kameraladdarav}${loan,vowc,a-á;vowlat,a-ák|kameraláddárav} lav {láhppum}€{w|láhppám} {ij}¥{missing|de ij} la nav suohtas. Sidáv biedjat {ienebuv}€{w|ienep} gåvåjt ja vuosedit majt dagáv, farra gå dåssju {tjálet}¢{conc,l-ll|tjállet}.
+{Maŋemus}¥{missing|Maŋemus bloaggima} rájes lav Divtasvuonan læhkám muhtem biejve, ja dåssju skåvlån årrum. Valla dánna Gierunin muohttegådij vásse duorastagá/{bierjedagá}${conc,rj-rjj|bierjjedagá} ijá. Dálla le ållu bedjat ålggon ja nav hávsske!
 
 
-Ittjiv jáhke muohta galgaj bissut, valla ájn le vielggat. Juo máhttep sabegijda tjágŋat, ja idet galgav {{skejttitjit}${x|skiejttitjit}}€{foreign,swe|salostittjat} {aktan Per Jonasin}£{x|Per Jonasa siegen}.
+Ittjiv jáhke muohta galgaj {bissut}¢{vowlat,u-o|bissot}, valla ájn le vielggat. Juo máhttep sabegijda tjágŋat, ja idet galgav {{skejttitjit}${x|skiejttitjit}}€{foreign,swe|salostittjat} {aktan Per Jonasin}£{x|Per Jonasa siegen}.
 
 Iehkedis soajttá sjaddá {rail-session}∞{eng} aj.
 
