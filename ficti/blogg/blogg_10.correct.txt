@@ -2,14 +2,14 @@ Ihkeva fávrro
 Buorre iehket
 Tjåhkkåhav sijdan ja usjudaláv..
 Usjudaláv duov dáv, valla jur dálla usjudaláv balvaj birra. Gudnabalvajt.
-{Mån ja munnu ráddnama Josefijnna ja Sanne}£{x|Mån ja muv rádna Josefijnna ja Sanne} lip plánim ålggorijkajda mannat. Lip juo girddebilehtajt Stockholmaj rávvim boahtte {mánnodagáj}¢{fin,j-0|mánnodagá}. Dassta {la plána}£{kongr|la pládna} dåssju mannat åvtåjn girddijn juosik: Spániaj, Tyrkiaj {vaj}€{w|jali} ietjá {lándaj}¢{conc,nd-nnd|lánndaj} gånnå máhttep rusjkudallat!
+{Mån ja munnu ráddnama Josefijnna ja Sanne}£{x|Mån ja muv rádna Josefijnna ja Sanne} lip plánim ålggorijkajda mannat. Lip juo girddebilehtajt Stockholmaj rávvim boahtte {mánnodagáj}¢{fin,j-0|mánnodagá}. Dassta {la plána}£{kongr|la pládna} dåssju mannat åvtåjn girddijn juosik: {Spániaj}${loan|Spaniaj}, Tyrkiaj {vaj}€{w|jali} ietjá {lándaj}¢{conc,nd-nnd|lánndaj} gånnå máhttep rusjkudallat!
 Soajttá ij huoman sjatta. Islándan la {vulkanutbrudd}∞{nob}, ja ihkap {de e girde háleda}¥{wo|de girde e háleda} . {Midja lip riek juolodis}¥{attr-pred|Midja lip riek juolodime} {jus}€{w|vájbi} ep besa mannat. Gåk mij lip ávvudallam dasi! Valla vuojnnet jus bessap..
 Åvddåla lav dåssju Danmárkon, Frankrijkan (Álpajn) ja {Belgian}¥{Missing|Belgian mannam}. Ja {diehttelis}¥{missing|diehttelis lav} aj Svierigin, Vuonan ja Suoman årrum.
-Ietján (ij nav {ålov}€{w|vuojga} {dáhpáduvá}}£{case|ij nav vuojga dáhpáduvá}. Mujna li {ihkeva}€{w|sieldes} ållo skåvlåbargo åvddål gå vuolgáv, ja vierttiv ber barggagoahtet..
+Ietján ij nav {ålov}€{w|vuojga} dáhpáduvá. Mujna li {ihkeva}€{w|sieldes} ållo skåvlåbargo åvddål gå vuolgáv, ja vierttiv ber barggagoahtet..
 
-Áhttjám uddni riŋŋguj ja subtsasti såj Inger-Lisejn libá {plánim}€{w|gehkam} diek boahtet viettjatjit muv gå skåvllå hæjttá, {10. Biehtsemánnon}¥{case;wo|biehtsemáno 10. biejve}. Suohtas!
+Áhttjám uddni riŋŋguj ja subtsasti såj Inger-Lisejn libá plánim diek boahtet viettjatjit muv gå skåvllå hæjttá, {10. Biehtsemánnon}¥{case;wo|biehtsemáno 10. biejve}. Suohtas!
 
-Mujna ælla nav ålo gåvå, valla uddni gávnniv divtav {sámegielaj}¢{conc,l-ll|sámegiellaj} masjijnan majt áhttje l jårggålam {lávlos}¢{infl|lávllagis} “{Wonderful tonight}∞{eng}” Eric Claptonis.
+Mujna ælla nav {ålo}¢{conc,l-ll|ållo} gåvå, valla uddni gávnniv divtav {sámegielaj}¢{conc,l-ll|sámegiellaj} masjijnan majt áhttje l jårggålam {lávlos}¢{infl|lávllagis} “{Wonderful tonight}∞{eng}” Eric Claptonis.
 Gulldala dáv, ja gæhttjala musihka siegen lávllot;
 
 Ihkeva fávrro  {Wonderful Tonight}∞{eng}
@@ -35,7 +35,7 @@ Huoman dal ájádaláv
 Jus goassak la dádjadam
 Man ålov duv æhtsáv
 
-(Dal {{vuolggon}¢{{}vowlat|vuolggun}}}¥{wo|Vuolggun dal} de sijddasimme
+{Dal {vuolggon}¢{vowlat|vuolggun}}¥{wo|Vuolggun dal} de sijddasimme
 Iv le ållu vieddje, javlav
 Ja de gálggiv  tjoavddagijt
 Viehket oaddátjit
@@ -48,7 +48,7 @@ Udnásj biktasa
 
 Iektu lij vuostasj rássjodálkke dánna Gierunin, ja uddni lij vielggat ednamin gå smarediv.
 Gå lij nav {nievrre dálkke}¥{pred-attr|nievres dálkke} vierttijiv rássjojáhkkaj ja buorre båvsåjda tjágŋat.
-Dagáv dagu {kjendisbloggára}${vowc,o-oa|kjendisbloaggára} ja biejav gåvåv udnásjbiejve {outfit'as}∞{eng}, {hehe}∞{sla}.
+Dagáv dagu {kjendisbloggára}${loan,vowc,o-oa|kjendisbloaggára} ja biejav gåvåv udnásjbiejve {outfit'as}∞{eng}, {hehe}∞{sla}.
 
 
 {Muv {ådå rássjojáhkka Haglöfs}¥{wo|ådå Haglöfs rássjojáhkka}, ja ådå Climate båvsåjt}£{case|Muv ådå ådå Haglöfs rássjojáhkka ja Climate båvså} aj Haglöfsas ja stiebila Vikingis ;)
@@ -62,11 +62,11 @@ Ja gå la Vuonarijka álmmukbiejvve de Sara, akta paralellklássan muv bielggetj
 Vuorbbe biejvijn!
 
 Skåvllåbiejvve
-Tjåhkkåhav tijman skåvlån. Elektronihkka le dálla ja mij oahppap Transiståvrå birra. Mån {vádtsáv}¢{conc,dts-tts|váttsáv} teknihkalasj linjav aktan {freestyle}∞{eng}/sabegijtjerastallam. {Vádtsáv}¢{conc,dts-tts|váttsáv} nuppát jagev, ja ruvva le dát skåvllåjahke vássám!
+Tjåhkkåhav tijman skåvlån. Elektronihkka le dálla ja mij oahppap {Transiståvrå}¢{min|transiståvrå} birra. Mån {vádtsáv}¢{conc,dts-tts|váttsáv} teknihkalasj linjav aktan {freestyle}∞{eng}/{sabegijtjerastallam}${cmp,akk-nom|sabektjerastallam}. {Vádtsáv}¢{conc,dts-tts|váttsáv} nuppát jagev, ja ruvva le dát skåvllåjahke vássám!
 Iv mån diede majt sidáv joarkkaskåvlå maŋŋela dahkat, valla niegadiv dán ijá ahte subtsastiv sihtiv {polijsan}¢{conc,js-jss,ine-ess|polijssan} barggat boahtteájge. Na avtav diŋgav gåjt diedáv, ja dat la {at}€{foreign,nob|ahte} sidáv praktihkalasj bargojn barggat. Munji ij lijssi dåssju ståvlån tjåhkkåhit datåvrå åvdån (juska tjåhkkåhav vehi ålov dábálattjat ;)) {vaj}¥{w|jali} låhkåt ja tjállet ålles biejvijt. Ulmusj máj dassta vájbbá.
 
-{{{Lunsjaj}${{}conc,nsj-nnsj|Lunssjaj}}}€{w,swe|Biejvvebiebbmuj} ávvudaláv. Buoremus dánna Svierigin skåvlåv vádtset le ahte {oadtjop málesbiebmov {{lunsjaj}${conc,nsj-nssj|lunssjaj}}€{foreign|biejvvebiebbmuj}£{case|oadtjop málesbiebmov biejvvebiebbmon} juohkka biejve!.Vuoj man njálga biebmojt oadtjop!
-{Guláv moaddása e}£{x|Guláv moattes e} {lijkku biebmojt}£{case|lijkku biebbmuj} majt oadtju skåvlån. Divna duokkár {suohkan-barggamsaje}¢{mix|suohkanbarggosajijn} oadtju sæmmilágásj biebmojt. Le dakkár biebbmo majt dåssju lieggisti ja {bårrå}¥{de bårrå}. Muv skåvllå la priváhtaskåvllå, ja dánna l aj álmmukallaskåvllå (gijtto Marita bágo åvdås). Dánna oadtjop ållu sijddadagádum biebmojt, ja {gåjt}€{w|nav} gåktu mån lav dádjadam le miján ihkeva buorre biebbmo jus {ietjá skåvlåjda buohtastahttep}£{case|jus ietjá skåvlåj buohtastahttep}.
+{{{Lunsjaj}${{}conc,nsj-nnsj|Lunssjaj}}}€{w,swe|Biejvvebiebbmuj} ávvudaláv. Buoremus dánna Svierigin skåvlåv vádtset le ahte {oadtjop málesbiebmov {lunsjaj}${conc,nsj-nssj|lunssjaj}€{foreign|biejvvebiebbmuj}}£{case,ill-ess|oadtjop málesbiebmov biejvvebiebbmon} juohkka biejve!.Vuoj man njálga biebmojt oadtjop!
+{Guláv moaddása e}£{x|Guláv moattes e} {lijkku biebmojt}£{case,acc-ill|lijkku biebbmuj} majt oadtju skåvlån. Divna duokkár {suohkan-barggamsaje}¢{cmp,mix|suohkanbarggosajijn} oadtju sæmmilágásj biebmojt. Le dakkár biebbmo majt dåssju lieggisti ja {bårrå}¥{de bårrå}. Muv skåvllå la priváhtaskåvllå, ja dánna l aj álmmukallaskåvllå (gijtto Marita bágo åvdås). Dánna oadtjop ållu sijddadagádum biebmojt, ja {gåjt}€{w|nav} gåktu mån lav dádjadam le miján ihkeva buorre biebbmo jus {ietjá skåvlåjda buohtastahttep}£{case,ill-gen|jus ietjá skåvlåj buohtastahttep}.
 Uddni la dakkár {raggmunk}∞{swe} ja buojdde {siegen}€{w|guorraj}. {Raggmunk}∞{swe} la beruna ja slåppå segadum ja basedum.
 
 Tijmma le {lunsja}€{w|biejvvebiebmo} rádjáj, valla dálla vierttiv dahkamusáj barggat transiståvrå birra!
@@ -74,14 +74,14 @@ Tijmma le {lunsja}€{w|biejvvebiebmo} rádjáj, valla dálla vierttiv dahkamus�
 Hivás
 
 
-Buorisboahtem muv ådå {bloggaj}${vowc,o-oa|bloaggaj}!
+Buorisboahtem muv ådå {bloggaj}${loanvowc,o-oa|bloaggaj}!
 
-Dát la muv ådå {blogga}${vowc,o-oa|bloagga} gåsi galgav sámegiellaj tjállet.
+Dát la muv ådå {blogga}${loan,vowc,o-oa|bloagga} gåsi galgav sámegiellaj tjállet.
 
 Mån lav Lisa, lågenangávtsejagák Snåsas(ja aj Divtasvuonas). Muv áhttje la julevsábme Divtasvuonas ja muv ieddne la oarjjelsábme Åres/Östersundas. Dálla årov Gierunin Svierigin ja dánna joarkkaskåvlåv {vádtsáv}¢{conc,dts-tts|váttsáv}.
 
-Iv visjá ålov ietjam birra dálla tjállet, valla jus {bloggav}${vowc,o-å;conc,gg-kk|blåkkav} tjuovo de oattjo muv iellema ja ájádusáj birra låhkåt!
+Iv visjá ålov ietjam birra dálla tjállet, valla jus {bloggav}${loan,vowc,o-å;conc,gg-kk|blåkkav} tjuovo de oattjo muv iellema ja ájádusáj birra låhkåt!
 
-Ulmme dájna {bloggajn}${vowc,o-å|blåkkajn} le ahte galgav hárjjánit {ienebuv sámegielav tjállet}£{case|ienebuv sámegiellaj tjállet}. Muv mielas dát le suohtas vuohke sámegielajn barggat!
+Ulmme dájna {bloggajn}${loan,vowc,o-å|blåkkajn} le ahte galgav hárjjánit {ienebuv sámegielav tjállet}£{case,acc-ill|ienebuv sámegiellaj tjállet}. Muv mielas dát le suohtas vuohke sámegielajn barggat!
 
 Vuojnnalin /Lisa

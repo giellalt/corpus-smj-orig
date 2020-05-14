@@ -17,14 +17,14 @@ Dán {Guovllomedisjnalasjj}${typo|Guovllomedisijnalasj} guovdátjij galggi aj bi
 
 Guovllomedisijnals(typo|Guovllomedisijnalasj) guovdásj (GMG)
 
-{GMGan}${suf|GMG:n} li sihke sierratjiehppe varresvuodadievnastusá, dagu poliklinihkka, skihppijdåhpe j.n.v ja suohkanij vuodosvarresvuoda dievnastusá dagu váktadåktår, dåktårdievnastus j.n.v.
+{GMGan}${suf|GMG:an} li sihke sierratjiehppe varresvuodadievnastusá, dagu poliklinihkka, skihppijdåhpe j.n.v ja suohkanij vuodosvarresvuoda dievnastusá dagu váktadåktår, dåktårdievnastus j.n.v.
 Nammaduvvá aj {lahkaskihppijviesson}${mix|lagosskihppijviesson} jali skihppijviesutjin.
 Gálldo: {Helsebibliotektet.no}∞{nor}
-Suohkanstivrra aj mierredij jus moattekultuvralasj varresvuoda -ja huksoguovdásj ij jåhtuj biejaduvá, de galggi huoman dá 12 idja-biejvve huksosaje tsieggiduvvat nav gåk suohkanstivrra åvddål la mierredam.
+Suohkanstivrra aj mierredij jus moattekultuvralasj varresvuoda -ja huksoguovdásj ij jåhtuj biejaduvá, de galggi huoman dá 12 i{idja-biejvve huksosaje}¢{cmp,X-1|idja-biejvvehuksosaje} tsieggiduvvat nav gåk suohkanstivrra åvddål la mierredam.
 
 Suohkanstivraájrrasa, Kurt Solstrøma mielas la ássje sjávvunam.
 
-{Sån vuojnná uddni l vil stuoráp dárbojt}£{case|Sån vuojnná uddni li vil stuoráp dárbo} gå dav majt åvddål jáhkkin gå sihke Báhpadåbesjalljo skihppijsijdan, Gásluovtan ja Ájluovta sjaljon, Ájluovtan ælla des rabás saje ja dárbbo l lassánam dijmátjis.
+{Sån vuojnná uddni l vil stuoráp dárbojt}£{case,acc-nom|Sån vuojnná uddni li vil stuoráp dárbo} gå dav majt åvddål jáhkkin gå sihke Báhpadåbesjalljo skihppijsijdan, Gásluovtan ja Ájluovta sjaljon, Ájluovtan ælla des rabás saje ja dárbbo l lassánam dijmátjis.
 
 – Mij ep la bárep diedojt oadtjum gåktu bargujn manná, ja dat la sivva manen mån sidáv ienep diedojt dán prosjevta birra, javllá Solstrøm.
 

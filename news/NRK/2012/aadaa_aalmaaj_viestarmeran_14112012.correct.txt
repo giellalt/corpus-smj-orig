@@ -7,7 +7,7 @@ Dán lávvodagá mierret Barggijbelludahka, Viestarmera válggabijran guhtimusj 
 
 Harrieth Aira 
 
-Dat mij la tjielgas la gåjt jut Viestarmera válggabijran {gåsi 35 suohkana sihke Nordlándan ja Råmsån gulluji}£{case,ine-ela|gåsi 35 suohkana sihke Nordlándas ja Råmsås} gulluji, ja gånnå {uddni}€{w|udnásj} Sámedikke rádeájras Vibeke Larsen le lista bajemusán, ij la ådå luohtádusáv nominasjåvnåjuohkusis oadtjum.
+{Dat mij la tjielgas la}¥{Tjielgas la} gåjt jut Viestarmera válggabijran {gåsi 35 suohkana sihke Nordlándan ja Råmsån gulluji}£{case,ine-ela|gåsi 35 suohkana sihke Nordlándas ja Råmsås gulluji}, ja gånnå {uddni}€{w|udnásj} Sámedikke rádeájras Vibeke Larsen le lista bajemusán, ij la ådå luohtádusáv nominasjåvnåjuohkusis oadtjum.
 
 Ælla ådå luohtádusáv oadtjum
 
@@ -15,19 +15,19 @@ Dat mij la tjielgas la gåjt jut Viestarmera válggabijran {gåsi 35 suohkana si
 Sámedikke rádeájras, Vibeke Larsen
 
 {Foto}∞{nor}: Dan Robert Larsen/NRK
-Nominasjåvnåjuogos (la oajvvadam Johan Daniel Hætta,Divtasvuonas lista bajemus sadjáj, Tove Berg, Rivtagis nuppát sadjáj ja Arild Inga Pettersen, {Suorttas}${conc,rtt-rt|Suortas} goalmát {sadjáj}}£{case,nom-acc|la oajvvadam Johan Daniel Hættav,Divtasvuonas lista bajemus sadjáj, Tove Bergav, Rivtagis nuppát sadjáj ja Arild Inga Pettersenav, Suortas goalmát sadjáj}.
+Nominasjåvnåjuogos {la oajvvadam Johan Daniel Hætta,Divtasvuonas lista bajemus sadjáj, Tove Berg, Rivtagis nuppát sadjáj ja Arild Inga Pettersen, {Suorttas}${conc,rtt-rt|Suortas} goalmát sadjáj}£{case,nom-acc|la oajvvadam Johan Daniel Hættav,Divtasvuonas lista bajemus sadjáj, Tove Bergav, Rivtagis nuppát sadjáj ja Arild Inga Pettersenav, Suortas goalmát sadjáj}.
 
 Lågå: {Sametingstopp vraket av sine egne}∞{nor}
-Lågå aj: Nominasjåvnåjuohkusa {{{sámedikkelistta}${{}conc,stt-sst|sámedikkelissta}}}¢{cmp,gen-nom|sámediggelissta} 2013
+Lågå aj: Nominasjåvnåjuohkusa {{sámedikkelistta}${conc,stt-sst|sámedikkelissta}}¢{cmp,gen-nom|sámediggelissta} 2013
 Dát merkaj ælla aktak udnásj Viestarmera sámedikkeájrrasijs ådå luohtádusáv oadtjum {nominasjåvnnåjuohkusis}¢{cmp,nom-gen|nominasjåvnåjuohkusis}.
 
-Vuostatjin guosská dat Vibeke Larsenij, Áravuomes, valla aj Geir Johnsenij, {Ruŋggogieras}${conc,ŋgg-ŋŋg|Ruŋŋgogieras} ja goalmádij Inga-Lill Sundsetaj, Bådådjos {gudi uddni li válljiduvvam Barggijbelludagá sámedikkeájrrasa}£{case,gen-ess|gudi uddni li válljiduvvam Barggijbelludagá sámedikkeájrrasin}.
+Vuostatjin guosská dat Vibeke Larsenij, Áravuomes, valla aj Geir Johnsenij, {Ruŋggogieras}${conc,ŋgg-ŋŋg;infl|Ruŋŋgogierragis} ja goalmádij Inga-Lill Sundsetaj, Bådådjos {gudi uddni li válljiduvvam Barggijbelludagá sámedikkeájrrasa}£{case,gen-ess|gudi uddni li válljiduvvam Barggijbelludagá sámedikkeájrrasin}.
 
-– Barggijbelludagá bájkálasj siebre sihti ådå ulmutjijt Sámediggáj ja mij lip gehtjadam vaj sjiervve ja geografija aj hiehpá, tjielggi Viestarmera forumstivra jådediddje ja nominasjåvnåjuohkusa jådediddje, Elin Larsen.
+– Barggijbelludagá bájkálasj siebre sihti ådå ulmutjijt Sámediggáj ja mij lip gehtjadam vaj sjiervve ja {geografija}${loan,conc,j-jj|geografijja} aj hiehpá, tjielggi Viestarmera forumstivra jådediddje ja nominasjåvnåjuohkusa jådediddje, Elin Larsen.
 
 Gilpustallam bajemus sajijda
 
-Valla nav gåk mij dádjadip {de sihti dá gålmmåsa joarkket}£{x|sihti dá gålmås joarkket} ájrastit Barggijbelludagáv.
+Valla nav gåk mij dádjadip {de sihti dá gålmmåsa joarkket}£{case,gen-nom|sihti dá gålmås joarkket} ájrastit Barggijbelludagáv.
 
 {Så}∞{nor} {vuordedahtte sjaddá}¥{ind-pot|Sjattasj dávk} gilpustallam gå {Belludak}${cap|belludak} tjåhkan nomineritjit lávvodagá Dieldanuore kro ja motellan, Skánegin.
 
@@ -37,7 +37,7 @@ Válggabijrraj gulluji 35 suohkana Divrradis, Råmsån nuorttan gitta Meløddjuj
 Niellja politihkkára galggi válljiduvvat boahtte Sámediggáj.
 Maŋemus {sámedikkeválgan}¢{cmp,gen-nom|sámediggeválgan}, jagen 2009, oattjoj NSR gålmmå ájrrasa ja Barggijbelludahka guokta ájrrasa.
 1455 ulmutja li tjáledam ietjasa sámedikke jienastuslåhkuj dán válggabijran.
-Gálldo: {samediggi.no}∞{sme}.
+Gálldo: {samediggi.no}∞{url}.
 Sihke Vibeke Larsenin, Geir Johnsenin ja Inga-Lill Sundsetan la miella ájn avta ájggegávdav Sámedikken tjåhkkåhit.
 
 Valla nominasjåvnåjuogos ij la sijájs gatjádam jus hálijdi joarkket.
