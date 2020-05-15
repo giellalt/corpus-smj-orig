@@ -10,7 +10,7 @@ Sámedigge oadtju budsjæhttaoajvvadusán birrusij 404 {milliåvnå}${conm,0-j|m
 
 Olli la sierraláhkáj dudálasj mij gullu sámegiellaj ja kultuvrraj. Dájda juollodimijda mij duodaj lijkkup.
 
-– Mij ij lim nav buorre ja masi lijma vuorddám ienep rudájt la oahpponævvo buvtadibmáj. Dan suorgen fájlluji rudá, dættot Olli.
+– Mij ij lim nav buorre ja masi lijma vuorddám ienep rudájt la {oahpponævvo buvtadibmáj}¢{cmp,2-1|oahpponævvobuvtadibmáj}. Dan suorgen fájlluji rudá, dættot Olli.
 
 - Valla ålleslattjat lip mij dudálattja budsjæhttaoajvvadusájn. Ja duodden aj oadtju {Finnmárkokomisjåvnnå}${conc,m-mm|Finnmárkokommisjåvnnå} 17 {milliåvnå}${conm,0-j|millijåvnå} kråvnå mij ij gullu Sámediggáj.
 
@@ -30,11 +30,11 @@ Gå dal presidænnta návti nammat sån la dudálasj dájna oajvvadusájn, de ha
 
 Sámedigge l {iehtja}¥{0} mierredam gájbbedit lassedoarjjagav (139 {milliåvnå}${conm,0-j|millijåvnå} {kråvnåj}}£{case|139:jn millijåvnåjn kråvnåjn}, valla dán oajvvadusán boahtá 32 lasse {milliåvnå}${conm,0-j|millijåvnå}.
 
-– Ep de máhte dudálattja liehket budsjæhttalassánimijn mij la 100 {milliåvnå}${conm,0-j|millijåvnå} kråvnå vuolep gå dav majt lijma sávvam, dættot Keskitalo.
+– Ep de máhte {dudálattja liehket}€{w|duhtat} budsjæhttalassánimijn mij la 100 {milliåvnå}${conm,0-j|millijåvnå} kråvnå vuolep gå dav majt lijma sávvam, dættot Keskitalo.
 
 Rahterudá Nordlánndaj
 
-Nordlánndaj båhti lasse rudá ådå rahteprosjevtajda, aktij 1,1 milliárdda kråvnå.
+Nordlánndaj båhti lasse rudá ådå rahteprosjevtajda, aktij {1,1 milliárdda kråvnå}£{kongr|1,1 milliárda kråvnå}.
 
 {Hålogálátteråvvåj}${vowlat,á-a|Hålogalátteråvvåj} mij la tsieggiduvátjit båhti 690 millijåvnå kråvnå.
 

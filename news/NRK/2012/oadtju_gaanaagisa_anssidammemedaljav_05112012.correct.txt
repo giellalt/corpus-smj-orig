@@ -7,7 +7,7 @@ Mikal Urheim ávvusij gå guláj sån oadtju {Gånågisa}${vowlat,a-á|Gånågis
 
 {Lidjin Divtasvuona ja Hábmera suohkanoajve}£{kongr|Lijga Divtasvuona ja Hábmera suohkanoajve} aktan Árran – julevsáme guovdátja direktørajn, gudi oajvvadin Mikal Urheim ánssit Gånågisá ánssidammedáljav oadtjot.
 
-– Mikal Urheim la badjel 50 jage iesjgeŋgalágásj rållaj ja dåjmaj baktu åvdedam nasjonála ja bájkálasj ássjijt ma li sebrudahkaj læhkám stuorra ávkken, sierraláhkáj sáme álmmuga åvdås ja julevsámij åvdås sierra. Mikal Urheima barggo le læhkám tjielgga {njunnusjbarggo}${conc,nn-nnj|njunnjusjbarggo} åvddånahtátjit sáme sebrudakiellemav Vuonan {tjálli {suohkanoajve-guovtes}${cmp,hyhp-X|suohkanoajve guovtes} ja Árran-direktørra}£(kongr|tjálleba suohkanoajve guovtes ja Árran-direktørra} præssadiedádusán.
+– Mikal Urheim la badjel 50 jage iesjgeŋgalágásj rållaj ja dåjmaj baktu åvdedam {nasjonála}${loan,mix|nasjåvnålasj} ja bájkálasj ássjijt ma li sebrudahkaj læhkám stuorra ávkken, sierraláhkáj sáme álmmuga åvdås ja julevsámij åvdås sierra. Mikal Urheima barggo le læhkám tjielgga {njunnusjbarggo}${conc,nn-nnj|njunnjusjbarggo} åvddånahtátjit sáme sebrudakiellemav Vuonan tjálli {suohkanoajve-guovtes}${cmp,hyhp-X|suohkanoajve guovtes} ja Árran-direktørra præssadiedádusán.
 
 «Ælla da tsuvkkám åvvå báhkogietjev dán birra munji. Diedá alvaduvviv.»
 
@@ -41,9 +41,9 @@ Sån aj gæssá åvddån {suv}€{w,pers-refl|ietjas} áhkáv, Elin Urheim-rávk
 
 Gájkka sebrudakbargos majt sån la åvdedam ja mij sunji ájnnasabmusin uddni vuojnnu, la Sámedikke vuododibme Vuonan jagen 1989.
 
-– 20 jage åvddål gå Sámedigge vuododuváj de oajvvadiv mån bierri ásaduvvat parlamænnta sámijda mij sierralágásj sáme ássjijt giehtadallá. Ja dat la ådå barggo mijá rijkan årrum, gånnå unneplåhko geográfalattjat la segadum ieneplågoálmmugijn. Ja gå dási lip gávnnam tjoavddusav jut sáme máhtti adnet parlamentav la dat ájnnasamos barggo mij muv miela milta la boahtám, dættot sån.
+– 20 jage åvddål gå Sámedigge vuododuváj de oajvvadiv mån bierri ásaduvvat parlamænnta sámijda mij sierralágásj sáme ássjijt giehtadallá. Ja dat la ådå barggo mijá rijkan årrum, gånnå unneplåhko {geográfalattjat}${loan,mix|geografijjalattjat} la segadum ieneplågoálmmugijn. Ja gå dási lip gávnnam tjoavddusav jut sáme máhtti adnet parlamentav la dat ájnnasamos barggo mij muv miela milta la boahtám, dættot sån.
 
-Gånågisá ánssidammedállja vatteduvvá Mikal Urheimaj sierra {sermonijan}${vowlat,0-e|seremonijan}, ja la Divtasvuona suohkanoajvve gut gånågisá åvdås medáljav sunji vaddá. Goassa ja gånnå dat sjaddá ij la ájn mierreduvvam.
+Gånågisá ánssidammedállja vatteduvvá Mikal Urheimaj sierra {sermonijan}${vow,0-e;conc,j-j|seremonijjan}, ja la Divtasvuona suohkanoajvve gut gånågisá åvdås medáljav sunji vaddá. Goassa ja gånnå dat sjaddá ij la ájn mierreduvvam.
 
 {GULLDAL ÅLLES ÁSSJEV}£{x|GULLDALA ÅLLES ÁSSJEV} DÁNNA:
 
