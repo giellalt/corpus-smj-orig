@@ -18,7 +18,7 @@ Dåhku jåhtet lij ållu ietjálágásj {ja {unnán}€{w|vehik} gássjelis}£{a
 divna lij ådå. Valla diedon riek geldulasj aj. {Fámillja}${loan,vowc,á-a|Famillja}
 {Edinburgh:an}${suf|Edinburghan} le guossodimieddne Patricia ja suv 12 jagák
 bárnne Josh. Eskil hávsskudallá sunnu siegen ja subtsastallá suv ja
-guossodimiednes miella le sæmmilágásj, ja nav máhtteba tjåhkudallat ja
+guossodimiednes miella {le}£{x|l} sæmmilágásj, ja nav máhtteba tjåhkudallat ja
 dåssju suohttasijt ságastallat, tjajmmat ja hávsskudallat aktan.
 Guossodimieddne barggá skåvllåkantijnán, valla ij
 Eskila skåvlån. Eskil lanjáv juohká Alejandrojn gut le Chiles. Ladnja l
@@ -169,7 +169,7 @@ galga divna dimáj dámaj diehtet, ma li ájnnasa. Álge dajna majt diedá máht
 tjállet. De i dárbaha álgget {juojddá majt}£{case|juojnak mij}
 dåssju {suhtastalá}£{verb,fin,iv,tv,trans|suhtat} duv, gå dát máhttá
 biejsstet ålles eksámav. Tjåhkkida buoragit, båso, ja mujte eksábma ij la
-ulmmen, valla dåssju barggodahkamus. Jus dujna ælla eksábmanerva, de ij la
+ulmmen, valla dåssju barggodahkamus. Jus dujna ælla eksábmanerva, de {ij la}£{kongr|illa}
 gåk da nuppe. De máhtá snivva gæhttjat jus dujna åvvånis le eksábma dán
 jahkebiele.
 
@@ -223,8 +223,7 @@ dánna.
 máhtijma vuojnet} {t-skirttojt}${noun,conc|t-skirtojt} "{haill er
 knall}∞{nor}"-tevstajn. Buorre {"haill}∞{nor}" buktá buorre guollebivdov. Iv
 galga subtsastit ienebuv {"hailla}∞{nor}" birra, valla guosská gal
-ájvvejålluribmáj... Gå lijma {VG-kafean}${loan,conc,0-j;vowc,e-ie|VG-kafiejan} læhkám manájma {kafeaj}${loan,conc,0-dj;vowc,e-ie|VG-kafiefjaj} namájn
-"Styrhuset". Danna ájgojma bårråt. Sierra VG-biebbmolissta lij, ienemusát
+ájvvejålluribmáj... Gå lijma {VG-kafean}${loan,conc,0-j;vowc,e-ie|VG-kafiejan} læhkám manájma {kafeaj}${loan,conc,0-dj;vowc,e-ie|VG-kafiedjaj} namájn,"Styrhuset". Danna ájgojma bårråt. Sierra VG-biebbmolissta lij, ienemusát
 guolij. Rávvijma VM-pizzav, vuorbbe gå dat lij {guoledagá}${cmp,2-1|guole dagá}. Kloahkka lij
 {njieljen}${coninit,nj-n|nieljen} biejven, ja bårådijn lij lávllom ja
 musihkka hávskadissan. Hæhkkat musihkkatjuojadiddje tjuottjadij bievde
