@@ -36,7 +36,7 @@ tjálalattjat ja aj njálmálattjat.
 Skåvlån hæhttuji juohkka akta sierra skåvllåbiktasijt adnet. {Eskilin le
 tjáhppis båvså}£{kongr|Eskilin li tjáhppis båvså}, tjáhppis jali bieddjis skirtto
 ja alek {slipsa}¢{conc,ps-pps|slippsa}. Næjtsojn li sæmmi skåvllåbiktasa,
-valla sij máhtti aj vuolpov gárvvunit. {Skåvlån le riek garra njuolgadusá}£{kongr|Skåvlån li riek garra njuolgadusá} {ma dasi guosská}£{kongr|ma dasi guosski}. Ietján li {njuolgadusá
+valla sij máhtti aj {vuolpov {gárvvunit}€{verb,IV-TV|tjágŋat}}£{case,acc-ill|vuolppuj tjágŋat}. {Skåvlån le riek garra njuolgadusá}£{kongr|Skåvlån li riek garra njuolgadusá} {ma dasi guosská}£{kongr|ma dasi guosski}. Ietján li {njuolgadusá
 buorre}£{kongr|njuolgadusá buore}, javllá Eskil. {Skotlándan}${con,t-
 tt|Skottlándan} e åvdepnamájt ane.
 
@@ -52,7 +52,7 @@ dnj|klássaladnja}}£{kongr|klássajn ælla guhtik klássalanjá} nav
 guhtik ladnja, ja oahppe hæhttuji sirddet klássalanjáj milta, ja fágaj
 milta. Eskilin li {njiella}${coninit,nj-n|niellja} fága. "{Psysical
 education}∞{eng}" mij le lásjmudallam, "{modern studies}∞{eng}" mij le
-sebrudakfáhka, {ja}¥{redun|0} ieŋŋilsgiella ja matematihkka. Suv skåvlån li
+sebrudakfáhka, {ja}¥{redun|} ieŋŋilsgiella ja matematihkka. Suv skåvlån li
 nuorap ja vuorrasap oahppe.
 
 - Leith {Academy:an}${suf|Academyn} {li oahppe 12 jage gitta 18 jage
@@ -70,27 +70,27 @@ Hábmerin. Danna vas galggá goalmát jagijn tjaktjaj joarkket. Galggá ållit
 {dábálasjfágasuorgev}${cmp,gen-nom|dábálasjfáhkasuorgev}, {diedon
 ieŋŋilsgiella fáhkan}£{case,nom-com| diedon ieŋŋilsgielajn fáhkan} aj.
 {{Boahtte ájge}¢{cmp,X-1|Boahtteájge} sihtá Eskil}£{case,gen-
-ine|Boahtteájgen sihtá Eskil} ietjá rijkajt guossidit. Sujna le ulmme, ij
+ine|Boahtteájgen sihtá Eskil} ietjá rijkajt guossidit. Sujna {le}£{x|l} ulmme, ij
 galga {kåntåvrån}${loan,vow,å-o|kontåvrån} barggat. Valla vuostatjin galggá Eskil sijddaj Vuodnaj.
 Moarmesmáno 25. biejve sijddaj boahtá. Giesen galggá barggat ja tjáppa
 {dálkken}¢{conc,lkk-lk|dálken} ({vuordedahtte tjáppa dálkke sjaddá}£{infl,ind-
 pot|sjattasj má tjáppa dálkke}) {hávskudallat}${conc,vsk-vskk|hávsskudallat}.
-{{Skotlándan}${con,t-tt |Skottlándan} le {tjoasskásap}}¥{attr-pred|Skottlándan
+{{Skotlándan}${con,t-tt|Skottlándan} le tjoasskásap}¥{attr-pred|Skottlándan
 la tjoasskásabbo} gå Vuonan.
 
 Eskilin ij la galla nav miella stádas ja rádnajstis vuolgget, gejt ednagit
 sjaddá åhtsålit. Huoman sån ávvudallá sijddaj boadátjit, ietjas vehkaj ja
-rádnajda Vuonan, biergguj, sijddadagádum pizzaj${loan,conc,zz-tts;vowlat,a-á|pittsáj} ja smávhálmugijda, majt aj
+rádnajda Vuonan, biergguj, sijddadagádum {pizzaj}${loan,conc,zz-tts;vowlat,a-á|pittsáj} ja smávhálmugijda, majt aj
 la åhtsålam. Eskil la juo gallánam {toast:as}${suf|toastas}, mij le
 væjttalájbbe, majt {Skotlándan}${con,t-tt|Skottlándan} agev bårri. Ij la gal
 buoremus biebbmo dåppe. Sijdan Vuonan li biebmo buorep rubmahij, ja la aj
 njálgep. Ålos {Skotlándan}${con,t-tt|Skottlándan} {bårri
-gahttungievkanbiebmojt {gå}€{w|dagu} basedum {{chipsa${loan,mix|tjipsajt}}€{foreign|berunsárde} ja
+gahttungievkanbiebmojt {gå}€{w|dagu} basedum {{chipsa}${loan,mix|tjipsajt}}€{foreign|berunsárde} ja
 {hamburgera}${loan,conc,rg-rgg;vowlat,e-a|hamburggara}}£{case|bårri gahttungievkanbiebmojt dagu berunsárdijt ja
 hamburggarav}.
 
 {Eskil ávttji jagev ålggorijkan årotjit}¥{missing| Eskil ávttji ulmutjijt
-jagev ålggorijkan årotjit} Le ihkeva buorre muossádibme ja {ållo}€{w|edna}
+jagev ålggorijkan årotjit}. Le ihkeva buorre muossádibme ja {ållo}€{w|edna}
 mujto gal miellaj báhtsi.
 
 - Edinburgh le riek tjáppa stáda mav gájkka vierttiji guossidit,
@@ -119,7 +119,7 @@ ja galggi tjadádit dav sæmmi eksámav. De sjaddá nav, divna sjaddabihtit
 tjåhkkåhit ja skielbestit. {Ietján mij le ájnas le oadet}¥{redun|Ietján la
 ájnas oadet}. Oade ålov biejvijt (ijájt!) åvddåla, vaj la vuojŋadam ja
 gárves {"action"-ij}∞{eng}. Bårå buoragit. Ij dåssju sjokoládav ja bruvsav.
-{Riekta}¢{w|Almma} biebbmo le buorre, ja {riekta}¢{w|almma} idedisbiebbmo le
+{Riekta}¢{w|Almma} biebbmo {le}£{x|l} buorre, ja {riekta}¢{w|almma} idedisbiebbmo {le}£{x|l}
 riek ájnas. De máhtá {bårråt sjokoládav
 {eksábmájgev}${typo|eksábmaájgev}}£{case,acc-ine|bårråt sjokoládav
 eksábmaájgen}, ja nav varrasåhkkårav lasedit ja {{energijav}${loan,coninit,g-sj;conc,j-jj|enersjijjav}}€{w|fámojt}
@@ -142,24 +142,24 @@ vuosstij}¥{missing|håjggådit dájt åhpadiddje goade vuosstij}. Dát máhttá
 Dunji gut illa låhkåm, sjaddá væráp. Gå eksábmabiejvve lahkan {sáŋart dav
 ájgev gå la dåssjev barggam}£{kongr|sáŋarda dav ájgev gå la dåssjev
 barggam} ja gådnam, {gå gehtjadi balvajt almen jali silbbabårråmvædtsagijt
-geladit ráddnágådijn}£{kongr;case|gå gehtjadi balvajt almen jali
+geladit ráddnágådijn}£{kongr,case|gå gehtjadi balvajt almen jali
 silbbabårråmvædtsagij geladi ráddnágådijt}. Ihkap sáva dån ittji ålles
-pensumav lågå eksábmaijáv. Ij la buorre boahtet eksábmaj {guobbo
-tjalmij}${cmp|guoppotjalmij}}€{w|gájtsatjalmij}). Jus girje {la}€{w|ja}
+pensumav lågå eksábmaijáv. Ij la buorre boahtet eksábmaj {{guobbo}${fin,0-t|guoppot}
+tjalmij}€{w|gájtsatjalmij}. Jus girje {la}€{w|ja}
 {{låhkådibme}${conc,hk-g|lågådibme}}€{w|låhkåm} {ij åvvånis le juoga
 {dunju}${typo|dunji}}£{x|ij åvvånis duv mielav båvte}, hæhttup sávvat dån le
-riek tjiehppe jali riek vuorbálasj, dat sihtá javllat, komá${vowc,o-u|kumá} sinna vællahit
+riek tjiehppe jali riek vuorbálasj, dat sihtá javllat, {komá}${loan,vowc,o-u|kumá} sinna vællahit
 jali juoga dan láhkáj eksábmabiejven. {Valla juska vil}¥{x|Vájk gåk}, dån i
 besa eksámas. Eksámav {hæhttu tjadádit akti}¥{wo| hæhttu akti tjadádit}.
-Máhttelis le aj rádnastallat biejvijt ja ijájt {viehka}¥{redun|0} åvddåla, ja
+Máhttelis le aj rádnastallat biejvijt ja ijájt {viehka}¥{redun|} åvddåla, ja
 nav snivva låhkåt vahkkot åvddåla. De la nav gallánam rádnastallamis, ja de
-le hávsske låhkåt. Tjále {notátajt}${loan,conc,t-ht|notáhtajt}, dån buorebut mujtá
+{le}£{x|l} hávsske låhkåt. Tjále {notátajt}${loan,conc,t-ht|notáhtajt}, dån buorebut mujtá
 gå {tjála}¢{vowlat,a-á|tjálá} aj. Valla ale tjále ålles girjev, ij dat
 dåhkki.
 
 Jus illa låhkåm ja i åvvånis sidá låhkåt, hæhttu dåssju sávvat, dån gávna
 juojddá tjállet, jali ihkap skåvllå {ij la juoga}£{x|ij la mige} dunji?
-Sluogas la gåjt persåvnålattjat {boahtet maŋemus tijmav skåvllåj}£{case|acc-ill;ill-ine|boahtet maŋemus tijmmaj skåvlån}, vaj gåjt
+Sluogas la gåjt persåvnålattjat {boahtet maŋemus tijmav skåvllåj}£{case,acc-ill;ill-ine|boahtet maŋemus tijmmaj skåvlån}, vaj gåjt
 dieda man birra eksábma le. Ja dunji gut ájn illa oasstám girjijt, le dat
 vuostasj lávkken gå galga eksábmaj låhkåt.
 
@@ -225,16 +225,16 @@ knall}∞{nor}"-tevstajn. Buorre {"haill}∞{nor}" buktá buorre guollebivdov. I
 galga subtsastit ienebuv {"hailla}∞{nor}" birra, valla guosská gal
 ájvvejålluribmáj... Gå lijma {VG-kafean}${loan,conc,0-j;vowc,e-ie|VG-kafiejan} læhkám manájma {kafeaj}${loan,conc,0-dj;vowc,e-ie|VG-kafiefjaj} namájn
 "Styrhuset". Danna ájgojma bårråt. Sierra VG-biebbmolissta lij, ienemusát
-guolij. Rávvijma VM-pizzav, vuorbbe gå dat lij guoledagá. Kloahkka lij
+guolij. Rávvijma VM-pizzav, vuorbbe gå dat lij {guoledagá}${cmp,2-1|guole dagá}. Kloahkka lij
 {njieljen}${coninit,nj-n|nieljen} biejven, ja bårådijn lij lávllom ja
 musihkka hávskadissan. Hæhkkat musihkkatjuojadiddje tjuottjadij bievde
 nali, gånnå lávloj majt nagáj ja mijáv dánssajuolgijn njuorranij. Ulmutja
 dánssin ja suohtastallin. Soames gut lij guollejuptsav rávvim oattjoj dav
 stuorámus gáre sinna mav lav goassak vuojnnám. Dan sinna
-{gala}${pcle,vow|gal} luluj {diehttelis}¥{redun|0} sadje {muj}${typo|muv} oajvváj
+{gala}${pcle,vow|gal} luluj {diehttelis}¥{redun|} sadje {muj}${typo|muv} oajvváj
 ja rádnam oajvváj, jus lulujma gæhttjalit. Galla lij dat VG-biebbmo.
 
-Ietján lij filmmavuosádallama, lågådallam {guolleindustrija}${loan,conc,j-jj|guolleindustrija} histåvrå birra,
+Ietján lij filmmavuosádallama, lågådallam {guolleindustrija}${loan,conc,j-jj|guolleindustrijja} histåvrå birra,
 duot dát vuosádus, málestimkurssa mánájda,
 {giejddemdájdarvuosádallam}${conc,jd-jdd;vowlat,a-
 á|giejddemdájddárvuosádallam}, girkkomæsso ja konsærtta Big
@@ -250,6 +250,7 @@ Slovenias. Goalmádin gis sjattaj Marcel Meinhold, Lulle-Berlinas.
 
 Ållo dáhpádusáj ja dåjmaj daj guollimgilpustallamij aktijvuodan dagáj
 {VæráldGilppusav}${cap|Væráltgilppusav} ietjálágátjin, ja oalle suohtas
-vásádussan. Dát lij sierralágásj, ja {juoga divna vájmmelis guollára lulun
-edesik akti ietjas viessomájge gæhttjalit}¥{missing|juoga majt divna
-vájmmelis guollára lulun edesik akti ietjas viessomájge gæhttjalit}.
+vásádussan. Dát lij sierralágásj, ja {juoga divna {vájmmelis guollára lulun
+edesik akti ietjas}£{kongr|vájmmelis guollára lulun
+edesik akti ietjasa} viessomájge gæhttjalit}¥{missing|juoga majt divna
+vájmmelis guollára lulun edesik akti ietjasa viessomájge gæhttjalit}.
