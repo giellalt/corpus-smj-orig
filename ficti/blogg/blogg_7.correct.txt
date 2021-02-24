@@ -57,7 +57,7 @@ Buoris!
 
 Båhtiv Jiellevárráj biel’ vidán iektu. Rachel bådij viettjatjit, ja manájma Sonja Rimpi lusi. Vuosedij {gápptijt}${conc,ppt-pt|gáptijt}, avijt, sliehpájt ja ietjá duojijt. Riek geldulasj ja buorre suv lunna liehket. {Suohtas lij vuojnnet sieradusájt buddasij, listoj}£{case|Suohtas lij vuojnnet sieradusájt buddasijn, listojn} j.n. Oadtjuv inspirasjåvnåv.
 Gåvvijiv ålov ja dálla le mujna gåvå gå galgav prosjevtav tjállegoahtet. Buorre!
-Dálla lav Rachela vega lunna. Måj galggin {mönsterav}${vowc,ö-i;conc,nst-nsst|minsstarav} stiellit muv gápptáj, ja de goarrogoahtet. Jáhkáv ja doajvov riek buorre sjaddá J
+Dálla lav Rachela vega lunna. Måj galggin {mönsterav}${vowc,ö-i;conc,nst-nsst|minsstarav} stiellit muv gápptáj, ja de goarrogoahtet. Jáhkáv ja doajvov riek buorre sjaddá.
 
 
 
@@ -67,8 +67,8 @@ Buorre ådåjahke!
 De lav Gierunij vas jåvsådam, ja skåvllå l álggám. Lav juo skåvlås 3 vahko {ierijt}${fin,jt-t|ierit} læhkám. Ruvva le mannam.
 Ájgge l imálasj. Muhttijn, ienemusát gå soaptso ja suohtastalá, ájgge ruvva gållå. Dát loahpe lej guhkke, valla dåbdduj oadne. Jáhkáv lav soapptsum ja hávsskudallam ålles javllaloaben.
 Javlla le má dakkár ájgge. Galga hávsskudallat ja vuojŋastit, valla le aj ållo dahkat; báhkkut, vattáldagájt oasstet , rádjat, bassat goadev ja ållo biebmojt málestit ja stiellit. Muhttijn, gå Gierunis juosik vuolgáv ja lav {ierijt}${fin,jt-t|ierit} muhtem vahko, sidáv ahte ladnja galggá rájnas liehket gå ruoptus boadáv. Rájav ja {dubmajsjnubáv}${cmp,1-X;conintit,sj-snj|dumijt snjubáv}. Valla dá bále ittjiv {dumájsjnubá}${cmp,1-X;concinit,sj-snj|dumijt snjubá} ja rája. Diehttelis lidjiv biktasijt ja lihtijt bassam.
-Gå ruoptus båhtiv åvdep bierjjedagá biedjiv væskojt ja påvsåjt guolbbáj, sabegijt páhkkijiv {{begas}${conc,g-kk|bekkas}}€{foreign|vuossas}. Ittjiv visjá páhkkit bajás divna stuorvæskos, valla vierttijiv má toalettvæskov ja mobilláddárav {{iehkedappot}¥{missing|iehkedappot åhtsåt}. Lávvodak bådij. Smarediv avtsen. Galgajma {{slálomdieváj${mix|slalomdievváj}}}€{foreign|svahkudallamdievváj} tjerastittjat {bielnup’tijmav}${cmp,1-X|bielnup tijmav} åvddål gå {Tour de Ski}∞{fra} álgij, ja vierttijiv ålggobåvsåjt ja hullobåvsåjt háhppelit åhtsåt væsko sinna. Håjggiv divna ietjá biktasijt guolbbáj, {{soffáj${loan,vowc,o-å|såffåj}}€{foreign|dibmanålånij} ja ståvllåj, ja hæhkkat ålles ladnja vuojnnuj dagu lij {bombidum}${loan,vowc,o-u;conc,mb-mmb|bummbidum}.
-Dieván lij riek buorre. Ållo dimes muohta lidjin boahtám ja lej harmmat suohtas tjerastit. {Tour de Ski}∞{eng} ij lim degu jáhkkiv. Valla suohtas lej ahte Hellner nav buoragit tjuojgaj. Suddo gå {nievrebuv}€{w,adj-adv|nievrebut} Northugajn manáj.
+Gå ruoptus båhtiv åvdep bierjjedagá biedjiv væskojt ja påvsåjt guolbbáj, sabegijt páhkkijiv {{begas}${conc,g-kk|bekkas}}€{foreign|vuossas}. Ittjiv visjá páhkkit bajás divna stuorvæskos, valla vierttijiv má toalettvæskov ja mobilláddárav {iehkedappot}¥{missing|iehkedappot åhtsåt}. Lávvodak bådij. Smarediv avtsen. Galgajma {{slálomdieváj}${mix|slalomdievváj}}€{foreign|svahkudallamdievváj} tjerastittjat {bielnup’tijmav}${cmp,1-X|bielnup tijmav} åvddål gå {Tour de Ski}∞{fra} álgij, ja vierttijiv ålggobåvsåjt ja hullobåvsåjt háhppelit åhtsåt væsko sinna. Håjggiv divna ietjá biktasijt guolbbáj, {{soffáj}${loan,vowc,o-å|såffåj}}€{foreign|dibmanålånij} ja ståvllåj, ja hæhkkat ålles ladnja vuojnnuj dagu lij {bombidum}${loan,vowc,o-u;conc,mb-mmb|bummbidum}.
+Dieván lij riek buorre. Ållo dimes muohta lidjin boahtám ja lej harmmat suohtas tjerastit. {Tour de Ski}∞{fra} ij lim degu jáhkkiv. Valla suohtas lej ahte Hellner nav buoragit tjuojgaj. Suddo gå {nievrebuv}€{w,adj-adv|nievrebut} Northugajn manáj.
 Iv asta tjállet ienebuv dálla. Per Mathis le boahtemin ja mån lav gasskabiejvijt málestam. Iehkedis {galggin rádna lusi ja soajttá fæsstaj}£{infl|galggin rádna lusi ja soajttin fæsstaj} {maŋŋedæppon}€{w|maŋŋela}.
 
 Buorre ájllek gájkajda!.
