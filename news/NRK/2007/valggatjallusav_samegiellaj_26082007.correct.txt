@@ -1,6 +1,6 @@
 {Válggatjállusav sámegiellaj}£{case,acc-nom|Válggatjálos sámegiellaj}
 
-Nordlánda fylkkasuohkan¢{cmp,nom-gen|fylkasuohkan} almot ietjas válggatjállusav adjáj sámegiellaj.
+Nordlánda {fylkkasuohkan}¢{cmp,nom-gen|fylkasuohkan} almot ietjas válggatjállusav adjáj sámegiellaj.
 
 {Fylkkasuohkana}¢{cmp,nom-gen|Fylkasuohkana} válggatjálos {fylkkadiggeválga}¢{cmp,nom-gen|fylkadiggeválga} birra le sáddidum påstan gájkka sijdajda Nordlánda fylkan.
 
