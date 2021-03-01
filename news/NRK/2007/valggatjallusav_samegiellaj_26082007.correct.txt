@@ -2,7 +2,7 @@
 
 Nordlánda {fylkkasuohkan}¢{cmp,nom-gen|fylkasuohkan} almot ietjas válggatjállusav adjáj sámegiellaj.
 
-{Fylkkasuohkana}¢{cmp,nom-gen|Fylkasuohkana} válggatjálos {fylkkadiggeválga}¢{cmp,nom-gen|fylkadiggeválga} birra le sáddidum påstan gájkka sijdajda Nordlánda fylkan.
+{Fylkkasuohkana}¢{cmp,nom-gen|Fylkasuohkana} válggatjálos {fylkkadiggeválga}¢{cmp,nom-gen|fylkadiggeválga} birra {le}¥{liehket|l} sáddidum påstan gájkka sijdajda Nordlánda fylkan.
 
 Duodden li gájkka sijda Divtasvuona suohkanin sámegielak válggatjállusav oadtjum. {Fylkkagirjjevuorkájn}¢{cmp,nom-gen|Fylkagirjjevuorkájn} la tjálos dárogiellaj ja sámegiellaj iehtjasa guossijda.
 

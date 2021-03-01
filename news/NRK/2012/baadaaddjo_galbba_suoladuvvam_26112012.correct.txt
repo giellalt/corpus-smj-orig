@@ -7,27 +7,28 @@ Dåssju galbba dárogielnamájn vuojnnu gå {Båddådjuj}${coninit,dd-d;conc,dj-
 Juoga vádnun rijkkarahten gå Bådåddjuj la boahtemin. {Juo vat la}¥{wo|Juo la vat} Bådåddjo-galbba suoláduvvam.
 
 
-{Sådnåbiejven oattjoj åssudakdirektørra}£{case,ine-gen|Sådnåbiejve oattjoj åssudakdirektørra} Stáhta rahtedåjmadagán, Kjell Skjerve, diedov jut Bådåddjo-galbba lij suoláduvvam. Skjerve jáhkká sån jali sij gudi li galbav suoládam li dáv dahkam suohttasa diehti. Valla iehtja ij de dási galla tjajma.
+{Sådnåbiejven oattjoj {åssudakdirektørra}${vowc,ø-e|åssudakdirekterra}}£{case,ine-gen|Sådnåbiejve oattjoj åssudakdirekterra} Stáhta rahtedåjmadagán, Kjell Skjerve, diedov jut Bådåddjo-galbba lij suoláduvvam. Skjerve jáhkká sån jali sij gudi li galbav suoládam li dáv dahkam suohttasa diehti. Valla iehtja ij de {dási galla tjajma}£{pron,case,ill-ela|dássta galla tjajma}.
 
 – Hådjånav gå vuojnáv mijá galba biejsteduvvi. Miján li ietjá ássje majt {lulup}${infl,fin,p-jma|lulujma} ruhtadit, valla lip oahppam vierttip rudájt vuorodit dákkir bahádagojda, javllá Skjerve {NRK.no:aj}∞{url}.
 
 Lågå: {Vegvesenet ber tyven melde seg}∞{nor}
+
 Ij la vuostasj bále gå gáhtu
 
-{Galbba birra}£{case,nom-gen|Galba birra} la edna sáhka læhkám. Åvddål la moaddi biejsteduvvam, ja galbba l aj åvddål gáhtum dassta gånnå tjuodtju.
+{Galbba birra}£{case,nom-gen|Galba birra} {la}£{cop|l} edna sáhka læhkám. Åvddål la moaddi biejsteduvvam, ja galbba l aj åvddål gáhtum dassta gånnå tjuodtju.
 
 Lågå aj: {Samisk skilt sporløst borte}∞{nor}
 Lågå aj: (Tagget ned Bodø nye samiske {skilt}∞{nor}
 Lågå aj: (Samisk skilt sporløst {borte}∞{nor}
 
-Bådåddjo-galbba la åvddål aj moaddi biejsteduvvam.
+Bådåddjo-galbba {la}£{cop|l} åvddål aj moaddi biejsteduvvam.
 
 {Foto}∞{nor}: Susanne Lysvold/NRK
 Bæssá stráffas
 
-Kjell Skjerve doajvvu sån gut galbav la válldám {la várddás}¥{attr-pred|várddá} ja buktá galbav ruoptus sunji.
+Kjell Skjerve doajvvu sån gut galbav la válldám la {várddás}¥{attr-pred|várddá} ja buktá galbav ruoptus sunji.
 
 – Ij sån oattjo makkirik stráffav, mån ávvusav jus dav oattjov ruoptus, javllá Skjerve.
 
-Sån la juo ådå galbav diŋŋgum, ja doajvvu la {sajen}£{infl|sajenis} vahko duogen.
+Sån la juo ådå galbav diŋŋgum, ja doajvvu {la}£{cop|l} {sajen}£{infl|sajenis} vahko duogen.
 

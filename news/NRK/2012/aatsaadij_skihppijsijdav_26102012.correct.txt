@@ -15,12 +15,12 @@ Snjuktjamáno dán jage guorrasij avtajienalasj suohkanstivrra plánajda ásadit
 
 Dán {Guovllomedisjnalasjj}${typo|Guovllomedisijnalasj} guovdátjij galggi aj biejaduvvat 12 {idja-biejvve huksosaje}¢{cmp,X-1|idja-biejvvehuksosaje} ulmutjijda gudi e sijdajn des máhte årrot.
 
-Guovllomedisijnals(typo|Guovllomedisijnalasj) guovdásj (GMG)
+{Guovllomedisijnals}${typo|Guovllomedisijnalasj} guovdásj (GMG)
 
 {GMGan}${suf|GMG:an} li sihke sierratjiehppe varresvuodadievnastusá, dagu poliklinihkka, skihppijdåhpe j.n.v ja suohkanij vuodosvarresvuoda dievnastusá dagu váktadåktår, dåktårdievnastus j.n.v.
 Nammaduvvá aj {lahkaskihppijviesson}${mix|lagosskihppijviesson} jali skihppijviesutjin.
 Gálldo: {Helsebibliotektet.no}∞{nor}
-Suohkanstivrra aj mierredij jus moattekultuvralasj varresvuoda -ja huksoguovdásj ij jåhtuj biejaduvá, de galggi huoman dá 12 i{idja-biejvve huksosaje}¢{cmp,X-1|idja-biejvvehuksosaje} tsieggiduvvat nav gåk suohkanstivrra åvddål la mierredam.
+Suohkanstivrra aj mierredij jus moattekultuvralasj {varresvuoda -ja}‰{x|varresvuoda- ja} huksoguovdásj ij jåhtuj biejaduvá, de galggi huoman dá 12 i{idja-biejvve huksosaje}¢{cmp,X-1|idja-biejvvehuksosaje} tsieggiduvvat nav gåk suohkanstivrra åvddål la mierredam.
 
 Suohkanstivraájrrasa, Kurt Solstrøma mielas la ássje sjávvunam.
 
@@ -39,7 +39,7 @@ Suohkanoajvve Tor Asgeir Johansen máhtij suohkanstivran subtsastit Divtasvuona 
 – Åvddåprosjækta Guovllomedisijnalasj guovdátjij la almoduvvam Doffinin, ja dan baktu de máhtti vidnudagá buktet haddefálaldagáv tjadádittjat åvddåprosjevtav suohkana åvdås. Åvddåprosjækta galggá de lagábut guoradallat dárbojt, ruhtamerustallamav ja gåktu dåhkki tjadádit tsieggimav, subtsas suohkanoajvve Tor Asgeir Johansen.
 Sån ij sidá merustallat {goassá}¢{vowlat,á-a|goassa} åvddåprosjevtav li tjadádam, valla doajvvu boahtte jage birán galggá dat gárvvásin liehket.
 
-– Manná dal soames ájgge åvdås haddefálaldahka la mierreduvvam ja dan maŋŋel galggá de åvddåprosjækta tjadáduvvat. Mij barggap nav ruvva gå máhttelis, javllá suohkanoajvve.
+– Manná dal soames ájgge åvdås haddefálaldahka {la}£{cop|l} mierreduvvam ja dan maŋŋel galggá de åvddåprosjækta tjadáduvvat. Mij barggap nav ruvva gå máhttelis, javllá suohkanoajvve.
 
 {Dasi lij Kurt Solstrøm dudálasj}£{case,ill-com|Dajna lij Kurt Solstrøm dudálasj}.
 

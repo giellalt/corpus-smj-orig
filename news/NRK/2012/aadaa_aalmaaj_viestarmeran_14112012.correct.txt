@@ -3,11 +3,12 @@
 Johan Daniel Hætta tjåhkkåj uddni Divtasvuona suohkanstivran.
 
 {Foto}∞{nor}: Harrieth Aira/NRK
+
 Dán lávvodagá mierret Barggijbelludahka, Viestarmera válggabijran guhtimusj galggá Barggijbelludagáv åvdåstit boahtte {sámedikkeválgan}¢{cmp,gen-nom|sámediggeválgan}. Sjaddá gus Johan Daniel Hætta, Divtasvuonas vaj Sámedikke rádeájras Vibeke Larsen, Áravuomes?
 
 Harrieth Aira 
 
-{Dat mij la tjielgas la}¥{Tjielgas la} gåjt jut Viestarmera válggabijran {gåsi 35 suohkana sihke Nordlándan ja Råmsån gulluji}£{case,ine-ela|gåsi 35 suohkana sihke Nordlándas ja Råmsås gulluji}, ja gånnå {uddni}€{w|udnásj} Sámedikke rádeájras Vibeke Larsen le lista bajemusán, ij la ådå luohtádusáv nominasjåvnåjuohkusis oadtjum.
+{Dat mij la tjielgas la}¥{clause,redun|Tjielgas la} gåjt jut Viestarmera válggabijran {gåsi 35 suohkana sihke Nordlándan ja Råmsån gulluji}£{case,ine-ela|gåsi 35 suohkana sihke Nordlándas ja Råmsås gulluji}, ja gånnå {uddni}€{w|udnásj} Sámedikke rádeájras Vibeke Larsen le lista bajemusán, ij la ådå luohtádusáv nominasjåvnåjuohkusis oadtjum.
 
 Ælla ådå luohtádusáv oadtjum
 
@@ -15,10 +16,12 @@ Harrieth Aira
 Sámedikke rádeájras, Vibeke Larsen
 
 {Foto}∞{nor}: Dan Robert Larsen/NRK
-Nominasjåvnåjuogos {la oajvvadam Johan Daniel Hætta,Divtasvuonas lista bajemus sadjáj, Tove Berg, Rivtagis nuppát sadjáj ja Arild Inga Pettersen, {Suorttas}${conc,rtt-rt|Suortas} goalmát sadjáj}£{case,nom-acc|la oajvvadam Johan Daniel Hættav,Divtasvuonas lista bajemus sadjáj, Tove Bergav, Rivtagis nuppát sadjáj ja Arild Inga Pettersenav, Suortas goalmát sadjáj}.
+
+Nominasjåvnåjuogos {la oajvvadam Johan Daniel Hætta,Divtasvuonas lista bajemus sadjáj, Tove Berg, Rivtagis nuppát sadjáj ja Arild Inga Pettersen, {Suorttas}${conc,rtt-rt|Suortas} goalmát sadjáj}£{case,nom-acc|la oajvvadam Johan Daniel Hættav, Divtasvuonas, lista bajemus sadjáj, Tove Bergav, Rivtagis nuppát sadjáj ja Arild Inga Pettersenav, Suortas goalmát sadjáj}.
 
 Lågå: {Sametingstopp vraket av sine egne}∞{nor}
 Lågå aj: Nominasjåvnåjuohkusa {{sámedikkelistta}${conc,stt-sst|sámedikkelissta}}¢{cmp,gen-nom|sámediggelissta} 2013
+
 Dát merkaj ælla aktak udnásj Viestarmera sámedikkeájrrasijs ådå luohtádusáv oadtjum {nominasjåvnnåjuohkusis}¢{cmp,nom-gen|nominasjåvnåjuohkusis}.
 
 Vuostatjin guosská dat Vibeke Larsenij, Áravuomes, valla aj Geir Johnsenij, {Ruŋggogieras}${conc,ŋgg-ŋŋg;infl|Ruŋŋgogierragis} ja goalmádij Inga-Lill Sundsetaj, Bådådjos {gudi uddni li válljiduvvam Barggijbelludagá sámedikkeájrrasa}£{case,gen-ess|gudi uddni li válljiduvvam Barggijbelludagá sámedikkeájrrasin}.
@@ -29,7 +32,7 @@ Gilpustallam bajemus sajijda
 
 Valla nav gåk mij dádjadip {de sihti dá gålmmåsa joarkket}£{case,gen-nom|sihti dá gålmås joarkket} ájrastit Barggijbelludagáv.
 
-{Så}∞{nor} {vuordedahtte sjaddá}¥{ind-pot|Sjattasj dávk} gilpustallam gå {Belludak}${cap|belludak} tjåhkan nomineritjit lávvodagá Dieldanuore kro ja motellan, Skánegin.
+{{Så}∞{nor} vuordedahtte sjaddá}¥{ind-pot|Sjattasj dávk} gilpustallam gå {Belludak}${cap|belludak} tjåhkan nomineritjit lávvodagá Dieldanuore kro ja motellan, Skánegin.
 
 Viestarmera válggabijrra
 
@@ -54,9 +57,9 @@ Sijá mielas ij la nominasjåvnåjuogos tjuovvum bájkálasj siebrij vuojnojt {g
 
 Dav aj forumstivra jådediddje Elin Larsen jáhkká.
 
-– Mån dal vuordáv båhti sierra oajvvadusá tjåhkanimen. Ij la dal javladum jut nominasjåvnåjuohkusa lissta la dajt mij mierreduvvá. {Dat lulu}£{kongr|Dat luluj} maŋutjissaj sjaddat ållu ietjá lissta, javllá sån.
+– Mån dal vuordáv båhti sierra oajvvadusá tjåhkanimen. Ij la dal javladum jut nominasjåvnåjuohkusa lissta {la}£{cop|l} dajt mij mierreduvvá. {Dat lulu}£{kongr|Dat luluj} maŋutjissaj sjaddat ållu ietjá lissta, javllá sån.
 
-Barggijbelludagá nominasjåvnnå le Dieldanuore kro ja motellan, Skánegin lávvodagá ja álggá kl. 13.00.
+Barggijbelludagá nominasjåvnnå {lw}£{cop|l} Dieldanuore kro ja motellan, Skánegin lávvodagá ja álggá kl. 13.00.
 
 - Gájka gudi ietjasa li tjáledam sámedikke jienastuslåhkuj ja gudi li sebrulattja Barggijbelludagán máhtti oassálasstet ja liehket fáron mierredime gudi galggi listan tjuodtjot, subtsas Larsen.
 

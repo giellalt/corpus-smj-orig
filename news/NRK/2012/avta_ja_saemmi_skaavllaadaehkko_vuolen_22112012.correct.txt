@@ -1,16 +1,17 @@
 Avta ja sæmmi skåvllådæhkko vuolen
 
 
-1 S oahppe Wilma Jessen ja 2. klássak Martin Knutsen {lejga såj gudi ådå skåvlåv rabájga, madin rektor Britt-Karin Hansen tjuovvu}£{kongr|lejga såj gudi ådå skåvlåv rabájga, madin {rektor}${loan,vowc,e-ie;conc.kt-vt|rievtor} Britt-Karin Hansen tjuovoj}.
+1 S oahppe Wilma Jessen ja 2. klássak Martin Knutsen {lejga såj gudi ådå skåvlåv rabájga, madin {rektor}${loan,vowc,e-ie;conc.kt-vt|rievtor} Britt-Karin Hansen tjuovvu}£{kongr|lejga såj gudi ådå skåvlåv rabájga, madin rievtor Britt-Karin Hansen tjuovoj}.
 
 {Foto}∞{nor}: Sander Andersen/NRK
+
 Badjel 15 jage li oahppe ja bargge Ájluovta skåvlån, Divtasvuonan hæhttum vuorddet dasik gájka tjoahkkiduvvin avta skåvllåhuodnaha {vuolláj}€{w|sisi}. Ja dát ávvudahtij sierraláhkáj skåvlå {rektorav}${loan,vowc,e-ie;vowlat,o-u|riekturav} gut vijmak oattjoj gájkajt avta dæhkko vuolláj.
 
 – Lij duodaj {muddu}${vowlat,u-o|muddo} oadtjot skåvlåv ådåstuhtedum. Mij lip mælggadav vuorddám, javllá Ájluovta skåvlå {rektor}${loan,vowc,e-ie;conc.kt-vt|rievtor} Britt-Karin Hansen.
 
 Lávllagij Ájluovta skåvlå mánájskåvlådáses ja {báloaŋŋaspreggijmij}${loan,mix|baloaŋŋasprieggimij} rahpin oahppe ietjasa ådå skåvlåv ja lieggijin vájmojt ja ávvudahttijn ájluovtagijt gudi dievddin skåvlåv gå vijmak Ájluovta ådå skåvllå rabáduváj.
 
-Lejga oahppeguovtes Wilma Jessen ja Martin {Kuntsen}${typo|Knutsen} gudi {almmulattjat}${conc,lmm-lm|almulattjat} rabájga ådå {skvållåhuodnahijt}${typo|skåvllåhuodnahijt}..
+Lejga oahppeguovtes Wilma Jessen ja Martin {Kuntsen}${typo|Knutsen} gudi {almmulattjat}${conc,lmm-lm|almulattjat} rabájga ådå {skvållåhuodnahijt}${typo|skåvllåhuodnahijt}.
 
 Dat merkaj mánájskåvllå ja nuorajskåvllå {li tjoahkkiduvvin}£{x|li tjoahkkidum} avta sadjáj ja ælla des dagu åvddål {guovte sierra skåvllåhuodnahijda}£{kongr,num|guovte sierra skåvllåhuodnahij} sieradum.
 
@@ -24,6 +25,7 @@ Divtasvuona suohkan la stuoredahttám ja ådåstuhttám mánájskåvlåv ja dasi
 Skåvllå dievaj skåvllårahpamij.
 
 {Foto}∞{nor}: Sander Andersen/NRK
+
 Vuorddám 15 jage
 
 Badjel 15 jage {lij bargge ja oahppe}£{kongr|li bargge ja oahppe} Ájluovta skåvlån vuorddám dáv biejvev ja dan diehti {li rahpam}£{kongr|lij rahpam} sierraláhkáj ávvobiejvve sidjij.

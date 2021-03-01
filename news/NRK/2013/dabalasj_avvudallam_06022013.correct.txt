@@ -4,6 +4,7 @@ Dábálasj ávvudallam
 Sáme álmmukbiejvve ávvudaláduvvá Árran - julevsáme guovdátjin.
 
 {Foto}∞{nor}: Harrieth Aira/NRK
+
 {Julevsáme guovlon}¢{cmp,X-1|Julevsámeguovlon} ávvudalli biejvev dábálasj láhkáj. Divtasvuonan lij ávvudallam sihke Ájluovtan ja Gásluovtan.
 
 Harrieth Aira {harrieth.aira@nrk.no}∞{url}
@@ -11,6 +12,7 @@ Harrieth Aira {harrieth.aira@nrk.no}∞{url}
 Tor B. Jørgensen
 
 {Foto}∞{nor}: Harrieth Aira/NRK
+
 Divtasvuonan lij {Oarjje Hålogalátte}¢{cmp,X-hyph|Oarjje-Hålogalátte} biskoahppa Tor B. Jørgensen gut hålaj gå ávvudallama álggin árabut Árran julevsáme guovdátjin, Ájluovtan Divtasvuonan.
 
 Julevsámij biskoahppa válljij dán jage ávvudallat biejvev julevsámij siegen.
