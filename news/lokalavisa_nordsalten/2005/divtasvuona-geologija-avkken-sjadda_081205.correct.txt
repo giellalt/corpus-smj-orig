@@ -1,5 +1,6 @@
-Divtasvuona geologija ávkken sjaddá
-Luonndo ja kultuvrravásádusá aktan geologijajn, sáme kultuvrajn, histåvråjn ja dábij galggá liehket vuodon gå Tysfjord Vertshus åvddånahttá sierra åtsådallamturismav.
+Divtasvuona {geologija}${loan,conc,j-jj|geologijja} ávkken sjaddá
 
-{Duodden daj åtsådallamij}£{case|Duodden dajda åtsådallamijda} majt luonndo vaddá, dagu {låptura}€{w|svállá}, guollim, ednamrájge, váre ja vuona, galggi da gudi Nuortta Sálltuj båhti aj {oahpásmuvvat geologijajn mij la Divtasvuonan ja aj sáme kultuvrajn}£{case|oahpásmuvvat geologijaj mij la Divtasvuonan ja aj sáme kultuvrraj}. Tysfjord {vertshus}${cap|Vertshus} tjadát seminárav gæssáj mij jur vielet {geoturissmav}${conc,ssm-sm|geoturismav} æládussan Nuortta Sálton. 
+Luonndo ja kultuvrravásádusá aktan {geologijajn}${loan,conc,j-jj|geologijjajn}, sáme kultuvrajn, histåvråjn ja dábij galggá liehket vuodon gå Tysfjord Vertshus åvddånahttá sierra åtsådallamturismav.
+
+{Duodden daj åtsådallamij}£{case|Duodden dajda åtsådallamijda} majt luonndo vaddá, dagu {låptura}€{w|svállá}, guollim, ednamrájge, váre ja vuona, galggi da gudi Nuortta Sálltuj båhti aj {oahpásmuvvat {geologijajn}${loan,conc,j-jj|geologijjajn} mij la Divtasvuonan ja aj sáme kultuvrajn}£{case|oahpásmuvvat geologijjaj mij la Divtasvuonan ja aj sáme kultuvrraj}. Tysfjord {vertshus}${cap|Vertshus} tjadát seminárav gæssáj mij jur vielet {geoturissmav}${conc,ssm-sm|geoturismav} æládussan Nuortta Sálton. 
 Lågå {ienebut}€{w|ienebuv} {páhperalmmudusán}${conc,lmm-lm;vow,u-o|páhperalmodusán}.
