@@ -1,17 +1,18 @@
 Duodjeprosjækta {julevsáme guovlon}¢{cmp,X-1|julevsámeguovlon} joarkká
 
 
-Gápptegoarre Sigrun Andersen (gåro bielen) vuoset mihát {suv}€{w,pers-refl|ietjas} bargov majt duodjeprosjevta baktu la tjadádam. Oalges bielen Árrana duodjebagádalle, Lilian Urheim. (Gåvvå l tjavtjas 2012)
+[Gápptegoarre}¢{vowlat,e-o|Gápptegoarro} Sigrun Andersen (gåro bielen) vuoset mihát {suv}€{w,pers-refl|ietjas} bargov majt duodjeprosjevta baktu {la}£{cop|l} tjadádam. Oalges bielen Árrana duodjebagádalle, Lilian Urheim. (Gåvvå l tjavtjas 2012)
 
 {Foto}∞{nor}: Harrieth Aira/NRK
-Duodjeprosjevtajn majt Árran - Julevsáme guovdásj, Divtasvuona ASVO ja Duodje Nordlánnda tjadádin Divtasvuonan åvdep jage sjaddá joarkket aj dán jage.
+
+{Duodjeprosjevtajn majt Árran - Julevsáme guovdásj, Divtasvuona ASVO ja Duodje Nordlánnda tjadádin Divtasvuonan åvdep jage sjaddá joarkket}£{case,com-nom|Duodjeprosjækta majt Árran - Julevsáme guovdásj, Divtasvuona ASVO ja Duodje Nordlánnda tjadádin Divtasvuonan åvdep jage sjaddá joarkket} aj dán jage.
 
 Harrieth Aira {harrieth.aira@nrk.no}∞{url}
 Sander Andersen {sander.andersen@nrk.no}∞{url}
 
 Dav duodas {Sámedikkeráde ájras}¢{cmp,X-1|Sámedikkerádeájras} Vibeke Larsen gut vásse bierjjedagá iejvvij Árran - julevsáme guovdátjav ságastalátjit dán ja ietjá prosjevtaj birra majt Árran ájggu tjadádit.
 
-– Iv dal ássjijt giehtadalá media baktu, valla mij lip miellusa soames prosjevtajda majna Árran barggá, duola dagu duodjeprosjevtajn mij mijá diedoj milta la viehka buorakláhkáj vuosstájváldeduvvam. Ja dat vuoset {dárbbo lij dákkir duodjelåpptimij juo måttijt jagijt}£{x|dárbbo l læhkám dákkir duodjelåpptimij juo måttijt jagijt}, javllá Vibeke Larsen.
+– Iv dal ássjijt giehtadalá {media}${loan,conc|0-j|medijá} baktu, valla mij lip miellusa soames prosjevtajda majna Árran barggá, duola dagu {duodjeprosjevtajn}£{case,com-ill|duodjeprosjæktaj} mij mijá diedoj milta la viehka buorakláhkáj vuosstájváldeduvvam. Ja dat vuoset {dárbbo lij dákkir duodjelåpptimij juo måttijt jagijt}£{x|dárbbo l læhkám dákkir duodjelåpptimij juo måttijt jagijt}, javllá Vibeke Larsen.
 
 Dudálattja duodjelåpptimijn
 
@@ -21,7 +22,7 @@ LÅGÅ: Stuorra berustibme duodjelåpptimij
 LÅGÅ AJ: Sihtá dal duojev nannit
 LÅGÅ AJ: {Árran satser på duodji}∞{nor}
 
-Vásse tjavtja ságastijma oasseválldij ja prosjevta jådediddjij, ja dála gulá majt dalloj {NRK:aj}${suf|NRK:j} javllin (báddidum basádismáno 2012):
+Vásse tjavtja ságastijma oasseválldij ja prosjevta jådediddjij, ja dála gulá majt dalloj NRK:aj javllin (báddidum basádismáno 2012):
 
 Jáhttá duodderudájt
 
@@ -32,14 +33,15 @@ Sámedigge jáhttá biednigijt vaj prosjevtajn máhtti joarkket dán jage aj.
 – Mij sihtap doarjjot prosjevtav vaj dat joarkká, ja mij lip uddni Árranij diededam majt mij sihtap galggá dættoduvvat dán ájgegávdan, jáhttá Vibeke Larsen.
 
 
-Sihke Árrana direktørra, Lars Andreassen ja stivrrajådediddje Sonja Steen {oalges bielen}¢{cmp,X-1|oalgesbielen} ja {Sámedikkeráde ájras}¢{cmp,X-1|Sámedikkerádeájras} Vibeke Larsen {gåro bielen}¢{cmp,X-1|gårobielen} li vuojnnet dudálattja tjåhkanimijn.
+Sihke Árrana {direktørra}${loan,vowc,ø-e|direkterra} Lars Andreassen ja stivrrajådediddje Sonja Steen {oalges bielen}¢{cmp,X-1|oalgesbielen} ja {Sámedikkeráde ájras}¢{cmp,X-1|Sámedikkerádeájras} Vibeke Larsen {gåro bielen}¢{cmp,X-1|gårobielen} li vuojnnet dudálattja tjåhkanimijn.
 
 {Foto}∞{nor}: Harrieth Aira/NRK
+
 Ruhta aj rádjáoahpestiddjeprosjæktaj
 
 Duodden dási vuojnnet rádjáoahpestiddjeprosjækta majt Árran háldat aj sjaddá joarkket.
 
-Árran dal åhtsåmusáv sáddi {Rijkaantikváraj}¢{conc,r-rr|Rijkaantikvárraj} ja Sámediggáj {dáv prosjevtav ållidittjat dagu dal}¥{missing|dáv prosjevtav ållidittjat galggi dagu dal} {doaro kulturmujtojt}¥{wo;case|kulturmujtojt doaros} {åbdedit}${infl|åbddit}, prosjevtav digitaliserit ja aj vuosádusáv {gárvedahttját}€{der|gárvedit}.
+Árran dal åhtsåmusáv sáddi {Rijkaantikváraj}¢{conc,r-rr|Rijkaantikvárraj} ja Sámediggáj {dáv prosjevtav ållidittjat dagu dal}¥{missing|dáv prosjevtav ållidittjat, galggi dagu dal} {doaro kulturmujtojt}¥{wo;case|kulturmujtojt doaros} {åbdedit}${infl|åbddit}, prosjevtav {digitaliserit}¢{loan,vowc,e-ie|digitalisierit} ja aj vuosádusáv gárvedahttját.
 
 Moadda oase fájlluji, javllá Árrana stivrrajådediddje Sonja A. Steen ja hasot dajna Sámedikkev rudájt rádjáoahpestiddjeprosjæktaj juollodit.
 

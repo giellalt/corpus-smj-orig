@@ -1,6 +1,7 @@
 Ájluovta/Ájlátte girkko, Divtasvuonan.
 
 {Foto}∞{nor}: Sander Andersen / NRK
+
 Ådå girkkohærrá Divtasvuodnaj
 
 Divtasvuodna oadtju ådå girkkohærráv. Magne Kolvik gut 18 jage la girkkohærrán Divtasvuonan doajmmam la diededam sån Divtasvuonav guodá gæssáj gå pensjonisstan sjaddá.
@@ -9,11 +10,12 @@ Divtasvuodna oadtju ådå girkkohærráv. Magne Kolvik gut 18 jage la girkkohær
 Biskoahppa Tor B. Jørgensen.
 
 {Foto}∞{nor}: Harrieth Aira / NRK
-Vuona girkko l almodam virgev rahpusin ja Oarjje-Hålogalátte biskoahppa Tor B. Jørgensen ij dal jáhke oadtju avtak sámegielak åhttsijt dán virggáj.
 
-– Majdis galga ælla miján avtak julevsámegielak girkkohærrákandidáhta jur dálla. {Så}∞{nor} danen vierttip oadtjot náginav gut hálijt julevsámegielav oahppagoahtet, javllá Oarjje-Hålogalátte biskoahppa Tor B. Jørgensen. 
+Vuona girkko l almodam virgev {rahpusin}¢{vowlat,u-a|rahpasin} ja Oarjje-Hålogalátte biskoahppa Tor B. Jørgensen ij dal jáhke oadtju {avtak sámegielak åhttsijt}£{kongr|avtak sámegielak åhttsev} dán virggáj.
 
-Julevsámegiellaj almulasj giellan girkkon
+– Majdis galga ælla miján {avtak julevsámegielak girkkohærrákandidáhta}£{kongr|avtak julevsámegielak girkkohærrákandidáhtta} jur dálla. {Så}∞{nor} danen vierttip oadtjot náginav gut hálijt julevsámegielav oahppagoahtet, javllá Oarjje-Hålogalátte biskoahppa Tor B. Jørgensen. 
+
+{Julevsámegiellaj}£{case,ill-nom|Julevsámegiella} almulasj giellan girkkon
 
 Udnásj girkkohærrá Magne Kolvik la doajmmam Divtasvuona girkkohærrán 18 jage.
 
@@ -21,15 +23,16 @@ Udnásj girkkohærrá Magne Kolvik la doajmmam Divtasvuona girkkohærrán 18 jag
 Divtasvuona udnásj girkkohærrá, Magne Kolvik.
 
 {Foto}∞{nor}: Harrieth Aira / NRK
+
 Dájn jagijn sjattaj julevsámegiella almulasj giellan girkkon Divtasvuonan.
 
 Ådå testamænnta julevsámegiellaj jårggåluváj ja Julevsáme sálmmagirjje almoduváj.
 
-Duodden aj adnuj váldeduváj julevsáme liturgija mij aneduvvá mæssojn Divtasvuonan.
+Duodden aj adnuj váldeduváj julevsáme {liturgija}${loan,conc,j-jj|liturgijja} mij aneduvvá mæssojn Divtasvuonan.
 
 Biskåhpa mielas la girkkohærrádievnastussaj Divtasvuonan ållu dárbulasj girkkohærráj gut julevsámegielav máhttá ja dádjat.
 
-– (Dav ham udnásj girkkohærrá Magne Kolvik dåbdijdij girkkohærrán måttijt jagijt Divtasvuonan). Gå dal sån viertti hiejttet gå boarrásijpensjåvnnå álldarij la jåvsådam de dav vierttip dåhkkidit, javllá Jørgensen.
+– (Dav ham udnásj girkkohærrá Magne Kolvik dåbdijdij girkkohærrán måttijt jagijt Divtasvuonan). Gå dal sån viertti hiejttet gå {boarrásijpensjåvnnå álldarij}¥{cmp|boarrásijpensjåvnnåálldarij} la jåvsådam de dav vierttip dåhkkidit, javllá Jørgensen.
 
 Dan diehti la aj virggealmodusán nammaduvvam galggá liehket máhttelisvuohta oadtjot dågålasj julevsámegiela åhpadusáv sunji gut åhtså virggáj.
 
@@ -41,4 +44,4 @@ Biskoahppa aj {vájván}¢{fin,n-j|vájvaj} gå girkkuj ælla ájn oadtjum julev
 
 Sån huoman doajvvu boahtte jahkáj la máhttelis virggáj biedjat julevsámegielak barggev.
 
-– Doajvvomis boahtte jage {lulup}${infl|lulujma} julevsámegielak barggev oadtjot. Muv mielas la vájvve gå vilák ij la sajen, ja dát virgge la ájnas åvddånahtátjit sáme oasev mijá bisspaguovlon, javllá Jørgensen.
+– Doajvvomis boahtte jage {lulup}${infl|lulujma} julevsámegielak barggev oadtjot. Muv mielas la vájvve gå vilák ij la sajen, ja dát virgge {la}£{cop|l} ájnas åvddånahtátjit sáme oasev mijá bisspaguovlon, javllá Jørgensen.

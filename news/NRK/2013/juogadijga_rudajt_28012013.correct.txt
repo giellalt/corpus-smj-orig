@@ -3,12 +3,13 @@ Lijga åhttse ja sæmmi bále juogadijga rudájt
 {Fylkamánne}${conc,lk-lkk|Fylkkamánne} gatját dågålasjvuoda birra Divtasvuona åvddånammadusán.
 
 {Foto}∞{nor}:Sander Andersen/NRK
+
 Guokta Divtasvuona suohkanpolitihkkára háldadijga biednikfåndav gånnå ietja lijga åhttse. Sæmmi båttå gå ietja lijga åhttse de mierredijga gilpustiddjij åhtsåmusájt. Nordlánda fylkamánne gatját jus dát la dågålasj barggamvuohke.
 
 Harrieth Aira {harrieth.aira@nrk.no}∞{url}
 Sander Andersen {sander.andersen@nrk.no}∞{url}
 
-– Ij la sáhka gåk iesj sárno ietjat belulasjvuodav, valla gåktu iehtjáda dav dádjadi, javllá vuolepdirektørra Nordlánda fylkamánnen, Tor Sande.
+– Ij la sáhka gåk iesj sárno ietjat belulasjvuodav, valla gåktu iehtjáda dav dádjadi, javllá {vuolepdirektørra}${loan,vowc,ø-e|vuolepdirekterra} Nordlánda fylkamánnen, Tor Sande.
 
 Divtasvuona suohkanoajvve Tor Asgeir Johansen, Barggijbelludagás lij åhttse gå Divtasvuona Åvddånammadus galgaj juollodit rudájt merraæládusfåndas.
 
@@ -18,11 +19,12 @@ Goappátja lijga rudájt åhtsåm vidnudagáj åvdås gånnå såj libá njunnju
 Johansen ja Mikkelsen sárnojga ietjasa belulattjan gå sunnu åhtsåmusá mierreduvvin, valla lijga fáron mierredime dåjt ietjá åhtsåmusájt ma gilpustin dáj ruhtajuollodimij.
 
 Lågå aj: {Stiller spørsmål ved pengebevilgnin}∞{nor}
+
 Ietjanis berustime
 
 Jagen 2011 ásadij Divtasvuona suohkan fåndav mij rudájt oadtju {daj guokta luossabiebbmamvidnudagájs}£{kongr|dat guovtet luossabiebbmamvidnudagás} ma li Divtasvuonan.
 
-Fånda sisboahto l akta millijåvnnå kråvnnå jahkáj goabbák {viddnudagájs}${conc,ddn-dn|vidnudagájs} ja vihpá gålmmå jage.
+Fånda sisboahto l {akta millijåvnnå kråvnnå}£{num,kongr|akta millijåvnnå kråvnå} jahkáj {goabbák {viddnudagájs}${conc,ddn-dn|vidnudagájs}}£{kongr|goabbák vidnudagás} ja vihpá gålmmå jage.
 
 
 Suohkanoajvve Tor Asgeir Johansen.
@@ -34,25 +36,25 @@ Suohkanoajvve Tor Asgeir Johansen åtsåj dijmmá rudájt dát fåndas ietjas vi
 
 Dán tjåhkanimen Divtasvuona suohkanoajvve ietjas belulattjan sárnoj dåssju gå ietjas åhtsåmus giehtadaláduváj. Ietján lij maŋen rudájt juohkemin jali hilggomin nuppe åhttsijda.
 
-Tysfjord Turistsenter AS åhtsåj aj rudájt dát fåndas vidnudagáv {juonga}${conc,ng-ŋg|juoŋga} láhkáj ådåstuhtátjit.
+Tysfjord Turistsenter AS {åhtsåj}¢{conc|hts-ts|åtsåj} aj rudájt dát fåndas vidnudagáv {juonga}${conc,ng-ŋg|juoŋga} láhkáj ådåstuhtátjit.
 
 Filip Mikkelsen lij dalloj Tysfjord Turistsenter AS:a stivrrajådediddje. Tysfjord Turistsenterij juogeduváj dan tjåhkanimen 50 000 kråvnå.
 
 Mikkelsen sárnoj ietjas belulattjan dåssju gå åhtsåmus suv vidnudagás giehtadaláduváj. Ietján lij maŋen rudájt juohkemin jali hilggomin nuppe åhttsijda.
 
-Imájdallá barggamvuogev
+Imájdallá {barggamvuogev}€{w|barggovuogev}
 
-Nordlánda fylkamánnen imájdalli dáv barggamvuogev.
+Nordlánda fylkamánnen imájdalli dáv {barggamvuogev}€{w|barggovuogev}.
 
-– {Dádjadav dal sunnun gudi ietja lijga åhtsåm rudájt fåndas}£{case,ine-nom|Dádjadav dal såj gudi ietja lijga åhtsåm rudájt fåndas} ejga la fáron mierredime gå jur sunnu åhtsåmusá giehtadaláduvvin. Dat la dal riekta. Valla gatjálvis badján jus galgajga dåjt nuppijt åhtsåmusájt aj giehtadallat? Sierraláhkáj usjudaláv jus li ráddjidum rudá massta åhtsi nav vaj dat vájkkut majt ietja oadtjoba, javllá vuolepdirektørra Tor Sande, Nordlánda fylkamánnen.
+– {Dádjadav dal sunnun gudi ietja lijga åhtsåm rudájt fåndas}£{case,ine-nom|Dádjadav dal såj gudi ietja lijga åhtsåm rudájt fåndas} ejga la fáron mierredime gå jur sunnu åhtsåmusá giehtadaláduvvin. Dat la dal riekta. Valla gatjálvis badján jus galgajga dåjt nuppijt åhtsåmusájt aj giehtadallat? Sierraláhkáj usjudaláv jus li ráddjidum rudá massta åhtsi nav vaj dat vájkkut majt ietja oadtjoba, javllá {vuolepdirektørra}${loan,vowc,ø-e|vuolepdirekterra} Tor Sande, Nordlánda fylkamánnen.
 
 – Åvddånammadus mierredij
 
 Divtasvuona suohkanoajvve Tor Asgeir Johansen sivádahttá Åvddånammadusáv ja Divtasvuona rádeålmmåv.
 
-– Mij ságastijma dan birra Åvddånammadusán ja aj {rádádijma}${vowlat,á-u|rádudijma} rádeålmmåjn, ja de mierredijma måj ejma la belulattja giehtadallat {gåjt}¢{coninit,g-d|dåjt} ietjá åhtsåmusájt. Dav ålles Åvddånammadus gávnadij, tjielggi Johansen.
+– Mij ságastijma dan birra Åvddånammadusán {ja aj {rádádijma}${vowlat,á-u|rádudijma} rádeålmmåjn}¥{wo|ja rádudijma aj rádeålmmåjn}, ja de mierredijma måj ejma la belulattja giehtadallat {gåjt}¢{coninit,g-d|dåjt} ietjá åhtsåmusájt. Dav ålles Åvddånammadus gávnadij, tjielggi Johansen.
 
-Valla sån vuojnná dálla {dát lulu unugis barggamvuohke}£{kongr|dát luluj unugis barggamvuohke}.
+Valla sån vuojnná dálla {dát lulu unugis {barggamvuohke}€{w|barggovuohke}}£{kongr|dát luluj unugis barggovuohke}.
 
 – Ittjij de dalloj biello skuola. Valla gå dån dálla gatjáda de máhttá dal dálla vuojnnet dáv unugis barggamvuohken.
 
@@ -60,6 +62,6 @@ Valla sån vuojnná dálla {dát lulu unugis barggamvuohke}£{kongr|dát luluj u
 
 – Ja gå dal gæhttjap nav gåktu dådnå gatjáda de dav dádjadav. Dáv vierttip mij tjielgadit. Galggá máj liehket luohtádus gåktu mij foanndarudájt juohkep. Så dáv vierttip vas giehtadallat Åvddånammadusán, javllá Johansen.
 
-Filip Mikkelsen ij sidá ássjáj majdik moalgedit javllá sån SMS:a baktu {NRK:aj}${suf|NRK:j}.
+Filip Mikkelsen ij sidá ássjáj majdik moalgedit javllá sån SMS:a baktu NRK:aj.
 
-{GULLDAL ÅLLES ÁSSJEV DÁNNA}£{x|GULLDAL ÅLLES ÁSSJEV DÁNNA}:
+{GULLDAL ÅLLES ÁSSJEV DÁNNA}£{x|GULLDALA ÅLLES ÁSSJEV DÁNNA}:

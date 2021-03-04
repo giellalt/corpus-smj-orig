@@ -4,7 +4,8 @@
 Laila Susanne Vars (g.b.) ja Inga Karlsen.
 
 {Foto}∞{nor}: Dragan Cubrilo /NRK
-Sámedikke vuorrasijráde Inga Karlsen ja Sámedikke {sadjásasj presidænnta}¢{cmp,X-1|sadjásasjpresidænnta} Laila Susanne Vars ávvusijga gå Gånågis berustij gullat gåktu vuoras sámij dille le Vuonan.
+
+Sámedikke vuorrasijráde Inga Karlsen ja Sámedikke {sadjásasj presidænnta}¢{cmp,X-1|sadjásasjpresidænnta} Laila Susanne Vars ávvusijga gå Gånågis berustij gullat gåktu vuoras sámij dille {le}£{cop|l} Vuonan.
 
 Harrieth Aira {harrieth.aira@nrk.no}∞{url}
 Johannes E. Kalvemo Johannes.E.Kalvemo@nrk.no
@@ -17,7 +18,8 @@ Vars ja Karlsen lijga Slåhtan giehttomin M.Gånågis Haraldij daj {hásstalusá
 LÅGÅ: {Inviterte Kong Harald til Tysfjord}∞{nor}
 LÅGÅ AJ: {Sametingets eldreråd besøker Kongen}∞{nor}
 LÅGÅ AJ: {Første samiske eldreråd opprettet}∞{nor}
-Diehtovájnogis {Majestehtta}£{x|Majestiehtta}
+
+Diehtovájnogis {Majestehtta}£{loan,vowc|Majestiehtta}
 
 Vars ja Karlsen galgajga álgos iejvvit Gånågisáv 15 minuhta, valla æjvvalibme vibáj viehka guhkebuv gå dá 15 minuhta. Gånågis sidáj {duov-dáv}${cmp,hyph-X|duov dáv} sunnus gullat mij guosská {vuorasj}¢{fin,sj-s|vuoras} sámij viessomdilláj Vuonan.
 
@@ -27,8 +29,9 @@ Vars ja Karlsen galgajga álgos iejvvit Gånågisáv 15 minuhta, valla æjvvalib
 
 – Mån jáhkáv Gånågis diehtá viehka buoragit makkir hásstalusá duosstu vuoras sámijt sihke {{sámegiela hárráj ja kultuvrraj}£{case,ill-gen|sámegiela hárráj ja kultuvra}}¥{wo|sámegiela ja kultuvra hárráj} gå vuorastuvvi ja jus intuisjåvnåjda båhti ja sujtov dárbahi. Miján ham ælla nuoges sámegielak dåktåra ja varresvuodabargge , javllá Vars.
 
-Sámedigge ja Sámedikke {vuorrasij ráde}¢{cmp,X-1|vuorrasijráde} aj sihti Gånågis galggá diehtet {{vuorasj}¢{fin,sj-s|vuoras} sámij {{máhttelisvuodav}€{{}w|máhtti}}}£{case,gen-nom|vuoras sáme máhtti} liehket resurssan sebrudahkaj. 
-LÅGÅ AJ: (Dronning Sonja på fjelltur i Hellmobotn (Ekstern {lenke}}}∞{nor}
+Sámedigge ja Sámedikke {vuorrasij ráde}¢{cmp,X-1|vuorrasijráde} aj sihti Gånågis galggá diehtet {{vuorasj}¢{fin,sj-s|vuoras} sámij {máhttelisvuodav}€{w|máhtti}}£{case,gen-nom|vuoras sáme máhtti} liehket resurssan sebrudahkaj. 
+LÅGÅ AJ: {Dronning Sonja på fjelltur i Hellmobotn Ekstern lenke}∞{nor}
+
 Oajvvadij boahtet Divtasvuodnaj
 
 Gå dal állis Gånågisáv Slåhtan iejvvij, de Sámedikke {vuorrasij ráde}¢{cmp,X-1|vuorrasijráde} tjabu danga båttå gåhtjoj Gånågisáv guossen Divtasvuodnaj.
@@ -37,6 +40,7 @@ Gå dal állis Gånågisáv Slåhtan iejvvij, de Sámedikke {vuorrasij ráde}¢{
 Inga Karlsen, Divtasvuonas.
 
 {Foto}∞{nor}: Sander Andersen/NRK
+
 – Javlliv sunji sån vierttij nav gåk {Dråtning}${conc,tn-dn;fin,ng-k|Drådnik} boahtet Divtasvuodnaj ietjas vantsajn ja ihkap aj viegadit gitta ráján, nav gåk {Dråtning}${conc,tn-dn;fin,ng-k|Drådnik} Sonja dagáj jagen 2011, subtsas Karlsen.
 Karlsen doajvvu Gånågis boahtá vaj sån aj oadtju iejvvit vuoras sámijt julevsáme guovlon. Ja sån jáhkká {Gånågissaj lulu}£{kongr|Gånågissaj luluj} vuogas oaggomin mannat Vuodnabadán.
 
