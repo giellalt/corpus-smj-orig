@@ -12,7 +12,7 @@ Sander Andersen {sander.andersen@nrk.no}∞{url}
 
 Dav duodas {Sámedikkeráde ájras}¢{cmp,X-1|Sámedikkerádeájras} Vibeke Larsen gut vásse bierjjedagá iejvvij Árran - julevsáme guovdátjav ságastalátjit dán ja ietjá prosjevtaj birra majt Árran ájggu tjadádit.
 
-– Iv dal ássjijt giehtadalá {media}${loan,conc|0-j|medijá} baktu, valla mij lip miellusa soames prosjevtajda majna Árran barggá, duola dagu {duodjeprosjevtajn}£{case,com-ill|duodjeprosjæktaj} mij mijá diedoj milta la viehka buorakláhkáj vuosstájváldeduvvam. Ja dat vuoset {dárbbo lij dákkir duodjelåpptimij juo måttijt jagijt}£{x|dárbbo l læhkám dákkir duodjelåpptimij juo måttijt jagijt}, javllá Vibeke Larsen.
+– Iv dal ássjijt giehtadalá {media}${loan,conc,0-j|medijá} baktu, valla mij lip miellusa soames prosjevtajda majna Árran barggá, duola dagu {duodjeprosjevtajn}£{case,com-ill|duodjeprosjæktaj} mij mijá diedoj milta la viehka buorakláhkáj vuosstájváldeduvvam. Ja dat vuoset {dárbbo lij dákkir duodjelåpptimij juo måttijt jagijt}£{x|dárbbo l læhkám dákkir duodjelåpptimij juo måttijt jagijt}, javllá Vibeke Larsen.
 
 Dudálattja duodjelåpptimijn
 
