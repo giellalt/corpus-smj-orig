@@ -1,4 +1,5 @@
 Jahke mij la vássám
+
 Dálven
 
 Sámegiellaåhpadibme Divtasvuonas Jiellevárráj
@@ -11,30 +12,30 @@ Dan diehti l Jielleváre suohkan Divtasvuona suohkanij girjev tjállám ja gatj�
 
 Gidádálven
 
-Taxiijn hæjttá
+{Taxiijn}${loan,mix|taksihijn} hæjttá
 Idar
 
-Taxi Måsken sjattaj riek oahpes gå Discovery channel sáddij filmav dan birra, valla ittjij de dat huoman Idar Mikkelsenav boanndoda. Dajna de Måske taxi sjaddá histåvrrå. –Mån lav 16 jage taxiav Måsken dåjmadahttám, valla iv desti vuojne sisboadov dassta ja iv desti elja dav dåjmadahttet, subtsas taxiæjgát.
+{Taxi}${loan,mix|Tavsij} Måsken sjattaj riek oahpes gå Discovery channel sáddij filmav dan birra, valla ittjij de dat huoman Idar Mikkelsenav boanndoda. Dajna de Måske {taxi}${loan,mix|tavsij} sjaddá histåvrrå. –Mån lav 16 jage {taxiav}${loan,mix|taksihav} Måsken dåjmadahttám, valla iv desti vuojne sisboadov dassta ja iv desti elja dav dåjmadahttet, subtsas {taxiæjgát}¢{loan,mix|tavsijæjgát}.
 
 
 
 Gidán
 
-Universitehtaåhpadibme Árranin
+{Universitehtaåhpadibme}¢{loan,vowc,e-ie|Universitiehtaåhpadibme} Árranin
 
-{Direktørra}${ascii|Direkterra} Stig Fossum {Bådødjo}${vowlat,ø-å|Bådådjo} Allaskåvlås, Árrana stivrranjunnjusj Tone Finnesen, dekanus Asbjørn Røiseland {Bådødjo}${vowlat,ø-å|Bådådjo} {allskåvlås}${typo|allaskåvlås} ja Árrana direktørra Filip Mikkelsen gæhttjalin gávnnat tjoavddusav julevsáme allaskåvlå åhpadibmáj. Vájbi sjaddá universitehtaåhpadus Ájluovtan?
+{Direktørra}${loan,ascii|Direkterra} Stig Fossum {Bådødjo}${vowlat,ø-å|Bådådjo} Allaskåvlås, Árrana stivrranjunnjusj Tone Finnesen, {dekanus}${loan|dekádna} Asbjørn Røiseland {Bådødjo}${vowlat,ø-å|Bådådjo} {allskåvlås}${typo|allaskåvlås} ja Árrana {direktørra}${loan,ascii|direkterra} Filip Mikkelsen gæhttjalin gávnnat tjoavddusav julevsáme allaskåvlå åhpadibmáj. Vájbi sjaddá {universitehtaåhpadus}¢{loan,vowc,e-ie|universitiehtaåhpadus} Ájluovtan?
 
--Miján la juo nanos vuodo dákkár fálaldagáv dájda bájkijda ásadit, ja {åvddåprosjekta}${vowc,e-æ|åvddåprosjækta} l juo jådon. {Vuorddedahtte}${conc,rdd-rd|Vuordedahtte} l gergas soames máno duogen, javlaj mielos {{allaskåvlå}¢{conc,vl-vll|allaskåvllå} {{dierktørra}${{}typo|direktørra}}}¢{cmp,X-1|allaskåvllådirektørra} dalloj.
+-Miján la juo nanos vuodo dákkár fálaldagáv dájda bájkijda ásadit, ja {åvddåprosjekta}${vowc,e-æ|åvddåprosjækta} l juo jådon. {Vuorddedahtte}${conc,rdd-rd|Vuordedahtte} l {gergas}€{w|gárves} soames máno duogen, javlaj mielos {allaskåvlå {dierktørra}${loan,vowc,ø-e;typo|direkterra}}¢{cmp,X-1|allaskåvlådirekterra} dalloj.
 
  
 
 Gidágiesen
 
 Boahttsu Svieriga bieles Vuona bælláj
+
 Thomas
 
-Ællosáme Vuona ja Svieriga bielen rijddalin gå ællosáme Svieriga bieles sihtin ietjasa ælojt Vuona bælláj guododittjat. Sij vuosedi láhkaj 1751 jage rájes. Soames ællosáme Vuona bielen sihti aj guododahttet ietjasa ælojt Svieriga bielen, ja dassta de rijddo sjaddá. Thomas Labba la ietjas elujn ganugam vuolládagájda. Ij duosta várijda elujn jåhtet. Ballá Svieriga bælláj massá, ja sijá boahttsu sehkani svenska boahttsuj ja nav de lulu láhppuji.
-
+Ællosáme Vuona ja Svieriga bielen rijddalin gå ællosáme Svieriga bieles sihtin ietjasa ælojt Vuona bælláj guododittjat. Sij vuosedi láhkaj 1751 jage rájes. Soames ællosáme Vuona bielen sihti aj guododahttet ietjasa ælojt Svieriga bielen, ja dassta de rijddo sjaddá. Thomas Labba la ietjas elujn ganugam vuolládagájda. Ij duosta várijda elujn jåhtet. Ballá Svieriga bælláj massá, ja {sijá boahttsu sehkani svenska boahttsuj}£{case,com-ill|sijá boahttsu sehkani svenska boahttsujda} ja nav de {lulu láhppuji}£{kongr;infl|lulun láhpput}. 
 
 Giesen
 
@@ -43,28 +44,30 @@ Sáme báhkodáhtátjoahkke rabáduvvam
 
 Sámedikke {giellastsivrra}${typo|giellastivrra}: Nora Marie Brandsfjell, Rolf Olsen, Magne Einejord, Karen Monica Paulsen ja Tor Magne Berg oassálasstin gå sáme báhkodáhtátjoahkke {www.Risten.no}∞{url} rabáduváj. Dát báhkodáhtátjoahkke la næhttabielle gåsi divna sáme bágo julevsáme-, nuorttasáme- ja oarjjelsámegiellaj biejaduvvi ja gånnå aj máhtá åhtsåt juogu dal bágov jali gåktu {bahko}${vowc,a-á|báhko} såjåduvvá.
 
--Dán báhkodáhtátjoahkken li {juo12.000}${typo,cmp,X-1|juo 12.000} bágo, ja dát la ræjddo giellabarggijda ja diedon aj iehtjádijda gudi {gielav berusti}£{case|gielas berusti}, javlaj Sámedikke {giellastivtra}${typo|giellastivra} ájras Karen Monica Paulsen åvdås gå almulattjat dáv næhttabájkev rabáj.
+-Dán báhkodáhtátjoahkken li {juo12.000}${typo,cmp,X-1|juo 12.000} bágo, ja dát la ræjddo giellabarggijda ja diedon aj iehtjádijda gudi {gielav berusti}£{case|gielas berusti}, javlaj Sámedikke {{giellastivtra}${typo|giellastivra} ájras}¥{cmp,2-1|giellastivraájras} Karen Monica Paulsen åvdås gå almulattjat dáv næhttabájkev rabáj.
 
 
 Tjaktjagiesen
 
 Sihtá julevsábmáj girjijt tjállegoahtet
+
 Norbert
 
-24-jahkásasj ungáralasj studænnta Norbert Kiss la sámegielav låhkåmin, ja guoradallamin ungára-, suoma- ja sámegielav. Sån sihtá girjijt julevsámegiellaj tjállet, ja aj ietjas giellaj sáme girjijt jårggålit. –Dát la muv gáppte, ja guláv dagu aktijvuodav sámij, javllá sån ja vuoset ietjas {{{nasjunálgárvov}${{}vowlat,u-o|nasjonálgárvov}}}€{w|álmmukbiktasav}. Sån aj sihtá julevsámegielav adnet gå galggá novellajt tjállet ja girjijt jårggålit. Giesen la Divtasvuonan mannam sámegielav buorebut åhpatjit ja sámij buorebut oahpástuvvat.
+24-jahkásasj ungáralasj studænnta Norbert Kiss la sámegielav låhkåmin, ja guoradallamin ungára-, suoma- ja sámegielav. Sån sihtá girjijt julevsámegiellaj tjállet, ja aj ietjas giellaj sáme girjijt jårggålit. –Dát la muv gáppte, ja guláv dagu aktijvuodav sámij, javllá sån ja vuoset ietjas {{nasjunálgárvov}${vowlat,u-o|nasjonalgárvov}}€{w|álmmukbiktasav}. Sån aj sihtá julevsámegielav adnet gå galggá novellajt tjállet ja girjijt jårggålit. Giesen la Divtasvuonan mannam sámegielav buorebut åhpatjit ja sámij buorebut oahpástuvvat.
 
 
 Tjavtjan
 
 NSR–BB  2-1
+
 Miriam
 
-Miriam Paulsen ja Tone Finnesen bájkálasj NSR-listas ja Anders Urheim BB-listas li da gålmmå ájrrasa Gasska Nordlánda válggaguovlos boahtte válggagávdan Sámedikken.
-4 lista oassálasstin dán jagásj Sámedikkeválggaj dán guovlon. Sálto Sámesiebrre – NSR oadtjun 208 jiena, Barggijbelludahka 113 jiena, Gasska Nordlánda {Doarespoltihkalasj}${typo|Doarespolitihkalasj} lissta 38 jiena ja Sáme válggalihtto 11 jiena.
+Miriam Paulsen ja Tone Finnesen bájkálasj NSR-listas ja Anders Urheim BB-listas li da gålmmå ájrrasa {Gasska Nordlánda}¥{cmp,hyph|Gasska-Nordlánda} válggaguovlos boahtte válggagávdan Sámedikken.
+4 lista oassálasstin dán jagásj Sámedikkeválggaj dán guovlon. Sálto Sámesiebrre – NSR oadtjun 208 jiena, Barggijbelludahka 113 jiena, {Gasska Nordlánda}¥{cmp,hyph|Gasska-Nordlánda} {Doarespoltihkalasj}${typo|Doarespolitihkalasj} lissta 38 jiena ja Sáme válggalihtto 11 jiena.
 
 
 Tjaktjadálven
 
 Ep dal ájn diede jus girjjetjállen sjaddap
 
-Sjattaj {ållu}€{w|riek} hávsskes {båttå}¢{conc,tt-dd|båddå} gå sáme girjjetjálle {goarrihin}${conm,h-j|goarrijin} Strávnjunje skåvlån gasskavahko, ja oahppe {Isabell, Katja, Are, Tony, Sivert, Tor Ivar, Andreas, Silje ja Birgitta oattjojga}£{kongr|Isabell, Katja, Are, Tony, Sivert, Tor Ivar, Andreas, Silje ja Birgitta oadtjun} gullat gånnå sámegiella aneduvvá, gåktu máhtá buorre subttsasav dahkat. Giella l aj ietjá gå dav majt dåssju njálme tjadá buvtá, ja dáhpádusás ja åtsådallamijs gitta tækstaj la guhka, {{{roañkok}${ascii|roaŋkok} {bálges}}¥{pred-attr|roahkogis bálges}, ja unna Strávnjunjátjis dåhkki aj geldulasj subttsasav dahkat. Tjálle sihtin oahppijda subtsastit vehik máhttelisvuodaj birra jus sidá tjállen sjaddat.
+Sjattaj {ållu}€{w|riek} hávsskes {båttå}¢{conc,tt-dd|båddå} gå sáme girjjetjálle {goarrihin}${conm,h-j|goarrijin} Strávnjunje skåvlån gasskavahko, ja oahppe {Isabell, Katja, Are, Tony, Sivert, Tor Ivar, Andreas, Silje ja Birgitta oattjojga}£{kongr|Isabell, Katja, Are, Tony, Sivert, Tor Ivar, Andreas, Silje ja Birgitta oadtjun} gullat gånnå sámegiella aneduvvá, gåktu máhtá buorre subttsasav dahkat. Giella l aj ietjá gå dav majt dåssju njálme tjadá buvtá, ja dáhpádusás ja åtsådallamijs gitta tækstaj la guhka, {{roañkok}${ascii|roaŋkok} bálges}}¥{pred-attr|roahkogis bálges}, ja unna Strávnjunjátjis dåhkki aj geldulasj subttsasav dahkat. Tjálle sihtin oahppijda subtsastit vehik máhttelisvuodaj birra jus sidá tjállen sjaddat.

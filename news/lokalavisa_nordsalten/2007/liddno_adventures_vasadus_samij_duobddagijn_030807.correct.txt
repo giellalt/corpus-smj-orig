@@ -1,25 +1,36 @@
 Liddno Adventures vehka: Lars Theodor Kintel, Inga Lill Mikkelsen ja Andreas Mikkelsen
 
 Liddno Adventures – vásádusá sámij duobddágijn
-Liddno Adventures gåhtjudi dav ådå {viddnudagáv}${conc,ddn-dn|vidnudagáv} Oarjjevuonan, gånnå turista oadtju vásedit luondov ja sáme kultuvrav. 3 nuorra sámestudenta (vuododin {viddnudagáv}${conc,ddn-dn|vidnudagáv} {ådåjakmáno}}£{case|vuododin vidnudagáv ådåjakmánon}.
+
+Liddno Adventures gåhtjudi dav ådå {viddnudagáv}${conc,ddn-dn|vidnudagáv} Oarjjevuonan, gånnå turista oadtju vásedit luondov ja sáme kultuvrav. 3 nuorra sámestudenta {vuododin {viddnudagáv}${conc,ddn-dn|vidnudagáv} ådåjakmáno}£{case|vuododin vidnudagáv ådåjakmánon}.
 
 Inga Lill Mikkelsen, Andreas Mikkelsen ja Lars Theodor Kintel, divna gålmås Ájluovtas Divtasvuonan. Sihti giehttot duola dagu sámehiståvrå birra, ja oadtjum li 235 {000}¥{235 000 kråvnå} {Nordlanda}${vowc,a-á|Nordlánda} Fylkkasuohkanis majna galggi tjadádit åvddånahttemprosjevtav “ {Samiske naturopplevelser i Tysfjord}∞{nor}”. Sámedigge l aj rudáj doarjodam.
 
 
 Luonndovásádusá
 
-{Viddnudagán}${conc,ddn-dn|vidnudagán} li gålmmå doajmmatjerda. Várreoahpestibme sáme kultuvra, birrasa ja histåvrå birra. Dánna doalvvu ulmutjijt várijda nav vaj máhtti idjadit gámájn ja {låvdågådijn}${vowlat,å-a|låvdagådijn}. – Mij ietja biebmojt russtip tuvrajn ja {luojggam}${conc,jgg-jkk|luojkkam} lip {ideav}€{foreign,nor|dábev} indianarijs fállat “{vision quests}∞{eng}”. Dánna bessi turista galluga årudit jus ietja sihti. –Ietja dahki majt {hálidi}${conm,d-jd|hálijdi}, ja dan båttå máhtá buorebut {ietjadijn}${infl|ietjajnit} oahpástuvvat, javllá Inga Lill. Nubbe fálaldahka l lájddit ulmutjijt Råggejávrerájge tjadá mij la Måske lahka. Galggi 6-8 {persjåvnå}${concint,sj-s|persåvnå} ájgen {duolvvot}${vowc,uo-oa|doalvvot}, ja vierttiji 3 {oahpesdiddje}${conwb,sd-st|oahpestiddje} {vissesvuoda}€{w|oaggásvuoda} diehti. Dájt biejvijt tjadádi “{internt klatrekurs}∞{nor}” mij prosjæktaj gullu. Goalmát fálaldahka l {guohtsat}€{w|goarŋŋot} Stáddátjåhkkåj, {násjonalvárráj}${vowc,á-a;vowm-a-á|nasjonálvárráj}. Ådå fálaldagá båhti {mańenagi}${ascii|maŋenagi} gå muddo l. Nuorajn li aj ájádusá oasstet {vanntsav}${conc,nnts-nts|vantsav} majna turistajt Vuonav sisi suvdatji.
+{Viddnudagán}${conc,ddn-dn|Vidnudagán} li gålmmå doajmmatjerda. Várreoahpestibme sáme kultuvra, birrasa ja histåvrå birra. Dánna doalvvu ulmutjijt várijda nav vaj máhtti idjadit gámájn ja {låvdågådijn}${vowlat,å-a|låvdagådijn}. 
 
-- Mij sihtap fállat vásádusájt luondo baktu ja miejnniv miján la buorre máhtudahka majt amás oahpestiddjen ij gávna, javllá Lars Theodor Kintel Divtasvuonas, {ja}¥{0} gut la {bajás sjaddam}¢{cmp,X-1|bajássjaddam} dáppe. – Miján la {ietjamijn}${infl|iehtjama} {filosofia}${x|filosofija} ja diedo luondo birra, ja sihtap ietja dajna barggagoahtet åvdås iehtjáda ålggolis barggagåhti.
+– Mij ietja biebmojt russtip tuvrajn ja {luojggam}${conc,jgg-jkk|luojkkam} lip {ideav}€{foreign,nor|dábev} {indianarijs}${loan,vowc,a-á|indianárijs} fállat “{vision quests}∞{eng}”. Dánna bessi turista galluga årudit jus ietja sihti. 
 
-{Viddnudahka}${conc,ddn-dn|vidnudahkan} barggá ietjá {viddnudagáj}${conc,ddn-dn|vidnudagáj} vuosstáj oarjján ja {rijkagasskajt}${conc,ssk-sk|rijkagaskajt}, {tysklándan}${cap|Tysklándan} ja {Storbritanian}${cmp,X-2;mix|Stuorra Británnia}. Bálkkim li {tyska}${mix|dujska} {studentav mij}£{kongr|studentav gut} galggá {markedav}€{foreign,nor|márnánav} guoradallat.
+–Ietja dahki majt {hálidi}${conm,d-jd|hálijdi}, ja dan båttå máhtá buorebut {ietjadijn}${infl|ietjajnit} oahpástuvvat, javllá Inga Lill. 
+
+Nubbe fálaldahka l lájddit ulmutjijt Råggejávrerájge tjadá mij la Måske lahka. Galggi 6-8 {persjåvnå}${concint,sj-s|persåvnå} ájgen {duolvvot}${vowc,uo-oa|doalvvot}, ja vierttiji 3 {oahpesdiddje}${conwb,sd-st|oahpestiddje} {vissesvuoda}€{w|oaggásvuoda} diehti. Dájt biejvijt tjadádi “{internt klatrekurs}∞{nor}” mij prosjæktaj gullu. Goalmát fálaldahka l {guohtsat}€{w|goarŋŋot} Stáddátjåhkkåj, {násjonalvárráj}${vowc,á-a|nasjonalvárráj}. Ådå fálaldagá båhti {mańenagi}${ascii|maŋenagi} gå muddo l. Nuorajn li aj ájádusá oasstet {vanntsav}${conc,nnts-nts|vantsav} majna turistajt Vuonav sisi suvdatji.
+
+- Mij sihtap fállat vásádusájt luondo baktu ja miejnniv miján la buorre máhtudahka majt amás oahpestiddjen ij gávna, javllá Lars Theodor Kintel Divtasvuonas, {ja}¥{redun|} gut la {bajás sjaddam}¢{cmp,X-1|bajássjaddam} dáppe. 
+
+– Miján la {ietjamijn}${infl|iehtjama} {filosofia}${loan,conc,0-jj|filosofijja} ja diedo luondo birra, ja sihtap ietja dajna barggagoahtet åvdås iehtjáda ålggolis barggagåhti.
+
+{Viddnudahka}${conc,ddn-dn|Vidnudahkan} barggá ietjá {viddnudagáj}${conc,ddn-dn|vidnudagáj} vuosstáj oarjján ja {rijkagasskajt}${conc,ssk-sk|rijkagaskajt}, {tysklándan}${cap|Tysklándan} ja {Storbritanian}${cmp,hyph;loan|Stuorra-Britanian}. Bálkkim li {tyska}${loan,mix|dujska} {studentav mij}£{kongr|studentav gut} galggá {markedav}€{foreign,nor|márnánav} guoradallat.
 
 
 Guoradallat gáldojt
 
-Divna gålmås li studenta. Inga Lill låhkå sámegielav Råmsån, Andreas låhkågoahtá {“reiselivsstudium}∞{nor}” {Lillhammerin}${typo|Lillehammerin} mij vihpá 3 jage ja Lars Theodor låhkå {økonomiav}${vowc,ø-e;conm,0-j|ekonomijav} {Bodødjon}${vowc,o-å;vowlat,ø-å|Bådådjon}.
+Divna gålmås li studenta. Inga Lill låhkå sámegielav Råmsån, Andreas låhkågoahtá {“reiselivsstudium}∞{nor}” {Lillhammerin}${typo|Lillehammerin} mij vihpá 3 jage ja Lars Theodor låhkå {økonomiav}${conm,0-jj|økonomijjav} {Bodødjon}${vowc,o-å;vowlat,ø-å|Bådådjon}.
 
-Álgos sihtin {ietjasijda}${infl|allasisá} giessebargov, valla usjudallagåhtin ja vuojnni dát vaddá sidjij bargov ålles jagev, valla árrat la ájn ilá {ávudallat}${conc,v-vv|ávvudallat}. Vuostatjin galggi dahkat “girjátjav” gånnå gáldojt ja guoradallamijt kulturmujtojs dát guovlos duodasti. Gávnnuji moadda subttsasa ma ælla tjáledum, ja dajna aj sihti {juojddáv}${fin,v-0|juojddá} dahkat. Amuga de máhtti diedojt oadtjot dal dáj birra. – Dajna bargujn de vuodov ja álgov guoradallap dán guovlon, javllá Lars Theodor.
+Álgos sihtin {ietjasijda}${infl|allasisá} giessebargov, valla usjudallagåhtin ja vuojnni dát vaddá sidjij bargov ålles jagev, valla árrat la ájn ilá {ávudallat}${conc,v-vv|ávvudallat}. Vuostatjin galggi dahkat “girjátjav” gånnå gáldojt ja guoradallamijt kulturmujtojs dát guovlos duodasti. Gávnnuji moadda subttsasa ma ælla tjáledum, ja dajna aj sihti {juojddáv}${fin,v-0|juojddá} dahkat. Amuga de máhtti diedojt oadtjot dal dáj birra. 
+
+– Dajna bargujn de vuodov ja álgov guoradallap dán guovlon, javllá Lars Theodor.
 
 
 Sáme mannoæládusán la stuorra máhttelisvuohta
@@ -27,6 +38,6 @@ Sáme mannoæládusán la stuorra máhttelisvuohta
 Oassálassti aktisasjbargguj {ietjádij}${conc,tj-htj|iehtjádij}, duola dagu Nordland Turselskap. Sihti vijdedit dáv aktisasjvuodav, valla diehtep ij la álkke aktan daj barggat. Danen de ienemusát {gæhttjali oasstijt åttjudit ietjas værmádagá baktu}£{kongr|gæhttjali oasstijt åttjudit ietjasa værmádagá baktu}, ja {juo li}¥{wo|li juo} ságastam stivrajn Statoilan.
 
 
--Sáme mannoæládusán la stuorra máhttelisvuohta, javllá Andreas. {–Sverigin}${vowc,dihp|Svierigin} riek buoragit manná, ja diehtep aj Mimir`s rapporta vuoset buorre máhttelisvuodav gåktu sámekultuvrav fállat {turistajdi}${vowlat,i-a|turistajda} dáppe (Nuortta {{Salton}${{}vowc,a-á|Sálton}}}${cmp,X-hyhp|Nuortta-Sálton}.
+-Sáme mannoæládusán la stuorra máhttelisvuohta, javllá Andreas. {–Sverigin}${vowc,dihp|Svierigin} riek buoragit manná, ja diehtep aj Mimir`s {rapporta}${loan,mix|rappårttå} vuoset buorre máhttelisvuodav gåktu sámekultuvrav fállat {turistajdi}${vowlat,i-a|turistajda} dáppe {Nuortta {Salton}${vowc,a-á|Sálton}}¥{cmp,X-hyhp|Nuortta-Sálton}.
 
 {-Mj}${typo|Mij} lip ållu gijttogisá gå lip rudájt oadtjum duon dán guovlos, ja sierraláhkáj la buorre vuojnnet gå {nuorajdi}${vowlat,i-a|nuorajda} jáhkki {gudi gæhttjali ietjas barggosajijt dahkat}£{kongr|gudi gæhttjali allasisá barggosajijt dahkat}, javllá Inga Lill. Sån vuojnná dán {viddnudagá}${conc,ddn-dn|vidnudagá} baktu lassán dádjadus gåktu luondov várjjalit. Luonndo ællá, ja dajna máhttep guládallat, javllá sån.

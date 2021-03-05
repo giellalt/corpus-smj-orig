@@ -1,2 +1,3 @@
 Biernnalåhko lassán
-{Láttakmuddo}€{w|Láddimmuddo} l dal ruvva, ja biernnalåhko Svieriga bielen lassán, ”mijá” {Svierikdáfojn}${cmp,1-hyhp|Svierik-dáfojn} aj. {Dav vuoset ådå guoradallama}£{kongr|Dav vuosedi ådå guoradallama} {skandinavalasj}${vowc,a-á|skandinávalasj} biernnaprosjevtan. Länastivrra l loabedam 43 bierna vuohtjet Norrbottenin dán jage.
+
+{Láttakmuddo}€{w|Láddimmuddo} l dal ruvva, ja biernnalåhko Svieriga bielen lassán, ”mijá” {Svierikdáfojn}${cmp,1-hyhp|Svierik-dáfojn} aj. {Dav vuoset ådå guoradallama}£{kongr|Dav vuosedi ådå guoradallama} {skandinavalasj}${vowc,a-á|skandinávalasj} biernnaprosjevtan. {Länastivrra}${loan,vowc,ä-e|Lenastivrra} l loabedam 43 bierna vuohtjet Norrbottenin dán jage.

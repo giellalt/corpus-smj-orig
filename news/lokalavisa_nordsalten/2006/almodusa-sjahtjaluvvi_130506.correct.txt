@@ -2,7 +2,7 @@ Almodusá sjáhtjaluvvi
 
 Sáme girje ja tjállusa almoduvvi, ja dájda girjijda la vargga agev dárbbo gåvvididdjijda. Valla almmudagájda ij la agev {álgge}€{w|álkke} gávnnat soabmásav guhti hiehpá {dáhkkár}${conc,hkk-kk|dákkár} bargguj. Dajna de soames almodusá sjáhtjaluvvi. Bård Eriksen åhtså julevsámegielak gåvvididdjijt.
 
-Bæjválasj jådediddje Báhko almmudagán Bård Eriksen javllá gåvvididdje vuostak hæhttuji Sámedikkes dåhkkiduvvat. Báhko {álmmudagán}${vowc,á-a|almmudagán} li avta galla gåvvididdje gejt adni, ja Eriksen javllá muhttijn la gássjel jus (soames gåvvididdjes dagu {skihpppá}${conc,hppp-hpp|skihppá} jali {ietja}¢{vowlat,a-á|ietjá} sivá diehti hæhkkat e máhte gåvåjt {dahkat}}£{kongr;Sg-Pl|soames gåvvididdjijs dagu skihppá jali ietjá sivá diehti hæhkkat ij máhte gåvåjt dahkat}.
+Bæjválasj jådediddje Báhko almmudagán Bård Eriksen javllá gåvvididdje vuostak hæhttuji Sámedikkes dåhkkiduvvat. Báhko {álmmudagán}${vowc,á-a|almmudagán} li avta galla gåvvididdje gejt adni, ja Eriksen javllá muhttijn la gássjel jus {soames gåvvididdjes dagu {skihpppá}${conc,hppp-hpp|skihppá} jali {ietja}¢{vowlat,a-á|ietjá} sivá diehti hæhkkat e máhte gåvåjt dahkat}£{kongr;sg-pl|soames gåvvididdjijs dagu skihppá jali ietjá sivá diehti hæhkkat ij máhte gåvåjt dahkat}.
 
 -Muhttijn soajttá nav gåvvididdje ij máhte bargov válldet {gå}¥{missing|jur gå} almmudahka sihtá. Dajna de soames girjjeprosjevta hæhttuji sjáhtjaluvvat. Sámedigge dåhkkit gåvvididdjijt, ja gæhttji fágalasj åvddånbuktemvuohkáj gå {árvvustalli}${conc,rvv-rv|árvustalli} gåvvididdjijt. Ienemusát guosská dát {tjáhpagirjalasjvuodagirjijda}${conc,hp-pp|tjáppagirjálasjvuodagirjijda}, subtsas Bård Eriksen.
 
@@ -16,14 +16,15 @@ Eriksen aj adná dárogielak gåvvididdjijt, valla gå galggi {sámegielagirjijt
 Eriksen ij la gæhttjalam gåvvididdjev ietjá sáme guovlojs. Sån usjudallá gájka gåvvididdje e rat julevsámegielav dádjada, ja dajna hæhttu huoman ássjev giehtadallat dagu dárogielagijda.
 
 
-Ij {amatørajt}¥{missing|amatørajt lágeda}
-Sámedikke gåvvididdjekonsulænnta Aino Hivand la {moadda gåvåjt gæhttjam}£{x|moadda gåvå gæhttjam;måttijt gåvåjt} ja válljim gåvåjt almmudagáj åvdås. Hivand gæhttjá vuostak makkár perspektijvva l gåvån ja aj ållesvuodav gåvån.
+{Ij {amatørajt}${loan,vowc,ø-e|amaterajt}}¥{missing|Ij amaterajt lágeda}
 
--Gå lav mánusa tjadá låhkåm, de gehtjav gåvåjda ma girjjáj gulluji. Gehtjav makkár åvddånbuktemvuohke la gåvån, ja gehtjav aj vaj la sæmmi åvddånbuktemvuohke ålles girjen. Jus la dárbbo, de buvtáv ævtodusájt stuorrudahkaj ja vájbi ietjá elementajt adnet, giehttu Hivand.
+Sámedikke gåvvididdjekonsulænnta Aino Hivand la {moadda gåvåjt gæhttjam}£{x|moadda gåvå gæhttjam} ja válljim gåvåjt almmudagáj åvdås. Hivand gæhttjá vuostak makkár perspektijvva l gåvån ja aj ållesvuodav gåvån.
+
+-Gå lav mánusa tjadá låhkåm, de gehtjav gåvåjda ma girjjáj gulluji. Gehtjav makkár åvddånbuktemvuohke {la}£{cop|l} gåvån, ja gehtjav aj vaj la sæmmi åvddånbuktemvuohke ålles girjen. Jus la dárbbo, de buvtáv ævtodusájt stuorrudahkaj ja vájbi ietjá elementajt adnet, giehttu Hivand.
 
 Åvddånbuktemvuohke l ájnas, ja gåvå hæhttuji {almma}€{w|almmmaláhkáj} dagáduvvat. Ja de galggi girje sisadnuj hiehpat.
 
--Gåvå galggi nav buore liehket vaj dåhkki dåssju gåvåj tjadá gæhttjat, de diedá girje sisanov. Dajna de viertti gåvvididdje liehket {proffa}€{foreign|diehtte}. Ij de dåhkki amatørajt adnet, subtsas Hivand.
+-Gåvå galggi nav buore liehket vaj dåhkki dåssju gåvåj tjadá gæhttjat, de diedá girje sisanov. Dajna de viertti gåvvididdje liehket {proffa}€{foreign|diehtte}. Ij de dåhkki {amatørajt}${loan,vowc,ø-e|amaterajt} adnet, subtsas Hivand.
 
 Suv mielas ettjin galga divna girje almoduvvat gå gåvå li nav nievre, ja gåhttju almmudagájt snivva gåvvididdjijt åhtsåt.
 
