@@ -130,8 +130,8 @@ máhttá dáhpáduvvat?
 
 Jus dát ij åvvånis viehkeda, ja dån suhta, ale rádnajda suhta. {Tjurvvista
 páhppárijs}£{case,ela-acc|Tjurvvista páhppárijt} ja
-{luossa}¢{conc,ss-s|luosa} sæjnnáj. Jali maná viegatjit. Dat
-soajttá suhtov gádot. Ale viega {skåvlå vásuk {jali}€{w|jalik}} {eksábmalajná}${noun,conc|eksábmalanjá}}¥{wo|skåvlå jalik eksábmalanjá vásuk},
+{luossa}¢{conc,ss-s|luosa} sæjnnáj. Jali maná viegatjit. {Dat
+soajttá suhtov gádot}£{x|Dat soajttá suhtov gádodit}. Ale viega {skåvlå vásuk {jali}€{w|jalik}} {eksábmalajná}${noun,conc|eksábmalanjá}}¥{wo|skåvlå jalik eksábmalanjá vásuk},
 gå dát máhttá {værádit}${verb,mix|vieredit} "eksábmanervajt". Jus sjaddá riek
 {nievrre}€{w|vájvve}, máhtá válldet maŋen {páppárijt}${conc,pp-hpp|páhppárijt}
 viegatjit, ja {håjggådit {åhpådiddje}${vowlat,å-a|åhpadiddje} goade

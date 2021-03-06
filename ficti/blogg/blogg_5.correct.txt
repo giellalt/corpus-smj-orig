@@ -154,7 +154,7 @@ tjállám: Naima {kloahkká}${loan,vowlat,á-a|kloahkka} 12:28
 Majt aná dán birra?
 
 Buoris gájka!
-Buoris diek! Dán {bloggan}${loan,vowc,o-å;conc,gg-kk|blåkkan} mån {sjattáv}${vowlat,á-a|sjattav} {dåsju}${conc,sj-ssj|dåssju} julevsámegiellaj tjállet. {Blogga}${loan,vowc,o-oa|Bloagga} la {prosjäkttabárggo}${loan,conc,ktt-kt|prosjäktabarggo} sámegielan. {Så}∞{swe} muv ieddne, gut le muv {åhpådiddje}${vowlat,å-a|åhpadiddje} låhkå dáv {bloggav}${loan,vowc,o-å;conc,gg-kk|blåkkav}. Mån {viettiv}${conc,tt-rtt|vierttiv} tjállet {buore}¢{conc,rr-r|buorre} sámev de :) Dánna mån {sjattáv}${vowlat,á-a|sjattav} tjállet {duon dán birra}¥{missing|duon dán ássje birra} degu, {skåvllåbárgoj}${vowc,á-a|skåvllåbargoj} birra, majt mån dagáv biejvijt, gåk manná hárjjidallamijn ja ålov ienep (majt {oajvvaj}${vowlat,a-á|oajvváj} {dähppu}}£{case,acc-nom|mij oajvváj dähppu}. Gåvåjt oattjo aj vuojnnet dánna!
+Buoris diek! Dán {bloggan}${loan,vowc,o-å;conc,gg-kk|blåkkan} mån {sjattáv}${vowlat,á-a|sjattav} {dåsju}${conc,sj-ssj|dåssju} julevsámegiellaj tjállet. {Blogga}${loan,vowc,o-oa|Bloagga} la {prosjäkttabárggo}${loan,conc,ktt-kt|prosjäktabarggo} sámegielan. {Så}∞{swe} muv ieddne, gut le muv {åhpådiddje}${vowlat,å-a|åhpadiddje} låhkå dáv {bloggav}${loan,vowc,o-å;conc,gg-kk|blåkkav}. Mån {viettiv}${conc,tt-rtt|vierttiv} tjállet {buore}¢{conc,rr-r|buorre} sámev de :) Dánna mån {sjattáv}${vowlat,á-a|sjattav} tjállet {duon dán birra}¥{missing|duon dán ássje birra} degu, {skåvllåbárgoj}${vowc,á-a|skåvllåbargoj} birra, majt mån dagáv biejvijt, gåk manná hárjjidallamijn ja ålov ienep {majt {oajvvaj}${vowlat,a-á|oajvváj} dähppu}£{case,acc-nom|mij oajvváj dähppu}. Gåvåjt oattjo aj vuojnnet dánna!
 
 
 

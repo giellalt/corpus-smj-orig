@@ -76,6 +76,6 @@ Vuoj, man gássjelis le álu dási {tjálet}¢{conc,l-ll|tjállet}. Iv huomaha {
 
 Ittjiv jáhke muohta galgaj {bissut}¢{vowlat,u-o|bissot}, valla ájn le vielggat. Juo máhttep sabegijda tjágŋat, ja idet galgav {{skejttitjit}${x|skiejttitjit}}€{foreign,swe|salostittjat} {aktan Per Jonasin}£{x|Per Jonasa siegen}.
 
-Iehkedis soajttá sjaddá {rail-session}∞{eng} aj.
+Iehkedis {soajttá sjaddá}£{x|soajttá sjaddat} {rail-session}∞{eng} aj.
 
 Uddni lav viehkam ja rádjam.
