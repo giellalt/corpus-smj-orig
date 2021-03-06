@@ -13,12 +13,12 @@
     -->
     <xsl:variable name="filename" select="'http://fug.imaker.no/data/f/0/31/69/5_2401_0/Tid_for_samtale_lulesamisk.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Ságastallup dal'"/>
+    <xsl:variable name="title" select="'Ságastallup dal'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author1_fn" select="'Kåre '"/>
+    <xsl:variable name="author1_fn" select="'Kåre '"/>
     <xsl:variable name="author1_ln" select="'Lutro'"/>
     <!-- m, f or unknown -->
     <xsl:variable name="author1_gender" select="'m'"/>

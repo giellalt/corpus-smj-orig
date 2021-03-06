@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://www.tysfjord.kommune.no/getfile.php/2636649.1172.wcufaudfvy/Påmeldngsskjema+Tysfjord+kulturskole+2014-2015+SAMISK.pdf'"/>
+    <xsl:variable name="filename" select="'https://www.tysfjord.kommune.no/getfile.php/2636649.1172.wcufaudfvy/Påmeldngsskjema+Tysfjord+kulturskole+2014-2015+SAMISK.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <!--

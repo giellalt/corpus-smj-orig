@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/samisk_081010.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Amás slidjagruvvo Funtan'"/>
+    <xsl:variable name="title" select="'Amás slidjagruvvo Funtan'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/2011/Samisk_160911.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Ælla rudá varresvuodaguovdátjij og Tjáhtjeihtja Sáttonjárgjávren'"/>
+    <xsl:variable name="title" select="'Ælla rudá varresvuodaguovdátjij og Tjáhtjeihtja Sáttonjárgjávren'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -119,7 +119,7 @@
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="current_version" select="'Revision'"/>
     <!-- Free text field for notes -->
-    <xsl:variable name="note" select="'Paralleltekst bare til Ælla rudá varresvuodaguovdátjij '"/>
+    <xsl:variable name="note" select="'Paralleltekst bare til Ælla rudá varresvuodaguovdátjij '"/>
 
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="mainlang" select="'smj'"/>

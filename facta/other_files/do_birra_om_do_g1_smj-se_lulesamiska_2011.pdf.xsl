@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.do.se/Documents/sprak/lulesamiska/DO%20birra%20(Om%20DO)%20G1%20SMJ-SE%20(lulesamiska)%202011.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'DO birra Om DO på lulesamiska'"/>
+    <xsl:variable name="title" select="'DO birra Om DO på lulesamiska'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

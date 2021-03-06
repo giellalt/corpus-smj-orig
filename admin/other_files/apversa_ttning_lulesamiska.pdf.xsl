@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.gallivare.se/Global/Kommun%20och%20Samhälle/Minoritetsspråk/Lulesamiska/översättning%20Lulesamiska.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Jielleváre Gielda Unneplåhko Ájggomusplána'"/>
+    <xsl:variable name="title" select="'Jielleváre Gielda Unneplåhko Ájggomusplána'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

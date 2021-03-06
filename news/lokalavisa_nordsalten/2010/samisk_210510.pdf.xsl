@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.nord-salten.no/files/samisk_210510.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Subttsasa riegádime ja jábmema birra sáme sijdajn'"/>
+    <xsl:variable name="title" select="'Subttsasa riegádime ja jábmema birra sáme sijdajn'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

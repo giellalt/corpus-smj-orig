@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.val.se/sameting2013/2013_val_till_sametinget_lulesamiska_953a_5utg.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Válljim Sámediggáj Sámediggeválljim 2013'"/>
+    <xsl:variable name="title" select="'Válljim Sámediggáj Sámediggeválljim 2013'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
