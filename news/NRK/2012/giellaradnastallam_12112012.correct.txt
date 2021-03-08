@@ -4,11 +4,13 @@ Giellarádnastallam
 {Gåvådibme:Máná}${x|Gåvådibme: Máná} sjiejssiji Ájluovta jávren.
 
 {Foto}∞{nor}: Harrieth Aira/NRK
+
 Giellarádnastallam la ådå sámegielak fálaldahka mánájda Ájluovtan, Divtasvuonan.
 
-Divtasvuona ASVO la álgadam prosjevtav "Mij sámástip aktan - buolvaj gaskan" ja la giellaprosjækta mij galggá njálmálasj sámegielav nannit ja åvdedit.
+Divtasvuona ASVO {la}£cop|l} álgadam prosjevtav "Mij sámástip aktan - buolvaj gaskan" {ja la}¥{missing|ja dát la} giellaprosjækta mij galggá njálmálasj sámegielav nannit ja åvdedit.
 
-Sámedigge la ruhtadam prosjevtav ja gålmmå julevsámegielak nuora, Ingrid Kintel, Inga Mikkelsen ja Mathias Mikkelsen, Ájluovtas Divtasvuonan fálli mánájda sámegielak {arenav}${loan,vowlat,a-á|arenáv} gånnå sámástit rádnastallama ja suohttasij baktu la oajvvedoajmma.
+Sámedigge {la}£{cop|l} ruhtadam prosjevtav ja gålmmå julevsámegielak nuora, Ingrid Kintel, Inga Mikkelsen ja Mathias Mikkelsen, Ájluovtas Divtasvuonan fálli mánájda sámegielak {arenav}${loan,vowlat,a-á;vowc,e-ie|arienáv} gånnå sámástit rádnastallama ja suohttasij baktu {la}£{cop|l} oajvvedoajmma.
+
 Sámegielak máná ja nuora æjvvali
 
 Akti vahkkuj tjoahkkiji nuora skåvllåmánájt sámegielak rádnastallamdåjmajda.
@@ -17,6 +19,7 @@ Akti vahkkuj tjoahkkiji nuora skåvllåmánájt sámegielak rádnastallamdåjmaj
 Ingrid Kintel
 
 {Foto}∞{nor}: Harrieth Aira/NRK
+
 – Dat la doajmmaiehket mánájda gånnå galggap ståhkat, aktan liehket, rádnastallat ja suohtastallat. Mij galggap ståhkat, lájbbot, biebmojt riejddit, tjerastallat, tjuojggat, sjiejssit j.n.v. Ja gájkka galggá sámegiellaj dáhpáduvvat, subtsas akta dájs nuorajs, Ingrid Kintel gut la fáron ásadime dájt rádnastallamiehkedijt.
 Dát la ådå fálaldahka sáme mánájda.
 
@@ -24,37 +27,37 @@ Ulmme l sámástit, valla gatjálvis le gåktu dav tjoavddet vaj oadtjot mánáj
 
 –Uddni ij dal nav ållo sámegiella sijdajn gullu, subtsas Kintel.
 
-–Ja gå luondulasj sáhka ij gullu sijdajn, {dat {arena}${loan,conc,n-dn;vowlat,a-á|aredná} gånnå máná galggi sámegielav gullat}£{case,nom-ine|dan arenán gånnå máná galggi sámegielav gullat}, gå dat vádnun sijda bieles, de dárbahip dahkat arenav gånnå máná iejvviji bágojt ja sosialiseriduvvi sámegiellaj. Mån jáhkáv sámegiella gullugoahtá gå hárjjánip sámástit nubbe nubbáj ja máná oadtju hárjjánit sijá ságastallamgiella máhttá liehket sámegiella, dættot sån.
+–Ja gå luondulasj sáhka ij gullu sijdajn, {dat {arena}${loan,conc,n-dn;vowlat,a-á;vowc,e-ie|ariedná} gånnå máná galggi sámegielav gullat}£{case,nom-ine|dan arienán gånnå máná galggi sámegielav gullat}, gå dat vádnun sijda bieles, de dárbahip dahkat {arenav}${loan,vowlat,a-á;vowc,e-ie|arienáv} gånnå máná iejvviji bágojt ja {sosialiseriduvvi}¢{loan,vowc,e-ie|sosialisieriduvvi} sámegiellaj. Mån jáhkáv sámegiella gullugoahtá gå hárjjánip sámástit nubbe nubbáj ja máná oadtju hárjjánit sijá ságastallamgiella máhttá liehket sámegiella, dættot sån.
 
 Lågå aj: Mij aktan sámástip
+
 –Dåssju akta njuolgadus: Sámástit
 
 Rádnastallamprosjækta
 
-rádnastallama, suohtastallamij ja ávvudallamij baktu sámegielak {arena}${loan,conc,n-dn;vowlat,a-á|aredná} gånnå máná ja nuora aktan hárjjáni sámástit buolvaj gaskan
-{oadtjot sámegiela adnemav {ålgos}¢{vowlat,o-u|ålgus} institusjåvnåjs}¥{missing|galggá oadtjot sámegiela adnemav ålgus institusjåvnåjs} ja ásadit dádjadusáv dåhkki má akta ber gånnå sámástit
-la julevsáme skåvllåmánájda gejn la sámegiella {vuostasj giellan}¢{cmp,X-1|vuostasjgiellan} skåvlån
-mánájda vuostasj klássas giehttjit klássaj
-jådeduvvá gålmmå julevsámegielak nuorajs
-la akti vahkkuj, duorastagájt gudás gáktsáj
-gálldo: {tysfjordasvo.no}∞{url}
+{rádnastallama}‰{cap|Rádnastallama}, suohtastallamij ja ávvudallamij baktu sámegielak {arena}${loan,conc,n-dn;vowlat,a-á;vowc,e-ie|ariedná} gånnå máná ja nuora aktan hárjjáni sámástit buolvaj gaskan
+{oadtjot sámegiela adnemav {ålgos}¢{vowlat,o-u|ålgus} institusjåvnåjs}¥{missing|galggá oadtjot sámegiela adnemav ålgus institusjåvnåjs} ja ásadit dádjadusáv dåhkki {má akta ber gånnå sámástit la julevsáme}‰{notcomma|má akta ber gånnå sámástit, la julevsáme} skåvllåmánájda gejn la sámegiella {vuostasj giellan}¢{cmp,X-1|vuostasjgiellan} {skåvlån}‰{notcomma|skåvlån,}
+mánájda vuostasj klássas giehttjit {klássaj}‰{notcomma|klássaj}
+jådeduvvá gålmmå julevsámegielak {nuorajs}‰{notcomma|nuorajs,}
+la akti vahkkuj, duorastagájt gudás {gáktsáj}‰{punct|gáktsáj.}
+{gálldo}‰{cap|Gálldo}: {tysfjordasvo.no}∞{url}
 
 Æjvvalimiehkedijn la akta njuolgadus.
 
-– Dájn æjvvalimijn la dåssju akta njuolgadus ja dat la sámástit. Dát la fálaldahka mánájda, sij bessi ietja válljit jus sihti fáron jali jus e sidá fáron. Ja gå mánná iesj bæssá válljit, {“já}¥{redun|0} dáv de mån sidáv”, de sån juo diehtá vuordeduvvá sujsta sámegiella jus galggá oassálasstet. Ja navti mij jåksåp nubbe nuppev, máná ja midja nuora, subtsas Kintel.
+– Dájn æjvvalimijn la dåssju akta njuolgadus ja dat la sámástit. Dát la fálaldahka mánájda, sij bessi ietja válljit jus sihti fáron jali jus e sidá fáron. Ja gå mánná iesj bæssá válljit, {“já}¥{redun|} dáv de mån sidáv”, de sån juo diehtá vuordeduvvá sujsta sámegiella jus galggá oassálasstet. Ja navti mij jåksåp nubbe nuppev, máná ja midja nuora, subtsas Kintel.
 
-Fálaldahka la skåvllåmánájda gejn la sámegiella {vuostasj giellan}¢{cmp,X-1|vuostasjgiellan} vuostasj klássas giehttjit klássaj, ja la akti vahkkuj.
+Fálaldahka {la}£{cop|l} skåvllåmánájda gejn la sámegiella {vuostasj giellan}¢{cmp,X-1|vuostasjgiellan} vuostasj klássas giehttjit klássaj, ja la akti vahkkuj.
 
 Ja máná li diededam dási sij sihti sæbrrat.
 
 – Gå mánájt iejvviv oassásin de tjuorvvu “Håj, Ingrid, mån ávvudaláv rádnastallamij”, så dájda iehkedijda de máná ávvudalli. Miján ælla ga makkirik diededime. Da gudi båhti, båhti, subtsas Ingrid.
 
-Sihti sámástimev privatiserit
+Sihti sámástimev {privatiserit}¢{loan,vowc,e-ie|privatisierit}
 
 Ja gånnå máná ja dá gålmmå nuora galggi æjvvalit ij la ga mierreduvvam álgos.
 
 –Miján ij la sierra sadje gånnå æjvvalip, subtsas Ingrid.
 
-– Mij ep sidá sámástimev institusjåvnåjda tjadnat. Mij sihtap má juokkirik láhkáj privatiserit dáv. Sámegiella ij gullu dåssju skåvllåj, dåssju Árranij jali {ASVOj}${suf|ASVO:j}. Sámegiella ij la juoga mij dåssju dákkir sajijn galggá gullut. Mij máhttep akta ber gånnå sámástit, ja dan diehti ij la miján stuoves æjvvalimsadje. Muhttijn lip muv lunna, ietjá bále ålggon ja ietjá bále ihkap nágin iehtjádij lunna, subtsas sån.
+– Mij ep sidá sámástimev institusjåvnåjda tjadnat. Mij sihtap má juokkirik láhkáj {privatiserit}¢{loan,vowc,e-ie|privatisierit} dáv. Sámegiella ij gullu dåssju skåvllåj, dåssju Árranij jali {ASVOj}${suf|ASVO:j}. Sámegiella ij la juoga mij dåssju dákkir sajijn galggá gullut. Mij máhttep akta ber gånnå sámástit, ja dan diehti ij la miján stuoves æjvvalimsadje. Muhttijn lip muv lunna, ietjá bále ålggon ja ietjá bále ihkap nágin iehtjádij lunna, subtsas sån.
 
 {GULLDAL ÅLLES ÁSSJEV}£{x|GULLDALA ÅLLES ÁSSJEV} DÁNNA:

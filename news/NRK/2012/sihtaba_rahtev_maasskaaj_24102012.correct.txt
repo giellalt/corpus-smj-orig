@@ -3,21 +3,25 @@ Sihtaba rahtev Måsskåj
 Såj libá riek dudálattja mærrádusájn, suohkanstivraájras Filip Mikkelsen ja suohkanoajvve Tor Asgeir Johansen.
 
 {Foto}∞{nor}: Harrieth Aira/NRK
+
 Divtasvuona suohkanstivrra mierredij iektu avtajienalattjat doarjjot Måskerahte {traseav}${loan,conc,0-j|trasiejav} mij la plániduvvam mannat Måskes Ájláddáj, Divtasvuonan.
 
 Aktisasjlista ájras Filip Mikkelsen åhtsålij árabut dán tjavtja ássjev gå suohkanstivrra ij la ássjev giehtadallam maŋŋel gå åvddåprosjækta lij gergas dijmmá, ja ruhtamerustallam tjielgaduváj.
 
 Lågå aj: Måskerahte sjávvunij
+
 Lågå aj: {Stilt om Muskenveien}∞{nor}
+
 Valla iektu de avtajienalasj suohkanstivrra mierredij doarjjot måskegij ja oarjjevuonagij rahtegájbbádusáv majt li gájbbedam juo 50-60 jage.
 
 {Suohkanstivra ájrrasa}¢{cmp,X-1|Suohkanstivraájrrasa} bivddi guovlo- ja {stáhta oajválattjajt}¢{cmp,X-1|stáhtaoajválattjajt} vuorodit rahteprosjevtav Måsskåj.
 
 Suohkanstivra mielas la ájnas rahtev Måsskåj oadtjot vaj:
 
-Buorep láhkáj sjaddá máhttelis {ávkástallat {luondoressursajt}¢{cmp,gen-nom|luonndoressursajt}}£{luonndoressursajs} guovlon {dagu strávvev/{energijav}${concinit,g-sj;conc,j-jj|enersjijjav}, merraressursajt ja ihkap minerállaressursajt jus gávnnuji}£{case,acc-nom|dagu strávve/enersjijja, merraressursa ja ihkap minerállaressursa jus gávnnuji.
+Buorep láhkáj sjaddá máhttelis {ávkástallat {luondoressursajt}¢{cmp,gen-nom|luonndoressursajt}}£{case,acc-ela|ávkástallat luonndoressursajs} guovlon {dagu strávvev/{energijav}${concinit,g-sj;conc,j-jj|enersjijjav}, merraressursajt ja ihkap minerállaressursajt jus gávnnuji}£{case,acc-nom|dagu strávve/enersjijja, merraressursa ja ihkap minerállaressursa jus gávnnuji}.
+
 Buorep láhkáj sjaddá máhttelis åvddånahttet turismav ja mannoæládusáv valjes luonndoguovlon.
-Måsske aktan {Måskeláhka}€{w|måskebirrusa} vuodnabájkátjijn la ájnas sadje suoddjitjit ja åvddånahtátjit julevsáme árbbedábijt ja iellemvuogijt.
+{Måsske aktan {Måskeláhka}€{w|måskebirrusa} vuodnabájkátjijn}£{sg-pl|Måsske aktan måskebirrusa vuodnabájkátjij} la ájnas sadje suoddjitjit ja åvddånahtátjit julevsáme árbbedábijt ja iellemvuogijt.
 Måskegijda ja Oarjjevuona viesádijda sjaddá buorre ja oalle almulasj dievnastusfálaldahka sæmmi láhkáj dagu ietján sebrudagán.
 Suohkanstivra mielas ij udnásj mannomáhttelisvuohta tjoavde álmmuga dárbojt jalik vatte buoremus tjoavddusijt.
 

@@ -4,17 +4,20 @@
 Lars Filip Paulsen, Divtasvuonas la oajvvaduvvam bajemus sadjáj Oalgesbelludagá listan {sámedikkeválggaj}¢{cmp,gen-nom|sámediggeválggaj}.
 
 {Foto}∞{nor}: Harrieth Aira/NRK
+
 {Oalgesbelludak oajvvat Lars Filip Paulsen}£{case,nom-acc|Oalgesbelludak oajvvat Lars Filip Paulsenav}, Ájluovtas Divtasvuonan bajemus sadjáj dán tjavtja {sámedikkeválggaj}¢{cmp,gen-nom|sámediggeválggaj} Viestarmera válggabijran.
 
 Harrieth Aira {harrieth.aira@nrk.no}∞{url}
+
 Paulsen la Divtasvuona suohkanpolitihkkár Aktisasjlistan gåsi belludagá Oalges -, Gårå -, Krisstalasj álmmukbelludak - ja {Belludahtága}${der,áhta-ibme|belludibme} gulluji.
 
 Sån la aj sadjásasj ájras Divtasvuona åvddånammadusán ja stuoves ájras Doajmmenammadusán.
 
-Lars Filip Paulsen barggá sámegiella rádevadden Árran - julevsáme guovdátjin ja la udnásj NSR:a sámedikkeájrrasa, Miriam {Paulsen:a}${suf|Paulsena} viellja.
+Lars Filip Paulsen barggá {sámegiella rádevadden}¥{pred-attr|sámegiella rádevadden} Árran - julevsáme guovdátjin ja la udnásj NSR:a sámedikkeájrrasa, Miriam {Paulsen:a}${suf|Paulsena} viellja.
 
 Lågå aj: {Høyre vil være med i kampen}∞{nor}
-Dán bále la vuostasj bále gå Oalgesbelludak tsieggi listav {sámedikkeválggaj}¢{cmp,gen-nom|sámediggeválggaj} Viestarmera válggabijran.
+
+Dán bále {la}£{cop|l} vuostasj bále gå Oalgesbelludak tsieggi listav {sámedikkeválggaj}¢{cmp,gen-nom|sámediggeválggaj} Viestarmera válggabijran.
 
 Nominasjåvnnåtjåhkanibme Bådåddjon
 
@@ -22,25 +25,32 @@ Oalgesbelludagá nominasjåvnnåtjåhkanibme Viestarmera válggabijran la {Båd�
 {Dála oajvvaduvvam lissta}¥{missing|Dála l oajvvaduvvam lissta}:
 
 1. Lars Filip Paulsen, 33 jagák, Divtasvuodna
+
 2. Aili Kirste Solheim Strømeng, 18 jagák, Vestvågøy 
+
 3. Nils Ante Eira, 37 jagák, Loabát
 
 4. Åshild Jessen, 25 jagák, Divtasvuodna
+
 5. Frank-­‐Håvard Storvik, 43 jagák, Bådåddjo
+
 6. Lars Roger Hansen, 32 jagák, Lådik
+
 7. Birgit Ellen Sara M Skum, 51 jagák, Sálatvuobme
+
 8. Line Maria Berglund, 37 jagák, Ándá
 
 9. Arnhild Lindback, 26 jagák, Hábmer
+
 10. Andreas Mikkelsen, 28 jagák, Divtasvuodna
 
 Filip Mikkelsen ij sebra
 
-Divtasvuona suohkanpolitihkkár ja sadjásasj jådediddje Oalgesbelludagá sámepolitihkalasj juohkusin , Filip Mikkelsen (ij la oajvvaduvvam {gånnån}${fin,n-k|gånnåk} {sajen}}£{case,ine-ill|ij la oajvvaduvvam gånnåk sadjáj} dán listan.
+Divtasvuona suohkanpolitihkkár ja sadjásasj jådediddje Oalgesbelludagá sámepolitihkalasj juohkusin , Filip Mikkelsen {ij la oajvvaduvvam {{gånnån}${fin,n-k|gånnåk}}€{w|makkirak} sajen}£{case,ine-ill|ij la oajvvaduvvam gånnåk sadjáj} dán listan.
 
 Filip Mikkelsen tjielggi manen sån ij la listan {jus ga}¢{cmp,X-1;conc,sg-sk|juska} sån la lista duogen.
 
-– Suohkanpolitihkka la munji nuoges doajmma ja mån iv hálida sæbrrat sámedikkepolitihkkárin. Sidáv aj {lahtjet}${vowc,a-á|láhtjet} {sájev}${vowc,á-a|sajev} nuorap ulmutjijda, le má sidja gudi li sámedikke {boahtte ájgge}¢{cmp,-X-1|boahtteájgge}, javllá Mikkelsen {NRK:aj}${suf|NRK:j}.
+– Suohkanpolitihkka {la}£{cop|l} munji nuoges doajmma ja mån iv hálida sæbrrat sámedikkepolitihkkárin. Sidáv aj {lahtjet}${vowc,a-á|láhtjet} {sájev}${vowc,á-a|sajev} nuorap ulmutjijda, le má sidja gudi li sámedikke {boahtte ájgge}¢{cmp,-X-1|boahtteájgge}, javllá Mikkelsen NRK:aj.
 Viestarmera válggabijrra
 
 Viestarmera válggabijrra la akta {gietjav válggabijrajs}£{case,nom-par;x|gietjat válggabijras} {sámedikkeválggaj}¢{cmp,gen-nom|sámediggeválggaj}. {Divrráid, Siellaga, Loabága, Rivttaga, Skániid, Ivvárstáđiid, Harstad, Bjarkøy, Giehtavuona, Ánddasullo, Ikšnášši, Bieváid, Suortta, Válafierdda, Voagaj, Vestvågøy, Flakstad, Moskenes, Værøy, Røst, Lådiga, Dielddanuori, Evenášši, Nárvijka, Bálága, Divtasvuona, Hábmera, Stájgo, Oarjjelij Fuoldá, Bådådjo, Fuosko, Sáláda, Oarjelij Bájddára, Bájddára ja Meløy}∞{nor/sme} suohkana gulluji dán válggabijrraj.
