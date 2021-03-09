@@ -142,7 +142,7 @@ Majt aná dán birra?
 
 {mánnodak}‰{cap|Mánnodak} vas
 
-Buoris! Uddni le mánnodak vas ja duorastagá lav vuolggemin {Kandadaj}${conc,nd-n|Kanadaj}. {Vuojvuoj}${cmp,1-X|Vuoj vuoj} gåk mån ávvudaláv {dåhkku}¢{conc,hkk-hk|dåhku}}€{w|dasi}, ihkap ilá {ållo}£{case|ålov}, tjáláv máj dan birra juohkka bále...Hm. Valla dálla lav gåjt skåvlån, anáv sámegielav dálla. Muv {åhpådiddje}${vowlat,å-a|åhpadiddje) {máŋunij}${ascii|maŋŋunij} danen huomahiv ahte dánna máhtáv tjállet. Dálla {lav gåjt gulldalimen}£{x|lav gåjt gulldalime} rádiov ja galgav {álgget {bárggat}${vowc,á-a|barggat}}€{phr|barggagoahtet}.
+Buoris! Uddni le mánnodak vas ja duorastagá lav vuolggemin {Kandadaj}${conc,nd-n|Kanadaj}. {Vuojvuoj}${cmp,1-X|Vuoj vuoj} gåk mån ávvudaláv {{dåhkku}¢{conc,hkk-hk|dåhku}}€{w|dasi}, ihkap ilá {ållo}£{case|ålov}, tjáláv máj dan birra juohkka bále...Hm. Valla dálla lav gåjt skåvlån, anáv sámegielav dálla. Muv {åhpådiddje}${vowlat,å-a|åhpadiddje) {máŋunij}${ascii|maŋŋunij} danen huomahiv ahte dánna máhtáv tjállet. Dálla {lav gåjt gulldalimen}£{x|lav gåjt gulldalime} rádiov ja galgav {álgget {bárggat}${vowc,á-a|barggat}}€{phr|barggagoahtet}.
 
 
 Hivás!

@@ -14,7 +14,7 @@ Måj Per Jonasijn
 Ráddnam :)
 
 
-Iehkedis kloahkka gietjan le {sámeteahter}${loan,vowc,a-á,vowfin,e-a||sámeteáhtar}; {byfinnar, lappjävlar och annat pack}∞{swe}. Gullam lav ahte le riek buorre ja suohtas {teahter}${loan,vowc,a-á|teáhter}, ávvudaláv {{dallutji}${x|dallutjij}}€{w|dassátjij}!
+Iehkedis kloahkka gietjan le {sámeteahter}${loan,vowc,a-á,vowfin,e-a|sámeteáhtar}; {byfinnar, lappjävlar och annat pack}∞{swe}. Gullam lav ahte le riek buorre ja suohtas {teahter}${loan,vowc,a-á|teáhter}, ávvudaláv {{dallutji}${x|dallutjij}}€{w|dassátjij}!
 Dan maŋŋela le tjiektjamhárjjidallam. {Gieron}${vowlat,o-u|Gierun} Sáme Siebrre li stiellim hárjjidallamijt guokti vahkkuj. Dijstagájt le sisbandy ja duorastagájt le bállotjiektjam.
 
 

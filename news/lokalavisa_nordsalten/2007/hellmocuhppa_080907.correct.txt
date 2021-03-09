@@ -1,11 +1,11 @@
-{Hellmocuhppaj}${loan,coninit||Hellmokuhppaj}
+{Hellmocuhppaj}${loan,coninit|Hellmokuhppaj}
 
 Divtasvuona stuorámus dáhpádus dán giese lij Måsken, tjáppa Hellmåvvån, {Oarjje-vuonan}€{cmp,hyph-0|Oarjjevuonan}. Måsskåj tjåhkanaddi ulmutja mierredittjat dán jagásj «{rámpon ja guddnen}£{case,ine-ess|rámmpon ja guddnen}».
 
 
 Báhtjajn li guhtta tjiektjamjuohkusa; Måsske, Sisgiehtje, Tjieloabme, Davvegiehtje/Gállá, Bjørkvijkka ja Rudnávuodna. Næjttsotjiektjijs ællim nav moattes, ja siján lidjin {njiellja}${coninit,nj-n|niellja} juohkusa: Måsske, Sisgiehtje, Bjørkvijkka ja Davvegiehtje/Tjieloabme. Divna tjiektje tjiektjin juohkusin masi {iehtja}¢{conc,htj-tj|ietja} gullujin.
 
-Bierjjedagá sjnjilltjamáno 20. biejve álgij [cuhppa}${loan,coninit||kuhppa}, ja hiejtij lávvodak iehkeda. Unnemusájn lidjin iehtjasa tjiektjamjuohkusa. Gålmmå sierra juohkusa; 0 – 8 jagágijda, 9 – 12 jagágijda ja 12 – 15 jagágijda. Dajn tjiektji báhtja ja næjtso aktan, ja {juogaduvvin}¢{vowlat|juogeduvvin} Sisgiehtje- ja Davvegiehtjejuohkusijda. Dálkke ij lim nav buorre, rássjudaláj. Berustiddje tjuodtjun danen dæhkko vuolen, ja ettjin tjuorvuda nav ålov dán jage {gå åvdep}¥{missing|gå majt åvdep} jagijt li dahkam. Valla Tjieloabme-juohkusa bælostiddje galla tjuorvudin, ja sij lidjin dahkam sierra ”{bannerav}∞{nor}” nissunfinála aktijvuodan.
+Bierjjedagá sjnjilltjamáno 20. biejve álgij {cuhppa}${loan,coninit|kuhppa}, ja hiejtij lávvodak iehkeda. Unnemusájn lidjin iehtjasa tjiektjamjuohkusa. Gålmmå sierra juohkusa; 0 – 8 jagágijda, 9 – 12 jagágijda ja 12 – 15 jagágijda. Dajn tjiektji báhtja ja næjtso aktan, ja {juogaduvvin}¢{vowlat|juogeduvvin} Sisgiehtje- ja Davvegiehtjejuohkusijda. Dálkke ij lim nav buorre, rássjudaláj. Berustiddje tjuodtjun danen dæhkko vuolen, ja ettjin tjuorvuda nav ålov dán jage {gå åvdep}¥{missing|gå majt åvdep} jagijt li dahkam. Valla Tjieloabme-juohkusa bælostiddje galla tjuorvudin, ja sij lidjin dahkam sierra ”{bannerav}∞{nor}” nissunfinála aktijvuodan.
 
 {Kafean}£{x|kafiejan} oattjojma biebmojt oasstet. Dasi aj ulmutja mannin jus goallujin. Gå iehkeduváj dållijin stuorra {låvdågoaden}${vowlat,å-a|låvdagoaden}, ja ulmutja dåhku tjåhkanin. Lars Andreassenin lij {gitára}¢{loan,conc,r-rr|gitárra} {ma?en}${ascii|maŋen}, ja lávloj lávllagav ”Dålusj giessesijdda” ja ”Biegga”. Bieggalávllagin lij aj tjåttålávla, mij lij riek {”tøffa}∞{nor}”. Le oalle hávsske stuorlåvdagoaden tjåhkudallat. Nav hávsske le tjåhkudallat danna ja gehtjadit gå dållå gærssul, gehtjadit ulmutjijda, ja gulldalit gå lávludi ja subtsastalli. Gullu dagu sijdan. Oattjojma aj káfav ja sáftav juhkat ja sáme gáhkov ja berunlastajt bårråt.
 
