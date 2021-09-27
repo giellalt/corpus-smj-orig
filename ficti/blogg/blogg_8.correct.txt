@@ -38,7 +38,7 @@ Strasbourga lej ihkeva buorre ræjsso. Mij lip nav ålov dahkam ahte ij vargga d
 
 
 
-{Intergroup}∞{eng}. 
+{Intergroup}∞{eng}.
 
 Mattias, Elena ja Per Jonas sáhkadin
 
@@ -50,7 +50,7 @@ Biejav gåvåjt {mobil-kameras}${vowlat,a-á;cmp,hyph-1|mobilakamerás} de oadtj
 
 Bårråmin
 
-Iehkedis måj iednijn lin sjnjissjkomav suohppum. Vuostatjin buoragit manáj, valla maŋŋela, gå  mån galggiv {sjnjisskogoahtet}${conc,ssk-ssjk|sjnjissjkogoahtet} {iv {riekta}€{w|rat} diede majt dáhpáduváj}}£{case,acc-nom|iv rat diede mij dáhpáduváj}. Idet hæhttujin joarkket. Mujna l gåjt barggo muhtem vahko ;)
+Iehkedis måj iednijn lin sjnjissjkomav suohppum. Vuostatjin buoragit manáj, valla maŋŋela, gå  mån galggiv {sjnjisskogoahtet}${conc,ssk-ssjk|sjnjissjkogoahtet} {iv {riekta}€{w|rat} diede majt dáhpáduváj}£{case,acc-nom|iv rat diede mij dáhpáduváj}. Idet hæhttujin joarkket. Mujna l gåjt barggo muhtem vahko ;)
 
 Buorre idja!
 

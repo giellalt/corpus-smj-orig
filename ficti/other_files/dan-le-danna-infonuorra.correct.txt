@@ -124,14 +124,14 @@ riek ájnas. De máhtá {bårråt sjokoládav
 {eksábmájgev}${typo|eksábmaájgev}}£{case,acc-ine|bårråt sjokoládav
 eksábmaájgen}, ja nav varrasåhkkårav lasedit ja {{energijav}${loan,coninit,g-sj;conc,j-jj|enersjijjav}}€{w|fámojt}
 jåhtelit oadtjot. {Mujte {ållo}€{e|edna} juhkusav, tjáhtje ja
-bruvssa}}£{case,nom-acc|Mujte edna juhkusav, tjátjev ja bruvsav}. Ja mujte
+bruvssa}£{case,nom-acc|Mujte edna juhkusav, tjátjev ja bruvsav}. Ja mujte
 positijvalattjat ájádallat. Eksábma, juska gåktu gævvá, ij le værámus mij
 máhttá dáhpáduvvat?
 
 Jus dát ij åvvånis viehkeda, ja dån suhta, ale rádnajda suhta. {Tjurvvista
 páhppárijs}£{case,ela-acc|Tjurvvista páhppárijt} ja
 {luossa}¢{conc,ss-s|luosa} sæjnnáj. Jali maná viegatjit. {Dat
-soajttá suhtov gádot}£{x|Dat soajttá suhtov gádodit}. Ale viega {skåvlå vásuk {jali}€{w|jalik}} {eksábmalajná}${noun,conc|eksábmalanjá}}¥{wo|skåvlå jalik eksábmalanjá vásuk},
+soajttá suhtov gádot}£{x|Dat soajttá suhtov gádodit}. Ale viega {{skåvlå vásuk {jali}€{w|jalik} {eksábmalajná}${noun,conc|eksábmalanjá}}¥{wo|skåvlå jalik eksábmalanjá vásuk},
 gå dát máhttá {værádit}${verb,mix|vieredit} "eksábmanervajt". Jus sjaddá riek
 {nievrre}€{w|vájvve}, máhtá válldet maŋen {páppárijt}${conc,pp-hpp|páhppárijt}
 viegatjit, ja {håjggådit {åhpådiddje}${vowlat,å-a|åhpadiddje} goade
@@ -219,7 +219,7 @@ dábegis rássjogahperijt ja silbbaguolijt. Tjabu bievddelijnijn lidjin gåvå
 játtijs. Huonaj lij hiervvidum slávgáj ja viermij ma gahtsahin duonna
 dánna.
 
-{{Ulmultji}${typo|Ulmutjij} siegen máhtijma vuojnnet}}¥{redun;case|Ulmutjijn
+{{Ulmultji}${typo|Ulmutjij} siegen máhtijma vuojnnet}¥{redun;case|Ulmutjijn
 máhtijma vuojnet} {t-skirttojt}${noun,conc|t-skirtojt} "{haill er
 knall}∞{nor}"-tevstajn. Buorre {"haill}∞{nor}" buktá buorre guollebivdov. Iv
 galga subtsastit ienebuv {"hailla}∞{nor}" birra, valla guosská gal

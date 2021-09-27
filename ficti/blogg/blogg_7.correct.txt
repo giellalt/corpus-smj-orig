@@ -29,7 +29,7 @@ Dav biejvev
 
 Buoris gájka vas!
 
-{Lav}¥{cop|Lev} {ierijt}${ierit} læhkám mælggadav dálla, valla ållo suohttasa {li {dáhpaduvvam}¢{vowlat,a-á|dáhpáduvvam} dáv maŋemus vahkov}}£{case|li dáhpáduvvam dán maŋemus vahko}
+{Lav}¥{cop|Lev} {ierijt}${ierit} læhkám mælggadav dálla, valla ållo suohttasa {li {dáhpaduvvam}¢{vowlat,a-á|dáhpáduvvam} dáv maŋemus vahkov}£{case|li dáhpáduvvam dán maŋemus vahko}
 
 {Lidjiv}¥{cop|Ledjiv} Julevsáme {giella konferánsan}¢{cmp,X-1|giellakonferánsan} Jåhkåmåhken duorastagá ja bierjjedagá åvdep vahko. Lej riek miellagiddevasj lågådallamijt gulldalit, iejvvit ulmutjijt, ságastallat ájnas ássjij birra ja {buoremus}¥{missing|buoremus lej} GULLAT ja SÁHKADIT {Julevsámegielav}¢{min|julevsámegielav}!! Riek dudálasj lav konferánsajn, ja ávon lav {at}€{foreign,swe|ahte} vuojnáv doajvvo {la}£{cop|l} aj boahtteájggáj.
 {Lidjiv}¥{cop|Ledjiv} {Bårjåsin}${conc,rj-rjj|Bårjjåsin} Rachela ja Per-Erica vega lunna ålles ájllegav. {Gårrum}¥{missing|Lev gårrum} gáptev, ja lav {dudálasj}¥{missing|dudálasj dajna} majt {dálátjit}¢{fin,t-j|dálátjij} lav gårrum. Sase buddasij lav ållim, ja åhtsåj álggám. Gássjel lij mierredit makkir bájnojt válljit, valla sjaddá {unnán}€{w|vehik} ietjá gå dábálasj.
@@ -48,9 +48,9 @@ Dåbddu harmmat vájvve.. Valla doajvov ja jáhkáv oattjov joarkket sámegielaj
 Buorre biejvve
 
 Birrusin 13 galmmagráda uddni. Unnán {biekkasj}€{w|bieggá}, valla ietján buor’ dálkke. Biejvve l várij badjel guovlastam. Galggiv jus riekta {dieváj}¢{conc,v-vv|dievváj} mannat tjerastittjat, valla ij la miella dasi..
-Iektu Sanne-Ristin riŋŋguj. {{Márkkána}¢{conc,rkk-rn|Márnána} birra sáhkadijma ja ietjá suohttasav}}£{x|Márnána birra sáhkadijma ja ietjá suohttasij birra}. Ávvudaláv! Sanne-Ristin le buorre ráddna.
+Iektu Sanne-Ristin riŋŋguj. {{Márkkána}¢{conc,rkk-rn|Márnána} birra sáhkadijma ja ietjá suohttasav}£{x|Márnána birra sáhkadijma ja ietjá suohttasij birra}. Ávvudaláv! Sanne-Ristin le buorre ráddna.
 
-Gårruv ålles biejvev iektu. {Akta nuvtagijn gærggiv}£{kongr,num|Avtajn nuvtagijn gærggiv}, ja nuppijn uddni gergav. Dåbddu buorre ja lav riek dudálasj daj. 
+Gårruv ålles biejvev iektu. {Akta nuvtagijn gærggiv}£{kongr,num|Avtajn nuvtagijn gærggiv}, ja nuppijn uddni gergav. Dåbddu buorre ja lav riek dudálasj daj.
 
 Suohtas
 

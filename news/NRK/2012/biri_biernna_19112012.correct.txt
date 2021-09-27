@@ -22,7 +22,7 @@ Vuostasj animasjåvnnårájddo julevsámegiellaj
 
 Dát animasjåvnnårájddo la {dat}¥{redun|} vuostasj animasjåvnnårájddo julevsámegiellaj mij Mánáj-TV:an vuoseduvvá.
 
-– {De}€{w|Dat} la vuostasj animasjåvnnårájddo mij {NRK Sáme:n}${suf|NRK Sámen} la julevsámegiellaj dagáduvvam. {NRK Sáme:n}${suf|NRK Sámen} la ulmme {gåjt}€{w|unnemusát} {galggi vihtta prográmma julevsámegiellaj {jáhkáj}${vowc,á-a|jahkáj} dagáduvvat}}£{pass|galggi vihtta prográmma julevsámegiellaj jahkáj dahkat}. Ja mij jáhkkep animasjåvnnå {la}£{cop|l} dat majna mij buoremusát oadtjop julevsáme mánájt gehtjatjit {mánájTV:av}${suf|mánáj-TV:av}, javllá NRK Sáme {mánájTV-dåjmadusá}${suf|mánáj-TV-dåjmadusá} jådediddje, Norleif Krokmo.
+– {De}€{w|Dat} la vuostasj animasjåvnnårájddo mij {NRK Sáme:n}${suf|NRK Sámen} la julevsámegiellaj dagáduvvam. {NRK Sáme:n}${suf|NRK Sámen} la ulmme {gåjt}€{w|unnemusát} {galggi vihtta prográmma julevsámegiellaj {jáhkáj}${vowc,á-a|jahkáj} dagáduvvat}£{pass|galggi vihtta prográmma julevsámegiellaj jahkáj dahkat}. Ja mij jáhkkep animasjåvnnå {la}£{cop|l} dat majna mij buoremusát oadtjop julevsáme mánájt gehtjatjit {mánájTV:av}${suf|mánáj-TV:av}, javllá NRK Sáme {mánájTV-dåjmadusá}${suf|mánáj-TV-dåjmadusá} jådediddje, Norleif Krokmo.
 
 Ja uddni de vuojnnu vuostasj bále {NRK Super:in}${suf|NRK Superin} kl. 17.00.
 
@@ -35,4 +35,3 @@ Rájddo hiehpá vuostatjin nuoramusájda, valla Gælok aj hasot ållessjattugijt
 {Så}∞{nor} ij la de ietján gå tjåhkkidit gehtjatjit {NRK Super}£{prop,case-nom-ill|NRK Superav}, kl. 17.00 uddni.
 
 {GULLDAL ÁSSJEV}£{x|GULLDALA ÁSSJEV} BIRI BIERNA PROGRÁMMA BIRRA:
-

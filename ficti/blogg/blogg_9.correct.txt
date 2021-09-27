@@ -36,7 +36,7 @@ Heja maŋŋela vuolggiv Gierunij. {SM’an}${suf|SM:an} lidjiv Bårjjåsin, {ja}
 Ja vijmak skåvllå álgij!
 Låssåt lej hæhkkat {biel’}‰{x[biel} gietjan badjánit juohkka ideda, valla dálla lev rutijnajda boahtám vas. Oadet binnep ja ájádallat ålles biejvijt..
 {Lip}¥{cop|Lep} álggám {Matematikk-Dajn}∞{swe}, ja dat la nav {låsså}€{x|gássjelis} fáhka. Iv diede jus nagáv dáv kursav dåssju {åvtåjn termijnan}£{kongr,num|åvtån termijnan} låhkåt, valla galgav gievrra liehket ja doarrot dajna desik buvtáv!
-{Iektu {dievtij}${conc,vt-vd|dievdij} åvtå muv buoremus rádnajs}}£{case,gen-nom|Iektu dievdij akta muv buoremus rádnajs}, Sanne, lågenangávtse jage! {Lijma}¥{cop|Lejma} stiellim njálga biebmojt ja hávsskudalájma.
+{Iektu {dievtij}${conc,vt-vd|dievdij} åvtå muv buoremus rádnajs}£{case,gen-nom|Iektu dievdij akta muv buoremus rádnajs}, Sanne, lågenangávtse jage! {Lijma}¥{cop|Lejma} stiellim njálga biebmojt ja hávsskudalájma.
 
 De nav. Galgav gæhttjalit nav álu gå máhttelis tjállet dánna {bloggan}${loan,vowc,o-å;conc,gg-kk|blåkkan}. Gå skåvllå le álggám lev vas tjállemhálov oadtjum.
 
@@ -64,7 +64,7 @@ Uddni iv la vieddje.
 Dåbddiv iektu iehkedis ahte lidjiv tjåddågis sjaddamin. Juska de manniv viegatjit ja danen de {{værrábut}${conc,rr-r|værábut} sjattaj}€{w|værránij}. Uddni bargon iv la åvvånis vieddje læhkám. Maŋemus tijmajt {liddjiv}${conc,ddj-dj|lidjiv} nav vájbbam, ja gå sijddaj vádtsiv dåbddiv {juolkij}${conc,lk-lg|juolgij} vuolen lij bávtjas..
 {Lav}¥{cop|Lev} dåssju oadám, {dussjim}€{foreign,swe|sjoavodam}, málestam ja biktasijt bassam bargo maŋŋela.
 Æddnám ja Thomas ja Jon Isak vuolggin nuortas iektu, galggi Riddu Ridduj.
-Ieddne javlaj at iv barggat oattjo idet. Danen lev juo barggam maŋemus {barggumbiejvev}€{w|barggobiejvev} 
+Ieddne javlaj at iv barggat oattjo idet. Danen lev juo barggam maŋemus {barggumbiejvev}€{w|barggobiejvev}
 
 Giesseloahpe máhttá dal álgget vas :)
 

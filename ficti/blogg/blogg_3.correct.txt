@@ -114,7 +114,7 @@ Majt aná dán birra?
 
 {Lulleluspie}∞{sma}
 
-Buoris gájka! 
+Buoris gájka!
 
 Dálla lav {Lulleluspien}∞{sma} {(Östersund)}∞{swe}. {Lav}¥{cop|Lev} ållim diek uddni biejven ja {ganugav}€{w|bátsáv} dánna ájllegij. Dánna {l {Scandic Cup}∞{eng} {gilpposa}¢{vowlat,o-u|gilppusa}}£{kongr|li Scandic Cup gilppusa} gånnå galgav oassálasstet. Sjaddá riek suohtas vuojnnet ja {dåbbdåt}${conc,bbd-bdd|dåbddåt} gåk {rubmaj}${conc,bm-m;vowlat,a-á|rumáj} le. Iv la ájn {gilpastam}${vowlat,a-u|gilpustam} dán dálve {så}€{foreign,swe|danen} dát sjaddá muv vuostasj {gilppos}¢{conc,lpp-lp|gilpos}. {Lávvordagá}${conm,rd-d|Lávvodagá} le {klassisk}∞{swe} {sprinta}¢{loan,conc,nt-nnd|sprinnta} ja {ájllega le {5km}${cmp.1-X|5 km} {skate}€{foreign,eng|salostibme}}£{case|ájllegin la 5 km salostibme}.
 
@@ -149,9 +149,8 @@ tjállám: Naima {kloahkká}${loan,vowlat,á-a|kloahkka} 09:36
 
 Majt aná dán birra?
 
-{{Vasse}${vowc,a-á|Vásse} mánnodak}}£{case|Vásse mánnodagá}
+{{Vasse}${vowc,a-á|Vásse} mánnodak}£{case|Vásse mánnodagá}
 
 {Dán mánnodak}£{kongr|Dán mánnodagá} mij lij mij {gålmmå näjttso}£{kongr|gålmmå näjtso} goaden ({majsing}${cap|Majsing},{joli}${cap|Joli} ja mån) {peppargáhkojt}${mix|pihpergáhkojt} {báhkijma}${loan,conc,hk-hkk;vowlat,i-u|báhkkujma}. {Mums}∞{sla}, {sjattáj}${vowlat,á-a|sjattaj} riek njálgge, ja {unna oappátja}¢{cmp,2-1|unnaoappátja} {liba}${vowlat,a-á|libá} juo bårråm dimnajt. {Dánen}${vowc,á-a|Danen} {sidáv ienep {báhkot}${loan,conc,hk-hkk;vowlat,u-o|báhkkut}}£{case|sidáv ienebuv báhkkut}. Vissa, mån {dáhkuv}${vowc,á-a;vowlat,u-i|dahkiv} aj siejnijt, dähkkov ja dakkár lágásj {diñgajt}${ascii|diŋgajt} {peppargáhkkogoahtáj}${mix|pihpergáhkkogoahtáj} . Iv la ájn {monterim}€{foreign,swe|tsieggim} dav, jáhkáv {galgav uddni {dáhkat}${vowc,á-a|dahkat}}¥{missing|galgav uddni dav dahkat}.
 
 Dála {l nágin gåvå}£{kongr|li nágin gåvå} fijna {peppargáhkojs}${mix|pihpergáhkojs}:
-

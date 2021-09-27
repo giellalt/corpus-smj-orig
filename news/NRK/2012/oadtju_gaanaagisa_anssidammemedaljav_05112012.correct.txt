@@ -17,7 +17,7 @@ Mikal Urheim
 Gånågisá {ánssidammedállja}€{w|ánssidimmedállja}
 
 {Lij}¥{cop|Lej} Gånågis Haakon gut vuododij {Ánssidammedáljav}€{w|Ánssidimmedáljav}, guovvamáno 1. {bve}${x|b.}1908. Ulmme lij lasedit St. Olavs Ordenav.
-{{Vattteduvvá}${conc,ttt-tt|Vatteduvvá} sahte vuonagij sierra bargos dájdan, diehtagin ja æládusiellemin ja sierra barggo}}£{case:sg-pl|Vatteduvvá sahte vuonagijda sierra bargos dájdan, diehtagin ja æládusiellemin ja sierra bargos} {almmulasj}${conc,lmm-lm|almulasj} dievnastusán. Medállja lij joarkka Gånågis Oscar {IIa}${suf|II:a} {máksemmedálljas}¢{conc,llj-lj|máksemmedáljas} mij hiejteduváj jagen 1905.
+{{Vattteduvvá}${conc,ttt-tt|Vatteduvvá} sahte vuonagij sierra bargos dájdan, diehtagin ja æládusiellemin ja sierra barggo}£{case:sg-pl|Vatteduvvá sahte vuonagijda sierra bargos dájdan, diehtagin ja æládusiellemin ja sierra bargos} {almmulasj}${conc,lmm-lm|almulasj} dievnastusán. Medállja lij joarkka Gånågis Oscar {IIa}${suf|II:a} {máksemmedálljas}¢{conc,llj-lj|máksemmedáljas} mij hiejteduváj jagen 1905.
 
 Gálldo: {kongehuset.no}∞{nor}
 
@@ -55,4 +55,3 @@ Gånågisá {ánssidammedállja}€{w|ánssidimmedállja} vatteduvvá Mikal Urhe
 
 
 Gånågisá {ánssidammedallja}${vowc,a-á;vow,a-i|ánssidimmedállja} Mikal Urheimaj
-

@@ -8,7 +8,7 @@ Divtasvuona suohkan la varresvuodatermaj barggamin {gånnå l ulmme}¥{wo|gånn�
 
 Dan diehti l Jielleváre suohkan Divtasvuona suohkanij girjev tjállám ja gatjádam jus dåhkki sámegiellakursav sijá barggijda aj ásadit. Divtasvuona suohkan ja Stig Eriksen sihti dáv dievnastusáv Jiellevárráj vuobddet, ja vájbi tjavtja guovlluj dát åhpadibme jåhtuj boahtá.
 
- 
+
 
 Gidádálven
 
@@ -27,7 +27,7 @@ Gidán
 
 -Miján la juo nanos vuodo dákkár fálaldagáv dájda bájkijda ásadit, ja {åvddåprosjekta}${vowc,e-æ|åvddåprosjækta} l juo jådon. {Vuorddedahtte}${conc,rdd-rd|Vuordedahtte} l {gergas}€{w|gárves} soames máno duogen, javlaj mielos {allaskåvlå {dierktørra}${loan,vowc,ø-e;typo|direkterra}}¢{cmp,X-1|allaskåvlådirekterra} dalloj.
 
- 
+
 
 Gidágiesen
 
@@ -35,7 +35,7 @@ Boahttsu Svieriga bieles Vuona bælláj
 
 Thomas
 
-Ællosáme Vuona ja Svieriga bielen rijddalin gå ællosáme Svieriga bieles sihtin ietjasa ælojt Vuona bælláj guododittjat. Sij vuosedi láhkaj 1751 jage rájes. Soames ællosáme Vuona bielen sihti aj guododahttet ietjasa ælojt Svieriga bielen, ja dassta de rijddo sjaddá. Thomas Labba la ietjas elujn ganugam vuolládagájda. Ij duosta várijda elujn jåhtet. Ballá Svieriga bælláj massá, ja {sijá boahttsu sehkani svenska boahttsuj}£{case,com-ill|sijá boahttsu sehkani svenska boahttsujda} ja nav de {lulu láhppuji}£{kongr;infl|lulun láhpput}. 
+Ællosáme Vuona ja Svieriga bielen rijddalin gå ællosáme Svieriga bieles sihtin ietjasa ælojt Vuona bælláj guododittjat. Sij vuosedi láhkaj 1751 jage rájes. Soames ællosáme Vuona bielen sihti aj guododahttet ietjasa ælojt Svieriga bielen, ja dassta de rijddo sjaddá. Thomas Labba la ietjas elujn ganugam vuolládagájda. Ij duosta várijda elujn jåhtet. Ballá Svieriga bælláj massá, ja {sijá boahttsu sehkani svenska boahttsuj}£{case,com-ill|sijá boahttsu sehkani svenska boahttsujda} ja nav de {lulu láhppuji}£{kongr;infl|lulun láhpput}.
 
 Giesen
 
@@ -70,4 +70,4 @@ Tjaktjadálven
 
 Ep dal ájn diede jus girjjetjállen sjaddap
 
-Sjattaj {ållu}€{w|riek} hávsskes {båttå}¢{conc,tt-dd|båddå} gå sáme girjjetjálle {goarrihin}${conm,h-j|goarrijin} Strávnjunje skåvlån gasskavahko, ja oahppe {Isabell, Katja, Are, Tony, Sivert, Tor Ivar, Andreas, Silje ja Birgitta oattjojga}£{kongr|Isabell, Katja, Are, Tony, Sivert, Tor Ivar, Andreas, Silje ja Birgitta oadtjun} gullat gånnå sámegiella aneduvvá, gåktu máhtá buorre subttsasav dahkat. Giella l aj ietjá gå dav majt dåssju njálme tjadá buvtá, ja dáhpádusás ja åtsådallamijs gitta tækstaj la guhka, {{roañkok}${ascii|roaŋkok} bálges}}¥{pred-attr|roahkogis bálges}, ja unna Strávnjunjátjis dåhkki aj geldulasj subttsasav dahkat. Tjálle sihtin oahppijda subtsastit vehik máhttelisvuodaj birra jus sidá tjállen sjaddat.
+Sjattaj {ållu}€{w|riek} hávsskes {båttå}¢{conc,tt-dd|båddå} gå sáme girjjetjálle {goarrihin}${conm,h-j|goarrijin} Strávnjunje skåvlån gasskavahko, ja oahppe {Isabell, Katja, Are, Tony, Sivert, Tor Ivar, Andreas, Silje ja Birgitta oattjojga}£{kongr|Isabell, Katja, Are, Tony, Sivert, Tor Ivar, Andreas, Silje ja Birgitta oadtjun} gullat gånnå sámegiella aneduvvá, gåktu máhtá buorre subttsasav dahkat. Giella l aj ietjá gå dav majt dåssju njálme tjadá buvtá, ja dáhpádusás ja åtsådallamijs gitta tækstaj la guhka, {{roañkok}${ascii|roaŋkok} bálges}¥{pred-attr|roahkogis bálges}, ja unna Strávnjunjátjis dåhkki aj geldulasj subttsasav dahkat. Tjálle sihtin oahppijda subtsastit vehik máhttelisvuodaj birra jus sidá tjállen sjaddat.
