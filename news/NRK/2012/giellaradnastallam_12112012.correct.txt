@@ -27,7 +27,7 @@ Ulmme l sámástit, valla gatjálvis le gåktu dav tjoavddet vaj oadtjot mánáj
 
 –Uddni ij dal nav ållo sámegiella sijdajn gullu, subtsas Kintel.
 
-–Ja gå luondulasj sáhka ij gullu sijdajn, {dat {arena}${loan,conc,n-dn;vowlat,a-á;vowc,e-ie|ariedná} gånnå máná galggi sámegielav gullat}£{case,nom-ine|dan arienán gånnå máná galggi sámegielav gullat}, gå dat vádnun sijda bieles, de dárbahip dahkat {arenav}${loan,vowlat,a-á;vowc,e-ie|arienáv} gånnå máná iejvviji bágojt ja {sosialiseriduvvi}¢{loan,vowc,e-ie|sosialisieriduvvi} sámegiellaj. Mån jáhkáv sámegiella gullugoahtá gå hárjjánip sámástit nubbe nubbáj ja máná oadtju hárjjánit sijá ságastallamgiella máhttá liehket sámegiella, dættot sån.
+–Ja gå luondulasj sáhka ij gullu sijdajn, {dat}£{case,nom-ine|dan} {{arena}${loan,conc,n-dn;vowlat,a-á;vowc,e-ie|ariedná}}£{case,nom-ine|arienán} gånnå máná galggi sámegielav gullat, gå dat vádnun sijda bieles, de dárbahip dahkat {arenav}${loan,vowlat,a-á;vowc,e-ie|arienáv} gånnå máná iejvviji bágojt ja {sosialiseriduvvi}¢{loan,vowc,e-ie|sosialisieriduvvi} sámegiellaj. Mån jáhkáv sámegiella gullugoahtá gå hárjjánip sámástit nubbe nubbáj ja máná oadtju hárjjánit sijá ságastallamgiella máhttá liehket sámegiella, dættot sån.
 
 Lågå aj: Mij aktan sámástip
 
@@ -44,7 +44,7 @@ la akti vahkkuj, duorastagájt gudás {gáktsáj}‰{punct|gáktsáj.}
 
 Æjvvalimiehkedijn la akta njuolgadus.
 
-– Dájn æjvvalimijn la dåssju akta njuolgadus ja dat la sámástit. Dát la fálaldahka mánájda, sij bessi ietja válljit jus sihti fáron jali jus e sidá fáron. Ja gå mánná iesj bæssá válljit, {“já}¥{redun|} dáv de mån sidáv”, de sån juo diehtá vuordeduvvá sujsta sámegiella jus galggá oassálasstet. Ja navti mij jåksåp nubbe nuppev, máná ja midja nuora, subtsas Kintel.
+– Dájn æjvvalimijn la dåssju akta njuolgadus ja dat la sámástit. Dát la fálaldahka mánájda, sij bessi ietja válljit jus sihti fáron jali jus e sidá fáron. Ja gå mánná iesj bæssá válljit, "{já}¥{redun|} dáv de mån sidáv”, de sån juo diehtá vuordeduvvá sujsta sámegiella jus galggá oassálasstet. Ja navti mij jåksåp nubbe nuppev, máná ja midja nuora, subtsas Kintel.
 
 Fálaldahka {la}£{cop|l} skåvllåmánájda gejn la sámegiella {vuostasj giellan}¢{cmp,X-1|vuostasjgiellan} vuostasj klássas giehttjit klássaj, ja la akti vahkkuj.
 
@@ -60,4 +60,4 @@ Ja gånnå máná ja dá gålmmå nuora galggi æjvvalit ij la ga mierreduvvam �
 
 – Mij ep sidá sámástimev institusjåvnåjda tjadnat. Mij sihtap má juokkirik láhkáj {privatiserit}¢{loan,vowc,e-ie|privatisierit} dáv. Sámegiella ij gullu dåssju skåvllåj, dåssju Árranij jali {ASVOj}${suf|ASVO:j}. Sámegiella ij la juoga mij dåssju dákkir sajijn galggá gullut. Mij máhttep akta ber gånnå sámástit, ja dan diehti ij la miján stuoves æjvvalimsadje. Muhttijn lip muv lunna, ietjá bále ålggon ja ietjá bále ihkap nágin iehtjádij lunna, subtsas sån.
 
-{GULLDAL ÅLLES ÁSSJEV}£{x|GULLDALA ÅLLES ÁSSJEV} DÁNNA:
+{GULLDAL}£{x|GULLDALA} ÅLLES ÁSSJEV DÁNNA:

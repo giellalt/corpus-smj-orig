@@ -7,7 +7,7 @@ Dåssju galbba dárogielnamájn vuojnnu gå {Båddådjuj}${coninit,dd-d;conc,dj-
 Juoga vádnun rijkkarahten gå Bådåddjuj la boahtemin. {Juo vat la}¥{wo|Juo la vat} Bådåddjo-galbba suoláduvvam.
 
 
-{Sådnåbiejven oattjoj {åssudakdirektørra}${vowc,ø-e|åssudakdirekterra}}£{case,ine-gen|Sådnåbiejve oattjoj åssudakdirekterra} Stáhta rahtedåjmadagán, Kjell Skjerve, diedov jut Bådåddjo-galbba lij suoláduvvam. Skjerve jáhkká sån jali sij gudi li galbav suoládam li dáv dahkam suohttasa diehti. Valla iehtja ij de {dási galla tjajma}£{pron,case,ill-ela|dássta galla tjajma}.
+{Sådnåbiejven}£{case,ine-gen|Sådnåbiejve} oattjoj {åssudakdirektørra}${vowc,ø-e|åssudakdirekterra} Stáhta rahtedåjmadagán, Kjell Skjerve, diedov jut Bådåddjo-galbba lij suoláduvvam. Skjerve jáhkká sån jali sij gudi li galbav suoládam li dáv dahkam suohttasa diehti. Valla iehtja ij de {dási}£{pron,case,ill-ela|dássta} galla tjajma.
 
 – Hådjånav gå vuojnáv mijá galba biejsteduvvi. Miján li ietjá ássje majt {lulup}${infl,fin,p-jma|lulujma} ruhtadit, valla lip oahppam vierttip rudájt vuorodit dákkir bahádagojda, javllá Skjerve {NRK.no:aj}∞{url}.
 
@@ -15,7 +15,7 @@ Lågå: {Vegvesenet ber tyven melde seg}∞{nor}
 
 Ij la vuostasj bále gå gáhtu
 
-{Galbba birra}£{case,nom-gen|Galba birra} {la}£{cop|l} edna sáhka læhkám. Åvddål la moaddi biejsteduvvam, ja galbba l aj åvddål gáhtum dassta gånnå tjuodtju.
+{Galbba}£{case,nom-gen|Galba} birra {la}£{cop|l} edna sáhka læhkám. Åvddål la moaddi biejsteduvvam, ja galbba l aj åvddål gáhtum dassta gånnå tjuodtju.
 
 Lågå aj: {Samisk skilt sporløst borte}∞{nor}
 Lågå aj: (Tagget ned Bodø nye samiske {skilt}∞{nor}

@@ -41,7 +41,7 @@ Sámedikke vuorrasijráde aj sidáj diehtet jus sáme dán institusjåvnån oadt
 
 Gåjkkebiebmojt dal Ájluovta sjaljon ietja riejddiji, valla málesbiebmo diŋgoduvvi bájkálasj {kafeas}${loan,conc|kafiejas} Ájluovtan diededuváj Ájluovta sjaljo bieles.
 
-– Ep dal fála sierralágásj sáme biebmojt. Mujttet nágin bále lip málestam bájkálasj sáme biebmojt dánna nav gåk mån diedáv, valla {biebmojt majt oadtjop {kafeas}${loan,conc|kafiejas} la dábálasj biebbmo}£{kongr|biebmojt majt oadtjop kafiejas li dábálasj biebmo} majt Vuonan bårri. Ælla da sierraláhkáj hiebaduvvam sáme biebmo. {Jus ga}¢{cmp,X-1;conc,sg-sk|Juska} dá málesbiebmo ælla sierra sáme biebmo de biebbmo l bájkálasj bårråmus majt ulmutja dáppe bårri, subtsas Aspaas.
+– Ep dal fála sierralágásj sáme biebmojt. Mujttet nágin bále lip málestam bájkálasj sáme biebmojt dánna nav gåk mån diedáv, valla biebmojt majt oadtjop {kafeas}${loan,conc|kafiejas} {la}£{kongr|li} dábálasj {biebbmo}£{kongr|biebmo} majt Vuonan bårri. Ælla da sierraláhkáj hiebaduvvam sáme biebmo. {Jus ga}¢{cmp,X-1;conc,sg-sk|Juska} dá málesbiebmo ælla sierra sáme biebmo de biebbmo l bájkálasj bårråmus majt ulmutja dáppe bårri, subtsas Aspaas.
 
 –{Jur dan diehti má Divtasvuona demænssasiebrre la sierra}¥{wo|Jur dan diehti la má Divtasvuona demænssasiebrre sierra} biebbmotjállusav almodam, Sáme biebmo vuorrasijda. Ja ulmme lij dát biebbmobagádus luluj aneduvvat dákkir institusjåvnån dagu dánná. Valla gå Ájluovta sjaljon ij la gievkan gånnå {iehtja}¢{conc,htj-tj|ietja} máhtti málestit de ij la dal vuordedahtte sij galggi málestit dáj biebbmobagádusáj milta, dættot Sámedikke vuorrasijráde jådediddje, Inga Karlsen.
 
@@ -54,13 +54,13 @@ Inga Karlsen ja Morten Aspaas
 
 Ja maŋŋáj dán guossidime Ájluovta sjaljon de vuolggi aj Gásluoktaj, gehtjatjit gåktu {vuorrasij sijdda}¢{cmp,X-1|vuorrasijsijdda} Divtasvuona suohkanguovdásjbájken doajmmá.
 
-– Midjij la viehka ájnas {mij}€{w|ahte} mannap ja oadtjop diehtet gåktu vuorrasijsujtto doajmmá, le gus sámegielak bargge, ja tjuovoduvvi gus da gájbbádusá maj milta Sámedikke vuorrasijráde barggá. Dat la ham mijá ássje, javllá Anders P. Siri {gut gåhttju ulmutjijt sijáj válldet aktijvuodav}£{case,gen-com|gut gåhttju ulmutjijt sijájn válldet aktijvuodav}  jus li ássje majna sihti Sámedikke vuorrasijráde galggá barggat.
+– Midjij la viehka ájnas {mij}€{w|ahte} mannap ja oadtjop diehtet gåktu vuorrasijsujtto doajmmá, le gus sámegielak bargge, ja tjuovoduvvi gus da gájbbádusá maj milta Sámedikke vuorrasijráde barggá. Dat la ham mijá ássje, javllá Anders P. Siri gut gåhttju ulmutjijt {sijáj}£{case,gen-com|sijájn} válldet aktijvuodav jus li ássje majna sihti Sámedikke vuorrasijráde galggá barggat.
 
 – Sihke sáme, sáme suohkana ja iehtáda máhtti midjij buktet ássjijt ja de máhttep midja ássjijt giehtadallat ja tjalmostit dajt, javllá Anders Siri.
 
 Sihti aj politihkkárijt iejvvit
 
-Valla {Sámedikke {vuorrasij ráde}¢{cmp,X-1|vuorrasijráde} sihti}£{kongr|Sámedikke vuorrasijráde sihtá} aj iejvvit sijájt gudi mierredi gåktu vuorasulmutjij bæjválasj viessomdille galggá sjaddat.
+Valla Sámedikke {vuorrasij ráde}¢{cmp,X-1|vuorrasijráde} {sihti}£{kongr|sihtá} aj iejvvit sijájt gudi mierredi gåktu vuorasulmutjij bæjválasj viessomdille galggá sjaddat.
 
 
 Inga Karlsen jådet tjåhkanimev. Anders Siri {gåråbielen}¢{vowlat,å-o|gårobielen}.
@@ -69,7 +69,7 @@ Inga Karlsen jådet tjåhkanimev. Anders Siri {gåråbielen}¢{vowlat,å-o|gåro
 
 Dan diehti iejvviji aj Divtasvuona {njunnjusj politihkkárijt}¢{cmp,X-1|njunnjusjpolitihkkárijt} ja háldadusáv.
 
-Sámedikke vuorrasijráde jådediddjen, Inga Karlsenin, li tjielgga {vuorddemusá Divtasvuona suohkanis}£{case,ela-ill|vuorddemusá Divtasvuona suohkanij}.
+Sámedikke vuorrasijráde jådediddjen, Inga Karlsenin, li tjielgga vuorddemusá Divtasvuona {suohkanis}£{case,ela-ill|suohkanij}.
 
 – Mij sihtap diehtet gåktu Divtasvuona suohkan barggá vuorasulmutjij ássjij, sierraláhkáj mijáj sámij ássjij. Ja mij sihtap aj diehtet jus siján li plána gåktu barggat sáme vuorasulmutjij gáktuj, javllá Inga Karlsen.
 
@@ -79,4 +79,4 @@ Nammaduváj Sámedikkerádes ådåjakmánon jn.2012
 Vihtta ájrrasa: Jådediddje Inga Karlsen, duodden Jonhild Jåma, Magne Einejord, Ellen Anne Stabursvik ja Anders P. Siri.
 
 Galggi tjalmostit Sámedikke vuorrasijpolitihkav ja doajmmat rádevadden sámedikkerádáj.
-Galggi aj ájggeguovddelis {ássjijt {åvvånbuktet}${conc,vv-vdd|åvddånbuktet} mij guosská}£{kongr|ássjijt åvddånbuktet ma guosski} vuorrasij iellemdilláj ja álkkádussaj
+Galggi aj ájggeguovddelis ássjijt {åvvånbuktet}${conc,vv-vdd|åvddånbuktet} {mij}£{kongr,pron|ma} {guosská}£{kongr|guosski} vuorrasij iellemdilláj ja álkkádussaj

@@ -25,11 +25,11 @@ Paulsen vuornnu jut smávvamáná ja {fámilljaiellem}${vowc,á-a|familljaiellem
 
 Så guhtimusj de sjaddá ájras NSR:a listan {julevsáme guovlos}¢{cmp,X-1|julevsámeguovlos} la rabás gatjálvis uddni.
 
-Sálto sámesiebren le sebrulasjtjåhkanibme dán lávvodagá gånnå galggi ságastallat {guhtimuttja lulu kandidatáhta}£{kongr|guhtimuttja lulun kandidatáhta}.
+Sálto sámesiebren le sebrulasjtjåhkanibme dán lávvodagá gånnå galggi ságastallat guhtimuttja {lulu}£{kongr,cond|lulun} kandidatáhta.
 
 Siebre jådediddje Hugo Kalstad, ij hálijda almodit majdik dálla javllá sån NRK:aj.
 
-Valla {{nav gåk NRK dádjat lulu åvdep sámedikkepresidenta Sven Roald {Nystø:a}${suf|Nystøa} niehpe}£{kongr|nav gåk NRK dádjat luluj åvdep sámedikkepresidenta Sven Roald Nystøa niehpe}}¥{missing|nav gåk NRK dádjat de luluj åvdep sámedikkepresidenta Sven Roald Nystøa niehpe}, nuorra ja Sálto sámesiebre {stivraájras}¢{cmp,gen-nom|stivrraájras}, Sandra Nystø Ráhka jali Sálto sámesiebre jådediddje Hugo Kalstad, guovtes gudi {luluba}${fin,ba-ga|lulujga} lisstakandidáhta.
+Valla nav gåk NRK dádjat {{lulu}£{kongr,cond|luluj}}¥{missing|de luluj} åvdep sámedikkepresidenta Sven Roald {Nystø:a}${suf|Nystøa} niehpe, nuorra ja Sálto sámesiebre {stivraájras}¢{cmp,gen-nom|stivrraájras}, Sandra Nystø Ráhka jali Sálto sámesiebre jådediddje Hugo Kalstad, guovtes gudi {luluba}${fin,ba-ga|lulujga} lisstakandidáhta.
 
 Ij ga Miriam Paulsen sidá nammadit suv tjuovvov.
 
@@ -39,7 +39,7 @@ NSR:an li uddni gålmmå ájrrasa Sámedikken ja Barggijbelludagán guokta, akti
 
 Boahtte {sámedikkeválggaj}¢{cmp,gen-nom|sámediggeválggaj} bessi dåssju nieljes sisi dát válggabijras.
 
-Dan diehti sjattasj stuoráp gilpustallam listaj gaskan {gudi lulu Sámediggáj bessat}£{kongr|gudi lulun Sámediggáj bessat}.
+Dan diehti sjattasj stuoráp gilpustallam listaj gaskan gudi {lulu}£{kongr,cond|lulun} Sámediggáj bessat.
 
 Ja goassa NSR:a galggá nominasjåvnnåtjåhkanimev tjadádit {ij ga la tjielgas}¥{wo|ij la ga tjielgas}.
 

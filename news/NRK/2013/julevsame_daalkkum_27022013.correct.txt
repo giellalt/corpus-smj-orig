@@ -16,7 +16,7 @@ Dán ideda gå sámedikkeájrrasa tjåhkanin ållestjåhkanibmáj {Kárášjogå
 
 Åhtsålij julevsáme dålkkumdievnastusáv
 
-Vásse tjavtja {gulájma sámedikkeájras Kirsti Guvsám}£{case|gulájma sámedikkeájras Kirsti Guvsámav} gut åhtsålij julevsáme dålkkumdievnastusáv Sámedikken.
+Vásse tjavtja gulájma sámedikkeájras Kirsti {Guvsám}£{case,nom-acc|Guvsámav} gut åhtsålij julevsáme dålkkumdievnastusáv Sámedikken.
 
 {Dalutjij}${conc,l-ll|Dallutjij} ij lim sierra julevsáme dålkkå Sámedikken, valla sij gudi dålkkuji nuorttasámegiellaj aj dålkkujin jus julevsámegiellaj håladuváj.
 
@@ -36,5 +36,5 @@ Sån árvvet dát {dás-duohku}${conc,s-sst;vowlat,0-a;cmp,hyph-X|dássta duohku
 
 – Dát beras luluj juo láŋŋga {sjaen}${typo|sajen} ja diehttelis árvvedav dát sjaddá doajmmat juohkka bále gå midja tjåhkanip Sámedikken, dættot sån.
 
-{GULLDAL ÅLLES ÁSSJEV SÁMEGIELLAJ DÁNNA}£{x|GULLDALA ÅLLES ÁSSJEV SÁMEGIELLAJ DÁNNA}:
+{GULLDAL£{x|GULLDALA} ÅLLES ÁSSJEV SÁMEGIELLAJ DÁNNA:
 

@@ -1,7 +1,7 @@
 Presidænnta {la}£{cop|l} viehka dudálasj
 
 
-Sámedikke presidænnta {la}£{cop|l} viehka {dudálasj oajvvadussaj}£{case,ill-com|dudálasj oajvvadusájn} juollodit lasse rudájt sámegiellaj ja kultuvrraj.
+Sámedikke presidænnta {la}£{cop|l} viehka dudálasj {oajvvadussaj}£{case,ill-com|oajvvadusájn} juollodit lasse rudájt sámegiellaj ja kultuvrraj.
 
 NRK
 
@@ -15,7 +15,7 @@ Olli la sierraláhkáj dudálasj mij gullu sámegiellaj ja kultuvrraj. Dájda ju
 
 - Valla ålleslattjat lip mij dudálattja budsjæhttaoajvvadusájn. Ja duodden aj oadtju {Finnmárkokomisjåvnnå}${conc,m-mm|Finnmárkokommisjåvnnå} 17 {milliåvnå}${conm,0-j|millijåvnå} kråvnå mij ij gullu Sámediggáj.
 
-Ij dádjada manen {presidænnta sjållåha}£{kongr|presidænnta sjållåj}
+Ij dádjada manen presidænnta {sjållåha}£{kongr|sjållåj}
 
 Vuona sámij rijkkasiebre (NSR) {parlamentáralasj}${loan|parlamentarismalasj} jådediddje Aili Keskitalo ij dádjada majdik presidenta sjållåhimes mij gullu 2013 budsjæhttaoajvvadussaj.
 
@@ -25,21 +25,21 @@ Aili Keskitalo ij la dudálasj 2013 budsjæhttaoajvvadusájn.
 Aili Keskitalo ij la dudálasj 2013 budsjæhttaoajvvadusájn.
 
 NSR
-– {Olli la iehtja}£{x|Olli la iesj} gájbbedam ráddidusás viehka ienep rudájt Sámediggáj gå dav mij dánna oajvvaduvvá, gåktu de sådnå máhttá liehket dudálasj, gatját Keskitalo.
+– Olli la {iehtja}£{x|iesj} gájbbedam ráddidusás viehka ienep rudájt Sámediggáj gå dav mij dánna oajvvaduvvá, gåktu de sådnå máhttá liehket dudálasj, gatját Keskitalo.
 
 Gå dal presidænnta návti nammat sån la dudálasj dájna oajvvadusájn, de ham de sån rádjá signálajt oajválattjada jut dát la nuoges ja de ham Stuorradigge ij des dárbaha usjudallat Sámedikkev, jáhkká sån.
 
-Sámedigge l {iehtja}¥{redun|} mierredam gájbbedit lassedoarjjagav {139 {milliåvnå}${conm,0-j|millijåvnå} kråvnåj}£{num,kongr|139:jn millijåvnåjn kråvnåjn}, valla dán oajvvadusán boahtá 32 lasse {milliåvnå}${conm,0-j|millijåvnå}.
+Sámedigge l {iehtja}¥{redun|} mierredam gájbbedit lassedoarjjagav 139 {{milliåvnå}${conm,0-j|millijåvnå}}£{num,kongr|millijåvnåjn} {kråvnåj}£{num,kongr|kråvnåjn}, valla dán oajvvadusán boahtá 32 lasse {milliåvnå}${conm,0-j|millijåvnå}.
 
 – Ep de máhte {dudálattja liehket}€{w|duhtat} budsjæhttalassánimijn mij la 100 {milliåvnå}${conm,0-j|millijåvnå} kråvnå vuolep gå dav majt lijma sávvam, dættot Keskitalo.
 
 Rahterudá Nordlánndaj
 
-Nordlánndaj båhti lasse rudá ådå rahteprosjevtajda, aktij {1,1 {milliárdda}${conm,0-j|millijárdda} kråvnå}£{num,kongr|1,1 milliárda kråvnå}.
+Nordlánndaj båhti lasse rudá ådå rahteprosjevtajda, aktij 1,1 {milliárdda}${conm,0-j|millijárdda}£{num,kongr|millijárda} kråvnå.
 
 {Hålogálátteråvvåj}${vowlat,á-a|Hålogalátteråvvåj} mij la tsieggiduvátjit båhti 690 millijåvnå kråvnå.
 
-Ja E-6 ådåstuhttemij Skilggáváren, Hábmerin båhti 40 millijåvnå kråvnå ådåstuhtátjit {vihtta {kilomehterav}${loan,mix|kilomiehttarav}}£{num,kongr|vihtta kilomiehttera}, valla aktij galggá {17,5 {kilomehtar}${loan,vowc|kilomiehtar}}£{num,kongr|17,5 kilomiehttara} {E-6 rahtes}¢{cmp|E6-rahtes} danna ådåstuhteduvvat.
+Ja E-6 ådåstuhttemij Skilggáváren, Hábmerin båhti 40 millijåvnå kråvnå ådåstuhtátjit vihtta {{kilomehterav}${loan,mix|kilomiehttarav}}£{num,kongr|kilomiehttera}, valla aktij galggá 17,5 {{kilomehtar}${loan,vowc|kilomiehtar}}£{num,kongr|kilomiehttara} {E-6 rahtes}¢{cmp|E6-rahtes} danna ådåstuhteduvvat.
 
 Rahteådåstuhttem Skilggáváren álggá boahtte jage ja vihpá gålmmå jage.
 

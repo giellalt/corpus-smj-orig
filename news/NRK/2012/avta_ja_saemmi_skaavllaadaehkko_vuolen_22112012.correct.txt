@@ -1,7 +1,7 @@
 Avta ja sæmmi skåvllådæhkko vuolen
 
 
-1 S oahppe Wilma Jessen ja 2. klássak Martin Knutsen {lejga såj gudi ådå skåvlåv rabájga, madin {rektor}${loan,vowc,e-ie;conc.kt-vt|rievtor} Britt-Karin Hansen tjuovvu}£{kongr|lejga såj gudi ådå skåvlåv rabájga, madin rievtor Britt-Karin Hansen tjuovoj}.
+1 S oahppe Wilma Jessen ja 2. klássak Martin Knutsen lejga såj gudi ådå skåvlåv rabájga, madin {rektor}${loan,vowc,e-ie;conc.kt-vt|rievtor} Britt-Karin Hansen {tjuovvu}£{kongr|tjuovoj}.
 
 {Foto}∞{nor}: Sander Andersen/NRK
 
@@ -13,11 +13,11 @@ Lávllagij Ájluovta skåvlå mánájskåvlådáses ja {báloaŋŋaspreggijmij}$
 
 Lejga oahppeguovtes Wilma Jessen ja Martin {Kuntsen}${typo|Knutsen} gudi {almmulattjat}${conc,lmm-lm|almulattjat} rabájga ådå {skvållåhuodnahijt}${typo|skåvllåhuodnahijt}.
 
-Dat merkaj mánájskåvllå ja nuorajskåvllå {li tjoahkkiduvvin}£{x|li tjoahkkidum} avta sadjáj ja ælla des dagu åvddål {guovte sierra skåvllåhuodnahijda}£{kongr,num|guovte sierra skåvllåhuodnahij} sieradum.
+Dat merkaj mánájskåvllå ja nuorajskåvllå li {tjoahkkiduvvin}£{x|tjoahkkidum} avta sadjáj ja ælla des dagu åvddål guovte sierra {skåvllåhuodnahijda}£{kongr,num|skåvllåhuodnahij} sieradum.
 
-{Måttijt {lågevjagijt}${cmp,1-X|lågev jagijt}}£{x|Moadda låk jage} la nuorajskåvllå skåvllim Ájluovta oabme skåvlån mij la oabme ja ij la hiebadahtedum udnásj dárbojda ja gájbbádusájda.
+Måttijt {{lågevjagijt}${cmp,1-X|lågev jagijt}}£{num,kongr|lågijt jagijt} la nuorajskåvllå skåvllim Ájluovta oabme skåvlån mij la oabme ja ij la hiebadahtedum udnásj dárbojda ja gájbbádusájda.
 
-Valla dálla {li gájkka 105 oahppe}£{kongr|li gájka 105 oahppe} Ájluovta skåvlån tjoahkkidum avta sadjáj.
+Valla dálla li {gájkka}£{kongr|gájka} 105 oahppe Ájluovta skåvlån tjoahkkidum avta sadjáj.
 
 Divtasvuona suohkan la stuoredahttám ja ådåstuhttám mánájskåvlåv ja dasi tsieggim duodde skåvllåtsiekkadusáv mij suohkanij la máksám vargga 20 {milliåvnå}${conm,0-j|millijåvnå} kråvnå.
 
@@ -28,15 +28,15 @@ Skåvllå dievaj skåvllårahpamij.
 
 Vuorddám 15 jage
 
-Badjel 15 jage {lij bargge ja oahppe}£{kongr|li bargge ja oahppe} Ájluovta skåvlån vuorddám dáv biejvev ja dan diehti {li rahpam}£{kongr|lij rahpam} sierraláhkáj ávvobiejvve sidjij.
+Badjel 15 jage {lij£{kongr|li} bargge ja oahppe Ájluovta skåvlån vuorddám dáv biejvev ja dan diehti {li}£{kongr|lij} rahpam sierraláhkáj ávvobiejvve sidjij.
 
-- {Mij lip viehka ávvusa uddni}£{x|Mij lip viehka ávon uddni}. Mijá mielas lip oadtjum buorre ja hiebalgis lanjájt majt dárbahip, ja la ihkeva buorre gå divna oahppe ja åhpadiddje li avta ja sæmmi dæhkko vuolen. Dat buoredahttá barggodilev, dav mån juo dálla vuojnáv, ja buorak la tjoahkkit sihke {oappijt}${conc,pp-hpp|oahppijt} ja barggijt, javllá rektor Britt-Karin Hansen.
+- Mij lip viehka ávvusa uddni. Mijá mielas lip oadtjum buorre ja hiebalgis lanjájt majt dárbahip, ja la ihkeva buorre gå divna oahppe ja åhpadiddje li avta ja sæmmi dæhkko vuolen. Dat buoredahttá barggodilev, dav mån juo dálla vuojnáv, ja buorak la tjoahkkit sihke {oappijt}${conc,pp-hpp|oahppijt} ja barggijt, javllá rektor Britt-Karin Hansen.
 
 Åhpadiddje li aj oadtjum ådå, stuoráp ja buorep {barggolanájt}${conc,n-nj|barggolanjájt}, ådå stuoráp åhpadiddjijlanjáv ja buorep bivtaslanjájt.
 
-Ja {dasi l sámegielåhpadiddje Paul Gælok dudálasj}£{case,ill-com|dajna l sámegielåhpadiddje Paul Gælok dudálasj}.
+Ja {dasi}£{case,ill-com|dajna} l sámegielåhpadiddje Paul Gælok dudálasj.
 
 - {Dat la buorre gå}¥{wo;redun|Buorre l gå} bessam lip sæmmi dæhkko vuolláj divna vehka, {sierralahkáj}${vowc,a-á|sierraláhkáj} gå {mij divna bargge}¥{wo|divna mij bargge} bessap liehket aktan. Åvddål ij lim miján buorre barggosadje, {galmma ja oabme skåvllådåben}¥{missing|galmma ja oabme skåvllådåben lijma}, valla dálla l dille ållu {{ietja}¢{vowlat,a-á|ietjá} láhkáj}¢{cmp,X-1|ietjáláhkáj}, javllá åhpadiddje Paul Gælok.
 
-{GULLDAL ÁSSJEV}£{x|GULLDALA ÁSSJEV}:
+{GULLDAL}£{x|GULLDALA} ÁSSJEV:
 

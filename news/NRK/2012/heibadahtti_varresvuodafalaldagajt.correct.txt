@@ -33,15 +33,15 @@ Sáme dájdda ja sáme kártta, oabme gábmaga gahtsahi siejnen, valla danna æl
 
 Institusjåvnnå la juo åvddål aj gæhttjalam {hiebadahttet}€{w|hiebadit} fálaldagájt sáme pasientaj dárboj gáktuj.
 
-– Mij lip aktisattjat barggam sámij gudi sáme kultuvrav dåbddi dagu ælloniehkke Fuoskon, Arnfinn Pavall. Valla lej huoman institusjåvnnåj dárbbo gehtjadit gåktu {systemmáhtalattjat}${loan,mix|systiemalattjat} adnet ja dádjadit sáme kultuvrav ja gávnadit makkir máhtudahka sáme kultuvras le institusjåvnån. Ij dåssju dat mij dal ålgoldis tjalmij vuojnnu. {Valla aj la ájnas dádjadit}¥{wo|Valla l aj ájnas} {dajt hásstalusájt mij varresvuodan ja máhtsastimen lulu}£{kongr|dajt hásstalusájt ma varresvuodan ja máhtsastimen lulun} gå ulmusj la sábme, tjielggi Trond Bliksvær.
+– Mij lip aktisattjat barggam sámij gudi sáme kultuvrav dåbddi dagu ælloniehkke Fuoskon, Arnfinn Pavall. Valla lej huoman institusjåvnnåj dárbbo gehtjadit gåktu {systemmáhtalattjat}${loan,mix|systiemalattjat} adnet ja dádjadit sáme kultuvrav ja gávnadit makkir máhtudahka sáme kultuvras le institusjåvnån. Ij dåssju dat mij dal ålgoldis tjalmij vuojnnu. {Valla aj la ájnas}¥{wo|Valla l aj ájnas} dádjadit dajt hásstalusájt {mij}£{kongr,pron|ma} varresvuodan ja máhtsastimen {lulu}£{kongr,cond|lulun} gå ulmusj la sábme, tjielggi Trond Bliksvær.
 
 Álgadin sierra sáme prosjevtav
 
 Ja jur dav institusjåvnnå dåbdåj ja miededij – dárbbo l {systemmáhtalattjat}${loan,mix|systiemalattjat} gehtjadit dáv.
 
-Navti de {ietjastis álgadin}£{kongr|ietjastisá álgadin} sierra sáme prosjevtav dijmmá.
+Navti de {ietjastis}£{kongr|ietjastisá} álgadin sierra sáme prosjevtav dijmmá.
 
-Sij biedjin virggáj prosjæktajådediddjev gut galgaj gehtjadit gåktu dievnastusá doajmmi sáme pasientaj hárráj ja {mij lulu}£{kongr|mij luluj} dárbulasj dahkat.
+Sij biedjin virggáj prosjæktajådediddjev gut galgaj gehtjadit gåktu dievnastusá doajmmi sáme pasientaj hárráj ja mij {lulu}£{kongr,cond|luluj} dárbulasj dahkat.
 
 Prosjækta l vihpam jagev ja gatjálvis le mij la dáhpáduvvam dán jage mij luluj sáme pasientajda ávkken?
 
@@ -52,8 +52,8 @@ Erling Urheim la jådedam prosjevtav.
 
 {Foto}∞{nor}: Harrieth Aira/NRK
 
-– Dánna li moadda oase majt lip vieledam. {Sáhka la má dádjadusás, gåktu sámij barggat, vuosstij válldet ja aj diedojt sámij birra}£{case,acc-ela|Sáhka la má dádjadusás, gåktu sámij barggat, vuosstij válldet ja aj diedojs sámij birra}, duoje, åssko ja {duot-dát}${cmp,hyhp-X|duot dát}. Ájnas la aj dádjadusáv oadtjot gåktu sáme li ájgij tjadá vájvástuvvam. Miján lij fáhkabiejvve mij dav tjalmostij – láddáduvvama båhtusa sámij varresvuodadilláj. Duodden lip tjadádam fáhkabiejvijt, maŋemus lij {miehttseterapija}${loan,conc-j-jj|miehttseterapijja}, ja bargge li aj oassálasstám {{duon-dán}${cmp,hyph-X|duon dán} varresvuodaseminárajn}£{kongr|duojn dájn varresvuodaseminárajn}, subtsas prosjevta jådediddje, julevsábme Erling Urheim gut la dájna barggam Valnesvuona varresvuodaguovdátjin dán maŋemus jage.
-Duodden máhtudaklåpptimij barggij gaskan de la varresvuodaguovdásj álgadam {duov-dáv}${cmp,hyph-X|duov dáv} {mij lulu}£{kongr|mij luluj} sámevuodav buorebut vuosedit. Buojkulvisá dagu låvdagådijt li tsieggim, sáme girjijt girjjevuorkkáj oadtjum, duodjekursajt tjadádam ja {oahpástuvvam sáme værmádahkaj}€{w|oahpásmuvvam sáme værmádahkaj}.
+– Dánna li moadda oase majt lip vieledam. Sáhka la má dádjadusás, gåktu sámij barggat, vuosstij válldet ja aj {diedojt}£{case,acc-ela|diedojs} sámij birra, duoje, åssko ja {duot-dát}${cmp,hyhp-X|duot dát}. Ájnas la aj dádjadusáv oadtjot gåktu sáme li ájgij tjadá vájvástuvvam. Miján lij fáhkabiejvve mij dav tjalmostij – láddáduvvama båhtusa sámij varresvuodadilláj. Duodden lip tjadádam fáhkabiejvijt, maŋemus lij {miehttseterapija}${loan,conc-j-jj|miehttseterapijja}, ja bargge li aj oassálasstám {{duon-dán}${cmp,hyph-X|duon dán}}£{kongr|duojn dájn} varresvuodaseminárajn varresvuodaseminárajn}, subtsas prosjevta jådediddje, julevsábme Erling Urheim gut la dájna barggam Valnesvuona varresvuodaguovdátjin dán maŋemus jage.
+Duodden máhtudaklåpptimij barggij gaskan de la varresvuodaguovdásj álgadam {duov-dáv}${cmp,hyph-X|duov dáv} mij {lulu}£{kongr|luluj} sámevuodav buorebut vuosedit. Buojkulvisá dagu låvdagådijt li tsieggim, sáme girjijt girjjevuorkkáj oadtjum, duodjekursajt tjadádam ja {oahpástuvvam sáme værmádahkaj}€{w|oahpásmuvvam sáme værmádahkaj}.
 
 Pasienta vuojnni ávkev
 
@@ -76,7 +76,7 @@ Svenn Johnsen ij dåssju vuojne ávkev dássta dåssju sámij diehti.
 
 Sån aj dættot man ávkálasj la dáttjasebrudahkaj {oahpástuvvat}€{w|oahpásmuvvat} sámegiellaj ja kultuvrraj.
 
-– Gå mån sáhkadahttjájiv sámegiellaj daj láttij ja rivggoj guoran de sidja midjij gæhttjin ja gatjádin makkir gielav midja ságastijma. Ja de subtsastijma mij lip sáme ja oahppása Divtasvuonas. Vuojná sáme kultuvrra dakkir stuor sajen ij la læhkám åvddål, esski gå dálla Erling Urheim danna barggagådij. Ja dat la buorre, gå dán mijá væráldin vilák ulmutja gatjádi hájn mij la sábme, {majt la sábme}£{case|mij la sábme} ja gånnå sábme årru. “Sáme årru gámájn”, javlli, ja mån de hæhttujiv tjajmmat ja javllat ulmutjijda ma dav jáhkki, "Jubmelam, midja lip ham jagen 2012. Makkir diedojt lihpit oadtjum mijá birra," subtsas Johnsen.
+– Gå mån sáhkadahttjájiv sámegiellaj daj láttij ja rivggoj guoran de sidja midjij gæhttjin ja gatjádin makkir gielav midja ságastijma. Ja de subtsastijma mij lip sáme ja oahppása Divtasvuonas. Vuojná sáme kultuvrra dakkir stuor sajen ij la læhkám åvddål, esski gå dálla Erling Urheim danna barggagådij. Ja dat la buorre, gå dán mijá væráldin vilák ulmutja gatjádi hájn mij la sábme, {majt}£{case,acc-nom|mij} la sábme ja gånnå sábme årru. “Sáme årru gámájn”, javlli, ja mån de hæhttujiv tjajmmat ja javllat ulmutjijda ma dav jáhkki, "Jubmelam, midja lip ham jagen 2012. Makkir diedojt lihpit oadtjum mijá birra," subtsas Johnsen.
 
 {Så}∞{nor} le gus duv mielas dát buorre prosjækta mij la tjadáduvvam Valnesvuonan?
 
@@ -90,7 +90,7 @@ Jus sáme prosjækta joarkká ja man láhkáj ij la uddni tjielgas.
 
 Valla makkir {konkrehta}${loan,vowc|konkriehta} dåjma jåhtuj båhti ij la tjielgas.
 
-–Varresvuodaguovdátja bargge ja stivrra ælla giehtadallam diedádusájt prosjevtas, valla ságastallama vuolen le gåjt gehtjadit {jus lulu sámegielak barggev institusjåvnnåj åttjudit}£{kongr|jus lulujma sámegielak barggev institusjåvnnåj åttjudit} jus la ruhta dasi, subtsas vas Tove Bergkvist gut jådet {mánáj ja nuoraj åssudagáv}¢{cmp,X-1|mánáj- ja nuorajåssudagáv} varresvuodaguovdátjin.
+–Varresvuodaguovdátja bargge ja stivrra ælla giehtadallam diedádusájt prosjevtas, valla ságastallama vuolen le gåjt gehtjadit jus {lulu}£{kongr|lulujma} sámegielak barggev institusjåvnnåj åttjudit jus la ruhta dasi, subtsas vas Tove Bergkvist gut jådet {mánáj ja nuoraj åssudagáv}¢{cmp,X-1|mánáj- ja nuorajåssudagáv} varresvuodaguovdátjin.
 
 Ja dav aj pasiænnta Svenn Johnsen doajvvu.
 
@@ -98,5 +98,5 @@ Ja dav aj pasiænnta Svenn Johnsen doajvvu.
 
 Dán bále la de dát prosjækta nåhkåm ja sáme prosjæktajådediddje la ietjas bargujn ållim.
 
-{GULLDAL ÁSSJEV}£{x|GULLDALA ÁSSJEV}:
+{GULLDAL}£{x|GULLDALA} ÁSSJEV:
 

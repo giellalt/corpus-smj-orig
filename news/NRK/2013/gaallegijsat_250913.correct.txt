@@ -1,4 +1,4 @@
-– {Allit biejste gållegijsát}£{kongr|Allit biejste gijsáda}
+– Allit biejste {gållegijsát}£{kongr|gijsáda}
 
 
 Kurt Oddekalv tjåhkanimen Gásluovtan, Divtasvuonan.
@@ -10,7 +10,7 @@ Kurt Oddekalv tjåhkanimen Gásluovtan, Divtasvuonan.
 Harrieth Aira {harrieth.aira@nrk.no}∞{url}
 Sander Andersen {sander.andersen@nrk.no}∞{url}
 
-– Divtasvuodna sjielmmávuodnan {la gållegijsá}£{kongr|la gållegijssá} gånnå {ållo}€{w|ienep} {iesjgeŋga lágásj}¢{cmp,X-1|iesjgenŋgalágásj} guolleslája sjaddi gå ietjá sajijn Vuonan. Ehpit bierri gal dákkir vuonajda ásadit guollebiebmadimæládusáv gå {vuodna má lulu}£{kongr|vuodna má luluj} nuoskoduvvat, várrodij {birástjendis}${loan,vowc,e-ie|Birástjiendis} ja Vuona birásgáhttimlihto jådediddje, Kurt Oddekalv.
+– Divtasvuodna sjielmmávuodnan la {gållegijsá}£{kongr|gållegijssá} gånnå {ållo}€{w|ienep} {iesjgeŋga lágásj}¢{cmp,X-1|iesjgenŋgalágásj} guolleslája sjaddi gå ietjá sajijn Vuonan. Ehpit bierri gal dákkir vuonajda ásadit guollebiebmadimæládusáv gå vuodna má {lulu}£{kongr,cond|luluj} nuoskoduvvat, várrodij {birástjendis}${loan,vowc,e-ie|Birástjiendis} ja Vuona birásgáhttimlihto jådediddje, Kurt Oddekalv.
 
 Vásse vahko lij sån Divtasvuonan tjadádime álmmuktjåhkanimev guollebiebmadime birra ja danna várrodij divtasvuonagijt dibddet guollebiebmadimæládusáv nuoskodahttet vuonav.
 
@@ -24,7 +24,7 @@ Luossabiebmadibme Måsken, Divtasvuonan.
 
 Valla guollebiebmadimæládus vásstedij dajt garra {ládádallamijt}${vowlat,á-a|ládadallamijt} Kurt {Oddekalv:as}${suf|Oddekalvas}.
 
-Vuollelin {gulá majt guollebiebmadimæládus vásstedij ja ienep diedojt dát dágástallamis}¥{missing|gulá majt guollebiebmadimæládus vásstedij ja oattjo ienep diedojt dát dágástallamis}.
+Vuollelin gulá majt guollebiebmadimæládus vásstedij {ja ienep diedojt dát dágástallamis}¥{missing|ja oattjo ienep diedojt dát dágástallamis}.
 
 
 Guollebiebmadibme Divtasvuonan

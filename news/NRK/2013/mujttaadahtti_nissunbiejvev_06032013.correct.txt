@@ -18,7 +18,7 @@ Mujttádahttemin mij la dán bierjjedagá, snjuktjamáno 8. biejve, galggá Sám
 
 Divtasvuona ASVO bæjválasj jådediddje Beate Ráhka Knutsen galggá giehttot nissunværmástagá ja dássádusá birra.
 
-Nuorra nissun ja åhpadiddje {{Ingrid Kintel galggá lågådallat sámegiella ja dássádus}£{case,nom-gen|Ingrid Kintel galggá lågådallat sámegiela ja dássádusá}}¥{missing|Ingrid Kintel galggá lågådallat sámegiela ja dássádusá birra}. Ja duodden galggá Sámedikkeráde politihkalasj rádevadde, Hagbart Grønmo giehttot sáme nissunij birra politihkan.
+Nuorra nissun ja åhpadiddje Ingrid Kintel galggá lågådallat {{sámegiella}£{case,nom-gen|sámegiela ja {dássádus}£{case,nom-gen|dásásusá}}¥{missing|sámegiela ja dássádusá birra}. Ja duodden galggá Sámedikkeráde politihkalasj rádevadde, Hagbart Grønmo giehttot sáme nissunij birra politihkan.
 
 – {Dárbbo mujttádahttet}¥{missing|Dárbbo l mujttádahttet}
 
@@ -26,7 +26,7 @@ Nuorra nissun ja åhpadiddje {{Ingrid Kintel galggá lågådallat sámegiella ja
 
 – Vádnun ájn dássádus vaj nissunij dille {la}£cop|l} sæmmi dásen gå ålmmåj.
 
-– Álu li má {ålmmåjn sijájn gænna l fábmo}£{kongr|ålmmåjn sijájn gejn la fábmo}, sij gudi li jådediddje ja sij gudi tjåhkkåhi biednikvuossa nanna ja gudi mierredi ássjijt politihkan. Ja álu de {sjaddi}€{w|li} ålmmå gudi ráddiji sebrudagán {jus ga}¢{cmp,X-1;conc,sg-sk|juska} {miján li {moadda berustiddjes}£{kongr|moattes berustiddjijs} nissuna}¥{redun;wo|moattes berustiddjijs li nissuna}. Så vilák vierttiji nissuna tjalmostahteduvvat vaj sjaddá almma dássádus gájkaj ulmutjij gaskan dættot Alanen.
+– Álu li má ålmmåjn sijájn {gænna}£{kongr|gejn} {l}£cop|la} fábmo, sij gudi li jådediddje ja sij gudi tjåhkkåhi biednikvuossa nanna ja gudi mierredi ássjijt politihkan. Ja álu de {sjaddi}€{w|li} ålmmå gudi ráddiji sebrudagán {jus ga}¢{cmp,X-1;conc,sg-sk|juska} {miján li moadda {berustiddjes}£{case|berustiddje} nissuna}¥{redun;wo|moadde berustiddje li nissuna}. Så vilák vierttiji nissuna tjalmostahteduvvat vaj sjaddá almma dássádus gájkaj ulmutjij gaskan dættot Alanen.
 
-{GULLDAL ÅLLES ÁSSJEV SÁMEGIELLAJ DÁNNA}£{x|GULLDALA ÅLLES ÁSSJEV SÁMEGIELLAJ DÁNNA}:
+{GULLDAL}£{x|GULLDALA} ÅLLES ÁSSJEV SÁMEGIELLAJ DÁNNA:
 

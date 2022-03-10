@@ -1,7 +1,7 @@
 Åtsådij skihppijsijdav
 
 
-Ájluovta sjaljon, Divtasvuonan ælla des rabás {idja-biejvve huksosaje}¢{cmp,X-1|idja-biejvvehuksosaje} gånnå {skihppe ja vuorasulmutja lulu}£{kongr|skihppe ja vuorasulmutja lulun} {idja-biejvve huvsov}¢{cmp,X-1|idja-biejvvehuvsov} ja sujtov oadtjot.
+Ájluovta sjaljon, Divtasvuonan ælla des rabás {idja-biejvve huksosaje}¢{cmp,X-1|idja-biejvvehuksosaje} gånnå skihppe ja vuorasulmutja {lulu}£{kongr,cond|lulun} {idja-biejvve huvsov}¢{cmp,X-1|idja-biejvvehuvsov} ja sujtov oadtjot.
 
 {Foto}∞{nor}: Harrieth Aira
 Divtasvuona suohkanstivratjåhkanimen mij lij dán vahko sidáj Divtasvuona bájkelista ájras, Kurt Solstrøm diehtet gåktu manná pládnabargujn åttjudittjat skihppijsijdav Ájluoktaj, Divtasvuodnaj.
@@ -24,13 +24,13 @@ Suohkanstivrra aj mierredij jus moattekultuvralasj {varresvuoda -ja}‰{x|varres
 
 Suohkanstivraájrrasa, Kurt Solstrøma mielas la ássje sjávvunam.
 
-{Sån vuojnná uddni l vil stuoráp dárbojt}£{case,acc-nom|Sån vuojnná uddni li vil stuoráp dárbo} gå dav majt åvddål jáhkkin gå sihke Báhpadåbesjalljo skihppijsijdan, Gásluovtan ja Ájluovta sjaljon, Ájluovtan ælla des rabás saje ja dárbbo l lassánam dijmátjis.
+Sån vuojnná uddni {l}£{kongr|li} vil stuoráp {dárbojt}£{case,acc-nom|dárbo} gå dav majt åvddål jáhkkin gå sihke Báhpadåbesjalljo skihppijsijdan, Gásluovtan ja Ájluovta sjaljon, Ájluovtan ælla des rabás saje ja dárbbo l lassánam dijmátjis.
 
 – Mij ep la bárep diedojt oadtjum gåktu bargujn manná, ja dat la sivva manen mån sidáv ienep diedojt dán prosjevta birra, javllá Solstrøm.
 
 – Åvddåprosjækta la almoduvvam
 
-Suohkanoajvve Tor Asgeir Johansen máhtij suohkanstivran subtsastit Divtasvuona suohkan la almodam Doffinij åvddåprosjevtav Guovllomedisijnalasj guovdátjij Ájluoktaj gånnå {huksosaje la oasse dát guovdátjis}£{kongr|huksosaje li oassen dát guovdátjis}.
+Suohkanoajvve Tor Asgeir Johansen máhtij suohkanstivran subtsastit Divtasvuona suohkan la almodam Doffinij åvddåprosjevtav Guovllomedisijnalasj guovdátjij Ájluoktaj gånnå huksosaje {la}£{kongr|li} oassen dát guovdátjis.
 
 
 – Mij barggap nav ruvva gå máhttelis, vásstet Divtasvuona suohkanoajvve, Tor Asgeir Johansen.
@@ -41,7 +41,7 @@ Sån ij sidá merustallat {goassá}¢{vowlat,á-a|goassa} åvddåprosjevtav li t
 
 – Manná dal soames ájgge åvdås haddefálaldahka {la}£{cop|l} mierreduvvam ja dan maŋŋel galggá de åvddåprosjækta tjadáduvvat. Mij barggap nav ruvva gå máhttelis, javllá suohkanoajvve.
 
-{Dasi lij Kurt Solstrøm dudálasj}£{case,ill-com|Dajna lij Kurt Solstrøm dudálasj}.
+{Dasi}£{case,ill-com|Dajna} lij Kurt Solstrøm dudálasj.
 
 – Diedáv gåjt sij dájna barggi ja dat la ájnas, javllá Solstrøm.
 

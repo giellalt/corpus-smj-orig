@@ -6,9 +6,9 @@ Vuostasj studenta julevsáme bacheloråhpadusán {Nordlánda universitehtan}¢{v
 
 Uddni rahpusij julevsáme bacheloråhpadus {Nordlánda universitehtan}¢{vocw,e-ie|Nordlánda universitiehtan} sierra mujttádahttemijn gåsi studenta lidjin bivddidum. Ja Bodø Glimta {lijkkemållagáhttár}¢{conc|lijggemållagáhttár}, 20 jahkásasj Adrian Nystø Mikkelsen, la aj álggám dán åhpadussaj.
 
-– Mij ham dárbahip máhtudagáv sámegiellaj ja dan diehti la máj dárbbo låhkåt sámegielav javllá Adrian Nystø Mikkelsen akta dajs {21 studentajs gut uddni álgij}£{num,kongr|21 studentas gudi uddni álggin} dan vuostasj bacheloråhpadussaj julevsámegielan, {Nordlánda universitehtan}¢{vocw,e-ie|Nordlánda universitiehtan}.
+– Mij ham dárbahip máhtudagáv sámegiellaj ja dan diehti la máj dárbbo låhkåt sámegielav javllá Adrian Nystø Mikkelsen akta dajs 21 {studentajs}£{num,kongr|studentas} {gut}£{kongr,pron|gudi} uddni {álgij}£{kongr|álggin} dan vuostasj bacheloråhpadussaj julevsámegielan, {Nordlánda universitehtan}¢{vocw,e-ie|Nordlánda universitiehtan}.
 
-– Ep la moattes, lip nav gallegattja julevsáme guovlon ja gå mån lav juo sámegielav oahppam {mánná rájes}£{case,nom-gen|máná rájes} de la luondulasj låhkåt sámegielav, dættot sån.
+– Ep la moattes, lip nav gallegattja julevsáme guovlon ja gå mån lav juo sámegielav oahppam {mánná}£{case,nom-gen|máná} rájes de la luondulasj låhkåt sámegielav, dættot sån.
 
 Lågå aj: – Mærkkabiejvve julevsámijda
 Bodø {Glimt-a}${suf|Glimta} mållagáhttár
@@ -24,13 +24,13 @@ Adrian Nystø Mikkelsen gut aj la buosjes ja vissjalis bállotjiektje ja uddni l
 
 Ja nuorra báhttja dal ij la uddni mierredam jus julevsámegiella sjaddá suv åhpadusgæjnno.
 
-{Duodden julevsáme bacheloråhpadus}£{case,nom-ill|Duodden julevsáme bacheloråhpadussaj} de sån aj histåvrråfágav låhkå {universitehtan}¢{vowc,e-ie|universitiehtan}.
+Duodden julevsáme {bacheloråhpadus}£{case,nom-ill|bacheloråhpadussaj} de sån aj histåvrråfágav låhkå {universitehtan}¢{vowc,e-ie|universitiehtan}.
 
 - Iv la ájn mierredam makkir virggáj galgav låhkåt. Mån lav ájn álgon muv åhpadusán, subtsas sån.
 
-Valla {soajttá sámegiela mastergráda loaggá}£{mod|soajttá sámegiela mastegráda loagget}.
+Valla {soajttá}£{mod|ihkap} sámegiela mastergráda loaggá.
 
-- Ja, jus sjaddá fálaldak {matergrádaj}${conc,t-st|mastergrádaj} de máhtáv usjudallat álgget dasi. Jus dát bachelor la miellagiddis ja ålliv dajna, de {soajttá álgáv}£{mod|soajtáv álgget}, ij dav diehttu.
+- Ja, jus sjaddá fálaldak {matergrádaj}${conc,t-st|mastergrádaj} de máhtáv usjudallat álgget dasi. Jus dát bachelor la miellagiddis ja ålliv dajna, de {soajttá}£{mod|ihkap} álgáv, ij dav diehttu.
 
 – Vuorddeba {mástergrádav}${vowc,á-a|mastergrádav}
 

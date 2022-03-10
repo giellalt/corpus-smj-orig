@@ -22,9 +22,9 @@ Lågå aj: {Stiller spørsmål ved pengebevilgnin}∞{nor}
 
 Ietjanis berustime
 
-Jagen 2011 ásadij Divtasvuona suohkan fåndav mij rudájt oadtju {daj guokta luossabiebbmamvidnudagájs}£{kongr|dat guovtet luossabiebbmamvidnudagás} ma li Divtasvuonan.
+Jagen 2011 ásadij Divtasvuona suohkan fåndav mij rudájt oadtju {daj}£{kongr,num|dat} {guokta}£{kongr,num|guovtet} {luossabiebbmamvidnudagájs}£{kongr,num|luossabiebbmamvidnudagás} ma li Divtasvuonan.
 
-Fånda sisboahto l {akta millijåvnnå kråvnnå}£{num,kongr|akta millijåvnnå kråvnå} jahkáj {goabbák {viddnudagájs}${conc,ddn-dn|vidnudagájs}}£{kongr|goabbák vidnudagás} ja vihpá gålmmå jage.
+Fånda sisboahto l akta millijåvnnå {kråvnnå}£{num,kongr|kråvnå} jahkáj goabbák {{viddnudagájs}${conc,ddn-dn|vidnudagájs}}£{x|vidnudagás} ja vihpá gålmmå jage.
 
 
 Suohkanoajvve Tor Asgeir Johansen.
@@ -46,7 +46,7 @@ Imájdallá {barggamvuogev}€{w|barggovuogev}
 
 Nordlánda fylkamánnen imájdalli dáv {barggamvuogev}€{w|barggovuogev}.
 
-– {Dádjadav dal sunnun gudi ietja lijga åhtsåm rudájt fåndas}£{case,ine-nom|Dádjadav dal såj gudi ietja lijga åhtsåm rudájt fåndas} ejga la fáron mierredime gå jur sunnu åhtsåmusá giehtadaláduvvin. Dat la dal riekta. Valla gatjálvis badján jus galgajga dåjt nuppijt åhtsåmusájt aj giehtadallat? Sierraláhkáj usjudaláv jus li ráddjidum rudá massta åhtsi nav vaj dat vájkkut majt ietja oadtjoba, javllá {vuolepdirektørra}${loan,vowc,ø-e|vuolepdirekterra} Tor Sande, Nordlánda fylkamánnen.
+– Dádjadav dal {sunnun}£{case,ine-nom|såj} gudi ietja lijga åhtsåm rudájt fåndas ejga la fáron mierredime gå jur sunnu åhtsåmusá giehtadaláduvvin. Dat la dal riekta. Valla gatjálvis badján jus galgajga dåjt nuppijt åhtsåmusájt aj giehtadallat? Sierraláhkáj usjudaláv jus li ráddjidum rudá massta åhtsi nav vaj dat vájkkut majt ietja oadtjoba, javllá {vuolepdirektørra}${loan,vowc,ø-e|vuolepdirekterra} Tor Sande, Nordlánda fylkamánnen.
 
 – Åvddånammadus mierredij
 
@@ -54,7 +54,7 @@ Divtasvuona suohkanoajvve Tor Asgeir Johansen sivádahttá Åvddånammadusáv ja
 
 – Mij ságastijma dan birra Åvddånammadusán {ja aj {rádádijma}${vowlat,á-u|rádudijma} rádeålmmåjn}¥{wo|ja rádudijma aj rádeålmmåjn}, ja de mierredijma måj ejma la belulattja giehtadallat {gåjt}¢{coninit,g-d|dåjt} ietjá åhtsåmusájt. Dav ålles Åvddånammadus gávnadij, tjielggi Johansen.
 
-Valla sån vuojnná dálla {dát lulu unugis {barggamvuohke}€{w|barggovuohke}}£{kongr|dát luluj unugis barggovuohke}.
+Valla sån vuojnná dálla dát {lulu}£{kongr,cond|luluj} unugis {barggamvuohke}€{w|barggovuohke}.
 
 – Ittjij de dalloj biello skuola. Valla gå dån dálla gatjáda de máhttá dal dálla vuojnnet dáv unugis barggamvuohken.
 
@@ -64,4 +64,4 @@ Valla sån vuojnná dálla {dát lulu unugis {barggamvuohke}€{w|barggovuohke}}
 
 Filip Mikkelsen ij sidá ássjáj majdik moalgedit javllá sån SMS:a baktu NRK:aj.
 
-{GULLDAL ÅLLES ÁSSJEV DÁNNA}£{x|GULLDALA ÅLLES ÁSSJEV DÁNNA}:
+{GULLDAL}£{x|GULLDALA} ÅLLES ÁSSJEV DÁNNA:

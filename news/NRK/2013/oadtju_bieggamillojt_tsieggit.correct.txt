@@ -12,14 +12,14 @@ NVE mij la Vuonarijka {tjáhtje-ja}${cmp,1-X|tjáhtje- ja} {energijadåjmadahka}
 
 NVE dættot guovlluj gåsi bieggamillo galggi tsieggiduvvat juo la dulvvaduvvamguovllo, ja bieggamillotsieggim vájkkut binnep láhkáj luonnduj gå {dav}¥{redun|} jus guovlon åvdutjis ællim makkirik ásadusá tsieggiduvvam.
 
-Oasse Slabávuona bieggamillopárkas gullu Divtasvuona - Vuodnabadá álmmukmiehttse guoradallamguovlluj {ja oajvvaduvvam Vuona biele Laponia væráltárbbeguovlluj}¥{missing|ja la oajvvaduvvam Vuona biele Laponia væráltárbbeguovlluj}. Dát luonndosuoddjimprosæssa ganugahteduváj jagen 2001 ja guovllo ij la desti juridihkalattjat tjanáduvvam makkirik láhkáj tjállá NVE.
+Oasse Slabávuona bieggamillopárkas gullu Divtasvuona - Vuodnabadá álmmukmiehttse guoradallamguovlluj {ja oajvvaduvvam}¥{missing|ja la oajvvaduvvam} Vuona biele Laponia væráltárbbeguovlluj. Dát luonndosuoddjimprosæssa ganugahteduváj jagen 2001 ja guovllo ij la desti juridihkalattjat tjanáduvvam makkirik láhkáj tjállá NVE.
 
-{Slabávuonavárre Bieggapárkka}£{case,nom-gen|Slabávuonváre Bieggapárkka} {la}£{cop|l} stuorra bieggaprosjækta mij máhttá buvtadit 250 GWh jahkáj, mij merkaj ásadus máhttá buvtadit strávvev {12.500 gådijda}£{kongr,num|12.500 goahtáj}.
+{Slabávuonavárre}£{case,nom-gen|Slabávuonváre} Bieggapárkka {la}£{cop|l} stuorra bieggaprosjækta mij máhttá buvtadit 250 GWh jahkáj, mij merkaj ásadus máhttá buvtadit strávvev 12.500 {gådijda}£{kongr,num|goahtáj}.
 
-{Tsieggimbarggo {jahkedahtte}${vowc,a-á|jáhkedahtte} álggá}£{infl,ind-pot|Tsieggimbarggo álgisj} jagen 2014.
+Tsieggimbarggo {{jahkedahtte}${vowc,a-á|jáhkedahtte} álggá}£{infl,ind-pot|álgisj} jagen 2014.
 
 
-Navti máhtti bieggamillo vuojnnut vuoset {{gåvvåaktijbiedjam}${cmp,1-X|gåvvå aktijbiedjam}}€{der|gåvvå aktijbiejadum} NVE:as.
+Navti máhtti bieggamillo vuojnnut vuoset {gåvvåaktijbiedjam}${cmp,1-X|gåvvå aktijbiedjam}}€{der|gåvvå aktijbiejadum} NVE:as.
 
 {Foto}∞{nor}: NVE
 
@@ -27,7 +27,7 @@ Statskog ittjij konsesjåvnåv oattjo
 
 Statskog AS lij aj åhtsåm loabev tsieggit sulálasj bieggamillojt Vuovddejávrráj vehi dåbbelin sæmmi bájken, valla NVE ittjij {Statskog:aj}${suf|Statskogaj} loabev vatte.
 
-Sivva l gå udnásj strávvelinja Slabávuona ja Gásluovta gaskan máhtti strávvev suvddet dåssju {avtav bieggamilloásadusás ja ij guokta}£{x|avtat bieggamilloásadusás ja ij guovtet}.
+Sivva l gå udnásj {strávvelinja}${strávvelinnja} Slabávuona ja Gásluovta gaskan máhtti strávvev suvddet dåssju {avtav}£{num,kongr|avtat} bieggamilloásadusás ja ij {guokta}£{num,kongr|guovtet}.
 
 Duodden aj boahtá {Statskog:a}${suf|Statskoga} ásadus ilá næjgga {ájdeduvvam}${conc,jd-jt|ájteduvvam} sjattojda ma danna lahkusin sjaddi.
 
@@ -46,13 +46,13 @@ Guohtomguovllo ja rádjebálges
 
 Guovllo gåsi bieggapárkka ásaduvvá la aj guohtomguovllo ællosujttuj ja gullu Svieriga tjærojda Baste ja Unna-Tjerutjij. Guovllo l gidá- ja giesseguohtomguovllo ja la ájnas ællosujttuj.
 
-Rádjebálges {mij la várrevádtsembálggá}£{case,gen-nom|mij la várrevádtsembálges} majt Divtasvuona suohkan ja Váhtjera suohkan, Svierigin aktisattjat li ásadam Rijtjemis Svierigin Slabávuodnaj Divtasvuodnaj la aj dan sæmmi guovlon.
+Rádjebálges mij la {várrevádtsembálggá}£{case,gen-nom|várrevádtsembálges} majt Divtasvuona suohkan ja Váhtjera suohkan, Svierigin aktisattjat li ásadam Rijtjemis Svierigin Slabávuodnaj Divtasvuodnaj la aj dan sæmmi guovlon.
 
 NVE la dan diehti nágin ævtojt biedjam konsesjåvnnåj.
 
 Duola dagu galggá tsieggijiddje hiebadahttet tsieggimbargov ællosujttuj ja gehtjadit vaj tsieggimbarggo ja bieggamilloj dåjmadibme ij sjatta hieredussan ællosujttuj. Sij galggi aj aktisattjat tjæroj barggat.
 
-Duodden aj gájbbeduvvá tsieggijiddje oajvvat {dåjmajt mij sihke gåtset ja åvddånahttá Rádjebálggáv}£{kongr|dåjmat ma sihke gåtsedi ja åvddånahtti Rádjebálggáv} gaskan Vuona ja Svieriga.
+Duodden aj gájbbeduvvá tsieggijiddje oajvvat dåjmajt {mij}£{kongr,pron|ma} sihke {gåtset}£{kongr|gåtsedi} ja {åvddånahttá}£{kongr|åvddånahtti} Rádjebálggáv {gaskan Vuona ja Svieriga}¥{wo|Vuona ja Svieriga gaskan}.
 
 Ålles loabev NVE:as lågå dánna.
 

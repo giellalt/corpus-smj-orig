@@ -28,11 +28,11 @@ Dássta {la}£{cop|l} stuorre ávkke javllá Skarvik.
 – Gå artihkkala li sámegiellaj tjáleduvvam de li da fáron {åvddånime}€{w|åvddånahttemin} julevsámegielav. Terma båhti sámegiellaj ja álu vuojn sámegiella ij {adnu}€{der|aneduvá} dakkár dutkam- ja muodugasj fágalasj aktijvuodan. Dan diehti l má viehka ájnas gávnnuji artihkkala ma li sámegiellaj tjáleduvvam majt ulmutja máhtti adnet.
 Dán jagásj "Bårjjåsin" li gålmmå oajvvetiemá ma li iellemvuoge ællosujton, varresvuohta ja dutkametihkka.
 
-Dánna li artihkkala dagu dálkádakhiebadibme ællosujton Nordlándan, ællosujto {hiebadallamstrategija}${loan,conc,j-jj|hiebadallamstrategijja} ja {ællosujto árvo kultuvrraguodden}£{case|ællosujto árvvo kultuvrraguodden} ja árbbedábálasj iellemvuohken.
+Dánna li artihkkala dagu dálkádakhiebadibme ællosujton Nordlándan, ællosujto {hiebadallamstrategija}${loan,conc,j-jj|hiebadallamstrategijja} ja ællosujto {árvo}£{case|árvvo} kultuvrraguodden ja árbbedábálasj iellemvuohken.
 
-Duodden li aj artihkkala dutkametihkas ja guokta tjállusa {gånnå varresvuohta {la}£{cop|l} tiebmá}£{case,nom-ess|gånnå varresvuohta l tiebmán}. Duodden la aj akta artihkal bidumsáme bájkkenamáj birra.
+Duodden li aj artihkkala dutkametihkas ja guokta tjállusa gånnå varresvuohta {la}£{cop|l} {tiebmá}£{case,nom-ess|tiebmán}. Duodden la aj akta artihkal bidumsáme bájkkenamáj birra.
 
-- Tjállagin li artihkkala {daj gålmmå tiemáj birra}£{kongr|dan gålmå tiemá birra} ma li ássje majna Árran la barggam dán maŋemus jage, subtsas Skarvik.
+- Tjállagin li artihkkala {daj}£{num,kongr|dan} {gålmmå}£{num,kongr|gålmå} {tiemáj}£{num,kongr|tiemá} birra ma li ássje majna Árran la barggam dán maŋemus jage, subtsas Skarvik.
 
 Uddni aj bidumsáme girjje almoduvvá
 
@@ -42,7 +42,7 @@ Girjje 'Subttsasa dållågáttes - {Historier rundt kaffebålet}∞{nor}'.
 {Foto}∞{nor}: Præssagåvvå / Árran	
 {Uddni aj almot Árrana girjjealmmudahka}¥{wo|Uddni almot aj Árrana girjjealmmudahka}, Báhko, girjev bidumsáme guovlos.
 
-Dav girjev la bidumsábme Knut Sivertsen tjállám ja {la suv nubbe girjje}£{x|la suv nuppát girjje}.
+Dav girjev la bidumsábme Knut Sivertsen tjállám ja la suv {nubbe}£{nuppát} girjje.
 
 -Knut Sivertsen, Bájddáris la tjállám girjev majt gåhttjum la “Subttsasa dållågáttes”. Girjje l sihke julevsámegiellaj ja dárogiellaj ja gåhtjoduvvá dárruj “{Historier rundt kaffebålet}∞{nor}”. Girjen subtsas tjálle subttsasijt {suv}€{w,pers-refl|ietjas} sijddaguovlos Bájddárin, dáhpádusáj birra majt iesj la åtsådallam ja subttsasijt majt iehtjáda li sunji subtsastam. Girje vuodo l dålusj sáme subtsastallamvuohke ja girjje almoduvvá uddni, subtsas Skarvik.
 
@@ -50,7 +50,7 @@ Dav girjev la bidumsábme Knut Sivertsen tjállám ja {la suv nubbe girjje}£{x|
 Girjjetjálle, Knut Sivertsen.
 
 {Foto}∞{nor}: Sander Andersen {arkivfoto}∞{nor} / NRK
-Sån {ávttji ulmutjijt boahtet}£{sup|ávttji ulmutjijt boadátjit} dán {javlajåvddål ávvudallamij}${cmp,X-1;mix|åvddåljavlaávvudallamij} mij la bidumsáme guovdátjin, Duoddara ráfen, Bájddárin gietjan dán iehkeda.
+Sån ávttji ulmutjijt {boahtet}£{sup|boadátjit} dán {javlajåvddål ávvudallamij}${cmp,X-1;mix|åvddåljavlaávvudallamij} mij la bidumsáme guovdátjin, Duoddara ráfen, Bájddárin gietjan dán iehkeda.
 
-– Ij la ietján gå boahtet Duoddara ráfáj oassálastátjit girjálasjvuoda {javlajåvddål-ávvudallamij}${hyph-0;mix|åvddåljavlaávvudallamij} gånnå ienep diedo girjes gulluji ja gånnå aj tjálle tjavggalåhkå ietjas girjes. Mij {guossodip gløggajn ja javllagáhkoj}£{case|guossodip gløkkav ja javllagáhkojt} ja gájka li buorisboahtem dåhku. Girjje l má viehka buorre javllavattáldahka, javllá Skarvik ja {ávttji ulmutjijt boahtet}£{sup|ávttji ulmutjijt boadátjit}.
+– Ij la ietján gå boahtet Duoddara ráfáj oassálastátjit girjálasjvuoda {javlajåvddål-ávvudallamij}${hyph-0;mix|åvddåljavlaávvudallamij} gånnå ienep diedo girjes gulluji ja gånnå aj tjálle tjavggalåhkå ietjas girjes. Mij guossodip {gløggajn}£{case|gløkkav} ja {javllagáhkoj}£{case|javllagáhkojt} ja gájka li buorisboahtem dåhku. Girjje l má viehka buorre javllavattáldahka, javllá Skarvik ja ávttji ulmutjijt {boahtet}£{sup|boadátjit}.
 
