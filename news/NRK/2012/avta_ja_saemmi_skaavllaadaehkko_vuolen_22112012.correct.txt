@@ -28,7 +28,7 @@ Skåvllå dievaj skåvllårahpamij.
 
 Vuorddám 15 jage
 
-Badjel 15 jage {lij£{kongr|li} bargge ja oahppe Ájluovta skåvlån vuorddám dáv biejvev ja dan diehti {li}£{kongr|lij} rahpam sierraláhkáj ávvobiejvve sidjij.
+Badjel 15 jage {lij}£{kongr|li} bargge ja oahppe Ájluovta skåvlån vuorddám dáv biejvev ja dan diehti {li}£{kongr|lij} rahpam sierraláhkáj ávvobiejvve sidjij.
 
 - Mij lip viehka ávvusa uddni. Mijá mielas lip oadtjum buorre ja hiebalgis lanjájt majt dárbahip, ja la ihkeva buorre gå divna oahppe ja åhpadiddje li avta ja sæmmi dæhkko vuolen. Dat buoredahttá barggodilev, dav mån juo dálla vuojnáv, ja buorak la tjoahkkit sihke {oappijt}${conc,pp-hpp|oahppijt} ja barggijt, javllá rektor Britt-Karin Hansen.
 
@@ -39,4 +39,3 @@ Ja {dasi}£{case,ill-com|dajna} l sámegielåhpadiddje Paul Gælok dudálasj.
 - {Dat la buorre gå}¥{wo;redun|Buorre l gå} bessam lip sæmmi dæhkko vuolláj divna vehka, {sierralahkáj}${vowc,a-á|sierraláhkáj} gå {mij divna bargge}¥{wo|divna mij bargge} bessap liehket aktan. Åvddål ij lim miján buorre barggosadje, {galmma ja oabme skåvllådåben}¥{missing|galmma ja oabme skåvllådåben lijma}, valla dálla l dille ållu {{ietja}¢{vowlat,a-á|ietjá} láhkáj}¢{cmp,X-1|ietjáláhkáj}, javllá åhpadiddje Paul Gælok.
 
 {GULLDAL}£{x|GULLDALA} ÁSSJEV:
-

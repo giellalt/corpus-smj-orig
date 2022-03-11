@@ -19,7 +19,7 @@ Oasse Slabávuona bieggamillopárkas gullu Divtasvuona - Vuodnabadá álmmukmieh
 Tsieggimbarggo {{jahkedahtte}${vowc,a-á|jáhkedahtte} álggá}£{infl,ind-pot|álgisj} jagen 2014.
 
 
-Navti máhtti bieggamillo vuojnnut vuoset {gåvvåaktijbiedjam}${cmp,1-X|gåvvå aktijbiedjam}}€{der|gåvvå aktijbiejadum} NVE:as.
+Navti máhtti bieggamillo vuojnnut vuoset {{gåvvåaktijbiedjam}${cmp,1-X|gåvvå aktijbiedjam}}€{der|gåvvå aktijbiejadum} NVE:as.
 
 {Foto}∞{nor}: NVE
 
@@ -55,4 +55,3 @@ Duola dagu galggá tsieggijiddje hiebadahttet tsieggimbargov ællosujttuj ja geh
 Duodden aj gájbbeduvvá tsieggijiddje oajvvat dåjmajt {mij}£{kongr,pron|ma} sihke {gåtset}£{kongr|gåtsedi} ja {åvddånahttá}£{kongr|åvddånahtti} Rádjebálggáv {gaskan Vuona ja Svieriga}¥{wo|Vuona ja Svieriga gaskan}.
 
 Ålles loabev NVE:as lågå dánna.
-

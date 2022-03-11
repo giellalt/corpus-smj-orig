@@ -117,7 +117,7 @@ gárves {"action"-ij}∞{eng}. Bårå buoragit. Ij dåssju sjokoládav ja bruvsa
 riek ájnas. De máhtá bårråt sjokoládav
 {{eksábmájgev}${typo|eksábmaájgev}}£{case,acc-ine|eksábmaájgen}, ja nav varrasåhkkårav lasedit ja {{energijav}${loan,coninit,g-sj;conc,j-jj|enersjijjav}}€{w|fámojt}
 jåhtelit oadtjot. Mujte {ållo}€{e|edna} juhkusav, {tjáhtje}£{case,nom-acc|tjátjev} ja
-bruvssa}£{case,nom-acc|bruvsav}. Ja mujte
+{bruvssa}£{case,nom-acc|bruvsav}. Ja mujte
 positijvalattjat ájádallat. Eksábma, juska gåktu gævvá, ij le værámus mij
 máhttá dáhpáduvvat?
 

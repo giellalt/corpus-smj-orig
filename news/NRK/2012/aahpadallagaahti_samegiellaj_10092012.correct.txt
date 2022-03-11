@@ -14,7 +14,7 @@ Divtasvuona {suohkanstivra ájras}¢{cmp,X-1|suohkanstivraájras}, Johan Daniel 
 
 Lej {suohkanstivrraájras}¢{cmp,nom-gen|suohkanstivraájras} Johan Daniel Hætta gut sidáj diehtet makkir plána suohkanin li sámegiela åhpadussaj.
 
-– Båhti vuojn ådå njuolgadusá {guovtegiedakrudáj}¢{conc,d-l;x|guovtegielakvuodarudáj} adnemij Sámedikkes boahtte jage ja sidáv diehtet {gåktu l Divtasvuona suohkan {dáv}£{case|dási} gárvedam}¥{wo|gåktu Divtasvuona suohkan la dási gárvedam}. {E}£{kongr|Ij} vuojn boahtte jage rájes des boade vattáldahka {gålmmå}£{kongr,num|gålmåjn} {millijåvnåj}£{kongr,num|millijåvnåjn} valla ietja vierttip plánajt dahkat {mij}£{kongr,pron|ma{ {vuoset}£{kongr,v|vuosedi} majt {ájggup}¢{vowlat,u-o|ájggop} dáj rudáj, gatjádij Johan Daniel Hætta.
+– Båhti vuojn ådå njuolgadusá {guovtegiedakrudáj}¢{conc,d-l;x|guovtegielakvuodarudáj} adnemij Sámedikkes boahtte jage ja sidáv diehtet {gåktu l Divtasvuona suohkan {dáv}£{case|dási} gárvedam}¥{wo|gåktu Divtasvuona suohkan la dási gárvedam}. {E}£{kongr|Ij} vuojn boahtte jage rájes des boade vattáldahka {gålmmå}£{kongr,num|gålmåjn} {millijåvnåj}£{kongr,num|millijåvnåjn} valla ietja vierttip plánajt dahkat {mij}£{kongr,pron|ma} {vuoset}£{kongr,v|vuosedi} majt {ájggup}¢{vowlat,u-o|ájggop} dáj rudáj, gatjádij Johan Daniel Hætta.
 
 Duodastij plánajt li dahkam
 

@@ -35,7 +35,7 @@ Sámedigge l {iehtja}¥{redun|} mierredam gájbbedit lassedoarjjagav 139 {{milli
 
 Rahterudá Nordlánndaj
 
-Nordlánndaj båhti lasse rudá ådå rahteprosjevtajda, aktij 1,1 {milliárdda}${conm,0-j|millijárdda}£{num,kongr|millijárda} kråvnå.
+Nordlánndaj båhti lasse rudá ådå rahteprosjevtajda, aktij 1,1 {{milliárdda}${conm,0-j|millijárdda}}£{num,kongr|millijárda} kråvnå.
 
 {Hålogálátteråvvåj}${vowlat,á-a|Hålogalátteråvvåj} mij la tsieggiduvátjit båhti 690 millijåvnå kråvnå.
 

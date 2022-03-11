@@ -26,7 +26,7 @@ Oalgesbelludagá nominasjåvnnåtjåhkanibme Viestarmera válggabijran la {Båd�
 
 1. Lars Filip Paulsen, 33 jagák, Divtasvuodna
 
-2. Aili Kirste Solheim Strømeng, 18 jagák, Vestvågøy 
+2. Aili Kirste Solheim Strømeng, 18 jagák, Vestvågøy
 
 3. Nils Ante Eira, 37 jagák, Loabát
 
@@ -46,7 +46,7 @@ Oalgesbelludagá nominasjåvnnåtjåhkanibme Viestarmera válggabijran la {Båd�
 
 Filip Mikkelsen ij sebra
 
-Divtasvuona suohkanpolitihkkár ja sadjásasj jådediddje Oalgesbelludagá sámepolitihkalasj juohkusin , Filip Mikkelsen ij la oajvvaduvvam {gånnån}${fin,n-k|gånnåk}}€{w|makkirak} {sajen}£{case,ine-ill|sadjáj} dán listan.
+Divtasvuona suohkanpolitihkkár ja sadjásasj jådediddje Oalgesbelludagá sámepolitihkalasj juohkusin , Filip Mikkelsen ij la oajvvaduvvam {{gånnån}${fin,n-k|gånnåk}}€{w|makkirak} {sajen}£{case,ine-ill|sadjáj} dán listan.
 
 Filip Mikkelsen tjielggi manen sån ij la listan {jus ga}¢{cmp,X-1;conc,sg-sk|juska} sån la lista duogen.
 

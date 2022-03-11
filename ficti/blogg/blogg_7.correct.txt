@@ -60,7 +60,7 @@ Sidáv sijddaj vádtset {dal}€{w|dálla} {ja goarrot}£{sup|goarotjit}, valla 
 
 Buoris!
 
-Båhtiv Jiellevárráj {biel’}‰{x|biel} vidán iektu. Rachel bådij viettjatjit, ja manájma Sonja Rimpi lusi. Vuosedij {gápptijt}${conc,ppt-pt|gáptijt}, avijt, sliehpájt ja ietjá duojijt. Riek geldulasj ja buorre suv lunna liehket. Suohtas lij vuojnnet sieradusájt {buddasij£{case|buddasijn}, {listoj}£{case|listojn} j.n. Oadtjuv inspirasjåvnåv.
+Båhtiv Jiellevárráj {biel’}‰{x|biel} vidán iektu. Rachel bådij viettjatjit, ja manájma Sonja Rimpi lusi. Vuosedij {gápptijt}${conc,ppt-pt|gáptijt}, avijt, sliehpájt ja ietjá duojijt. Riek geldulasj ja buorre suv lunna liehket. Suohtas lij vuojnnet sieradusájt {buddasij}£{case|buddasijn}, {listoj}£{case|listojn} j.n. Oadtjuv inspirasjåvnåv.
 Gåvvijiv ålov ja dálla {le}£{cop|l} mujna gåvå gå galgav prosjevtav tjállegoahtet. Buorre!
 Dálla lav Rachela vega lunna. Måj galggin {mönsterav}${vowc,ö-i;conc,nst-nsst|minsstarav} stiellit muv gápptáj, ja de goarrogoahtet. Jáhkáv ja doajvov riek buorre sjaddá.
 

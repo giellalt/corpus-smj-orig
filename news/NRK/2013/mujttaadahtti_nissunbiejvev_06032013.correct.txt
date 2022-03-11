@@ -18,7 +18,7 @@ Mujttádahttemin mij la dán bierjjedagá, snjuktjamáno 8. biejve, galggá Sám
 
 Divtasvuona ASVO bæjválasj jådediddje Beate Ráhka Knutsen galggá giehttot nissunværmástagá ja dássádusá birra.
 
-Nuorra nissun ja åhpadiddje Ingrid Kintel galggá lågådallat {{sámegiella}£{case,nom-gen|sámegiela ja {dássádus}£{case,nom-gen|dásásusá}}¥{missing|sámegiela ja dássádusá birra}. Ja duodden galggá Sámedikkeráde politihkalasj rádevadde, Hagbart Grønmo giehttot sáme nissunij birra politihkan.
+Nuorra nissun ja åhpadiddje Ingrid Kintel galggá lågådallat {{sámegiella}£{case,nom-gen|sámegiela} ja {dássádus}£{case,nom-gen|dásásusá}}¥{missing|sámegiela ja dássádusá birra}. Ja duodden galggá Sámedikkeráde politihkalasj rádevadde, Hagbart Grønmo giehttot sáme nissunij birra politihkan.
 
 – {Dárbbo mujttádahttet}¥{missing|Dárbbo l mujttádahttet}
 
@@ -29,4 +29,3 @@ Nuorra nissun ja åhpadiddje Ingrid Kintel galggá lågådallat {{sámegiella}£
 – Álu li má ålmmåjn sijájn {gænna}£{kongr|gejn} {l}£cop|la} fábmo, sij gudi li jådediddje ja sij gudi tjåhkkåhi biednikvuossa nanna ja gudi mierredi ássjijt politihkan. Ja álu de {sjaddi}€{w|li} ålmmå gudi ráddiji sebrudagán {jus ga}¢{cmp,X-1;conc,sg-sk|juska} {miján li moadda {berustiddjes}£{case|berustiddje} nissuna}¥{redun;wo|moadde berustiddje li nissuna}. Så vilák vierttiji nissuna tjalmostahteduvvat vaj sjaddá almma dássádus gájkaj ulmutjij gaskan dættot Alanen.
 
 {GULLDAL}£{x|GULLDALA} ÅLLES ÁSSJEV SÁMEGIELLAJ DÁNNA:
-

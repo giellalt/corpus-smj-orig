@@ -36,5 +36,4 @@ Sån árvvet dát {dás-duohku}${conc,s-sst;vowlat,0-a;cmp,hyph-X|dássta duohku
 
 – Dát beras luluj juo láŋŋga {sjaen}${typo|sajen} ja diehttelis árvvedav dát sjaddá doajmmat juohkka bále gå midja tjåhkanip Sámedikken, dættot sån.
 
-{GULLDAL£{x|GULLDALA} ÅLLES ÁSSJEV SÁMEGIELLAJ DÁNNA:
-
+{GULLDAL}£{x|GULLDALA} ÅLLES ÁSSJEV SÁMEGIELLAJ DÁNNA:

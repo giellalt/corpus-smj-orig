@@ -139,7 +139,7 @@ Majt aná dán birra?
 
 Gåktu mån dálla ájádalliv?
 
-{Mánen}${vowc,á-a|Manen} {i}v£{neg|ittjiv} mån {mánnam}${vowc,á-a|mannam}£{neg|maná} Ájluoktaj ja {Oppájdáj}${loan,conc,jd-jdd|Oppájddáj}????? Naima! {Åh}∞{sla} mån lav nav suhton. Mån gut lav nav vuorddám dáv {lávvordagáv}${conwb,r-0|lávvodagáv}. Mån gut nav sihtiv bállov tjiektjat. Hivás!
+{Mánen}${vowc,á-a|Manen} {iv}£{neg|ittjiv} mån {{mánnam}${vowc,á-a|mannam}}£{neg|maná} Ájluoktaj ja {Oppájdáj}${loan,conc,jd-jdd|Oppájddáj}????? Naima! {Åh}∞{sla} mån lav nav suhton. Mån gut lav nav vuorddám dáv {lávvordagáv}${conwb,r-0|lávvodagáv}. Mån gut nav sihtiv bállov tjiektjat. Hivás!
 
 tjállám: Naima {kloahkká}${loan,vowlat,á-a|kloahkka} 09:36
 

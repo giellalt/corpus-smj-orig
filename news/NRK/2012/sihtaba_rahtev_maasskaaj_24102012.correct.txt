@@ -18,7 +18,7 @@ Valla iektu de avtajienalasj suohkanstivrra mierredij doarjjot måskegij ja oarj
 
 Suohkanstivra mielas la ájnas rahtev Måsskåj oadtjot vaj:
 
-Buorep láhkáj sjaddá máhttelis ávkástallat {{luondoressursajt}¢{cmp,gen-nom|luonndoressursajt}}£{case,acc-ela|luonndoressursajs} guovlon dagu {strávvev/{energijav}${concinit,g-sj;conc,j-jj|enersjijjav}}}£{case,acc-nom|strávve/enesjijja}, {merraressursajt}£{case,acc-nom|merraressursa} ja ihkap {minerállaressursajt}£{case,acc-nom|minerállaressursa} jus gávnnuji.
+Buorep láhkáj sjaddá máhttelis ávkástallat {{luondoressursajt}¢{cmp,gen-nom|luonndoressursajt}}£{case,acc-ela|luonndoressursajs} guovlon dagu {strávvev/{energijav}${concinit,g-sj;conc,j-jj|enersjijjav}}£{case,acc-nom|strávve/enesjijja}, {merraressursajt}£{case,acc-nom|merraressursa} ja ihkap {minerállaressursajt}£{case,acc-nom|minerállaressursa} jus gávnnuji.
 
 Buorep láhkáj sjaddá máhttelis åvddånahttet turismav ja mannoæládusáv valjes luonndoguovlon.
 Måsske aktan {Måskeláhka}€{w|måskebirrusa} {vuodnabájkátjijn}£{sg-pl|vuodnabájkátjij} la ájnas sadje suoddjitjit ja åvddånahtátjit julevsáme árbbedábijt ja iellemvuogijt.
