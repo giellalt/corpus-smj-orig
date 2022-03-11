@@ -35,7 +35,7 @@ Boahttsu Svieriga bieles Vuona bælláj
 
 Thomas
 
-Ællosáme Vuona ja Svieriga bielen rijddalin gå ællosáme Svieriga bieles sihtin ietjasa ælojt Vuona bælláj guododittjat. Sij vuosedi láhkaj 1751 jage rájes. Soames ællosáme Vuona bielen sihti aj guododahttet ietjasa ælojt Svieriga bielen, ja dassta de rijddo sjaddá. Thomas Labba la ietjas elujn ganugam vuolládagájda. Ij duosta várijda elujn jåhtet. Ballá Svieriga bælláj massá, ja {sijá boahttsu sehkani svenska boahttsuj}£{case,com-ill|sijá boahttsu sehkani svenska boahttsujda} ja nav de {lulu láhppuji}£{kongr;infl|lulun láhpput}.
+Ællosáme Vuona ja Svieriga bielen rijddalin gå ællosáme Svieriga bieles sihtin ietjasa ælojt Vuona bælláj guododittjat. Sij vuosedi láhkaj 1751 jage rájes. Soames ællosáme Vuona bielen sihti aj guododahttet ietjasa ælojt Svieriga bielen, ja dassta de rijddo sjaddá. Thomas Labba la ietjas elujn ganugam vuolládagájda. Ij duosta várijda elujn jåhtet. Ballá Svieriga bælláj massá, ja sijá boahttsu sehkani svenska {boahttsuj}£{case,com-ill|boahttsujda} ja nav de {lulu}£{kongr|lulun} {láhppuji}£{infl|láhpput}.
 
 Giesen
 
@@ -44,7 +44,7 @@ Sáme báhkodáhtátjoahkke rabáduvvam
 
 Sámedikke {giellastsivrra}${typo|giellastivrra}: Nora Marie Brandsfjell, Rolf Olsen, Magne Einejord, Karen Monica Paulsen ja Tor Magne Berg oassálasstin gå sáme báhkodáhtátjoahkke {www.Risten.no}∞{url} rabáduváj. Dát báhkodáhtátjoahkke la næhttabielle gåsi divna sáme bágo julevsáme-, nuorttasáme- ja oarjjelsámegiellaj biejaduvvi ja gånnå aj máhtá åhtsåt juogu dal bágov jali gåktu {bahko}${vowc,a-á|báhko} såjåduvvá.
 
--Dán báhkodáhtátjoahkken li {juo12.000}${typo,cmp,X-1|juo 12.000} bágo, ja dát la ræjddo giellabarggijda ja diedon aj iehtjádijda gudi {gielav berusti}£{case|gielas berusti}, javlaj Sámedikke {{giellastivtra}${typo|giellastivra} ájras}¥{cmp,2-1|giellastivraájras} Karen Monica Paulsen åvdås gå almulattjat dáv næhttabájkev rabáj.
+-Dán báhkodáhtátjoahkken li {juo12.000}${typo,cmp,X-1|juo 12.000} bágo, ja dát la ræjddo giellabarggijda ja diedon aj iehtjádijda gudi {gielav}£{case|gielas} berusti, javlaj Sámedikke {{giellastivtra}${typo|giellastivra} ájras}¥{cmp,2-1|giellastivraájras} Karen Monica Paulsen åvdås gå almulattjat dáv næhttabájkev rabáj.
 
 
 Tjaktjagiesen
@@ -70,4 +70,4 @@ Tjaktjadálven
 
 Ep dal ájn diede jus girjjetjállen sjaddap
 
-Sjattaj {ållu}€{w|riek} hávsskes {båttå}¢{conc,tt-dd|båddå} gå sáme girjjetjálle {goarrihin}${conm,h-j|goarrijin} Strávnjunje skåvlån gasskavahko, ja oahppe {Isabell, Katja, Are, Tony, Sivert, Tor Ivar, Andreas, Silje ja Birgitta oattjojga}£{kongr|Isabell, Katja, Are, Tony, Sivert, Tor Ivar, Andreas, Silje ja Birgitta oadtjun} gullat gånnå sámegiella aneduvvá, gåktu máhtá buorre subttsasav dahkat. Giella l aj ietjá gå dav majt dåssju njálme tjadá buvtá, ja dáhpádusás ja åtsådallamijs gitta tækstaj la guhka, {{roañkok}${ascii|roaŋkok} bálges}¥{pred-attr|roahkogis bálges}, ja unna Strávnjunjátjis dåhkki aj geldulasj subttsasav dahkat. Tjálle sihtin oahppijda subtsastit vehik máhttelisvuodaj birra jus sidá tjállen sjaddat.
+Sjattaj {ållu}€{w|riek} hávsskes {båttå}¢{conc,tt-dd|båddå} gå sáme girjjetjálle {goarrihin}${conm,h-j|goarrijin} Strávnjunje skåvlån gasskavahko, ja oahppe {Isabell, Katja, Are, Tony, Sivert, Tor Ivar, Andreas, Silje ja Birgitta {oattjojga}£{kongr|oadtjun} gullat gånnå sámegiella aneduvvá, gåktu máhtá buorre subttsasav dahkat. Giella l aj ietjá gå dav majt dåssju njálme tjadá buvtá, ja dáhpádusás ja åtsådallamijs gitta tækstaj la guhka, {{roañkok}${ascii|roaŋkok}}¥{pred-attr|roahkogis} bálges, ja unna Strávnjunjátjis dåhkki aj geldulasj subttsasav dahkat. Tjálle sihtin oahppijda subtsastit vehik máhttelisvuodaj birra jus sidá tjállen sjaddat.

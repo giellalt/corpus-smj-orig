@@ -1,4 +1,4 @@
-Ájluovta skåvlå {8. klássaga baktu}£{case|8. klássagij baktu}: Silja Mikkelsen, Anders Kristian Kalstad ja Markus Mikkelsen
+Ájluovta skåvlå 8. {klássaga}£{case|klássagij} baktu: Silja Mikkelsen, Anders Kristian Kalstad ja Markus Mikkelsen
 
 Ságájdahttem Aline Mikkelsenijn
 
@@ -8,7 +8,7 @@ Aline Mikkelsen la njunnjusj siebren “Duodje {Nordlannda}${vowc,a-á|Nordlánn
 
 Manen sihti dån duojijn álgget?
 
--Mån ittjiv máhte majdik, ja danen {sihtiv ienep}£{case|sihtiv ienebuv} oahppat.
+-Mån ittjiv máhte majdik, ja danen sihtiv {ienep}£{case|ienebuv} oahppat.
 
 Majna lijkku buoremusát barggat?
 -Buoremusát lijkkuv sasnijn barggat.
@@ -31,8 +31,8 @@ Mij mielastuhttá duv {ådådahkkuj}${conc,hkk-hk|ådådahkuj}?
 
 La gus duv mielas ájnas nuorajda {oassalasstet}${vowc,a-á|oassálasstet} dán seminárraj?
 
--Muv mielas la, danen gå {sij galggin oahpástuvvat sijájn gudi ságasti}£{x|sij galggi oahpástuvvat sijájn gudi ságasti}, ja galggi mielav oadtjot duodjáj.
+-Muv mielas la, danen gå sij {galggin}£{x|galggi} oahpástuvvat sijájn gudi ságasti, ja galggi mielav oadtjot duodjáj.
 
 Le gus {{juojdá}${conc,jd-jdd|juojddá}}£{case,acc-nom|juoga} {ietjan}${vowlat,a-á|ietján} majt sidá subtsastit duoje birra?
 
--Duodje ij la dåssju gáppte ja nijbbe ja dakkira. Duodje aj {subtsas ållo}£{case|subtsas ålov} luondo birra. Dijá mielas ij la dávk nav suohtas dálla, valla muv mielas galgajda {astov váldet duodjuhit}£{x|astov váldet duodjuhittjat}.
+-Duodje ij la dåssju gáppte ja nijbbe ja dakkira. Duodje aj subtsas {ållo}£{case|ålov} luondo birra. Dijá mielas ij la dávk nav suohtas dálla, valla muv mielas galgajda astov váldet {duodjuhit}£{x|duodjuhittjat}.

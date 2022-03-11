@@ -1,30 +1,30 @@
-Doajvvu ienep {sajev}¥{sajev oadtju} tjaktjaj
+Doajvvu ienep {sajev}¥{missing|sajev oadtju} tjaktjaj
 
--Ep gus ájn girjjevuorká lanjáj sisi besa? gatjádi máná Árrana mánájgárden, ja sihti uvsav rahpat aktan bæjválasj {jådediddjijn Agnethe Johnsenijn ja barggijn Anita Olsenijn}£{case|jådediddjijn Agnethe Johnsen ja barggijn Anita Olsen}.
+-Ep gus ájn girjjevuorká lanjáj sisi besa? gatjádi máná Árrana mánájgárden, ja sihti uvsav rahpat aktan bæjválasj jådediddjijn Agnethe {Johnsenijn}£{case|Johnsen} ja barggijn Anita {Olsenijn}£{case|Olsen}.
 
-{Oanegis}¥{Oanegis versjåvnnå} dárogiellaj
+{Oanegis}¥{missing|Oanegis versjåvnnå} dárogiellaj
 
 
 {Rádenålmåj}${conwb,n-0|Rádeålmåj} Yvonne Mikalsen ij duosta jáhttet ássjev giehtadalli åvddål giesseloabe.
 
--Moattes æjgádijs lij ietjasa iednegielav massám, ælla åvvånis sámegielav oahppam, ja sæmmi dilláj e sidá ietjasa mánájt, jáhkká bæjválasj jådediddje sáme mánájgárden Árranin, Agnethe Johnsen. Johnsen jáhkká dat la {aj}¥{redun|} sivvan gå nav moattes lij {dáj {mañemus}${ascii|maŋemus} jagij sáme mánájgárddáj åhtsåm}£{case|dájt maŋemus jagijt sáme mánájgárddáj åhtsåm}, ja {tjaktjarájes}¢{conc,kt-vt;cmp,1-x|tjavtja rájes} doajvvu Johnsen ienebujda oadtju sajijt fállat.
+-Moattes æjgádijs lij ietjasa iednegielav massám, ælla åvvånis sámegielav oahppam, ja sæmmi dilláj e sidá ietjasa mánájt, jáhkká bæjválasj jådediddje sáme mánájgárden Árranin, Agnethe Johnsen. Johnsen jáhkká dat {la aj}¥{wo|aj la} sivvan gå nav moattes lij {dáj}£{case|dájt} {mañemus}${ascii|maŋemus} {jagij}£{case|jagijt} sáme mánájgárddáj åhtsåm, ja {tjaktjarájes}¢{conc,kt-vt;cmp,1-x|tjavtja rájes} doajvvu Johnsen ienebujda oadtju sajijt fállat.
 
 Árrana mánájgárden ælla desti saje ienep mánájda, ja soames æjgáda li vilá vuorddemin jus ietjasa mánájda sajev danna oadtju. Tjaktjaj jåhtå álmmukgirjjevuorkká Árranis, ja bargge dajna doajvvu divna mánájda oadtju sajev fállat.
 Vuostasj biejve rájes la {Árran Mánájgárdde}‰{min|Árran mánájgárdde} hudjam gå la nav binná sajes, {juogu dal}€{w|sihke} sinna {jali}€{w|ja} ålggon. Valla {tjaktjarájes}¢{conc,kt-vt;cmp,1-x|tjavtja rájes} doajvvu bargge buorep sadje sidjij sjaddá.
 
 Árrana {mánjágárde}${typo|mánájgárde} guoran la uddni suohkana álmmukgirjjevuorkká. Suohkan la mierredam galggi bårggemáno girjjevuorkájn dat lanjás ålgus jåhtet. Dajna de vuojnná mánájgárde bæjválasj jådediddje Agnethe Johnsen buorep sadje sidjij sjaddá, ja nav aj duosstá sajijt æjgádijda fállat.
 
--Ienep ja ienep æjgáda {sihti mánájdisá sajev}£{case|æjgáda sihti mánájdisesa sajev} mijá mánájgárden. Dajna l de munji nav suohtas ja hávsske gå oattjov mánájgárddesajijt vargga divnajda {vaddet}€{w|fállat}, valla vájku oadtjop oasev dat lanjás gånnå girjjevuorkká l uddni, de huoman jáhkáv ælla saje rat divnajda, subtsas mánájgárde jådediddje.
+-Ienep ja ienep æjgáda sihti {mánájdisá}£{case|mánájdisesa} sajev mijá mánájgárden. Dajna l de munji nav suohtas ja hávsske gå oattjov mánájgárddesajijt vargga divnajda {vaddet}€{w|fállat}, valla vájku oadtjop oasev dat lanjás gånnå girjjevuorkká l uddni, de huoman jáhkáv ælla saje rat divnajda, subtsas mánájgárde jådediddje.
 
 Vuorddi sajev
 
 Agnethe Johnsen vuojnná dárbov, ja la aj mihá gå nav moattes Árrana mánájgárddáj åhtsi. Tjaktjaj lij juo 16 máná åhtsåm. 12 li nuorap gå 3 jage.
 
--Stuorra oasse dájs æjgádijs gudi li {mánájdisá sajev dási åhtsåm}£{case|mánájdisesa sajev dási åhtsåm}, lij ietja åtsådallam sámegielav lij massám. Ja diedáv da æjgáda e sidá {máná galggi sæmmi vásedit}¥{missing|máná galggi dav sæmmi vásedit}. Ja danen e sidá {{dárogielamánájgárddáj}${cmp|dárogielmánájgárddáj}}¢{x|dárogielakmánájgárddáj} mánájdisá rádjat, ienni Árrana mánájgárddáj gånnå le máhttelisvuohta sámegielav oahppat, javllá mánájgárde jådediddje Árranin.
+-Stuorra oasse dájs æjgádijs gudi li {mánájdisá}£{case|mánájdisesa} sajev dási åhtsåm, lij ietja åtsådallam sámegielav lij massám. Ja diedáv da æjgáda e sidá {máná galggi sæmmi vásedit}¥{missing|máná galggi dav sæmmi vásedit}. Ja danen e sidá {{dárogielamánájgárddáj}${cmp|dárogielmánájgárddáj}}¢{x|dárogielakmánájgárddáj} mánájdisá rádjat, ienni Árrana mánájgárddáj gånnå le máhttelisvuohta sámegielav oahppat, javllá mánájgárde jådediddje Árranin.
 
-Tjaktjaj li juo 3 máná gudi vuorddi sajev. Da máná dal {jáhkedahtti}¢{vowlat,i-e|jáhkedahtte} sajev oadtju, valla åvdås gå jådediddje duosstá sajijt jáhttet, {de hæhttu suohkan dåhkkidit oasev udnásj girjjevuorkká lanjájt}£{case|de hæhttu suohkan dåhkkidit oasev udnásj girjjevuorká lanjájs} mánájgárde lanjájda.
+Tjaktjaj li juo 3 máná gudi vuorddi sajev. Da máná dal {jáhkedahtti}¢{vowlat,i-e|jáhkedahtte} sajev oadtju, valla åvdås gå jådediddje duosstá sajijt jáhttet, de hæhttu suohkan dåhkkidit oasev udnásj {girjjevuorkká}£{case|girjjevuorká} lanjájs mánájgárde lanjájda.
 
--Åhtsåmus le rájadum, ja doajvov oadtjop vásstádusáv åvddål gå giesseloahpe álggá. Jus bessap dan bælláj, de {la miján 5 {mánájgárdde saje}¢{cmp,X-1|mánájgárddesaje}}£{kongr|li miján 5 mánájgárddesaje} duodden, javllá Agnethe Johnsen.
+-Åhtsåmus le rájadum, ja doajvov oadtjop vásstádusáv åvddål gå giesseloahpe álggá. Jus bessap dan bælláj, de {la}£{kongr|li} miján 5 {mánájgárdde saje}¢{cmp,X-1|mánájgárddesaje} duodden, javllá Agnethe Johnsen.
 
 Ælla ássjegiehtadalle
 
