@@ -2,9 +2,9 @@ Liddno Adventures vehka: Lars Theodor Kintel, Inga Lill Mikkelsen ja Andreas Mik
 
 Liddno Adventures – vásádusá sámij duobddágijn
 
-Liddno Adventures gåhtjudi dav ådå {viddnudagáv}${conc,ddn-dn|vidnudagáv} Oarjjevuonan, gånnå turista oadtju vásedit luondov ja sáme kultuvrav. 3 nuorra sámestudenta {vuododin {viddnudagáv}${conc,ddn-dn|vidnudagáv} ådåjakmáno}£{case|vuododin vidnudagáv ådåjakmánon}.
+Liddno Adventures gåhtjudi dav ådå {viddnudagáv}${conc,ddn-dn|vidnudagáv} Oarjjevuonan, gånnå turista oadtju vásedit luondov ja sáme kultuvrav. 3 nuorra sámestudenta vuododin {viddnudagáv}${conc,ddn-dn|vidnudagáv} {ådåjakmáno}£{case,gen-ine|ådåjakmánon}.
 
-Inga Lill Mikkelsen, Andreas Mikkelsen ja Lars Theodor Kintel, divna gålmås Ájluovtas Divtasvuonan. Sihti giehttot duola dagu sámehiståvrå birra, ja oadtjum li 235 {000}¥{235 000 kråvnå} {Nordlanda}${vowc,a-á|Nordlánda} Fylkkasuohkanis majna galggi tjadádit åvddånahttemprosjevtav “ {Samiske naturopplevelser i Tysfjord}∞{nor}”. Sámedigge l aj rudáj doarjodam.
+Inga Lill Mikkelsen, Andreas Mikkelsen ja Lars Theodor Kintel, divna gålmås Ájluovtas Divtasvuonan. Sihti giehttot duola dagu sámehiståvrå birra, ja oadtjum li {235 000}¥{missing|235 000 kråvnå} {Nordlanda}${vowc,a-á|Nordlánda} Fylkkasuohkanis majna galggi tjadádit åvddånahttemprosjevtav “ {Samiske naturopplevelser i Tysfjord}∞{nor}”. Sámedigge l aj rudáj doarjodam.
 
 
 Luonndovásádusá
@@ -21,7 +21,7 @@ Nubbe fálaldahka l lájddit ulmutjijt Råggejávrerájge tjadá mij la Måske l
 
 – Miján la {ietjamijn}${infl|iehtjama} {filosofia}${loan,conc,0-jj|filosofijja} ja diedo luondo birra, ja sihtap ietja dajna barggagoahtet åvdås iehtjáda ålggolis barggagåhti.
 
-{Viddnudahka}${conc,ddn-dn|Vidnudahkan} barggá ietjá {viddnudagáj}${conc,ddn-dn|vidnudagáj} vuosstáj oarjján ja {rijkagasskajt}${conc,ssk-sk|rijkagaskajt}, {tysklándan}${cap|Tysklándan} ja {Storbritanian}${cmp,hyph;loan|Stuorra-Britanian}. Bálkkim li {tyska}${loan,mix|dujska} {studentav mij}£{kongr|studentav gut} galggá {markedav}€{foreign,nor|márnánav} guoradallat.
+{Viddnudahka}${conc,ddn-dn|Vidnudahkan} barggá ietjá {viddnudagáj}${conc,ddn-dn|vidnudagáj} vuosstáj oarjján ja {rijkagasskajt}${conc,ssk-sk|rijkagaskajt}, {tysklándan}${cap|Tysklándan} ja {Storbritanian}${cmp,hyph;loan|Stuorra-Britanian}. Bálkkim li {tyska}${loan,mix|dujska} studentav {mij}£{kongr,pron|gut} galggá {markedav}€{foreign,nor|márnánav} guoradallat.
 
 
 Guoradallat gáldojt
@@ -35,9 +35,9 @@ Divna gålmås li studenta. Inga Lill låhkå sámegielav Råmsån, Andreas låh
 
 Sáme mannoæládusán la stuorra máhttelisvuohta
 
-Oassálassti aktisasjbargguj {ietjádij}${conc,tj-htj|iehtjádij}, duola dagu Nordland Turselskap. Sihti vijdedit dáv aktisasjvuodav, valla diehtep ij la álkke aktan daj barggat. Danen de ienemusát {gæhttjali oasstijt åttjudit ietjas værmádagá baktu}£{kongr|gæhttjali oasstijt åttjudit ietjasa værmádagá baktu}, ja {juo li}¥{wo|li juo} ságastam stivrajn Statoilan.
+Oassálassti aktisasjbargguj {ietjádij}${conc,tj-htj|iehtjádij}, duola dagu Nordland Turselskap. Sihti vijdedit dáv aktisasjvuodav, valla diehtep ij la álkke {{aktan}€{siegen} daj}¥{wo|daj siegen} barggat. Danen de ienemusát gæhttjali oasstijt åttjudit {ietjas}£{kongr,pron|ietjasa} værmádagá baktu, ja {juo li}¥{wo|li juo} ságastam stivrajn Statoilan.
 
 
 -Sáme mannoæládusán la stuorra máhttelisvuohta, javllá Andreas. {–Sverigin}${vowc,dihp|Svierigin} riek buoragit manná, ja diehtep aj Mimir`s {rapporta}${loan,mix|rappårttå} vuoset buorre máhttelisvuodav gåktu sámekultuvrav fállat {turistajdi}${vowlat,i-a|turistajda} dáppe {Nuortta {Salton}${vowc,a-á|Sálton}}¥{cmp,X-hyhp|Nuortta-Sálton}.
 
-{-Mj}${typo|Mij} lip ållu gijttogisá gå lip rudájt oadtjum duon dán guovlos, ja sierraláhkáj la buorre vuojnnet gå {nuorajdi}${vowlat,i-a|nuorajda} jáhkki {gudi gæhttjali ietjas barggosajijt dahkat}£{kongr|gudi gæhttjali allasisá barggosajijt dahkat}, javllá Inga Lill. Sån vuojnná dán {viddnudagá}${conc,ddn-dn|vidnudagá} baktu lassán dádjadus gåktu luondov várjjalit. Luonndo ællá, ja dajna máhttep guládallat, javllá sån.
+{-Mj}${typo|Mij} lip ållu gijttogisá gå lip rudájt oadtjum duon dán guovlos, ja sierraláhkáj la buorre vuojnnet gå {nuorajdi}${vowlat,i-a|nuorajda} jáhkki gudi gæhttjali {ietjas}£{kongr|allasisá} barggosajijt dahkat, javllá Inga Lill. Sån vuojnná dán {viddnudagá}${conc,ddn-dn|vidnudagá} baktu lassán dádjadus gåktu luondov várjjalit. Luonndo ællá, ja dajna máhttep guládallat, javllá sån.

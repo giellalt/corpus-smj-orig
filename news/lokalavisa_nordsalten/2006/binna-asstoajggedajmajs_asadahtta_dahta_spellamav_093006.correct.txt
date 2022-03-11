@@ -1,9 +1,9 @@
 
 Binná asstoájggedåjmajs ásadahttá dáhtáspellamav
 
-{Dán vahko lij nuppe bále gå VinterLAN ásaduváj}£{x|Dán vahko lij nuppát bále gå VinterLAN ásaduváj} Sebrudakvieson Ájluovtan dálvveloaben. Vuostasj bále lij dijmmá, sæmmi ájge, sæmmi vieson. {Ásadiddje mielajs le}£{x|Ásadiddje mielas le} binná asstoájggedåjmajs Ájluovtan, ja dat le sivvan gå dáhtámasjijnajt {aktan}€{w|aktij} biedji {værmástahkaj}€{w|værmádahkaj} ja spelli {dáhtáspellajt}${conc,ll-l|dáhtáspelajt} {idja biejvve}¢{cmp,x-1|idja-biejvve} 2 jánndura avtatrajes.
+Dán vahko lij {nuppe}£{x|nuppát} bále gå VinterLAN ásaduváj Sebrudakvieson Ájluovtan dálvveloaben. Vuostasj bále lij dijmmá, sæmmi ájge, sæmmi vieson. Ásadiddje {mielajs}£{x|mielas} le binná asstoájggedåjmajs Ájluovtan, ja dat le sivvan gå dáhtámasjijnajt {aktan}€{w|aktij} biedji {værmástahkaj}€{w|værmádahkaj} ja spelli {dáhtáspellajt}${conc,ll-l|dáhtáspelajt} {idja biejvve}¢{cmp,x-1|idja-biejvve} 2 jánndura avtatrajes.
 
-Dán jage lidjin ienep oassálasste gå dijmmá gå VinterLAN 2006 ásaduváj Sebrudakvieson Ájluovtan {dán}€{w|sæmmi} vahko. Jur {{2 jánndura gålåj}£{kongr|2 jánndura gållin} madi nuora dáhtámasjijnajt aktan biedji værmástahkaj}£{x|2 jánndura} gållin madi nuora dáhtámasjijnajt {aktan}€{w|aktij} biedjin {værmástahkaj}€{w|værmádahkaj} spelatjit juogu dal nubbe nuppe vuosstáj, jali internehta baktu. Valla e val dåssju dáhtámasjijnaj duogen tjåhkkåja. Bállotjiektjam- ja marshmallowbårråmgilpos lij aj.
+Dán jage lidjin ienep oassálasste gå dijmmá gå VinterLAN 2006 ásaduváj Sebrudakvieson Ájluovtan {dán}€{w|sæmmi} vahko. Jur 2 jánndura {gålåj}£{kongr|gållin} madi nuora dáhtámasjijnajt {aktan}€{w|aktij} biedji {værmástahkaj}€{w|værmádahkaj} spelatjit juogu dal nubbe nuppe vuosstáj, jali internehta baktu. Valla e val dåssju dáhtámasjijnaj duogen tjåhkkåja. Bállotjiektjam- ja marshmallowbårråmgilpos lij aj.
 
 Bájkkeavijssa lij {VinterLAN’a}${acro,suf|VinterLAN:a} guossen dijstagá, ja {ságastalájmá}${conlat,á-a|ságastalájma} avtajn ásadiddjijs, Jørn-Robert Knutsen. Knutsen la riek dudálasj {VinterLAN’ajn}${acro,suf|VinterLAN:ajn} náv guhkás.
 
@@ -11,7 +11,7 @@ Bájkkeavijssa lij {VinterLAN’a}${acro,suf|VinterLAN:a} guossen dijstagá, ja 
 
 
 Jørn-Robert Knutsen, akta ásadiddjijs la dudálasj dán jagásj {VinterLAN’ajn}${acro,suf|VinterLAN:ajn}.
-Knutsena mielas ælla nav moadda asstoájggedåjma dálvveguovddela nuorajda Ájluovtagátten, ja dat la aj sivvan gå {LAN’av}${acro,suf|LAN:av} ásadi. Valla dát LAN ij la dåssju {Ájluovtagijda}¢{min|ájluovtagijda}. -Suohtas le gå ulmutja båhtali {ietjá sajijs Nuortta-Sáltos}£{case,ela-ine|ietjá sajijs Nuortta-Sálton} aj, {sosialalasj}${vowc,a-á|sosiálalasj} oasse {LAN’an}${acro,suf|LAN:an} le aj viehka ájnas, javllá Knutsen.
+Knutsena mielas ælla nav moadda asstoájggedåjma dálvveguovddela nuorajda Ájluovtagátten, ja dat la aj sivvan gå {LAN’av}${acro,suf|LAN:av} ásadi. Valla dát LAN ij la dåssju {Ájluovtagijda}¢{min|ájluovtagijda}. -Suohtas le gå ulmutja båhtali ietjá sajijs {Nuortta-Sáltos}£{case,ela-ine|Nuortta-Sálton} aj, {sosialalasj}${vowc,a-á|sosiálalasj} oasse {LAN’an}${acro,suf|LAN:an} le aj viehka ájnas, javllá Knutsen.
 
 Vájku dal moattes {sámegielagagijs}${x|sámegielagijs} oassálassti {VinterLAN’an}${acro,suf|VinterLAN:an}, ij huoman sámegiella nav ålov gullu, ja tjálalasj diedo li dåssju dárogiellaj. 
 

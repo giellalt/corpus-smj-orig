@@ -10,14 +10,14 @@ Sáme allaskåvlån la prosjevta åvdåsvásstádus, ja prosjevta jådediddje Si
 Prosjæktajådediddje Sissel Mikkelsen doajvvu soames åhtså sáme oahpestiddjen.
 
 
--3 oahpestiddje galggi vat oadtjot máhttelisvuodav joarkkaskåvlåj milta mannat {subtsastittjat sáme nuoraj birra, ja vuosedit}£{x|subtsastittjat sáme nuoraj birra, ja vuosedittjat} sáme nuora aj {laptop’ajn}${loan,mic|laptåhpajn} barggi ja {iPod’an}${prop,suf|iPodan} musihkav gulldali. Prosjevta {ulmme l vuosedit nuorajskåvlåj oahppijda}£{case|ulmme l vuosedit nuorajskåvlå oahppijda} {moattebielev}€{w|moattevuodav} sámevuodas ja sámekultuvras, subtsas Sissel Mikkelsen.
+-3 oahpestiddje galggi vat oadtjot máhttelisvuodav joarkkaskåvlåj milta mannat subtsastittjat sáme nuoraj birra, ja {vuosedit}£{sup|vuosedittjat} sáme nuora aj {laptop’ajn}${loan,mic|laptåhpajn} barggi ja {iPod’an}${prop,suf|iPodan} musihkav gulldali. Prosjevta ulmme l vuosedit {nuorajskåvlåj}£{case|nuorajskåvlå} oahppijda {moattebielev}€{w|moattevuodav} sámevuodas ja sámekultuvras, subtsas Sissel Mikkelsen.
 
-Mikkelsen subtsas moattes e diede åvvå majdik sámij birra, ja nav de vuojnná {dárbov oahpestiddjijs}£{case|dárbov oahpestiddjijda}.
+Mikkelsen subtsas moattes e diede åvvå majdik sámij birra, ja nav de vuojnná dárbov {oahpestiddjijs}£{case|oahpestiddjijda}.
 
--Mij tjalmostip sáme {identitehtav}¢{loan,vowc,e-ie|identitiehtav} ja gielav, ja oahpestiddje li agev buorisboahtem akta ber gåsi båhti. Ja imálasj la gå nav ålos e diede majdik sámij birra, sierraláhkáj oarjjelij guovlojn. Dajna de vuojnáv {dárbov dássta}£{case|dárbov dasi}. Valla e val divna skåvlå vuojne {dárbov mijá dievnastusás}£{vase|dábov mijá dievnastussaj}, javllá Mikkelsen ja jáhkká aj dat la {oahppamplána}€{w|oahppoplána} vihke.
+-Mij tjalmostip sáme {identitehtav}¢{loan,vowc,e-ie|identitiehtav} ja gielav, ja oahpestiddje li agev buorisboahtem akta ber gåsi båhti. Ja imálasj la gå nav ålos e diede majdik sámij birra, sierraláhkáj oarjjelij guovlojn. Dajna de vuojnáv dárbov {dássta}£{case|dasi}. Valla e val divna skåvlå vuojne dárbov mijá {dievnastusás}£{case|dievnastussaj}, javllá Mikkelsen ja jáhkká aj dat la {oahppamplána}€{w|oahppoplána} vihke.
 
 ”Virggáj” åhtsi 3 dábálasj sáme nuora gudi ælla ájn 25 jage ja gudi diehti vehik ietjas duogátja birra.
 
--Nuora aj oadtju 15 {studiepoenga}€{foreign|oahppotjuorga} {kursav}¥{msissing|tjadádit} {miján}¥{redun|} dáppen, ja dat la dagu duodde ieme máhtudahkaj, javllá Sissel Mikkelsen {mañutjissaj}${ascii|maŋutjissaj}.
+-Nuora aj oadtju 15 {studiepoenga}€{foreign|oahppotjuorga} {kursav}¥{missing|kursav tjadádit} {miján}¥{redun|} dáppen, ja dat la dagu duodde ieme máhtudahkaj, javllá Sissel Mikkelsen {mañutjissaj}${ascii|maŋutjissaj}.
 
 Oahpestiddje oadtju 150.000 kråvnå stipænndan dat jages gå la oahpestiddje, ja åhtsåmájgge l biehtsemáno 9. biejve.
