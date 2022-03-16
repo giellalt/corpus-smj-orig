@@ -38,7 +38,7 @@ Rádnastallamprosjækta
 {rádnastallama}‰{cap|Rádnastallama}, suohtastallamij ja ávvudallamij baktu sámegielak {arena}${loan,conc,n-dn;vowlat,a-á;vowc,e-ie|ariedná} gånnå máná ja nuora aktan hárjjáni sámástit buolvaj gaskan
 {oadtjot sámegiela adnemav {ålgos}¢{vowlat,o-u|ålgus} institusjåvnåjs}¥{missing|galggá oadtjot sámegiela adnemav ålgus institusjåvnåjs} ja ásadit dádjadusáv dåhkki {má akta ber gånnå sámástit la julevsáme}‰{notcomma|má akta ber gånnå sámástit, la julevsáme} skåvllåmánájda gejn la sámegiella {vuostasj giellan}¢{cmp,X-1|vuostasjgiellan} {skåvlån}‰{notcomma|skåvlån,}
 mánájda vuostasj klássas giehttjit {klássaj}‰{notcomma|klássaj}
-jådeduvvá gålmmå julevsámegielak {nuorajs}‰{notcomma|nuorajs,}
+jådeduvvá {gålmmå}£{kongr,num|gålmåt} julevsámegielak {{nuorajs}£{kongr,num|nuoras}}‰{notcomma|nuoras,}
 la akti vahkkuj, duorastagájt gudás {gáktsáj}‰{punct|gáktsáj.}
 {gálldo}‰{cap|Gálldo}: {tysfjordasvo.no}∞{url}
 
