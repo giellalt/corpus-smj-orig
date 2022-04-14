@@ -1,6 +1,6 @@
 duorastak
 
-{Åjåj}∞{sla} gåk {vahkko}£{kongr|vahko} {gålggin}€{w|gållin}, {la}¥{cop|le} juo duorastak, {várgga}${vowc,á-a|vargga} {mángemus}${ascii;vowc,á-a|maŋemus} biejvve {åvddål}¥{missing|åvddål la} ájllek vas. Valla {ij}£{kongr|iv} la mån moaren dan {birra}€{w|diehti}! Dálla lav gåjt jur biedjam {lasagnav}${loan,vowc,a-á;conc,gn-nj|lasánjav} vuodnáj ja vuordáv dav. Gå lav bårråm de {vas}¥{redun|} vierttiv {Jiellevárraj}${vowlat,a-á|Jiellevárráj} vas, {munja}${typo|mujna} l máj {iehkedåhpådibbme}${conm,d-t;vowlat,å-a;conc,bbm-bm|iehketåhpadibme} dárogielan....
+{Åjåj}∞{sla} gåk {vahkko}£{noun,kongr|vahko} {gålggin}€{w|gållin}, {la}¥{cop|le} juo duorastak, {várgga}${vowc,á-a|vargga} {mángemus}${ascii;vowc,á-a|maŋemus} biejvve {åvddål}¥{missing|åvddål la} ájllek vas. Valla {ij}£{verb,kongr|iv} la mån moaren dan {birra}€{w|diehti}! Dálla lav gåjt jur biedjam {lasagnav}${loan,vowc,a-á;conc,gn-nj|lasánjav} vuodnáj ja vuordáv dav. Gå lav bårråm de {vas}¥{redun|} vierttiv {Jiellevárraj}${vowlat,a-á|Jiellevárráj} vas, {munja}${typo|mujna} l máj {iehkedåhpådibbme}${conm,d-t;vowlat,å-a;conc,bbm-bm|iehketåhpadibme} dárogielan....
 
 Tjáláv {ietja}¢{vowlat,a-á|ietjá} biejve, adnit {buoragijt}¢{fin,jt-t|buoragit}!
 tjállám: Naima {kloahkká}${loan,vowlat,á-a|kloahkka} 07:47
@@ -9,9 +9,9 @@ Majt aná dán birra?
 
 {Båris}${vowc,å-uo|Buoris} {båris}${vowc,å-uo|Buoris}
 
-Dálla lav vijmak sijdan! {Lav}¥{cop|Lev} lähkám räjson, VAS. Dán bále lidjiv {utbildningin}€{foreign,swe|åhpadusán}. {Dåbddåv}${conc,bdd-bd|Dåbdåv} dal ahte lav vájbbam gålggåmis {nav}¢{vowc,a-á|náv}. Valla muv mielas la riek suohtas adnet {juojdda}${vowlat,a-á|juojddá} dahkat gå le {vahkoloahppe}${vowlat,e-a|vahkoloahppa} valla {{vájbba}${vowlat,a-á|vájbbá} {dav}£{case|dassta} máj aj}¥{wo|vájbbá máj dassta aj}. Boahtte ájllega de manáv aj ierit, de {la}£{kongr|li} vas {gilbbusa}${conc,lbb-lpp|gilppusa} Haparanda {lahkosin}${vowlat,o-u|lahkusin}. Ja dan {mangela}${ascii|maŋŋela} {le}£{kongr|li} aj {gilbbusa}${conc,lbb-lpp|gilppusa}  ja nav sjaddá liehket dasik {mangela}${maŋŋela} Kanada. Valla {ijkkuv mån {dav}£{case|dasi}, mån lav ávon {ahte}¥{w|gå} oattjov ja {máhttáv}${conc,htt-ht|máhtáv} hárjjidallat majt sidáv.
+Dálla lav vijmak sijdan! {Lav}¥{cop|Lev} lähkám räjson, VAS. Dán bále lidjiv {utbildningin}€{foreign,swe|åhpadusán}. {Dåbddåv}${conc,bdd-bd|Dåbdåv} dal ahte lav vájbbam gålggåmis {nav}¢{vowc,a-á|náv}. Valla muv mielas la riek suohtas adnet {juojdda}${vowlat,a-á|juojddá} dahkat gå le {vahkoloahppe}${vowlat,e-a|vahkoloahppa} valla {{vájbba}${vowlat,a-á|vájbbá} {dav}£{case|dassta} máj aj}¥{wo|vájbbá máj dassta aj}. Boahtte ájllega de manáv aj ierit, de {la}£{verb,kongr|li} vas {gilbbusa}${conc,lbb-lpp|gilppusa} Haparanda {lahkosin}${vowlat,o-u|lahkusin}. Ja dan {mangela}${ascii|maŋŋela} {le}£{verb,kongr|li} aj {gilbbusa}${conc,lbb-lpp|gilppusa}  ja nav sjaddá liehket dasik {mangela}${maŋŋela} Kanada. Valla {ijkkuv mån {dav}£{case|dasi}, mån lav ávon {ahte}¥{w|gå} oattjov ja {máhttáv}${conc,htt-ht|máhtáv} hárjjidallat majt sidáv.
 
-Dála {l}£{kongr|li} gålmmå gåvå ájllegis:
+Dála {l}£{verb,kongr|li} gålmmå gåvå ájllegis:
 
 -
 
@@ -104,7 +104,7 @@ Jielleváre tjuojgge
 :-D
 
 
-Dála {l}£{kongr|li} {nágin}£{kongr|nágina} mijás gudi lip dánna Lulleluspien.
+Dála {l}£{verb,kongr|li} {nágin}£{noun,kongr|nágina} mijás gudi lip dánna Lulleluspien.
 
 tjállám: Naima {kloahkká}${loan,vowlat,á-a|kloahkka} 01:30
 
@@ -115,7 +115,7 @@ Majt aná dán birra?
 
 Buoris gájka!
 
-Dálla lav {Lulleluspien}∞{sma} {(Östersund)}∞{swe}. {Lav}¥{cop|Lev} ållim diek uddni biejven ja {ganugav}€{w|bátsáv} dánna ájllegij. Dánna {l}£{kongr|li} {Scandic Cup}∞{eng} {gilpposa}¢{vowlat,o-u|gilppusa} gånnå galgav oassálasstet. Sjaddá riek suohtas vuojnnet ja {dåbbdåt}${conc,bbd-bdd|dåbddåt} gåk {rubmaj}${conc,bm-m;vowlat,a-á|rumáj} le. Iv la ájn {gilpastam}${vowlat,a-u|gilpustam} dán dálve {så}€{foreign,swe|danen} dát sjaddá muv vuostasj {gilppos}¢{conc,lpp-lp|gilpos}. {Lávvordagá}${conm,rd-d|Lávvodagá} le {klassisk}∞{swe} {sprinta}¢{loan,conc,nt-nnd|sprinnta} ja {ájllega}£{case|ájllegin} le {5km}${cmp.1-X|5 km} {skate}€{foreign,eng|salostibme}}. Iektu lidjiv gåjt viedtjamin muv {nuppijt}¥{redun|} ådå {sábegijt}${vowc,á-a|sabegijt}, ådå {skate}€{foreign,eng|salostam} Fischer. Lidjin {tjáppada}${conc,pp-hpp|tjáhppada} ja fijnuga, vuojnnus dal jus {jåhtelijt}¢{fin,jt-t|jåhtelit} {manni}€{w|jåhti}. {Lav}¥{cop|Lev} aj {oadttjum}${conc,dttj-dtj|oadtjum} ådå {klassisk}∞{swe} Fischer, valla iv la ájn tjuojggam daj.
+Dálla lav {Lulleluspien}∞{sma} {(Östersund)}∞{swe}. {Lav}¥{cop|Lev} ållim diek uddni biejven ja {ganugav}€{w|bátsáv} dánna ájllegij. Dánna {l}£{verb,kongr|li} {Scandic Cup}∞{eng} {gilpposa}¢{vowlat,o-u|gilppusa} gånnå galgav oassálasstet. Sjaddá riek suohtas vuojnnet ja {dåbbdåt}${conc,bbd-bdd|dåbddåt} gåk {rubmaj}${conc,bm-m;vowlat,a-á|rumáj} le. Iv la ájn {gilpastam}${vowlat,a-u|gilpustam} dán dálve {så}€{foreign,swe|danen} dát sjaddá muv vuostasj {gilppos}¢{conc,lpp-lp|gilpos}. {Lávvordagá}${conm,rd-d|Lávvodagá} le {klassisk}∞{swe} {sprinta}¢{loan,conc,nt-nnd|sprinnta} ja {ájllega}£{case|ájllegin} le {5km}${cmp.1-X|5 km} {skate}€{foreign,eng|salostibme}}. Iektu lidjiv gåjt viedtjamin muv {nuppijt}¥{redun|} ådå {sábegijt}${vowc,á-a|sabegijt}, ådå {skate}€{foreign,eng|salostam} Fischer. Lidjin {tjáppada}${conc,pp-hpp|tjáhppada} ja fijnuga, vuojnnus dal jus {jåhtelijt}¢{fin,jt-t|jåhtelit} {manni}€{w|jåhti}. {Lav}¥{cop|Lev} aj {oadttjum}${conc,dttj-dtj|oadtjum} ådå {klassisk}∞{swe} Fischer, valla iv la ájn tjuojggam daj.
 Buorre ájllek {didjide}${vowlat,e-a;conm,d-jd|didjijda}! {Update}€{foreign,eng|Ådåsmahttem} gåk manná {ja}¥{ja gåk} mannam le boahtá
 
 tjállám: Naima {kloahkká}${vowlat,á-a|kloahkka} 13:36
@@ -148,6 +148,6 @@ Majt aná dán birra?
 
 {Vasse}${vowc,a-á|Vásse} {mánnodak}£{case|mánnodagá}
 
-Dán {mánnodak}£{case|mánnodagá} mij lij mij gålmmå {näjttso}£{kongr|näjtso} goaden ({majsing}${cap|Majsing},{joli}${cap|Joli} ja mån) {peppargáhkojt}${mix|pihpergáhkojt} {báhkijma}${loan,conc,hk-hkk;vowlat,i-u|báhkkujma}. {Mums}∞{sla}, {sjattáj}${vowlat,á-a|sjattaj} riek njálgge, ja {unna oappátja}¢{cmp,2-1|unnaoappátja} {liba}${vowlat,a-á|libá} juo bårråm dimnajt. {Dánen}${vowc,á-a|Danen} sidáv {ienep}£{case|ienebuv} {báhkot}${loan,conc,hk-hkk;vowlat,u-o|báhkkut}. Vissa, mån {dáhkuv}${vowc,á-a;vowlat,u-i|dahkiv} aj siejnijt, dähkkov ja dakkár lágásj {diñgajt}${ascii|diŋgajt} {peppargáhkkogoahtáj}${mix|pihpergáhkkogoahtáj} . Iv la ájn {monterim}€{foreign,swe|tsieggim} dav, jáhkáv {galgav uddni {dáhkat}${vowc,á-a|dahkat}}¥{missing|galgav uddni dav dahkat}.
+Dán {mánnodak}£{case|mánnodagá} mij lij mij gålmmå {näjttso}£{noun,kongr|näjtso} goaden ({majsing}${cap|Majsing},{joli}${cap|Joli} ja mån) {peppargáhkojt}${mix|pihpergáhkojt} {báhkijma}${loan,conc,hk-hkk;vowlat,i-u|báhkkujma}. {Mums}∞{sla}, {sjattáj}${vowlat,á-a|sjattaj} riek njálgge, ja {unna oappátja}¢{cmp,2-1|unnaoappátja} {liba}${vowlat,a-á|libá} juo bårråm dimnajt. {Dánen}${vowc,á-a|Danen} sidáv {ienep}£{case|ienebuv} {báhkot}${loan,conc,hk-hkk;vowlat,u-o|báhkkut}. Vissa, mån {dáhkuv}${vowc,á-a;vowlat,u-i|dahkiv} aj siejnijt, dähkkov ja dakkár lágásj {diñgajt}${ascii|diŋgajt} {peppargáhkkogoahtáj}${mix|pihpergáhkkogoahtáj} . Iv la ájn {monterim}€{foreign,swe|tsieggim} dav, jáhkáv {galgav uddni {dáhkat}${vowc,á-a|dahkat}}¥{missing|galgav uddni dav dahkat}.
 
-Dála {l}£{kongr|li} nágin gåvå fijna {peppargáhkojs}${mix|pihpergáhkojs}:
+Dála {l}£{verb,kongr|li} nágin gåvå fijna {peppargáhkojs}${mix|pihpergáhkojs}:
