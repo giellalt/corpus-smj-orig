@@ -22,7 +22,7 @@ Dán bále {la}£{cop|l} vuostasj bále gå Oalgesbelludak tsieggi listav {sáme
 Nominasjåvnnåtjåhkanibme Bådåddjon
 
 Oalgesbelludagá nominasjåvnnåtjåhkanibme Viestarmera válggabijran la {Bådåddjon}¢{conc,ddj-dj|Bådådjon}, bierjjedagá ådåjakmáno 18. biejve.
-{Dála oajvvaduvvam lissta}¥{missing|Dála l oajvvaduvvam lissta}:
+{Dála oajvvaduvvam}¥{missing|Dála l oajvvaduvvam} lissta:
 
 1. Lars Filip Paulsen, 33 jagák, Divtasvuodna
 
@@ -53,5 +53,5 @@ Filip Mikkelsen tjielggi manen sån ij la listan {jus ga}¢{cmp,X-1;conc,sg-sk|j
 – Suohkanpolitihkka {la}£{cop|l} munji nuoges doajmma ja mån iv hálida sæbrrat sámedikkepolitihkkárin. Sidáv aj {lahtjet}${vowc,a-á|láhtjet} {sájev}${vowc,á-a|sajev} nuorap ulmutjijda, le má sidja gudi li sámedikke {boahtte ájgge}¢{cmp,-X-1|boahtteájgge}, javllá Mikkelsen NRK:aj.
 Viestarmera válggabijrra
 
-Viestarmera válggabijrra la akta {gietjav}£{konrg,num|gietjat} {válggabijrajs}£{num,kongr|válggabijras} {sámedikkeválggaj}¢{cmp,gen-nom|sámediggeválggaj}. {Divrráid, Siellaga, Loabága, Rivttaga, Skániid, Ivvárstáđiid, Harstad, Bjarkøy, Giehtavuona, Ánddasullo, Ikšnášši, Bieváid, Suortta, Válafierdda, Voagaj, Vestvågøy, Flakstad, Moskenes, Værøy, Røst, Lådiga, Dielddanuori, Evenášši, Nárvijka, Bálága, Divtasvuona, Hábmera, Stájgo, Oarjjelij Fuoldá, Bådådjo, Fuosko, Sáláda, Oarjelij Bájddára, Bájddára ja Meløy}∞{nor/sme} suohkana gulluji dán válggabijrraj.
+Viestarmera válggabijrra la akta {gietjav}£{konrg,num|gietjat} {válggabijrajs}£{noun,num,kongr|válggabijras} {sámedikkeválggaj}¢{cmp,gen-nom|sámediggeválggaj}. {Divrráid, Siellaga, Loabága, Rivttaga, Skániid, Ivvárstáđiid, Harstad, Bjarkøy, Giehtavuona, Ánddasullo, Ikšnášši, Bieváid, Suortta, Válafierdda, Voagaj, Vestvågøy, Flakstad, Moskenes, Værøy, Røst, Lådiga, Dielddanuori, Evenášši, Nárvijka, Bálága, Divtasvuona, Hábmera, Stájgo, Oarjjelij Fuoldá, Bådådjo, Fuosko, Sáláda, Oarjelij Bájddára, Bájddára ja Meløy}∞{nor/sme} suohkana gulluji dán válggabijrraj.
 Oalgesbelludagán la uddni akta ájras Sámedikken.
