@@ -21,15 +21,15 @@
     <xsl:variable name="author1_fn" select="'Berit Ellen'"/>
     <xsl:variable name="author1_ln" select="'Bongo'"/>
     <!-- m, f or unknown -->
-    <xsl:variable name="author1_gender" select="'m'"/>
+    <xsl:variable name="author1_gender" select="'f'"/>
     <!--
         The country where the author is from. It should be written as
         an ISO_3166-1 code.
         https://no.wikipedia.org/wiki/ISO_3166-1
     -->
-    <xsl:variable name="author1_nat" select="'nor'"/>
+    <xsl:variable name="author1_nat" select="'NO'"/>
     <!-- Either YYYY or YYYYMMDD. Examples: 1954 or 19451224 -->
-    <xsl:variable name="author1_born" select="''"/>
+    <xsl:variable name="author1_born" select="'1976'"/>
     <!--
         Information of the second author: first name, last name,
         date or year of birth, nationality.
