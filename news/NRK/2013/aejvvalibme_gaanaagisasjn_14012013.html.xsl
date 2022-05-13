@@ -44,11 +44,11 @@
         Information of the third author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author3_fn" select="'Johannes'"/>
+    <xsl:variable name="author3_fn" select="'Johannes Edvard'"/>
     <xsl:variable name="author3_ln" select="'Kalvemo'"/>
     <xsl:variable name="author3_gender" select="'m'"/>
-    <xsl:variable name="author3_nat" select="''"/>
-    <xsl:variable name="author3_born" select="''"/>
+    <xsl:variable name="author3_nat" select="'NO'"/>
+    <xsl:variable name="author3_born" select="'19490325'"/>
 
     <!--
         Information of the fourth author: first name, last name,

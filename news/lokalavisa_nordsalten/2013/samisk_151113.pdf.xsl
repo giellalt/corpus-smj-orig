@@ -18,8 +18,8 @@
         Information of the first author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author1_fn" select="'Ingar N'"/>
-    <xsl:variable name="author1_ln" select="'Skogvold'"/>
+    <xsl:variable name="author1_fn" select="'Ingar Norvald'"/>
+    <xsl:variable name="author1_ln" select="'Skogvoll'"/>
     <!-- m, f or unknown -->
     <xsl:variable name="author1_gender" select="'m'"/>
     <!--
@@ -27,9 +27,9 @@
         an ISO_3166-1 code.
         https://no.wikipedia.org/wiki/ISO_3166-1
     -->
-    <xsl:variable name="author1_nat" select="'nor'"/>
+    <xsl:variable name="author1_nat" select="'NO'"/>
     <!-- Either YYYY or YYYYMMDD. Examples: 1954 or 19451224 -->
-    <xsl:variable name="author1_born" select="''"/>
+    <xsl:variable name="author1_born" select="'1952'"/>
     <!--
         Information of the second author: first name, last name,
         date or year of birth, nationality.
