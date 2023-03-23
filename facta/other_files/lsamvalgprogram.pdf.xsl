@@ -80,7 +80,7 @@
     <xsl:variable name="place" select="''"/>
 
     <!-- Automatically filled in by CorpusTools -->
-    <xsl:variable name="genre" select="'facta'"/>
+    <xsl:variable name="genre" select="'ficti'"/>
     <xsl:variable name="collection" select="''"/>
     <!--
         Three letter language code.
@@ -101,7 +101,7 @@
     <xsl:variable name="sub_name" select="''"/>
     <xsl:variable name="sub_email" select="''"/>
     <!-- Keep empty, this is automatically filled in by CorpusTools -->
-    <xsl:variable name="wordcount" select="'6539'"/>
+    <xsl:variable name="wordcount" select="''"/>
     <!-- This variable can have the following values:
         * ocr:          ocr'ed document, should usually not be converted
         * goldstandard: part of the goldstandard corpus, should not be converted
@@ -111,13 +111,13 @@
         * standard:     a usual doc, meant to be used as part of the standard corpus
         * unsupported:  document that cannot be converted by our conversion tools
     -->
-    <xsl:variable name="conversion_status" select="'standard'"/>
+    <xsl:variable name="conversion_status" select="'goldstandard'"/>
     <!-- Valid values are complete and uncomplete -->
     <xsl:variable name="metadata" select="'uncomplete'"/>
     <!-- Automatically filled in by CorpusTools -->
-    <xsl:variable name="template_version" select="'$Revision: 32698 $'"/>
+    <xsl:variable name="template_version" select="' 1.22 '"/>
     <!-- Automatically filled in by CorpusTools -->
-    <xsl:variable name="current_version" select="'Revision'"/>
+    <xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
     <!-- Free text field for notes -->
     <xsl:variable name="note" select="''"/>
 
@@ -129,7 +129,7 @@
         other languages. Set the variable monolingual to '1' to turn off
         language recognition (treating everything as mainlang)
     -->
-    <xsl:variable name="monolingual" select="'1'"/>
+    <xsl:variable name="monolingual" select="''"/>
 
     <!--
         If monolingual is not set, the document is multilingual.
@@ -234,10 +234,10 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="right_margin" select="'all=7'"/>
-    <xsl:variable name="left_margin" select="'all=7'"/>
-    <xsl:variable name="top_margin" select="'all=7'"/>
-    <xsl:variable name="bottom_margin" select="'all=7'"/>
+    <xsl:variable name="right_margin" select="''"/>
+    <xsl:variable name="left_margin" select="''"/>
+    <xsl:variable name="top_margin" select="''"/>
+    <xsl:variable name="bottom_margin" select="''"/>
 
     <!--
         This variable is used for pdf files.
@@ -387,30 +387,5 @@
         </xsl:element>
     </xsl:template>
     -->
-
-<xsl:template match="p">
-<xsl:variable name="text" select="current()"/>
-<xsl:variable name="type" select="@type"/>
-<xsl:variable name="lang" select="@xml:lang"/>
-<xsl:element name="p">
-            <xsl:if test="$type">
-            <xsl:attribute name="type">
-            <xsl:value-of select="$type"/>
-            </xsl:attribute>
-            </xsl:if>
-            <xsl:if test="$lang">
-            <xsl:attribute name="xml:lang">
-            <xsl:value-of select="$lang"/>
-            </xsl:attribute>
-            </xsl:if>
-
-            <xsl:call-template name="globalTextReplace">
-               <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'¹/'"/>
-               <xsl:with-param name="replacement" select="'ŋ/'"/>
-                <xsl:with-param name="continue" select="0"/>
-            </xsl:call-template>
-</xsl:element>
-</xsl:template>
 
 </xsl:stylesheet>
