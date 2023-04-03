@@ -125,7 +125,7 @@ Majt aná dán birra?
 
 {báhkomin}${loan,conc,hk-hkk;vowlat,o-u|báhkkumin}
 
-Buoris vas! {Lav}¥{cop|Lev} jur dálla {báhkomin}${loan,conc,hk-hkk;vowlat,o-u|báhkkumin} "{fransk}${mix|fránska} {peppargáhkojt}${mix|pihpergáhkojt}". {{Sjáddiv}${vowc,á-a|Sjaddiv}}¥{redun|} {inspirert}€{foreign,swe|Måvtåstuvviv} stuoroappás gå lidjiv suv {goassen}${vowc,oa-uo|guossen} {dijstagá}£{case|dijstagás} {gasskaváhkoj}${vowc,á-a;conc,hk-hkk;vowlat,o-u|gasskavahkkuj} . Sån lij {báhkom}${loan,conc,hk-hkk;vowlat,o-u|báhkkum} {dakkár}¢{vowc,a-á|dákkár} gáhkojt juo ájggá ja lidjin riek njálge. {Biedjiv dájgev jur vuodnáj}¥{wo|Biedjiv jur dájgev vuodnáj} ja {vuordád}${typo|vuordáv} desik bassum lij. {Mums}∞{sla}! Ja idet de galgav {daj}¥{redun|} riekta {peppargáhkojt}${mix|pihpergáhkojt} {báhkkot}${loan,vowlat,o-u|báhkkut}.
+Buoris vas! {Lav}¥{cop|Lev} jur dálla {báhkomin}${loan,conc,hk-hkk;vowlat,o-u|báhkkumin} "{fransk}${mix|fránska} {peppargáhkojt}${mix|pihpergáhkojt}". {{Sjáddiv}${vowc,á-a|Sjaddiv}}¥{redun|} {inspirert}€{foreign,swe|Måvtåstuvviv} stuoroappás gå lidjiv suv {goassen}${vowc,oa-uo|guossen} {dijstagá}£{noun,case,gen-ela|dijstagás} {gasskaváhkoj}${vowc,á-a;conc,hk-hkk;vowlat,o-u|gasskavahkkuj} . Sån lij {báhkom}${loan,conc,hk-hkk;vowlat,o-u|báhkkum} {dakkár}¢{vowc,a-á|dákkár} gáhkojt juo ájggá ja lidjin riek njálge. {Biedjiv dájgev jur vuodnáj}¥{wo|Biedjiv jur dájgev vuodnáj} ja {vuordád}${typo|vuordáv} desik bassum lij. {Mums}∞{sla}! Ja idet de galgav {daj}¥{redun|} riekta {peppargáhkojt}${mix|pihpergáhkojt} {báhkkot}${loan,vowlat,o-u|báhkkut}.
 
 Náv muv "{fransk}${mix|fránska} {peppargáhko}${mix|pihpergáhko}" {sjáddin}${vowc,á-a|sjaddin}:
 
@@ -139,15 +139,15 @@ Majt aná dán birra?
 
 Gåktu mån dálla ájádalliv?
 
-{Mánen}${vowc,á-a|Manen} {iv}£{neg|ittjiv} mån {{mánnam}${vowc,á-a|mannam}}£{neg|maná} Ájluoktaj ja {Oppájdáj}${loan,conc,jd-jdd|Oppájddáj}????? Naima! {Åh}∞{sla} mån lav nav suhton. Mån gut lav nav vuorddám dáv {lávvordagáv}${conwb,r-0|lávvodagáv}. Mån gut nav sihtiv bállov tjiektjat. Hivás!
+{Mánen}${vowc,á-a|Manen} {iv}£{cop,neg,pres-pret|ittjiv} mån {{mánnam}${vowc,á-a|mannam}}£{verb,neg,prfprc,conneg|maná} Ájluoktaj ja {Oppájdáj}${loan,conc,jd-jdd|Oppájddáj}????? Naima! {Åh}∞{sla} mån lav nav suhton. Mån gut lav nav vuorddám dáv {lávvordagáv}${conwb,r-0|lávvodagáv}. Mån gut nav sihtiv bállov tjiektjat. Hivás!
 
 tjállám: Naima {kloahkká}${loan,vowlat,á-a|kloahkka} 09:36
 
 
 Majt aná dán birra?
 
-{Vasse}${vowc,a-á|Vásse} {mánnodak}£{case|mánnodagá}
+{Vasse}${vowc,a-á|Vásse} {mánnodak}£{noun,shortcmp|mánnodagá}
 
-Dán {mánnodak}£{case|mánnodagá} mij lij mij gålmmå {näjttso}£{noun,kongr|näjtso} goaden ({majsing}${cap|Majsing},{joli}${cap|Joli} ja mån) {peppargáhkojt}${mix|pihpergáhkojt} {báhkijma}${loan,conc,hk-hkk;vowlat,i-u|báhkkujma}. {Mums}∞{sla}, {sjattáj}${vowlat,á-a|sjattaj} riek njálgge, ja {unna oappátja}¢{cmp,2-1|unnaoappátja} {liba}${vowlat,a-á|libá} juo bårråm dimnajt. {Dánen}${vowc,á-a|Danen} sidáv {ienep}£{case|ienebuv} {báhkot}${loan,conc,hk-hkk;vowlat,u-o|báhkkut}. Vissa, mån {dáhkuv}${vowc,á-a;vowlat,u-i|dahkiv} aj siejnijt, dähkkov ja dakkár lágásj {diñgajt}${ascii|diŋgajt} {peppargáhkkogoahtáj}${mix|pihpergáhkkogoahtáj} . Iv la ájn {monterim}€{foreign,swe|tsieggim} dav, jáhkáv {galgav uddni {dáhkat}${vowc,á-a|dahkat}}¥{missing|galgav uddni dav dahkat}.
+Dán {mánnodak}£{noun,shortcmp|mánnodagá} mij lij mij gålmmå {näjttso}£{noun,kongr,num-noun|näjtso} goaden ({majsing}${cap|Majsing},{joli}${cap|Joli} ja mån) {peppargáhkojt}${mix|pihpergáhkojt} {báhkijma}${loan,conc,hk-hkk;vowlat,i-u|báhkkujma}. {Mums}∞{sla}, {sjattáj}${vowlat,á-a|sjattaj} riek njálgge, ja {unna oappátja}¢{cmp,2-1|unnaoappátja} {liba}${vowlat,a-á|libá} juo bårråm dimnajt. {Dánen}${vowc,á-a|Danen} sidáv {ienep}£{adj,case,nom-acc|ienebuv} {báhkot}${loan,conc,hk-hkk;vowlat,u-o|báhkkut}. Vissa, mån {dáhkuv}${vowc,á-a;vowlat,u-i|dahkiv} aj siejnijt, dähkkov ja dakkár lágásj {diñgajt}${ascii|diŋgajt} {peppargáhkkogoahtáj}${mix|pihpergáhkkogoahtáj} . Iv la ájn {monterim}€{foreign,swe|tsieggim} dav, jáhkáv {galgav uddni {dáhkat}${vowc,á-a|dahkat}}¥{missing|galgav uddni dav dahkat}.
 
-Dála {l}£{verb,kongr|li} nágin gåvå fijna {peppargáhkojs}${mix|pihpergáhkojs}:
+Dála {l}£{cop,verb,kongr,subj-verb|li} nágin gåvå fijna {peppargáhkojs}${mix|pihpergáhkojs}:
