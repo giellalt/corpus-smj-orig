@@ -1,6 +1,6 @@
 {Hellmocuhppaj}${loan,coninit|Hellmokuhppaj}
 
-Divtasvuona stuorámus dáhpádus dán giese lij Måsken, tjáppa Hellmåvvån, {Oarjje-vuonan}€{cmp,hyph-0|Oarjjevuonan}. Måsskåj tjåhkanaddi ulmutja mierredittjat dán jagásj «{rámpon}£{case,ine-ess|rámmpon} ja guddnen».
+Divtasvuona stuorámus dáhpádus dán giese lij Måsken, tjáppa Hellmåvvån, {Oarjje-vuonan}€{cmp,hyph-0|Oarjjevuonan}. Måsskåj tjåhkanaddi ulmutja mierredittjat dán jagásj «{rámpon}£{noun,case,ine-ess|rámmpon} ja guddnen».
 
 
 Báhtjajn li guhtta tjiektjamjuohkusa; Måsske, Sisgiehtje, Tjieloabme, Davvegiehtje/Gállá, Bjørkvijkka ja Rudnávuodna. Næjttsotjiektjijs ællim nav moattes, ja siján lidjin {njiellja}${coninit,nj-n|niellja} juohkusa: Måsske, Sisgiehtje, Bjørkvijkka ja Davvegiehtje/Tjieloabme. Divna tjiektje tjiektjin juohkusin masi {iehtja}¢{conc,htj-tj|ietja} gullujin.
@@ -9,17 +9,17 @@ Bierjjedagá sjnjilltjamáno 20. biejve álgij {cuhppa}${loan,coninit|kuhppa}, j
 
 {Kafean}${loan|Kafiejan} oattjojma biebmojt oasstet. Dasi aj ulmutja mannin jus goallujin. Gå iehkeduváj dållijin stuorra {låvdågoaden}${vowlat,å-a|låvdagoaden}, ja ulmutja dåhku tjåhkanin. Lars Andreassenin lij {gitára}¢{loan,conc,r-rr|gitárra} {ma?en}${ascii|maŋen}, ja lávloj lávllagav ”Dålusj giessesijdda” ja ”Biegga”. Bieggalávllagin lij aj tjåttålávla, mij lij riek {”tøffa}∞{nor}”. Le oalle hávsske stuorlåvdagoaden tjåhkudallat. Nav hávsske le tjåhkudallat danna ja gehtjadit gå dållå gærssul, gehtjadit ulmutjijda, ja gulldalit gå lávludi ja subtsastalli. Gullu dagu sijdan. Oattjojma aj káfav ja sáftav juhkat ja sáme gáhkov ja berunlastajt bårråt.
 
-Finála tjadáduvvin lávvodagá {gietja}£{num,verb,kongr|gietjan} bájken iehkedis. Vuostasj {nissunfinála}£{noun,kongr|nissunfinálla} Tjieloame/Davvegietje ja Måske gaskan. Tjieloabme/Davvegiehtje vuojtij 6-1 Måske badjel. Tjieloamegij/Davvegietjegij Aina Olsen {njiellji}${coninit,nj-n|niellji} viermev dejvaj, Maila Viljakainen akti ja Rachel Nergård akti. Måskegij åvdås gis Therese Mikkelsen akti.
+Finála tjadáduvvin lávvodagá {gietja}£{num,kongr,num-noun|gietjan} bájken iehkedis. Vuostasj {nissunfinála}£{noun,kongr,subj-verb|nissunfinálla} Tjieloame/Davvegietje ja Måske gaskan. Tjieloabme/Davvegiehtje vuojtij 6-1 Måske badjel. Tjieloamegij/Davvegietjegij Aina Olsen {njiellji}${coninit,nj-n|niellji} viermev dejvaj, Maila Viljakainen akti ja Rachel Nergård akti. Måskegij åvdås gis Therese Mikkelsen akti.
 
 {Ålmmåj finálan}¢{cmp, X-1;conc,lmm-lm|Ålmåjfinálan} tjiektjin Bjørkvijkagij ja Rudnávuonagij tjiektjamjuohkusa. Rudnávuonaga vuojttin 3-1, guovtijn målajn Tommy Solstrømas ja avtajn målajn Jahn Sigve Andersenis. Lars Filip Paulsen Bjørkvijka åvdås akti viermev dejvaj, valla ettjin galla vuojtov oattjo.
 
 Aina Olsen dejvaj viermev ienemusát nissunijs, 11 bále, ja ålmmåjs Jack Eivind Paulsen, 7 bále.
 
-Dán jage guddneduváj Aina {Olsenav}£{case|Olsen} nissunij buoremus tjiektjen, ja Jahn Sigve {Andersenav}£{case|Andersen} ålmmåj buoremus tjiektjen. Tjiektjamjuohkusa lidjin {iehtja}¢{conc,htj-tj|ietja} oajvvadam avtav tjiektjev, gå de galggin merustallat dán jagásj tjiektjijt. {Fair Play-vuojtov}∞{eng} {oadjun}${typo|oadtjun} nissunjuogos Bjørkvijkas ja ålmåjjuogos Davvegietjes/ Gállás. 
+Dán jage guddneduváj Aina {Olsenav}£{noun,case,acc-nom|Olsen} nissunij buoremus tjiektjen, ja Jahn Sigve {Andersenav}£{prop,case,acc-nom|Andersen} ålmmåj buoremus tjiektjen. Tjiektjamjuohkusa lidjin {iehtja}¢{conc,htj-tj|ietja} oajvvadam avtav tjiektjev, gå de galggin merustallat dán jagásj tjiektjijt. {Fair Play-vuojtov}∞{eng} {oadjun}${typo|oadtjun} nissunjuogos Bjørkvijkas ja ålmåjjuogos Davvegietjes/ Gállás. 
 
 Guddneduvvin dán jagásj åvddågåvvån.
 
-Duodden tjiektjamijda ja {hávsskudallam}£{x|hávsskudallamij} dållågátten {lijdin}${typo|lidjin} ásadiddje luojkkam ståhkusav, ”{gahppamlanev}${conc,n-ddn|gahppamladdnev}” mánájda. Dasi máná lijkkujin, ja álu lidjin dåppe.
+Duodden tjiektjamijda ja {hávsskudallam}£{noun,cas,nom-ill|hávsskudallamij} dållågátten {lijdin}${typo|lidjin} ásadiddje luojkkam ståhkusav, ”{gahppamlanev}${conc,n-ddn|gahppamladdnev}” mánájda. Dasi máná lijkkujin, ja álu lidjin dåppe.
 
 Båhtusa dán jagásj {Hellmocuhpasj}${typo|Hellmocupas} sjaddin náv:
 

@@ -1,7 +1,7 @@
 Duodjeprosjækta {julevsáme guovlon}¢{cmp,X-1|julevsámeguovlon} joarkká
 
 
-{Gápptegoarre}¢{vowlat,e-o|Gápptegoarro} Sigrun Andersen (gåro bielen) vuoset mihát {suv}€{w,pers-refl|ietjas} bargov majt duodjeprosjevta baktu {la}£{cop|l} tjadádam. Oalges bielen Árrana duodjebagádalle, Lilian Urheim. (Gåvvå l tjavtjas 2012)
+{Gápptegoarre}¢{vowlat,e-o|Gápptegoarro} Sigrun Andersen (gåro bielen) vuoset mihát {suv}€{pers,pron,pers-refl|ietjas} bargov majt duodjeprosjevta baktu {la}£{cop|l} tjadádam. Oalges bielen Árrana duodjebagádalle, Lilian Urheim. (Gåvvå l tjavtjas 2012)
 
 {Foto}∞{nor}: Harrieth Aira/NRK
 
@@ -12,11 +12,11 @@ Sander Andersen {sander.andersen@nrk.no}∞{url}
 
 Dav duodas {Sámedikkeráde ájras}¢{cmp,X-1|Sámedikkerádeájras} Vibeke Larsen gut vásse bierjjedagá iejvvij Árran - julevsáme guovdátjav ságastalátjit dán ja ietjá prosjevtaj birra majt Árran ájggu tjadádit.
 
-– Iv dal ássjijt giehtadalá {media}${loan,conc,0-j|medijá} baktu, valla mij lip miellusa soames prosjevtajda majna Árran barggá, duola dagu {duodjeprosjevtajn}£{case,com-ill|duodjeprosjæktaj} mij mijá diedoj milta la viehka buorakláhkáj vuosstájváldeduvvam. Ja dat vuoset dárbbo {{lij}£{kongr|l}}¥{missing|læhkám} dákkir duodjelåpptimij juo måttijt jagijt, javllá Vibeke Larsen.
+– Iv dal ássjijt giehtadalá {media}${loan,conc,0-j|medijá} baktu, valla mij lip miellusa soames prosjevtajda majna Árran barggá, duola dagu {duodjeprosjevtajn}£{noun,case,com-ill|duodjeprosjæktaj} mij mijá diedoj milta la viehka buorakláhkáj vuosstájváldeduvvam. Ja dat vuoset dárbbo {{lij}£{cop,verb,kongr|l}}¥{missing|l læhkám} dákkir duodjelåpptimij juo måttijt jagijt, javllá Vibeke Larsen.
 
 Dudálattja duodjelåpptimijn
 
-Dijmmá {juollodij}£{kongr|juollodin} Sámedigge ja Nordlánda fylkasuohkan 900 000 kråvnå ådå duodjelåpptimprosjæktaj julev- ja {bidumsáme guovlon}¢{cmp,X-1|bidumsámeguovlon}.
+Dijmmá {juollodij}£{verb,kongr,subj-verb|juollodin} Sámedigge ja Nordlánda fylkasuohkan 900 000 kråvnå ådå duodjelåpptimprosjæktaj julev- ja {bidumsáme guovlon}¢{cmp,X-1|bidumsámeguovlon}.
 
 LÅGÅ: Stuorra berustibme duodjelåpptimij
 LÅGÅ AJ: Sihtá dal duojev nannit
@@ -41,7 +41,7 @@ Ruhta aj rádjáoahpestiddjeprosjæktaj
 
 Duodden dási vuojnnet rádjáoahpestiddjeprosjækta majt Árran háldat aj sjaddá joarkket.
 
-Árran dal åhtsåmusáv sáddi {Rijkaantikváraj}¢{conc,r-rr|Rijkaantikvárraj} ja Sámediggáj dáv prosjevtav ållidittjat {dagu dal}¥{missing|galggi dagu dal} {{doaro}£{case|doaros} kulturmujtojt}¥{wo|kulturmujtojt doaros} {åbdedit}${infl|åbddit}, prosjevtav {digitaliserit}¢{loan,vowc,e-ie|digitalisierit} ja aj vuosádusáv gárvedahttját.
+Árran dal åhtsåmusáv sáddi {Rijkaantikváraj}¢{conc,r-rr|Rijkaantikvárraj} ja Sámediggáj dáv prosjevtav ållidittjat {dagu dal}¥{missing|galggi dagu dal} {{doaro}£{noun,case,gen-ela|doaros} kulturmujtojt}¥{wo|kulturmujtojt doaros} {åbdedit}${infl|åbddit}, prosjevtav {digitaliserit}¢{loan,vowc,e-ie|digitalisierit} ja aj vuosádusáv gárvedahttját.
 
 Moadda oase fájlluji, javllá Árrana stivrrajådediddje Sonja A. Steen ja hasot dajna Sámedikkev rudájt rádjáoahpestiddjeprosjæktaj juollodit.
 

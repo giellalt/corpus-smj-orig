@@ -9,7 +9,7 @@ Dála l máhttelisvuohta journalisstan barggat.
 
 Harrieth Aira {harrieth.aira@nrk.no}∞{url}
 
-Ragátmáno 2. biejve rájes la {nælljásijda}€{nælljásij} máhttelisvuohta oadtjot mediaåhpadusáv NRK Sámen guhtta máno.
+Ragátmáno 2. biejve rájes la {nælljásijda}€{w|nælljásij} máhttelisvuohta oadtjot mediaåhpadusáv NRK Sámen guhtta máno.
 
 Åhpadus bálkájn
 
@@ -30,7 +30,7 @@ Oahppehárjjidallam le NRK Sáme oajvvedåjmadusán {Kárášjågån}${conwb,š-
 
 Oahppe vierttiji ållim joarkkaskåvlåjn {jali muodugasj máhtudahka}¥{missing|jali de viertti siján liehket muodugasj máhtudahka}.
 
-{Gájbbeduvvá aj buorre sámegielmáhtudahka, sihke {tjálalasj}£{x|tjálalattjat} ja {njálmálasj}£{x|njálmálalattjat}.
+{Gájbbeduvvá aj buorre sámegielmáhtudahka, sihke {tjálalasj}€{adj-adv|tjálalattjat} ja {njálmálasj}€{adj-adv|njálmálalattjat}.
 
 NRK Sábme sávvá ja ávttji åhttsijt ålles Nuorttarijkas åhtsåt oahppehárjjidallamvirgijda.
 

@@ -12,9 +12,9 @@ NVE mij la Vuonarijka {tjáhtje-ja}${cmp,1-X|tjáhtje- ja} {energijadåjmadahka}
 
 NVE dættot guovlluj gåsi bieggamillo galggi tsieggiduvvat juo la dulvvaduvvamguovllo, ja bieggamillotsieggim vájkkut binnep láhkáj luonnduj gå {dav}¥{redun|} jus guovlon åvdutjis ællim makkirik ásadusá tsieggiduvvam.
 
-Oasse Slabávuona bieggamillopárkas gullu Divtasvuona - Vuodnabadá álmmukmiehttse guoradallamguovlluj {ja oajvvaduvvam}¥{missing|ja la oajvvaduvvam} Vuona biele Laponia væráltárbbeguovlluj. Dát luonndosuoddjimprosæssa ganugahteduváj jagen 2001 ja guovllo ij la desti juridihkalattjat tjanáduvvam makkirik láhkáj tjállá NVE.
+Oasse Slabávuona bieggamillopárkas gullu Divtasvuona - Vuodnabadá álmmukmiehttse guoradallamguovlluj ja {oajvvaduvvam}¥{missing,cop|la oajvvaduvvam} Vuona biele Laponia væráltárbbeguovlluj. Dát luonndosuoddjimprosæssa ganugahteduváj jagen 2001 ja guovllo ij la desti juridihkalattjat tjanáduvvam makkirik láhkáj tjállá NVE.
 
-{Slabávuonavárre}£{case,nom-gen|Slabávuonváre} Bieggapárkka {la}£{cop|l} stuorra bieggaprosjækta mij máhttá buvtadit 250 GWh jahkáj, mij merkaj ásadus máhttá buvtadit strávvev 12.500 {gådijda}£{kongr,num|goahtáj}.
+{Slabávuonavárre}£{prop,case,nom-gen|Slabávuonváre} Bieggapárkka {la}£{cop|l} stuorra bieggaprosjækta mij máhttá buvtadit 250 GWh jahkáj, mij merkaj ásadus máhttá buvtadit strávvev 12.500 {gådijda}£{noun,kongr,num-noun|goahtáj}.
 
 Tsieggimbarggo {{jahkedahtte}${vowc,a-á|jáhkedahtte} álggá}£{infl,ind-pot|álgisj} jagen 2014.
 
@@ -27,7 +27,7 @@ Statskog ittjij konsesjåvnåv oattjo
 
 Statskog AS lij aj åhtsåm loabev tsieggit sulálasj bieggamillojt Vuovddejávrráj vehi dåbbelin sæmmi bájken, valla NVE ittjij {Statskog:aj}${suf|Statskogaj} loabev vatte.
 
-Sivva l gå udnásj {strávvelinja}${strávvelinnja} Slabávuona ja Gásluovta gaskan máhtti strávvev suvddet dåssju {avtav}£{num,kongr|avtat} bieggamilloásadusás ja ij {guokta}£{num,kongr|guovtet}.
+Sivva l gå udnásj {strávvelinja}${strávvelinnja} Slabávuona ja Gásluovta gaskan máhtti strávvev suvddet dåssju {avtav}£{num,kongr,num-noun|avtat} bieggamilloásadusás ja ij {guokta}£{num,kongr,num-noun|guovtet}.
 
 Duodden aj boahtá {Statskog:a}${suf|Statskoga} ásadus ilá næjgga {ájdeduvvam}${conc,jd-jt|ájteduvvam} sjattojda ma danna lahkusin sjaddi.
 
@@ -46,12 +46,12 @@ Guohtomguovllo ja rádjebálges
 
 Guovllo gåsi bieggapárkka ásaduvvá la aj guohtomguovllo ællosujttuj ja gullu Svieriga tjærojda Baste ja Unna-Tjerutjij. Guovllo l gidá- ja giesseguohtomguovllo ja la ájnas ællosujttuj.
 
-Rádjebálges mij la {várrevádtsembálggá}£{case,gen-nom|várrevádtsembálges} majt Divtasvuona suohkan ja Váhtjera suohkan, Svierigin aktisattjat li ásadam Rijtjemis Svierigin Slabávuodnaj Divtasvuodnaj la aj dan sæmmi guovlon.
+Rádjebálges mij la {várrevádtsembálggá}£{noun,case,gen-nom|várrevádtsembálges} majt Divtasvuona suohkan ja Váhtjera suohkan, Svierigin aktisattjat li ásadam Rijtjemis Svierigin Slabávuodnaj Divtasvuodnaj la aj dan sæmmi guovlon.
 
 NVE la dan diehti nágin ævtojt biedjam konsesjåvnnåj.
 
 Duola dagu galggá tsieggijiddje hiebadahttet tsieggimbargov ællosujttuj ja gehtjadit vaj tsieggimbarggo ja bieggamilloj dåjmadibme ij sjatta hieredussan ællosujttuj. Sij galggi aj aktisattjat tjæroj barggat.
 
-Duodden aj gájbbeduvvá tsieggijiddje oajvvat dåjmajt {mij}£{kongr,pron|ma} sihke {gåtset}£{kongr|gåtsedi} ja {åvddånahttá}£{kongr|åvddånahtti} Rádjebálggáv {gaskan Vuona ja Svieriga}¥{wo|Vuona ja Svieriga gaskan}.
+Duodden aj gájbbeduvvá tsieggijiddje oajvvat dåjmajt {mij}£{rel,pron,kongr,rel-noun|ma} sihke {gåtset}£{verb,kongr,subj-verb|gåtsedi} ja {åvddånahttá}£{verb,kongr,subj-verb|åvddånahtti} Rádjebálggáv {gaskan Vuona ja Svieriga}¥{wo|Vuona ja Svieriga gaskan}.
 
 Ålles loabev NVE:as lågå dánna.

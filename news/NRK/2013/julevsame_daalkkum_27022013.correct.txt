@@ -16,7 +16,7 @@ Dán ideda gå sámedikkeájrrasa tjåhkanin ållestjåhkanibmáj {Kárášjogå
 
 Åhtsålij julevsáme dålkkumdievnastusáv
 
-Vásse tjavtja gulájma sámedikkeájras Kirsti {Guvsám}£{case,nom-acc|Guvsámav} gut åhtsålij julevsáme dålkkumdievnastusáv Sámedikken.
+Vásse tjavtja gulájma sámedikkeájras Kirsti {Guvsám}£{prop,case,nom-acc|Guvsámav} gut åhtsålij julevsáme dålkkumdievnastusáv Sámedikken.
 
 {Dalutjij}${conc,l-ll|Dallutjij} ij lim sierra julevsáme dålkkå Sámedikken, valla sij gudi dålkkuji nuorttasámegiellaj aj dålkkujin jus julevsámegiellaj håladuváj.
 

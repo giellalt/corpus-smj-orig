@@ -5,7 +5,7 @@ Ingrid Kintel.
 
 {Foto}∞{nor}: Harrieth Aira/NRK
 
-Nissunbiejve snjuktjamáno gávtsát biejve hålaj Ingrid Kintel, Divtasvuonas gielalasj {dásádusá}${conc,s-ss|dássádusá} birra majt sån åhtsål {suv}€{w,pers-refl|ietjas} bájkálasj sebrudagán.
+Nissunbiejve snjuktjamáno gávtsát biejve hålaj Ingrid Kintel, Divtasvuonas gielalasj {dásádusá}${conc,s-ss|dássádusá} birra majt sån åhtsål {suv}€{pers,pron,pers-refl|ietjas} bájkálasj sebrudagán.
 
 Harrieth Aira {harrieth.aira@nrk.no}∞{url}
 

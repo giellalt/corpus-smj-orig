@@ -1,11 +1,11 @@
 
-Dát galbba {{berriji}${vowc,e-ie|bierriji}}£{kongr|bierri} aj sámegiellaj boahtet oajvvadi Hábmera nuora.
+Dát galbba {{berriji}${vowc,e-ie|bierriji}}£{verb,kongr,subj-verb|bierri} aj sámegiellaj boahtet oajvvadi Hábmera nuora.
 
 {Foto}∞{nor}: NuorajTV
 
-{Nuora miellusa}¥{missing|Nuora li miellusa} sáme galbajda
+{Nuora}¥{missing,cop|Nuora li} miellusa sáme galbajda
 
-Hábmera nuora li miellusa sáme galbajda {sijá}€{w,pers-refl|ietjasa} suohkanij.
+Hábmera nuora li miellusa sáme galbajda {sijá}€{pers,pron,pers-refl|ietjasa} suohkanij.
 
 Dijmmá dåhkkidij departemænnta sáme namáv Hábmera suohkanij, ja Hábmera åvddånammadus la ássjev giehtadallam ja mierredam dav rádjat guláskuddamij.
 
