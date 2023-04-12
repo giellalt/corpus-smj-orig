@@ -1,4 +1,4 @@
-{Válggatjállusav sámegiellaj}£{case,acc-nom|Válggatjálos sámegiellaj}
+{Válggatjállusav}£{noun,case,acc-nom|Válggatjálos} sámegiellaj
 
 Nordlánda {fylkkasuohkan}¢{cmp,nom-gen|fylkasuohkan} almot ietjas válggatjállusav adjáj sámegiellaj.
 
@@ -6,5 +6,5 @@ Nordlánda {fylkkasuohkan}¢{cmp,nom-gen|fylkasuohkan} almot ietjas válggatjál
 
 Duodden li gájkka sijda Divtasvuona suohkanin sámegielak válggatjállusav oadtjum. {Fylkkagirjjevuorkájn}¢{cmp,nom-gen|Fylkagirjjevuorkájn} la tjálos dárogiellaj ja sámegiellaj iehtjasa guossijda.
 
-Divtasvuona suohkana {oassálasstem sámegiela háldadimguovlos}£{case,ela-ill|oassálasstem sámegiela háldadimguovlluj} {le buktám}¥{missing|le buktám åvdåsvásstádusáv}, {fylkkasuohkanin}¢{cmp,nom-gen|fylkasuohkanin} li aj {gájbbádusá}€{w|vælggogisvuoda} sámelága giellanjuolgadusá vuoksjuj. Gå dán jagásj válggatjálos adjáj julevsámegiellaj almoduvvá, le dát akta dajs dåjmajs majt Nordlánda {fylkkasuohkan}¢{cmp,nom-gen|fylkasuohkan} jåhtuj biedjá dájt gájbbádusájt duostotjit.
+Divtasvuona suohkana oassálasstem sámegiela {háldadimguovlos}£{noun,case,ela-ill|háldadimguovlluj} {le}¥{cop|la} {buktám}¥{missing,object|buktám åvdåsvásstádusáv}, {fylkkasuohkanin}¢{cmp,nom-gen|fylkasuohkanin} li aj {gájbbádusá}€{w|vælggogisvuoda} sámelága giellanjuolgadusá vuoksjuj. Gå dán jagásj válggatjálos adjáj julevsámegiellaj almoduvvá, le dát akta dajs dåjmajs majt Nordlánda {fylkkasuohkan}¢{cmp,nom-gen|fylkasuohkan} jåhtuj biedjá dájt gájbbádusájt duostotjit.
 

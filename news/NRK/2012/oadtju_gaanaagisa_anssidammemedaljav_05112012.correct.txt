@@ -4,11 +4,11 @@ Mikal Urheim ávvusij gå guláj sån oadtju {Gånågisa}${vowlat,a-á|Gånågis
 
 {Foto}∞{nor}: Harrieth Aira/NRK
 
-Sáme sebrudagá {gállájs}£{x|gálles} ja {sebrudakberustiddjijs}£{x|sebrudakberustiddje}, julevsábme Mikal Urheim (80) oadtju Gånågisá {ánssidammedáljav}€{w|ánssidimmedáljav}.
+Sáme sebrudagá {gállájs}£{noun,case,ela-nom|gálles} ja {sebrudakberustiddjijs}£{noun,case,ela-nom|sebrudakberustiddje}, julevsábme Mikal Urheim (80) oadtju Gånågisá {ánssidammedáljav}€{w|ánssidimmedáljav}.
 
-{{Lidjin}¥{cop|Ledjin}}£{kongr|Lejga} Divtasvuona ja Hábmera suohkanoajve aktan Árran – julevsáme guovdátja {direktørajn}${loan,vowc,ø-e|direkterajn}, gudi oajvvadin Mikal Urheim ánssit Gånågisá {ánssidammedáljav}€{w|ánssidimmedáljav} oadtjot.
+{{Lidjin}¥{cop|Ledjin}}£{cop,verb,kongr,subj-verb|Lejga} Divtasvuona ja Hábmera suohkanoajve aktan Árran – julevsáme guovdátja {direktørajn}${loan,vowc,ø-e|direkterajn}, gudi oajvvadin Mikal Urheim ánssit Gånågisá {ánssidammedáljav}€{w|ánssidimmedáljav} oadtjot.
 
-– Mikal Urheim la badjel 50 jage iesjgeŋgalágásj rållaj ja dåjmaj baktu åvdedam {nasjonála}${loan,mix|nasjåvnålasj} ja bájkálasj ássjijt ma li sebrudahkaj læhkám stuorra ávkken, sierraláhkáj sáme álmmuga åvdås ja julevsámij åvdås sierra. Mikal Urheima barggo {le}£{cop|l} læhkám tjielgga {njunnusjbarggo}${conc,nn-nnj|njunnjusjbarggo} åvddånahtátjit sáme sebrudakiellemav Vuonan tjálli {suohkanoajve-guovtes}${cmp,hyhp-X|suohkanoajve guovtes} ja Árran-{direktørra}${loan,vowc,ø-e|direkterra} præssadiedádusán.
+– Mikal Urheim la badjel 50 jage iesjgeŋgalágásj rållaj ja dåjmaj baktu åvdedam {nasjonála}${loan,mix|nasjåvnålasj} ja bájkálasj ássjijt ma li sebrudahkaj læhkám stuorra ávkken, sierraláhkáj sáme álmmuga åvdås ja julevsámij åvdås sierra. Mikal Urheima barggo {le}¥{cop|l} læhkám tjielgga {njunnusjbarggo}${conc,nn-nnj|njunnjusjbarggo} åvddånahtátjit sáme sebrudakiellemav Vuonan tjálli {suohkanoajve-guovtes}${cmp,hyhp-X|suohkanoajve guovtes} ja Árran-{direktørra}${loan,vowc,ø-e|direkterra} præssadiedádusán.
 
 «Ælla da tsuvkkám åvvå báhkogietjev dán birra munji. Diedá alvaduvviv.»
 
@@ -17,7 +17,7 @@ Mikal Urheim
 Gånågisá {ánssidammedállja}€{w|ánssidimmedállja}
 
 {Lij}¥{cop|Lej} Gånågis Haakon gut vuododij {Ánssidammedáljav}€{w|Ánssidimmedáljav}, guovvamáno 1. {bve}${x|b.}1908. Ulmme lij lasedit St. Olavs Ordenav.
-{Vattteduvvá}${conc,ttt-tt|Vatteduvvá} sahte vuonagij sierra bargos dájdan, diehtagin ja æládusiellemin ja sierra {barggo}£{case|bargos} {almmulasj}${conc,lmm-lm|almulasj} dievnastusán. Medállja lij joarkka Gånågis Oscar {IIa}${suf|II:a} {máksemmedálljas}¢{conc,llj-lj|máksemmedáljas} mij hiejteduváj jagen 1905.
+{Vattteduvvá}${conc,ttt-tt|Vatteduvvá} sahte vuonagij sierra bargos dájdan, diehtagin ja æládusiellemin ja sierra {barggo}£{noun,case,nom-ela|bargos} {almmulasj}${conc,lmm-lm|almulasj} dievnastusán. Medállja lij joarkka Gånågis Oscar {IIa}${suf|II:a} {máksemmedálljas}¢{conc,llj-lj|máksemmedáljas} mij hiejteduváj jagen 1905.
 
 Gálldo: {kongehuset.no}∞{nor}
 
@@ -37,9 +37,9 @@ Urheim iesj ittjij diede sån lij oajvvaduvvam oattjotjit Gånågisá {ánssidam
 
 Ja Urheim la ávon ja dudálasj gå Gånågisá {ánssidammedáljav}€{w|ánssidimmedáljav} oadtju.
 
-– Mån {la}£{kongr|lav} ávon ja dudálasj. Gå mijá rijka gånågis la gávnnam muv bargov buorren de lev mån ávon ja dajna dudálasj. Valla dát vuosádus ij la dåssju munji aktu, valla aj muv mánájda gudi li muv doarjodam agev ja ietjá sámijda gudi li {mujna}£{case,ine-ill|munji} viehkken årrum, javllá Mikal Urheim.
+– Mån {la}£{cop,verb,kongr,subj-verb|lav} ávon ja dudálasj. Gå mijá rijka gånågis la gávnnam muv bargov buorren de lev mån ávon ja dajna dudálasj. Valla dát vuosádus ij la dåssju munji aktu, valla aj muv mánájda gudi li muv doarjodam agev ja ietjá sámijda gudi li {mujna}£{pers,pron,case,ine-ill|munji} viehkken årrum, javllá Mikal Urheim.
 
-Sån aj gæssá åvddån {suv}€{w,pers-refl|ietjas} áhkáv, Elin Urheim-rávkkev, gut suv duogen agev la årrum.
+Sån aj gæssá åvddån {suv}€{pers,pron,pers-refl|ietjas} áhkáv, Elin Urheim-rávkkev, gut suv duogen agev la årrum.
 
 – Muv buoremus venak ja viehkediddje, muv iehttselis Elin ij la desti viesso. Muhtem låsså ájge de javlliv mån sunji; “Hæhttutjip má de hiejttet årromis sábmen”. Dasi Elin náv javlaj; “Ep gåjt dal mij máhte hiejttet majt ep la álggám, mij lip riegádam”. Ja divna dát la baddjen anedam muv juolgij nanna, javllá Urheim.
 

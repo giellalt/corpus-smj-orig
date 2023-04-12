@@ -1,10 +1,10 @@
 Åhpadallagåhti sámegiellaj
 
-Divtasvuona suohkana bargge rádevieson galggi dal sámegielav oahppagoahtet. {Dála}¥{missing|Dála l} Divtasvuona {sámegiellakonsulænnta}¢{cmp|sámegielkonsulænnta}, Britt-Inger Tuorda.
+Divtasvuona suohkana bargge rádevieson galggi dal sámegielav oahppagoahtet. {Dála}¥{missing,cop|Dála l} Divtasvuona {sámegiellakonsulænnta}¢{cmp|sámegielkonsulænnta}, Britt-Inger Tuorda.
 
 {Foto}∞{nor}: Harrieth Aira/NRK
 
-Dán tjavtja rájes åhpadallagoahtá Divtasvuona suohkan {ietjasa}£{kongr|ietjas} barggijt sámegiellaj, sihke rádevieson ja ietjá sajijn suohkanin.
+Dán tjavtja rájes åhpadallagoahtá Divtasvuona suohkan {ietjasa}£{ref,pron,kongr,subj-verb|ietjas} barggijt sámegiellaj, sihke rádevieson ja ietjá sajijn suohkanin.
 
 Dav duodastij Divtasvuona rádeålmåj Konrad Sætra {uddni}¥{redun|} gå suohkanstivrra tjåhkanij dán ideda.
 
@@ -14,7 +14,7 @@ Divtasvuona {suohkanstivra ájras}¢{cmp,X-1|suohkanstivraájras}, Johan Daniel 
 
 Lej {suohkanstivrraájras}¢{cmp,nom-gen|suohkanstivraájras} Johan Daniel Hætta gut sidáj diehtet makkir plána suohkanin li sámegiela åhpadussaj.
 
-– Båhti vuojn ådå njuolgadusá {guovtegiedakrudáj}¢{conc,d-l;x|guovtegielakvuodarudáj} adnemij Sámedikkes boahtte jage ja sidáv diehtet {gåktu l Divtasvuona suohkan {dáv}£{case|dási} gárvedam}¥{wo|gåktu Divtasvuona suohkan la dási gárvedam}. {E}£{kongr|Ij} vuojn boahtte jage rájes des boade vattáldahka {gålmmå}£{kongr,num|gålmåjn} {millijåvnåj}£{kongr,num|millijåvnåjn} valla ietja vierttip plánajt dahkat {mij}£{kongr,pron|ma} {vuoset}£{kongr,v|vuosedi} majt {ájggup}¢{vowlat,u-o|ájggop} dáj rudáj, gatjádij Johan Daniel Hætta.
+– Båhti vuojn ådå njuolgadusá {guovtegiedakrudáj}¢{conc,d-l;x|guovtegielakvuodarudáj} adnemij Sámedikkes boahtte jage ja sidáv diehtet {gåktu l Divtasvuona suohkan {dáv}£{dem,pron,case,acc-ill|dási} gárvedam}¥{wo|gåktu Divtasvuona suohkan la dási gárvedam}. {E}£{neg,verb,kongr,subj-verb|Ij} vuojn boahtte jage rájes des boade vattáldahka {gålmmå}£{num,kongr,num-nom|gålmåjn} {millijåvnåj}£{noun,kongr,num-noun|millijåvnåjn} valla ietja vierttip plánajt dahkat {mij}£{rel,pron,kongr,subj-verb|ma} {vuoset}£{verb,kongr,subj-verb|vuosedi} majt {ájggup}¢{vowlat,u-o|ájggop} dáj rudáj, gatjádij Johan Daniel Hætta.
 
 Duodastij plánajt li dahkam
 
@@ -26,11 +26,11 @@ Divtasvuona rádeålmåj, Konrad Sætra ij la dudálasj sámegiela åvddånimijn
 
 – Mij ep la udnásj rádjáj læhkám dudálattja dájna bargujn, valla dán tjavtja rájes sjaddá aktijvalasj sámegiela åhpadibme ietjama barggijda sihke rádevieson ja ietjá sajijn suohkanin, subtsastij rádeålmåj Sætra.
 
-Sån aj subtsastij suohkan la plánajt dahkam ja {hiebaduvvam}£{pass-aktiv|hiebadam} åhtsåmusáv {ådå njuolgadusájda li sáddim Sámediggáj}¥{missing|ådå njuolgadusájda ja li sáddim åhtsåmusáv Sámediggáj} mij lij viehka stuoráp gå udnásj juollodibme Sámedikkes.
+Sån aj subtsastij suohkan la plánajt dahkam ja {hiebaduvvam}£{verb,pass-aktiv|hiebadam} åhtsåmusáv ådå njuolgadusájda {li}¥{missing|ja li} sáddim åhtsåmusáv Sámediggáj mij lij viehka stuoráp gå udnásj juollodibme Sámedikkes.
 
 – Vuorddep vásstádusáv Sámedikkes. Sij båhti Sámedikkes diehki ragátmáno 20. biejve ja dalloj de {jáhkedahtte oadtjop}£{infl,ind-pot|oattjotjip} vuojnojt ja diededimev Sámedikkes, subtsastij Sætra.
 
 
-Dålkkuduvvá sámegielas dárruj gå Divtasvuona suohkanstivrra tjåhkan. {Dála}¥{missing|Dála l} {suohkanstivra ájras}¢{cmp,X-1|suohkanstivraájras} Filip Mikkelsen, Aktisasjlistas hållamin ja dålkkå Britt-Inger Tuorda {suohkanstivrratjåhkanimes}¢{cmp,nom-gen|suohkanstivratjåhkanimes} mij lij gidán.
+Dålkkuduvvá sámegielas dárruj gå Divtasvuona suohkanstivrra tjåhkan. {Dála}¥{missing,cop|Dála l} {suohkanstivra ájras}¢{cmp,X-1|suohkanstivraájras} Filip Mikkelsen, Aktisasjlistas hållamin ja dålkkå Britt-Inger Tuorda {suohkanstivrratjåhkanimes}¢{cmp,nom-gen|suohkanstivratjåhkanimes} mij lij gidán.
 
 {Foto}∞{nor}: Harrieth Aira/NRK

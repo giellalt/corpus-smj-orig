@@ -5,11 +5,11 @@
 
 {Foto: LARTIGUE STEPHANE/PHOTOPQR/SUD OUEST}∞{mix}
 
-Sáme {nasjonálalasj}${loan,mix|nasjåvnålasj} máhtudakguovdásj psykalasj varresvuodan (SANKS) {lulu}£{verb,kongr,cond|luluj} sjaddat fálaldahka dåssju Finnmárkogijda. 
+Sáme {nasjonálalasj}${loan,mix|nasjåvnålasj} máhtudakguovdásj psykalasj varresvuodan (SANKS) {lulu}£{cond,verb,kongr,subj-verb|luluj} sjaddat fálaldahka dåssju Finnmárkogijda. 
 
 – Vájves sága, javllá Inga Karlsen, Divtasvuonas.
 
-Vil uddni máhtti sáme ålles vuonarijkas oadtjot {SANKS-as}${suf|SANKS:as} dálkudimfálaldagájt jus dav hálijdi, valla boahtte jage rájes {lulu}£{verb,kongr,cond|luluj} láhkanjuolgadus rievddat dáv. Boahtte jage rájes viertti SANKS åhtsåt fállat juogu {nasjonálalasj}${loan,mix|nasjåvnålasj}  máhtudakfálaldagájt jali {{nasjonálalasj}${loan,mix|nasjåvnålasj}  }‰{singlespace|nasjåvnålasj }máhtudakfálaldagájt ja {moaddeguovloj}${mix|moatteguovluk} dálkudimfálaldagájt.
+Vil uddni máhtti sáme ålles vuonarijkas oadtjot {SANKS-as}${suf|SANKS:as} dálkudimfálaldagájt jus dav hálijdi, valla boahtte jage rájes {lulu}£{cond,verb,kongr,subj-verb|luluj} láhkanjuolgadus rievddat dáv. Boahtte jage rájes viertti SANKS åhtsåt fállat juogu {nasjonálalasj}${loan,mix|nasjåvnålasj}  máhtudakfálaldagájt jali {{nasjonálalasj}${loan,mix|nasjåvnålasj}  }‰{singlespace|nasjåvnålasj }máhtudakfálaldagájt ja {moaddeguovloj}${mix|moatteguovluk} dálkudimfálaldagájt.
 
 Lågå: – {SANKS-kutt en skandale}∞{nor}
 
@@ -19,7 +19,7 @@ Inga Karlsen, Divtasvuonas
 
 {Foto}∞{nor}: Sander Andersen/NRK
 
-Inga Karlsen, Ájluovtas {Divtasvuonas}£{case|Divtasvuonan} gut julevsámijt åvdås {SANKS-a}${suf|SANKS:a} addnenammadusán ja gut aj la Sáme vuorrasijráde jådediddje ij åvvånis dási lijkku ja hådjån.
+Inga Karlsen, Ájluovtas {Divtasvuonas}£{prop,case,ela-ine|Divtasvuonan} gut julevsámijt åvdås {SANKS-a}${suf|SANKS:a} addnenammadusán ja gut aj la Sáme vuorrasijráde jådediddje ij åvvånis dási lijkku ja hådjån.
 
 – Dát lij duodaj vájves sáhka ja jáhkáv dal ulmutja ruojav dahki gå dáv gulli, javllá sån.
 
@@ -44,7 +44,7 @@ Inga Karlsen diehtá {ållusa}€{w|ålos} julevsámeguovlos li {SANKS-a}${suf|S
 
 Stuorra berustibme julevsáme guovlon
 
-Árvustallam majt SANKS la tjadádam {daj}£{pron,num,kongr|dan} {niellja}£{num,kongr|nieljen} {jagij}£{noun,num,kongr|jagen} maŋŋel gå SANKS ásadij sierra kontåvråv Ájluoktaj, Divtasvuodnaj vuoset SANKS la vierttim duodde ulmutjijt biedjat bargatjit Divtasvuona kontåvrråj.
+Árvustallam majt SANKS la tjadádam {daj}£{dem,pron,kongr,dem-num|dan} {niellja}£{num,kongr,num-noun|nieljen} {jagij}£{noun,kongr,num-noun|jagen} maŋŋel gå SANKS ásadij sierra kontåvråv Ájluoktaj, Divtasvuodnaj vuoset SANKS la vierttim duodde ulmutjijt biedjat bargatjit Divtasvuona kontåvrråj.
 
 {"}‰{”}... {Li}¥{cop|Le} læhkám viehka ållo {pasiennta}${conc,nnt-nt|pasienta} dán kontåvrån, {så}∞{nor} mij lip vierttim {biejdat}${typo|biedjat} lasse barggijt dåhku {vaj duosstot dárbojt}¥{x|duostotjit dárbojt}...{"}‰{”} tjállá SANKS ietjas árvustallamin.
 
@@ -56,5 +56,5 @@ Ij ga Sámedigge lijkku dájda ságajda.
 
 Sámedikkeráde Ellinor Marita Jåma javllá sån muodástuvvá gå dájt ságajt gullá.
 
-– Mij muodástuvvap oarjjelsáme pasientaj diehti, valla aj julevsáme pasientaj diehti. Sámedigge galggá ássjev bajedit ráddidusájn ja mij aj gåhttjop {Helse Nord}£{case,nom-acc|Helse Nordav} dádjadit siján la má åvdåsvásstádus gájkka Vuonarijka {sámijda}£{case,ill-ela|sámijs}, javllá Ellinor Marita Jåma.
+– Mij muodástuvvap oarjjelsáme pasientaj diehti, valla aj julevsáme pasientaj diehti. Sámedigge galggá ássjev bajedit ráddidusájn ja mij aj gåhttjop {Helse Nord}£{prop,case,nom-acc|Helse Nordav} dádjadit siján la má åvdåsvásstádus gájkka Vuonarijka {sámijda}£{noun,case,ill-ela|sámijs}, javllá Ellinor Marita Jåma.
 

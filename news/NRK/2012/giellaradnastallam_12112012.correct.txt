@@ -27,7 +27,7 @@ Ulmme l sámástit, valla gatjálvis le gåktu dav tjoavddet vaj oadtjot mánáj
 
 –Uddni ij dal nav ållo sámegiella sijdajn gullu, subtsas Kintel.
 
-–Ja gå luondulasj sáhka ij gullu sijdajn, {dat}£{case,nom-ine|dan} {{arena}${loan,conc,n-dn;vowlat,a-á;vowc,e-ie|ariedná}}£{case,nom-ine|arienán} gånnå máná galggi sámegielav gullat, gå dat vádnun sijda bieles, de dárbahip dahkat {arenav}${loan,vowlat,a-á;vowc,e-ie|arienáv} gånnå máná iejvviji bágojt ja {sosialiseriduvvi}¢{loan,vowc,e-ie|sosialisieriduvvi} sámegiellaj. Mån jáhkáv sámegiella gullugoahtá gå hárjjánip sámástit nubbe nubbáj ja máná oadtju hárjjánit sijá ságastallamgiella máhttá liehket sámegiella, dættot sån.
+–Ja gå luondulasj sáhka ij gullu sijdajn, {dat}£{dem,pron,kongr,dem-noun|dan} {{arena}${loan,conc,n-dn;vowlat,a-á;vowc,e-ie|ariedná}}£{noun,case,nom-ine|arienán} gånnå máná galggi sámegielav gullat, gå dat vádnun sijda bieles, de dárbahip dahkat {arenav}${loan,vowlat,a-á;vowc,e-ie|arienáv} gånnå máná iejvviji bágojt ja {sosialiseriduvvi}¢{loan,vowc,e-ie|sosialisieriduvvi} sámegiellaj. Mån jáhkáv sámegiella gullugoahtá gå hárjjánip sámástit nubbe nubbáj ja máná oadtju hárjjánit sijá ságastallamgiella máhttá liehket sámegiella, dættot sån.
 
 Lågå aj: Mij aktan sámástip
 
@@ -36,9 +36,9 @@ Lågå aj: Mij aktan sámástip
 Rádnastallamprosjækta
 
 {rádnastallama}‰{cap|Rádnastallama}, suohtastallamij ja ávvudallamij baktu sámegielak {arena}${loan,conc,n-dn;vowlat,a-á;vowc,e-ie|ariedná} gånnå máná ja nuora aktan hárjjáni sámástit buolvaj gaskan
-{oadtjot sámegiela adnemav {ålgos}¢{vowlat,o-u|ålgus} institusjåvnåjs}¥{missing|galggá oadtjot sámegiela adnemav ålgus institusjåvnåjs} ja ásadit dádjadusáv dåhkki {má akta ber gånnå sámástit la julevsáme}‰{notcomma|má akta ber gånnå sámástit, la julevsáme} skåvllåmánájda gejn la sámegiella {vuostasj giellan}¢{cmp,X-1|vuostasjgiellan} {skåvlån}‰{notcomma|skåvlån,}
+{oadtjot}¥{missing|galggá oadtjot} sámegiela adnemav {ålgos}¢{vowlat,o-u|ålgus} institusjåvnåjs ja ásadit dádjadusáv dåhkki {má akta ber gånnå sámástit la julevsáme}‰{notcomma|má akta ber gånnå sámástit, la julevsáme} skåvllåmánájda gejn la sámegiella {vuostasj giellan}¢{cmp,X-1|vuostasjgiellan} {skåvlån}‰{notcomma|skåvlån,}
 mánájda vuostasj klássas giehttjit {klássaj}‰{notcomma|klássaj}
-jådeduvvá {gålmmå}£{kongr,num|gålmåt} julevsámegielak {{nuorajs}£{noun,kongr,num|nuoras}}‰{notcomma|nuoras,}
+jådeduvvá {gålmmå}£{num,kongr,num-noun|gålmåt} julevsámegielak {{nuorajs}£{noun,kongr,num-noun|nuoras}}‰{notcomma|nuoras,}
 la akti vahkkuj, duorastagájt gudás {gáktsáj}‰{punct|gáktsáj.}
 {gálldo}‰{cap|Gálldo}: {tysfjordasvo.no}∞{url}
 

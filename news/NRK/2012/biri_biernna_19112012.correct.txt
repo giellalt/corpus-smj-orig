@@ -16,13 +16,13 @@ Biri Biernna {la}£{cop|l} biernna mij dal {duov-dáv}${cmp,hyph-2|duov dáv} hi
 Jon Isak Lyngman Gælok la {hiebadahttám}€{w|hiebadam} julevsábmáj.
 
 {Foto}∞{nor}: Harrieth Aira/NRK
-– Biri Biernna {la}£{cop|l} biernna gut {sáhkát}${vowlat,á-a|sáhkat}, ja {sunja}${typo|sujna} li rádna dagu {piŋgvijnna}${loan,conc,ŋg-ng|pingvijnna} ja pelikádna gudi libá suv buoremus rádna. Ja {duoppen-dáppen}${cmp,hyph-X|duoppen dáppen} manni sij ja {{duov-dát}${cmp,hyph-X|duov dát}}£{kongr|duot dát} dáhpáduvvá dáj sijá {manojnan}${cmp,1-2|manoj nan}. Mannamin li gåjt {ekvatorin}${loan,vowc,a-á;conc,t-htt;vowlat,o-u|ekváhtturin} ja Nuorttapåvlån li aj mannam, valla maŋenagi vierttiji sijddaj máhttsat stádtjogáhkojt båråtjit, subtsas sån.
+– Biri Biernna {la}£{cop|l} biernna gut {sáhkát}${vowlat,á-a|sáhkat}, ja {sunja}${typo|sujna} li rádna dagu {piŋgvijnna}${loan,conc,ŋg-ng|pingvijnna} ja pelikádna gudi libá suv buoremus rádna. Ja {duoppen-dáppen}${cmp,hyph-X|duoppen dáppen} manni sij ja {{duov-dát}${cmp,hyph-X|duov dát}}£{dem,pron,kongr|duot dát} dáhpáduvvá dáj sijá {manojnan}${cmp,1-2|manoj nan}. Mannamin li gåjt {ekvatorin}${loan,vowc,a-á;conc,t-htt;vowlat,o-u|ekváhtturin} ja Nuorttapåvlån li aj mannam, valla maŋenagi vierttiji sijddaj máhttsat stádtjogáhkojt båråtjit, subtsas sån.
 
 Vuostasj animasjåvnnårájddo julevsámegiellaj
 
 Dát animasjåvnnårájddo la {dat}¥{redun|} vuostasj animasjåvnnårájddo julevsámegiellaj mij Mánáj-TV:an vuoseduvvá.
 
-– {De}€{w|Dat} la vuostasj animasjåvnnårájddo mij {NRK Sáme:n}${suf|NRK Sámen} la julevsámegiellaj dagáduvvam. {NRK Sáme:n}${suf|NRK Sámen} la ulmme {gåjt}€{w|unnemusát} galggi vihtta prográmma julevsámegiellaj {jáhkáj}${vowc,á-a|jahkáj} {dagáduvvat}£{pass-act|dahkat}. Ja mij jáhkkep animasjåvnnå {la}£{cop|l} dat majna mij buoremusát oadtjop julevsáme mánájt gehtjatjit {mánájTV:av}${suf|mánáj-TV:av}, javllá NRK Sáme {mánájTV-dåjmadusá}${suf|mánáj-TV-dåjmadusá} jådediddje, Norleif Krokmo.
+– {De}€{w|Dat} la vuostasj animasjåvnnårájddo mij {NRK Sáme:n}${suf|NRK Sámen} la julevsámegiellaj dagáduvvam. {NRK Sáme:n}${suf|NRK Sámen} la ulmme {gåjt}€{w|unnemusát} galggi vihtta prográmma julevsámegiellaj {jáhkáj}${vowc,á-a|jahkáj} {dagáduvvat}£{passive-active|dahkat}. Ja mij jáhkkep animasjåvnnå {la}£{cop|l} dat majna mij buoremusát oadtjop julevsáme mánájt gehtjatjit {mánájTV:av}${suf|mánáj-TV:av}, javllá NRK Sáme {mánájTV-dåjmadusá}${suf|mánáj-TV-dåjmadusá} jådediddje, Norleif Krokmo.
 
 Ja uddni de vuojnnu vuostasj bále {NRK Super:in}${suf|NRK Superin} kl. 17.00.
 
@@ -30,7 +30,7 @@ Biri Biernna-rájddo vuoseduvvá juohkka mánnodagá, dán jage vihtta {programm
 
 Rájddo hiehpá vuostatjin nuoramusájda, valla Gælok aj hasot ållessjattugijt gehtjatjit.
 
-– Nuoramusájda hiehpá, sidjij lip mij hiebadam {rádjov}${typo|rájdov}, valla ållessjattugijda aj dåhkki gæhttjat gå danna {la}£{cop|l} vehi gåhtjodum {metahumor}∞{nor} mij {lulu}£{kongr|luluj} ållessjattugijda aj miellagiddis gæhttjat, subtsas Gælok.
+– Nuoramusájda hiehpá, sidjij lip mij hiebadam {rádjov}${typo|rájdov}, valla ållessjattugijda aj dåhkki gæhttjat gå danna {la}£{cop|l} vehi gåhtjodum {metahumor}∞{nor} mij {lulu}£{cond,verb,kongr,subj-verb|luluj} ållessjattugijda aj miellagiddis gæhttjat, subtsas Gælok.
 
 {Så}∞{nor} ij la de ietján gå tjåhkkidit gehtjatjit NRK {Super}£{prop,case-nom-ill|Superav}, kl. 17.00 uddni.
 

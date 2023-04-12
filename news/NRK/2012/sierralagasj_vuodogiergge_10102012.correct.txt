@@ -1,7 +1,7 @@
 {Sierralágálasj}${mix|Sierralágásj} vuodogiergge
 
 
-Dát la Árran - julevsáme guovdátja vuodogiergge,{ij rávvis giergge}¥{missing|ij la rávvis giergge} nav gåk dábálattjat vuodogiergge le.
+Dát la Árran - julevsáme guovdátja vuodogiergge, {ij rávvis giergge}¥{missing,cop|ij la rávvis giergge} nav gåk dábálattjat vuodogiergge le.
 
 {Foto}∞{nor}: Harrieth Aira/NRK
 
