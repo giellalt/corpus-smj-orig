@@ -9,7 +9,7 @@ Sáme {nasjonálalasj}${loan,mix|nasjåvnålasj} máhtudakguovdásj psykalasj va
 
 – Vájves sága, javllá Inga Karlsen, Divtasvuonas.
 
-Vil uddni máhtti sáme ålles vuonarijkas oadtjot {SANKS-as}${suf|SANKS:as} dálkudimfálaldagájt jus dav hálijdi, valla boahtte jage rájes {lulu}£{cond,verb,kongr,subj-verb|luluj} láhkanjuolgadus rievddat dáv. Boahtte jage rájes viertti SANKS åhtsåt fállat juogu {nasjonálalasj}${loan,mix|nasjåvnålasj}  máhtudakfálaldagájt jali {{nasjonálalasj}${loan,mix|nasjåvnålasj}  }‰{singlespace|nasjåvnålasj }máhtudakfálaldagájt ja {moaddeguovloj}${mix|moatteguovluk} dálkudimfálaldagájt.
+Vil uddni máhtti sáme ålles vuonarijkas oadtjot {SANKS-as}${suf|SANKS:as} dálkudimfálaldagájt jus dav hálijdi, valla boahtte jage rájes {lulu}£{cond,verb,kongr,subj-verb|luluj} láhkanjuolgadus rievddat dáv. Boahtte jage rájes viertti SANKS åhtsåt fállat juogu {nasjonálalasj}${loan,mix|nasjåvnålasj} máhtudakfálaldagájt jali {{nasjonálalasj}${loan,mix|nasjåvnålasj}  }‰{singlespace|nasjåvnålasj }máhtudakfálaldagájt ja {moaddeguovloj}${mix|moatteguovluk} dálkudimfálaldagájt.
 
 Lågå: – {SANKS-kutt en skandale}∞{nor}
 

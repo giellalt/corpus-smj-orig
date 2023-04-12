@@ -1,4 +1,4 @@
-Paulsen {oajvvaduvvám}¥{missing,cop|la oajvvaduvvám} bajemusán
+Paulsen {{oajvvaduvvám}${vowlat,á-a|oajvvaduvvam}}¥{missing,cop|la oajvvaduvvam} bajemusán
 
 
 Lars Filip Paulsen, Divtasvuonas la oajvvaduvvam bajemus sadjáj Oalgesbelludagá listan {sámedikkeválggaj}¢{cmp,gen-nom|sámediggeválggaj}.
@@ -46,12 +46,12 @@ Dála {oajvvaduvvam}¥{missing,cop|l oajvvaduvvam} lissta:
 
 Filip Mikkelsen ij sebra
 
-Divtasvuona suohkanpolitihkkár ja sadjásasj jådediddje Oalgesbelludagá sámepolitihkalasj juohkusin , Filip Mikkelsen ij la oajvvaduvvam {{gånnån}${fin,n-k|gånnåk}}€{w|makkirak} {sajen}£{noun,case,ine-ill|sadjáj} dán listan.
+Divtasvuona suohkanpolitihkkár ja sadjásasj jådediddje Oalgesbelludagá sámepolitihkalasj juohkusin, Filip Mikkelsen ij la oajvvaduvvam {{gånnån}${fin,n-k|gånnåk}}€{w|makkirak} {sajen}£{noun,case,ine-ill|sadjáj} dán listan.
 
 Filip Mikkelsen tjielggi manen sån ij la listan {jus ga}¢{cmp,X-1;conc,sg-sk|juska} sån la lista duogen.
 
-– Suohkanpolitihkka {la}£{cop|l} munji nuoges doajmma ja mån iv hálida sæbrrat sámedikkepolitihkkárin. Sidáv aj {lahtjet}${vowc,a-á|láhtjet} {sájev}${vowc,á-a|sajev} nuorap ulmutjijda, le má sidja gudi li sámedikke {boahtte ájgge}¢{cmp,-X-1|boahtteájgge}, javllá Mikkelsen NRK:aj.
+– Suohkanpolitihkka {la}£{cop|l} munji nuoges doajmma ja mån iv {hálida}${conm,0-j|hálijda} sæbrrat sámedikkepolitihkkárin. Sidáv aj {lahtjet}${vowc,a-á|láhtjet} {sájev}${vowc,á-a|sajev} nuorap ulmutjijda, le má sidja gudi li sámedikke {boahtte ájgge}¢{cmp,-X-1|boahtteájgge}, javllá Mikkelsen NRK:aj.
 Viestarmera válggabijrra
 
-Viestarmera válggabijrra la akta {gietjav}£{num,kongr,num-noun|gietjat} {válggabijrajs}£{noun,num,kongr,num-noun|válggabijras} {sámedikkeválggaj}¢{cmp,gen-nom|sámediggeválggaj}. {Divrráid, Siellaga, Loabága, Rivttaga, Skániid, Ivvárstáđiid, Harstad, Bjarkøy, Giehtavuona, Ánddasullo, Ikšnášši, Bieváid, Suortta, Válafierdda, Voagaj, Vestvågøy, Flakstad, Moskenes, Værøy, Røst, Lådiga, Dielddanuori, Evenášši, Nárvijka, Bálága, Divtasvuona, Hábmera, Stájgo, Oarjjelij Fuoldá, Bådådjo, Fuosko, Sáláda, Oarjelij Bájddára, Bájddára ja Meløy}∞{nor/sme} suohkana gulluji dán válggabijrraj.
+Viestarmera válggabijrra {la}£{cop|l} akta {gietjav}£{num,kongr,num-noun|gietjat} {válggabijrajs}£{noun,num,kongr,num-noun|válggabijras} {sámedikkeválggaj}¢{cmp,gen-nom|sámediggeválggaj}. {Divrráid, Siellaga, Loabága, Rivttaga, Skániid, Ivvárstáđiid, Harstad, Bjarkøy, Giehtavuona, Ánddasullo, Ikšnášši, Bieváid, Suortta, Válafierdda, Voagaj, Vestvågøy, Flakstad, Moskenes, Værøy, Røst, Lådiga, Dielddanuori, Evenášši, Nárvijka, Bálága, Divtasvuona, Hábmera, Stájgo, Oarjjelij Fuoldá, Bådådjo, Fuosko, Sáláda, Oarjelij Bájddára, Bájddára ja Meløy}∞{nor/sme} suohkana gulluji dán válggabijrraj.
 Oalgesbelludagán la uddni akta ájras Sámedikken.

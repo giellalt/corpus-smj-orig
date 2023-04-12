@@ -1,6 +1,6 @@
 {viehkam}‰{cap|Viehkam}
 
-{Heej}∞{swe} vas! Nike,Craft ja Adidas adni riek ålov majt {vuobbdi}${conc,bbd-bdd|vuobddi} ja ållo le {nav}€{w|huj} tjábbe jus dåhkki nav javllat. Muv mielas siján li nav buorre {bájnokombinasjåvvnå}${cmp,gen-nom;conc,vvn-vnn|bájnnokombinasjåvnnå}, ja li riek fijnna bájno aj. Jus lidjiv máhttet de {lulluv}${conc,ll-l|luluv} dimnajt sijás oasstet. Dimna {skoava}${vowc,oa-uo|skuova} ja biktasa loaggi muv {hárjjidallat}€{infl,inf-sup|hárjjidalátjit} {ienebu}€{w,adj,adv|ienebut}. Muv mielas {dav}¥{redun|} galggá adnet {biktasit}¢{fin,t-jt|biktasijt} majt {dav}¥{redun|} IESJ adná {le}¥{cop|li} {fijnnuga}${conc,jnn-jn|fijnuga} ja ahte {soabbdtso}${conc,bbdtso,pts|soaptso}(gåk {tjáleduvva}${vowlat,a-á|tjáleduvvá}?) daj sinna. Dat {dáhká}${vowc,á-a|dahká} vaj hárjjidallam {{suohtasup}${conc,ht-htt|suohttasup}}¥{adj,attr-pred|suohttasabbo} ja nágin bále {{álgep}${conc,lg-lkk|álkkep}}¥{missing|sjaddá}.
+{Heej}∞{swe} vas! Nike,Craft ja Adidas adni riek ålov majt {vuobbdi}${conc,bbd-bdd|vuobddi} ja ållo {le}¥{cop|l} {nav}€{w|huj} tjábbe jus dåhkki nav javllat. Muv mielas siján li nav buorre {bájnokombinasjåvvnå}${cmp,gen-nom;conc,vvn-vnn|bájnnokombinasjåvnnå}, ja li riek fijnna bájno aj. Jus lidjiv máhttet de {lulluv}${conc,ll-l|luluv} dimnajt sijás oasstet. Dimna {skoava}${vowc,oa-uo|skuova} ja biktasa loaggi muv {hárjjidallat}€{infl,inf-sup|hárjjidalátjit} {ienebu}€{w,adj,adv|ienebut}. Muv mielas {dav}¥{redun|} galggá adnet {biktasit}¢{fin,t-jt|biktasijt} majt {dav}¥{redun|} IESJ adná {le}¥{cop|li} {fijnnuga}${conc,jnn-jn|fijnuga} ja ahte {soabbdtso}${conc,bbdtso,pts|soaptso}(gåk {tjáleduvva}${vowlat,a-á|tjáleduvvá}?) daj sinna. Dat {dáhká}${vowc,á-a|dahká} vaj hárjjidallam {{suohtasup}${conc,ht-htt|suohttasup}}¥{adj,attr-pred|suohttasabbo} ja nágin bále {{álgep}${conc,lg-lkk|álkkep}}¥{missing|sjaddá}.
 
 Dála l unnán {{arvesmahtte}${vowlat,e-u|arvusmahtte}}¢{x|arvusmahttem} {Nikeas}£{prop,noun,case,ela-gen|Nikea} ja {Adidasis}£{prop,noun,case,ela-gen|Adidasa} sortimentas:
 
@@ -15,10 +15,10 @@ Majt aná dán birra?
 
 Buoris vas, gidá!
 
-Buoris gájka {blogglåhkke}${vowc,o-oa|bloaggalåhkke}! Doajvov la buorre dijájn. {Munji}£{pers,pron,case,ill-ine|Mujna} le buorre valla lav nav vájbas vaj sidáv oaddát {DALLA}¢{vowc,a-á|DÁLLA}. {Bah}∞{sla}, uddni sjaddá árra iehket. {Lav}¥{cop|Lev} gåhtsåm nav dájt {mangemus}${ascii|maŋemus} ijájt. {Lisasj}${vowlat,a-á|Lisásj} le {lähkam}${vowlat,a-á|lähkám} dánna {bierjjedak}£{cmpshort|bierjjedagá} rájes ja gå måj lin nav ijájt {{sjabbim}${vovc,a-á|sjábbim}}€{foreign,swe|ságastam}, gåk {javlla}¢{vowlat,a-á|javllá}. {Lij}¥{cop|Lej} riek hávsske {sunji}£{pers,pron,case,ill-ine|sujna} {ságasti}¢{typo|ságastit}, duon dán birra. Ja buoremus {sunji}£{pers,pron,case,ill-ine|sujna} {la}£{cop|l} ahte sámev máhttin {gasskana}${infl|gaskanimme} ságastit. Dán {ájllgea}${typo|ájllega} {mig}${typo|mij} lij lav aj {háppidam}${conc,pp-hpp|háhppidam} Gievtsajávren manádit. {Lidjiv}¥{cop|Ledjiv} dåssju guok {oana}${mix|oanes} biejve danna, {nuorra}£{adj,case,nom-gen|nuoraj}  {skallojådediddje {kurssan}¢{conc,ess-ine,rss-rs|kursan}}¢{cmp,2-1|skallojådediddjekursan} jus njuolgga jårggålav. Ja máno duogen manáv vas dåk, de {la}£{cop|l} riekta {jådediddjebárggo}${vowc,á-a|jådediddjebarggo}, ja mån {avvudaláv}${vowc,a-á|ávvudaláv} nav.
+Buoris gájka {blogglåhkke}${vowc,o-oa|bloaggalåhkke}! Doajvov la buorre dijájn. {Munji}£{pers,pron,case,ill-ine|Mujna} {le}¥{cop|l} buorre valla lav nav vájbas vaj sidáv oaddát {DALLA}¢{vowc,a-á|DÁLLA}. {Bah}∞{sla}, uddni sjaddá árra iehket. {Lav}¥{cop|Lev} gåhtsåm nav dájt {mangemus}${ascii|maŋemus} ijájt. {Lisasj}${vowlat,a-á|Lisásj} {le}¥{cop|la} {lähkam}${vowlat,a-á|lähkám} dánna {bierjjedak}£{cmpshort|bierjjedagá} rájes ja gå måj lin nav ijájt {{sjabbim}${vovc,a-á|sjábbim}}€{foreign,swe|ságastam}, gåk {javlla}¢{vowlat,a-á|javllá}. {Lij}¥{cop|Lej} riek hávsske {sunji}£{pers,pron,case,ill-ine|sujna} {ságasti}¢{typo|ságastit}, duon dán birra. Ja buoremus {sunji}£{pers,pron,case,ill-ine|sujna} {la}£{cop|l} ahte sámev máhttin {gasskana}${infl|gaskanimme} ságastit. Dán {ájllgea}${typo|ájllega} {mig}${typo|mij} lij lav aj {háppidam}${conc,pp-hpp|háhppidam} Gievtsajávren manádit. {Lidjiv}¥{cop|Ledjiv} dåssju guok {oana}${mix|oanes} biejve danna, {nuorra}£{adj,case,nom-gen|nuoraj}  {skallojådediddje {kurssan}¢{conc,ess-ine,rss-rs|kursan}}¢{cmp,2-1|skallojådediddjekursan} jus njuolgga jårggålav. Ja máno duogen manáv vas dåk, de {la}£{cop|l} riekta {jådediddjebárggo}${vowc,á-a|jådediddjebarggo}, ja mån {avvudaláv}${vowc,a-á|ávvudaláv} nav.
 -
 
-{Ietjan}${vowlat,a-á|Ietján} de ij la ållo {ietja}¢{vowlat,a-á;case|ietján} gå skåvllå, unnán {harjjidallam}${vowc,a-á|hárjjidallam} ja ienep skåvllå. Ruvva de {jamáv}¢{vowc,a-á|jámáv} skåvlås, {munje}${conc,nj-jn;vowlat,e-a|mujna} le nav ållo dahkat vaj {iv diede {riek}€{w|rat}}¥{wo|iv rat diede} {gåjt}€{w|gåk} {dimnat}${fin|dimnajt} {háppidit}${conc,pp-hpp|háhppidit} dahkat åvddål {{giesseloahppe}${conc,hpp-hp|giesseloahpe}}£{noun,case,pp,nom-gen|giesseloabe}. Valla galgav tjadádit!
+{Ietjan}${vowlat,a-á|Ietján} de ij la ållo {ietja}¢{vowlat,a-á;case|ietján} gå skåvllå, unnán {harjjidallam}${vowc,a-á|hárjjidallam} ja ienep skåvllå. Ruvva de {jamáv}¢{vowc,a-á|jámáv} skåvlås, {munje}${conc,nj-jn;vowlat,e-a|mujna} {le}¥{cop|l} nav ållo dahkat vaj {iv diede {riek}€{w|rat}}¥{wo|iv rat diede} {gåjt}€{w|gåk} {dimnat}${fin|dimnajt} {háppidit}${conc,pp-hpp|háhppidit} dahkat åvddål {{giesseloahppe}${conc,hpp-hp|giesseloahpe}}£{noun,case,pp,nom-gen|giesseloabe}. Valla galgav tjadádit!
 
 Mån lav aj {oadttjum}${conc,dttj-dtju|oadtjum} riek {{vuossta}${vowlat,a-á|vuosstá} ja tjäksa {{periodav}${loan,vowc,o-å;conc,d-vd|periåvdåv}}€{foreign,swe|gávdav}}¥{cmp,hyph;2-1|vuosstá- ja tjäksagávdav}. {Åh}∞{sla} dat la nav njálgge ahte {mahtáv}${vowca-á|máhtáv} bårråt dav {juohkke}¢{vowlat,e-a|juohkka} biejve! Mån lijkkuv {buoremus}£{adj-adv|buoremusát} {dajt}£{dem,pron,case,lijkkut,akk-ill|dajda} aktan jur dálla:
 ++
@@ -61,7 +61,7 @@ Majt aná dán birra?
 
 {{bässásjloahppe}${conc,hpp-hp|bässásjloahpe}}‰{cap|Bässásjloahpe}!
 
-Vijmak de {bässásjloahppe}${conc,hpp-hp|bässásjloahpe} álgij. Skåvlån iektu ij {lij}£{neg|lim} ållo dahkat, {adnit}¢{typo|adniv} {engelsk}€{foreign,swe|ieŋŋils} {{giellalatjat}${conc,ll-l;conc,tj-ttj|gielalattjat}}€{w,adv-adj|gielalasj} åvddånbuktemav ja de lij {máttemahtijkka}${loan,conc,tt-t;vowc,á-a;conc,jkk-hkk|matematihkka}, valla danna {iv}£{neg,bastardneg|ittjiv} {dádjadum}£{verb,bastardneg|dádjada} majdik ja ittjiv {máhttám}£{verb,bastardneg|máhte} gähttjalimev dahkat gå iv la åvvånis {álggam}${vowlat,a-á|álggám} ja {tjadádum}€{der,pass-aktiv|tjadádam} {planerigav}€{foreign,swe|gárvedimev}...Gå lij {{lunsja ájgge}¢{cmp,2-1;case,gen-nom|lunssjaájgge}}€{foreign,swe|bårråmmuddo} {{mánniv}¢{vowc,á-a|manniv}}¥{missing|de manniv} stádaj {ja}¥{redun|} båråtjit avta {njálga}€{w|buorre} {"resturángan"}${loan,ascii|"resturáŋŋan"}. Dan {mangel}${ascii|maŋŋel} {de}¥{de manniv} njuolgga sijddaj {ja}¥{redun|} tjuojgatjit dan fijnna {dálkken}¢{conc,ess-in|dálken} mij lij iektu. {Åh}∞{sla} gidá le nav hávsske!
+Vijmak de {bässásjloahppe}${conc,hpp-hp|bässásjloahpe} álgij. Skåvlån iektu ij {lij}£{neg|lim} ållo dahkat, {adnit}¢{typo|adniv} {engelsk}€{foreign,swe|ieŋŋils} {{giellalatjat}${conc,ll-l;conc,tj-ttj|gielalattjat}}€{w,adv-adj|gielalasj} åvddånbuktemav ja de lij {máttemahtijkka}${loan,conc,tt-t;vowc,á-a;conc,jkk-hkk|matematihkka}, valla danna {iv}£{neg,bastardneg|ittjiv} {dádjadum}£{verb,bastardneg|dádjada} majdik ja ittjiv {máhttám}£{verb,bastardneg|máhte} gähttjalimev dahkat gå iv la åvvånis {álggam}${vowlat,a-á|álggám} ja {tjadádum}€{der,pass-aktiv|tjadádam} {planerigav}€{foreign,swe|gárvedimev}...Gå lij {{lunsja ájgge}¢{cmp,2-1;case,gen-nom|lunssjaájgge}}€{foreign,swe|bårråmmuddo} {{mánniv}¢{vowc,á-a|manniv}}¥{missing|de manniv} stádaj {ja}¥{redun|} båråtjit avta {njálga}€{w|buorre} {"resturángan"}${loan,ascii|"resturáŋŋan"}. Dan {mangel}${ascii|maŋŋel} {de}¥{de manniv} njuolgga sijddaj {ja}¥{redun|} tjuojgatjit dan fijnna {dálkken}¢{conc,ess-in|dálken} mij lij iektu. {Åh}∞{sla} gidá {le}¥{cop|l} nav hávsske!
 Ävtásj {middáhka}€{foreign,swe|máles}, {hehe}∞{sla}:
 
 
@@ -73,7 +73,7 @@ Majt aná dán birra?
 
 {gåvå}‰{cap|Gåvå} ájllegis
 
-{Hååj}${vowc,åå-å|Håj} dálla {ij le {guhkev}€{w,adv-adj|guhka} desik}¥{missing|ij le guhka ájgge desik} le {loahppe}${conc,hpp-hp|loahpe}! {Vhooho}∞{sla}!
+{Hååj}${vowc,åå-å|Håj} dálla {ij {le}¥{cop|la} {guhkev}€{w,adv-adj|guhka} desik}¥{missing|ij la guhka ájgge desik} {le}¥{cop|la} {loahppe}${conc,hpp-hp|loahpe}! {Vhooho}∞{sla}!
 
 Dála båhti gåjt nágin gåvå ájllegijs {mij}£{rel,pron,kongr,rel-noun|ma} {lij}£{cop,verb,kongr,subj-verb|lidjin}. {Lidjiv}¥{cop|Ledjiv} máj Jieggeluovtan. Iv la {gåvvin}¢{fin,n-m|gåvvim} ålov, degu álu.
 
@@ -142,7 +142,7 @@ Majt aná dán birra?
 
 {mánnodak}‰{cap|Mánnodak} vas
 
-Buoris! Uddni le mánnodak vas ja duorastagá lav vuolggemin {Kandadaj}${conc,nd-n|Kanadaj}. {Vuojvuoj}${cmp,1-X|Vuoj vuoj} gåk mån ávvudaláv {{dåhkku}¢{conc,hkk-hk|dåhku}}€{w|dasi}, ihkap ilá {ållo}£{indef,pron,case,nom-acc|ålov}, tjáláv máj dan birra juohkka bále...Hm. Valla dálla lav gåjt skåvlån, anáv sámegielav dálla. Muv {åhpådiddje}${vowlat,å-a|åhpadiddje} {máŋunij}${ascii|maŋŋunij} danen huomahiv ahte dánna máhtáv tjállet. Dálla lav gåjt {gulldalimen}£{x|gulldalime} rádiov ja galgav {álgget {bárggat}${vowc,á-a|barggat}}€{phr|barggagoahtet}.
+Buoris! Uddni {le}¥{cop|la} mánnodak vas ja duorastagá lav vuolggemin {Kandadaj}${conc,nd-n|Kanadaj}. {Vuojvuoj}${cmp,1-X|Vuoj vuoj} gåk mån ávvudaláv {{dåhkku}¢{conc,hkk-hk|dåhku}}€{w|dasi}, ihkap ilá {ållo}£{indef,pron,case,nom-acc|ålov}, tjáláv máj dan birra juohkka bále...Hm. Valla dálla lav gåjt skåvlån, anáv sámegielav dálla. Muv {åhpådiddje}${vowlat,å-a|åhpadiddje} {máŋunij}${ascii|maŋŋunij} danen huomahiv ahte dánna máhtáv tjállet. Dálla lav gåjt {gulldalimen}£{x|gulldalime} rádiov ja galgav {álgget {bárggat}${vowc,á-a|barggat}}€{phr|barggagoahtet}.
 
 
 Hivás!
@@ -167,7 +167,7 @@ Majt aná dán birra?
 
 Buojdde biejvve??
 
-Håj! Uddni l juo duorastak, ja idet le maŋemus biejvve skåvlån. Valla dijstagá lij máj "{fettisdagen}∞{swe}" majt {gåhjtuduvvá}${typo|gåhtjuduvvá}. {Vierttjiv}${vowlat,0-i|Vierttijiv} {báhkot}${conc,hk-hkk;vowlat,o-u|báhkkut} ja båråstit njálga {semlajt}∞{swe}. {Sjáddiv}${vowc,á-a|Sjaddiv} riek dudálasj daj, doajvov muv vehka aj lijkkujin {dajt}£{dem,pron,case,lijkkut,,acc-ill|dajda}.
+Håj! Uddni l juo duorastak, ja idet {le}¥{cop|la} maŋemus biejvve skåvlån. Valla dijstagá lij máj "{fettisdagen}∞{swe}" majt {gåhjtuduvvá}${typo|gåhtjuduvvá}. {Vierttjiv}${vowlat,0-i|Vierttijiv} {báhkot}${conc,hk-hkk;vowlat,o-u|báhkkut} ja båråstit njálga {semlajt}∞{swe}. {Sjáddiv}${vowc,á-a|Sjaddiv} riek dudálasj daj, doajvov muv vehka aj lijkkujin {dajt}£{dem,pron,case,lijkkut,,acc-ill|dajda}.
 
 Idet {{alggá}${vowc,a-á|álggá}}£{verb,kongr,subj-verb|álggi} Sámegilppusa. Sjaddá riek suohtas, ja mån lav juo {nervös}∞{swe}. Jus sihtabihtit låhkåt {ienep}£{adj,case,nom-acc|ienebuv} dan {birra}¥{missing|birra de} {{däbbtjo}${conc,bbtj-bttj|däbttjo}}£{verb,kongr,subj-verb|dæbttjut} dánna.
 
