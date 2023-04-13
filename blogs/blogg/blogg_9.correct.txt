@@ -9,7 +9,7 @@ Dáppen Gierunin hæhkkat máhtáv gávkalussjat. Jus mujna ij la majna/majnak? 
 Nå majt uddni?
 
 Galgav {bowlitjit}${loan,mix|båvllitjit} aktan rádnaj.
-{Lijma}¥{cop|Lejma} muhtema {bowlimin}${loan,mix|båvllimin} {dá}£{dem,pron,kongr,dem-noun|dán} lávvodagá, ja lej riek suohtas! {Lidjiv}¥{cop|Ledjiv} vuojttemin, valla maŋemus {rundan}€{w,swe|vuoron} Piera baldij muv navti {ahte}€{w|váj} suorgganiv ja ittjiv nagá {fokuserit}¢{loan,vowc,e-ie|fokusierit}, {så}∞{swe} ittjiv {riekta}€{w|rat} buvte {kjæglojt}${loan,mix|tjeglajt} {diejvvat}${vowc,ie-æ|dæjvvat}. Ja de maŋemussaj sån vuojtij muv badjel. Sanne {Ja}¢{min|ja} Sara lijga aj maŋen. Ja maŋŋela Krasta bådij. Hávsskes iehket!
+{Lijma}¥{cop|Lejma} muhtema {bowlimin}${loan,mix|båvllimin} {dá}£{dem,pron,kongr,dem-noun|dán} lávvodagá, ja {lej}¥{cop|lij} riek suohtas! {Lidjiv}¥{cop|Ledjiv} vuojttemin, valla maŋemus {rundan}€{w,swe|vuoron} Piera baldij muv navti {ahte}€{w|váj} suorgganiv ja ittjiv nagá {fokuserit}¢{loan,vowc,e-ie|fokusierit}, {så}∞{swe} ittjiv {riekta}€{w|rat} buvte {kjæglojt}${loan,mix|tjeglajt} {diejvvat}${vowc,ie-æ|dæjvvat}. Ja de maŋemussaj sån vuojtij muv badjel. Sanne {Ja}¢{min|ja} Sara lijga aj maŋen. Ja maŋŋela Krasta bådij. Hávsskes iehket!
 Jon Isak riŋŋguj iesski. Gatjádij jus galgav fáron Divtasvuodnaj idet. Såj {Anders-Kristianin}£{prop,case,ine-com|Anders-Kristianijn} galggaba idet Kárásjjågås vuoddját.
 Hálijdav tjuovvot, valla iv {riekta}€{w|rat} diede. Oattjov {guosijt}${conc,s-ss|guossijt} ájllegij, så iv rat diede {gåktu}€{w|majt} galgav dahkat..
 Ja boahtte vahko ihkap galgav Risten-muohtá Áhkko-rávkke nuoramus {oabbá}¢{conc,bb-pp|oappá} hávddádibmáj. Vuojnná dav gåktu sjaddá, valla dåbdåv {at}€{foreign,swe|ahte} {la}£{cop|l} miella áhtjev iejvvit vajku sjaddá dakkár {surggos}€{foreign,smj|gávkas} biejvve.
@@ -31,10 +31,10 @@ Buoris!
 
 Skåvllå l álggám ja tjaktja {le}¥{cop|l} boahtám. Buorre l dánna Gierunin, valla {vasstes}¢{conc,sst-st|vastes} dálkke {le}¥{cop|l} galla. Rássjot juohkka biejve, ja navti {le}¥{cop|l} læhkám gåjt guokta vahko juo.
 
-{Ålov}£{indef,pron,case,acc-nom|Ållo} {le}¥{cop|l} dáhpáduvvam {dáv}£{dem,pron,acc-gen|dán} maŋemus {mánov}£{noun,case,acc-gen|máno}. {Lav}¥{cop|Lev} duonna dánna gålggåm. {Guovddogæjnno}${vowlat,o-a|Guovddagæjnno} lij ihkeva suohtas! Jáhkáv lej buoremus ájllek dán {giesen}£{noun,case,ine-gen|giese}. Karen Monika ja Nils Morten lijga nav {tjáhpuga}€{w|tjáppe} aktan! Ållo ulmutja lidjin, ja {buorre}¥{redun|} sjålle.
-Heja maŋŋela vuolggiv Gierunij. {SM’an}${suf|SM:an} lidjiv Bårjjåsin, {ja}¥{ja dan} maŋŋela Ieddne bådij. Måj lijma vádtsemin várijn {Abiskuovven}${mix|Ábeskåvon}, buorre ja hávsskes manno lej. Ja dan maŋŋela manniv {Jåhkåmåhkåj}${conc,hk-hkk|Jåhkåmåhkkåj} tjavtjamárnánij ja Árviesjávrráj {Intrigue’av}${suf|Intriguev} gehtjatjit.
+{Ålov}£{indef,pron,case,acc-nom|Ållo} {le}¥{cop|l} dáhpáduvvam {dáv}£{dem,pron,acc-gen|dán} maŋemus {mánov}£{noun,case,acc-gen|máno}. {Lav}¥{cop|Lev} duonna dánna gålggåm. {Guovddogæjnno}${vowlat,o-a|Guovddagæjnno} lij ihkeva suohtas! Jáhkáv {lej}¥{cop|lij} buoremus ájllek dán {giesen}£{noun,case,ine-gen|giese}. Karen Monika ja Nils Morten lijga nav {tjáhpuga}€{w|tjáppe} aktan! Ållo ulmutja lidjin, ja {buorre}¥{redun|} sjålle.
+Heja maŋŋela vuolggiv Gierunij. {SM’an}${suf|SM:an} lidjiv Bårjjåsin, {ja}¥{ja dan} maŋŋela Ieddne bådij. Måj lijma vádtsemin várijn {Abiskuovven}${mix|Ábeskåvon}, buorre ja hávsskes manno {lej}¥{cop|lij}. Ja dan maŋŋela manniv {Jåhkåmåhkåj}${conc,hk-hkk|Jåhkåmåhkkåj} tjavtjamárnánij ja Árviesjávrráj {Intrigue’av}${suf|Intriguev} gehtjatjit.
 Ja vijmak skåvllå álgij!
-Låssåt lej hæhkkat {biel’}‰{x[biel} gietjan badjánit juohkka ideda, valla dálla lev rutijnajda boahtám vas. Oadet binnep ja ájádallat ålles biejvijt..
+Låssåt {lej}¥{cop|lij} hæhkkat {biel’}‰{x[biel} gietjan badjánit juohkka ideda, valla dálla {lev}¥{cop|lav} rutijnajda boahtám vas. Oadet binnep ja ájádallat ålles biejvijt..
 {Lip}¥{cop|Lep} álggám {Matematikk-Dajn}∞{swe}, ja dat la nav {låsså}€{x|gássjelis} fáhka. Iv diede jus nagáv dáv kursav dåssju {åvtåjn}£{num,kongr,num-noun|åvtån} termijnan låhkåt, valla galgav gievrra liehket ja doarrot dajna desik buvtáv!
 Iektu {dievtij}${conc,vt-vd|dievdij} {åvtå}£{num,case,gen-nom|akta} muv buoremus rádnajs, Sanne, lågenangávtse jage! {Lijma}¥{cop|Lejma} stiellim njálga biebmojt ja hávsskudalájma.
 
@@ -48,12 +48,12 @@ Hedja ruvvaláhkáj!
 Buorre iehket!
 
 Muv oajvve ij {riekta}€{w|rat} máhte vuojŋadit, gå mujna {le}¥{cop|la} unnán råhtto.
-{Dájt}£{dem,pron,kongr,dem-noun|Dá}  maŋemus vahko li ihkeva suohttasa læhkám ja lav nav dudálasj {dá}£{dem,pron,kongr,dem-noun|dájna} giesijn! Buoremus {le}¥{cop|la} ahte ij la ájn {gærggam}€{w|nåhkåm}. {Ihttásjiehkeda}${cmp,2-1,|Ihttásj iehkeda} måj Thomasijn tjåhkkidin {tågaj}¢{conc,g-hk|tåhkaj}, ja Gardemoenij mannin, girddin Altaj ja bussaj tjåhkkidin {Guovddagæjnoj}${conc,jn-jnn;vowlat,o-u|Guovddagæjnnuj}. {Åh}∞{swe} gåktu ávvudaláv!! Vuoj vuoj. Karen Monika ja Nils Morten galggaba válldut, ja riek stuor hedja sjaddá. Jáhkáv ållo ulmutja dåhku båhti. Riek hávsske! Fuolkev ja ietjá oahpesulmutjijt iejvvit, ja diedon oassálasstet gå vállduba! {Wihoo}∞{sla}!
-Galgav gåvvit ja vuosedit maŋŋela gåktu lej.
+{Dájt}£{dem,pron,kongr,dem-noun|Dá} maŋemus vahko li ihkeva suohttasa læhkám ja lav nav dudálasj {dá}£{dem,pron,kongr,dem-noun|dájna} giesijn! Buoremus {le}¥{cop|la} ahte ij la ájn {gærggam}€{w|nåhkåm}. {Ihttásjiehkeda}${cmp,2-1,|Ihttásj iehkeda} måj Thomasijn tjåhkkidin {tågaj}¢{conc,g-hk|tåhkaj}, ja Gardemoenij mannin, girddin Altaj ja bussaj tjåhkkidin {Guovddagæjnoj}${conc,jn-jnn;vowlat,o-u|Guovddagæjnnuj}. {Åh}∞{swe} gåktu ávvudaláv!! Vuoj vuoj. Karen Monika ja Nils Morten galggaba válldut, ja riek stuor hedja sjaddá. Jáhkáv ållo ulmutja dåhku båhti. Riek hávsske! Fuolkev ja ietjá oahpesulmutjijt iejvvit, ja diedon oassálasstet gå vállduba! {Wihoo}∞{sla}!
+Galgav gåvvit ja vuosedit maŋŋela gåktu {lej}¥{cop|lij}.
 {Ævtásj}€{w|Åvdep} tjállusa maŋŋela lav {nuortas}£{noun,case,ela-ine|nuorttan} årrum. Áhtje lunna, Luovtan, váren, Márkomeannun. Mån iv {riekta}€{w|rat} máhte tjielggit bágoj gåktu {le}¥{cop|l} læhkám.
-{Lav}¥{cop|Lev} aj Snåsan årrum, Åren ja duonna dánna. Dájt maŋemus biejvijt lin måj iednijn {gápptev}${conc,ppt-pt|gáptev} munji gårrum. Jus riekta galggiv mån goarrot, valla ittjiv háhppida ålov åvdås vuojnijma ahte ij lim {{gærggám}¢{vowlat,á-a|gærggam}}£{x|gærggat} jus mån lidjiv joarkket. Danen lev mån dahkam divna sijddabargojt dagu báhkkum, {dumájsnjuhpam}${cmp,1-X;case|dumijt snjuhpam}, rádjam, málestam j.n. Måj Thomasijn lin aj muorajt bårddåm.
+{Lav}¥{cop|Lev} aj Snåsan årrum, Åren ja duonna dánna. Dájt maŋemus biejvijt lin måj iednijn {gápptev}${conc,ppt-pt|gáptev} munji gårrum. Jus riekta galggiv mån goarrot, valla ittjiv háhppida ålov åvdås vuojnijma ahte ij lim {{gærggám}¢{vowlat,á-a|gærggam}}£{x|gærggat} jus mån lidjiv joarkket. Danen {lev}¥{cop|lav} mån dahkam divna sijddabargojt dagu báhkkum, {dumájsnjuhpam}${cmp,1-X;case|dumijt snjuhpam}, rádjam, málestam j.n. Måj Thomasijn lin aj muorajt bårddåm.
 
-Dálla lev nav nahkárij. Idet vierttiv páhkkit divna {mav}£{rel,pron,kongr,rel-noun|majt} dárbahav boahtte vahkojda.
+Dálla {lev}¥{cop|lav} nav nahkárij. Idet vierttiv páhkkit divna {mav}£{rel,pron,kongr,rel-noun|majt} dárbahav boahtte vahkojda.
 
 Buorre idja!
 
@@ -64,7 +64,7 @@ Uddni iv la vieddje.
 Dåbddiv iektu iehkedis ahte lidjiv tjåddågis sjaddamin. Juska de manniv viegatjit ja danen de {{værrábut}${conc,rr-r|værábut} sjattaj}€{w|værránij}. Uddni bargon iv la åvvånis vieddje læhkám. Maŋemus tijmajt {liddjiv}${conc,ddj-dj|lidjiv} nav vájbbam, ja gå sijddaj vádtsiv dåbddiv {juolkij}${conc,lk-lg|juolgij} vuolen lij bávtjas..
 {Lav}¥{cop|Lev} dåssju oadám, {dussjim}€{foreign,swe|sjoavodam}, málestam ja biktasijt bassam bargo maŋŋela.
 Æddnám ja Thomas ja Jon Isak vuolggin nuortas iektu, galggi Riddu Ridduj.
-Ieddne javlaj at iv barggat oattjo idet. Danen lev juo barggam maŋemus {barggumbiejvev}€{w|barggobiejvev}
+Ieddne javlaj at iv barggat oattjo idet. Danen {lev}¥{cop|lav} juo barggam maŋemus {barggumbiejvev}€{w|barggobiejvev}
 
 Giesseloahpe máhttá dal álgget vas :)
 
@@ -79,7 +79,8 @@ Ja buorre giesse!
 
 {Malggat}¢{vowc,a-æ|Mælggat} dat rájes gå lav dánna tjállám!
 
-Dálla {le}¥{cop|li} juo 6 vahko vássám. Ålov lav dahkam ja vuojnnám.                                           Galgav gus subtsastit mij la maŋemus báles dáhpáduvvam?
+Dálla {le}¥{cop|li} juo 6 vahko vássám. Ålov lav dahkam ja vuojnnám.
+Galgav gus subtsastit mij la maŋemus báles dáhpáduvvam?
 
 Na, gæhttjalav..!
 
@@ -93,7 +94,7 @@ Mån ja muv buoremus rádna
 
 Biejav {soames}€{w|muhtem} gåvåjt Tyrkias.
 
-Tyrkia maŋŋela bådij áhttje Gierunij {ja muv viettjaj}£{sup|muv viettjatjit}. {Lidjiv}¥{cop|Ledjiv} danna nágin biejve ja sæbrriv {giellabiese}£{noun,case,gen-ill|giellabæssáj} lávvodagá gå Spællávuodnaj vuolgijma. Biejve åvddåla lijma måj Siljajn rijddimin ja sån juolges sjattaj. Vierttijma Bådåddjuj skihppijviessuj vuolgget. Silja {kruhkajt}€{foreign,swe|såppijt} oattjoj, valla dálla la vas vádtsegoahtám!
+Tyrkia maŋŋela bådij áhttje Gierunij {ja muv viettjaj}£{sup|muv viettjatjit}. {Lidjiv}¥{cop|Ledjiv} danna nágin biejve ja sæbrriv {giellabiese}£{noun,case,gen-ill|giellabæssáj} lávvodagá gå Spællávuodnaj vuolgijma. Biejve åvddåla lijma måj Siljajn rijddimin ja sån juolges sjattaj. Vierttijma Bådåddjuj skihppijviessuj vuolgget. Silja {kruhkajt}€{foreign,swe|såppijt} oattjoj, valla dálla {la}£{cop|l} vas vádtsegoahtám!
 
 Dan maŋŋela lav dåssju barggam dánna Snåsan Saemien Sijtan, oarjjelsáme {museumin}€{foreign,swe|dávvervuorkán}. Dat la {dudálasj}€{w|duodalasj} barggo, gånnå åhpav ålov sáme histåvrå birra ja oattjov subtsastit dan birra {turistaj}£{noun,case,com-ill|turisstaj}. Gå danna bargav oattjov iejvvit ållo ulmutjijt, ja dåbdåv {le}¥{cop|la} ájnas ulmutjijda sáme birra åhpadit. Ålos turistajs li læhkám nuorttalin, Nordkappan, Kárásjjågån, {Inarin}${vowc,I-A|Anárin} ja nav, valla gå mijá lusi båhti e huoman ålov sámij birra diede. Hæhttup tjiehpep {Sápmin}${conc,pm-m|Sámen} sjaddat {{vuosedit ja informerit}€{infl,inf-sup|vuosedittjat ja informeritjit} sámij birra}¥{missing|vuosedittjat kultuvrav ja informeritjit sámij birra}. Dádjadav ájnas barggo {le}¥{cop|l} dat, gå jus ep vuojnnu, ep gávnnu! Buorre barggo {le}¥{cop|l} dát aj munji dajnas {gå ieŋŋilsgielav sáhkadit hárjjánav}¥{wo|gå hárjjánav ieŋŋilsgielav sáhkadit}, ja {aj {buorep}€{w|smidáp} {subtsastit}€{infl,inf-sup|subtsastittjat} sjattav}¥{wo|smidáp aj sjattav subtsastittjat}.
 Dálla li dåssju guokta biejve vil desik riekta giesseloabev oattjov. Ávvudaláv degu mánná! Tjåhkkidav {idjatågaj}${loan,conc,g-hk|idjatåhkaj} nuortas gasskavahkoijá ja Divtasvuodnaj ja Oarjjevuodnaj vuolgáv. Måj Áhtjijn galggin Tjierrekluoktaj ja dassta gábmáj Tjierrekjávrráj ja {Gierkkeboadoj}¢{conc,rkk-rgg;vowc,oa-uo;vowlat,o-u|Gierggebuoduj} vádtset. Galggin guollit {gålmå}¢{conc,lm-lmm|gålmmå} biejve, ja jus láttaga gávnnuji doajvov ládditjit aj {vuolggon}£{imprt-ind|vuolggin}. Galgav unna vahkutjav {Luoktan}¢{conc,kt-vt,ess-ine|Luovtan} liehket, dan maŋŋela Márkomeannuj. {Galgav {kåvrån}£{noun,case,ine-ill|kåvrråj} Vaajmoe sæbrrat}¥{wo|Galgav Vaajmoe kåvrråj sæbrrat}. Galggap {Workshopajn}${loan,mix|worksjåhpajn} barggat {åvtå}£{num,kongr-num-noun|åvtåv} biejvev, ja {biejve}£{noun,case,pp,gen-acc|biejvev} maŋŋela galggap lávllot divnajda. Mån gitárav {siegen}¥{redun|} galgav spellat.
@@ -102,7 +103,7 @@ Dát sjattaj guhka {blogga}${loan,loan,vowc,o-oa|bloagga}! Valla navti sjaddá g
 
 
 
-Lijma Snåsa-jávren {lávkkomin}¢{conc,vkk-vgg|lávggomin}. Huj {galmas}¥{adj,pred-attr|galmma} tjáhtje!
+{Lijma}¥{cop|Lejma} Snåsa-jávren {lávkkomin}¢{conc,vkk-vgg|lávggomin}. Huj {galmas}¥{adj,pred-attr|galmma} tjáhtje!
 
 
 {Ålggårijkajda}${vowlat,å-o|Ålggorijkajda}!

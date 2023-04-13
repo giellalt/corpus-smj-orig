@@ -4,9 +4,9 @@ Buorre iehket
 
 Tjåhkkåhav sijdan ja usjudaláv..
 Usjudaláv duov dáv, valla jur dálla usjudaláv balvaj birra. Gudnabalvajt.
-Mån ja {munnu ráddnama}¥{x|muv rádna} Josefijnna ja Sanne lip plánim ålggorijkajda mannat. {Lip}¥{cop|Lep} juo girddebilehtajt Stockholmaj rávvim boahtte {mánnodagáj}¢{fin,j-0|mánnodagá}. Dassta la {plána}£{noun,kongr,subj-verb|pládna} dåssju mannat åvtåjn girddijn juosik: {Spániaj}${loan|Spaniaj}, Tyrkiaj {vaj}€{w|jali} ietjá {lándaj}¢{conc,nd-nnd|lánndaj} gånnå máhttep rusjkudallat!
-{Soajttá}€{mod-adv|Ihkap} ij huoman sjatta. Islándan la {vulkanutbrudd}∞{nob}, ja ihkap {de e girde háleda}¥{wo|de girde e háleda} . Midja lip riek {juolodis}¥{adj,attr-pred|juolodime} {jus}€{w|vájbi} ep besa mannat. Gåk mij lip ávvudallam dasi! Valla vuojnnet jus bessap..
-Åvddåla lav dåssju Danmárkon, Frankrijkan (Álpajn) ja {Belgian}¥{Missing|Belgian mannam}. Ja {diehttelis}¥{missing|diehttelis lav} aj Svierigin, Vuonan ja Suoman årrum.
+Mån ja {munnu ráddnama}¥{x|muv rádna} Josefijnna ja Sanne lip plánim ålggorijkajda mannat. {Lip}¥{cop|Lep} juo girddebilehtajt Stockholmaj rávvim boahtte {mánnodagáj}¢{fin,j-0|mánnodagá}. Dassta {la}£{cop|l} {plána}£{noun,kongr,subj-verb|pládna} dåssju mannat åvtåjn girddijn juosik: {Spániaj}${loan|Spaniaj}, Tyrkiaj {vaj}€{w|jali} ietjá {lándaj}¢{conc,nd-nnd|lánndaj} gånnå máhttep rusjkudallat!
+{Soajttá}€{mod-adv|Ihkap} ij huoman sjatta. Islándan la {vulkanutbrudd}∞{nob}, ja ihkap {de e girde háleda}¥{wo|de girde e háleda}. Midja lip riek {juolodis}¥{adj,attr-pred|juolodime} {jus}€{w|vájbi} ep besa mannat. Gåk mij lip ávvudallam dasi! Valla vuojnnet jus bessap..
+Åvddåla lav dåssju Danmárkon, Frankrijkan (Álpajn) ja {Belgian}¥{Missing|Belgian mannam}. Ja {diehttelis}¥{missing,cop|diehttelis lav} aj Svierigin, Vuonan ja Suoman årrum.
 Ietján ij nav {ålov}€{w|vuojga} dáhpáduvá. Mujna li {ihkeva}€{w|sieldes} ållo skåvlåbargo åvddål gå vuolgáv, ja vierttiv ber barggagoahtet..
 
 Áhttjám uddni riŋŋguj ja subtsasti såj Inger-Lisejn libá plánim diek boahtet viettjatjit muv gå skåvllå hæjttá, {10. Biehtsemánnon}¥{date,case;wo|biehtsemáno 10. biejve}. Suohtas!
@@ -14,7 +14,7 @@ Ietján ij nav {ålov}€{w|vuojga} dáhpáduvá. Mujna li {ihkeva}€{w|sieldes
 Mujna ælla nav {ålo}¢{conc,l-ll|ållo} gåvå, valla uddni gávnniv divtav {sámegielaj}¢{conc,l-ll|sámegiellaj} masjijnan majt áhttje l jårggålam {lávlos}¢{infl|lávllagis} “{Wonderful tonight}∞{eng}” Eric Claptonis.
 Gulldala dáv, ja gæhttjala musihka siegen lávllot;
 
-Ihkeva fávrro  {Wonderful Tonight}∞{eng}
+Ihkeva fávrro {Wonderful Tonight}∞{eng}
 
 De bådij vat dat iehket
 
@@ -58,7 +58,7 @@ Man ålov duv æhtsáv
 
 Iv {le}¥{cop|la} ållu vieddje, javlav
 
-Ja de gálggiv  tjoavddagijt
+Ja de gálggiv tjoavddagijt
 
 Viehket oaddátjit
 
@@ -105,7 +105,7 @@ Buorisboahtem muv ådå {bloggaj}${loanvowc,o-oa|bloaggaj}!
 
 Dát la muv ådå {blogga}${loan,vowc,o-oa|bloagga} gåsi galgav sámegiellaj tjállet.
 
-Mån lav Lisa, lågenangávtsejagák Snåsas(ja aj Divtasvuonas). Muv áhttje la julevsábme Divtasvuonas ja muv ieddne la oarjjelsábme Åres/Östersundas. Dálla årov Gierunin Svierigin ja dánna joarkkaskåvlåv {vádtsáv}¢{conc,dts-tts|váttsáv}.
+Mån lav Lisa, lågenangávtsejagák Snåsas(ja aj Divtasvuonas). Muv áhttje {la}£{cop|l} julevsábme Divtasvuonas ja muv ieddne {la}£{cop|l} oarjjelsábme Åres/Östersundas. Dálla årov Gierunin Svierigin ja dánna joarkkaskåvlåv {vádtsáv}¢{conc,dts-tts|váttsáv}.
 
 Iv visjá ålov ietjam birra dálla tjállet, valla jus {bloggav}${loan,vowc,o-å;conc,gg-kk|blåkkav} tjuovo de oattjo muv iellema ja ájádusáj birra låhkåt!
 
