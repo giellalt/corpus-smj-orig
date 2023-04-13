@@ -73,7 +73,7 @@ Mikkel
 
 
 
-Måj Mikkelijn "cirkusav" {doallin}€{foreign,sme|ásadin} ;-)
+Måj Mikkelijn {"}‰{cit|”}cirkusav{"}‰{cit|”} {doallin}€{foreign,sme|ásadin} ;-)
 
 
 
@@ -133,7 +133,7 @@ Majt aná dán birra?
 
 Uddni lav lähkám {guossidim}£{x|guossidime} {tjuojggam-gymnássav}${cmp;conc,ss-s|tjuojggamgymnásav} Jielleváren, danna galgav {maj}€{w|má} álgget tjaktjaj. Munji lij gåjt riek suohtas danna guossidit. Suohtas {liehkket}${conc,hkk-hk|liehket} {daj}£{dem,pron,kongr,dem-noun|dajn} lanjájn gånnå galgav skåvlåv {váddset}${conc,dds-dts|vádtset}, suohtas iejvvit dajt nuppijt gudi aj galggi álgget danna.
 
-Dát biejvve lij dakkár biejvve gå äjgáda {tjuovvojin}${infl|tjuovvun} dåk, akta {åhpadidjijs}${conc,dj-ddj|åhpadiddjijs} subtsastij gåk da barggi danna, gåk {hárjjidallamsjiebmáv}${loan,conc,bm-m|hárjjidallamsjiemáv} {dahka}${vowlat,a-á|dahká}, gåk {dav}¥{redun|} {galgga}${vowlat,a-á|galggá} hárjjidallat "riekta {lahkáj}${vowc,a-á|láhkáj}", dat lij dakkár {ássjijt}¥{x|ássjij birra} mij oattjojma {diehttet}¢{conc,htt|diehtet}. Mij oahppe anijma aj dakkár {viehkkamtestav}€{foreign,swe|viehkamgæhttjalimev}. Låssåt lij {dat}¥{redun|} {viehkkat}${conc,hkk-hk|viehkat}. Mij lip aj {hárjjidallamsjiebmáv}${loan,conc,bm-m|hárjjidallamsjiemáv} {oattjom}${conc,ttj.dtj;vowlat,o-u|oadtjum}, ja mánnodagá de {algav}${vowc,a-á;vowlat,a-á|álgáv} muv ådå {hárjjidallam viessomav}¢{cmp,2-1|hárjjidallamviessomav}. {Eller}€{foreign,nob|Jali} de {algav}${vowc,a-á;vowlat,a-á|álgáv} {sjiebmáv}${loan,conc,bm-m|sjiemáv} tjuovvot.
+Dát biejvve lij dakkár biejvve gå äjgáda {tjuovvojin}${infl|tjuovvun} dåk, akta {åhpadidjijs}${conc,dj-ddj|åhpadiddjijs} subtsastij gåk da barggi danna, gåk {hárjjidallamsjiebmáv}${loan,conc,bm-m|hárjjidallamsjiemáv} {dahka}${vowlat,a-á|dahká}, gåk {dav}¥{redun|} {galgga}${vowlat,a-á|galggá} hárjjidallat {"}‰{cit|”}riekta {lahkáj}${vowc,a-á|láhkáj}{"}‰{cit|”}, dat lij dakkár {ássjijt}¥{x|ássjij birra} mij oattjojma {diehttet}¢{conc,htt|diehtet}. Mij oahppe anijma aj dakkár {viehkkamtestav}€{foreign,swe|viehkamgæhttjalimev}. Låssåt lij {dat}¥{redun|} {viehkkat}${conc,hkk-hk|viehkat}. Mij lip aj {hárjjidallamsjiebmáv}${loan,conc,bm-m|hárjjidallamsjiemáv} {oattjom}${conc,ttj.dtj;vowlat,o-u|oadtjum}, ja mánnodagá de {algav}${vowc,a-á;vowlat,a-á|álgáv} muv ådå {hárjjidallam viessomav}¢{cmp,2-1|hárjjidallamviessomav}. {Eller}€{foreign,nob|Jali} de {algav}${vowc,a-á;vowlat,a-á|álgáv} {sjiebmáv}${loan,conc,bm-m|sjiemáv} tjuovvot.
 
 
 
@@ -149,7 +149,7 @@ Suohtas {le}¥{cop|la} {dánsit}${loan,conc,ns-nss|dánssit}
 
 Buoris uddni vas!
 
-{Vajálduhttiv {bieddjat}${conc,ddj-dj|biedjat} gåvåjt ja videov iektu luomegis}¥{wo|Iektu vajálduhttiv biedjat gåvåjt ja videov luomegis}. Valla uddni anáv ietjá videov vuosedit. Dát la gå mån ja muv ráddna {dánsijin}${loan,conc,ns-nss|dánssijin} skåvlån. Måj lijma jur lähkám {dánsimin}${loan,conc,ns-nss|dánssimin} {lásjmudállamin}${vowc,á-a|lásjmudallamin}. Så lijma oahppam {unnán}€{w|muhtem} "{bugg-moves}∞{eng}". Dála l gåjt suohtas video:
+{Vajálduhttiv {bieddjat}${conc,ddj-dj|biedjat} gåvåjt ja videov iektu luomegis}¥{wo|Iektu vajálduhttiv biedjat gåvåjt ja videov luomegis}. Valla uddni anáv ietjá videov vuosedit. Dát la gå mån ja muv ráddna {dánsijin}${loan,conc,ns-nss|dánssijin} skåvlån. Måj lijma jur lähkám {dánsimin}${loan,conc,ns-nss|dánssimin} {lásjmudállamin}${vowc,á-a|lásjmudallamin}. Så lijma oahppam {unnán}€{w|muhtem} {"}‰{cit|”}{bugg-moves}∞{eng}{"}‰{cit|”}. Dála l gåjt suohtas video:
 
 
 
@@ -163,7 +163,7 @@ Luomekjahke
 
 Buoris!
 
-Gåk {le}¥{cop|la} dijájn? Mån gåjt buoragit viesov. Lev lähkám {Rijtsemin}${conc,jts-jtts|Rijttsemin} ålles ájllegav, manniv dåk duorastagá. {Lav}¥{cop|Lev} skåvllåbargojt dahkam, tjuojggam, biejve åvdån vellaham "ja {russjkudam}${conc,ssjk-sjku|rusjkudam} degu sjokoláda" degu Johanna oabbám javllá. {Lav}¥{cop|Lev} aj ållo suovasmárfev bårråm, tjajmmam ja dåssju {hávskudallam}${conc,vsk-vssk|hávsskudallam}. {Rádnam}¢{px,conc,dn-ddn|Ráddnam} Sara lij danna, måj tjuojgajma unna Seukoga {állegietjes}${vowc,á-a|allegietjes} luksa, dat váldij {bielle ja guokta tijma}€{x|biel goalmát tijma}. {Avta}£{num,case,gen-acc|Avtav} {gasska}£{noun,case,nom-acc|gaskav} dåssju tjuojgajma {sport-tåhpaj}${cmp,hyph-0|sporttåhpaj} ja båvsåj, lij nav báhkka! Vuogas lij gåjt, vuojnijma dimna várijt, gitta {Vuonabälláj}¢{min|vuonabälláj}. Vuojnijma ihkeva ållo luomegijt aj! Dát jahke {le}¥{cop|l} luomekjahke, majt javlli. Luomek la nåv {unna}¥{adj,attr-pred|unne} ja söt judos, valla moarrá. Galgav biedjat gåvåjt sisi gå sijddaj boadáv, {tjuovvujihtit}${infl|tjuovvut} val {bloggav}${loanmvowc,o-å;conc,gg-kk|blåkkav} {manngela}${ascii|maŋŋela} de.
+Gåk {le}¥{cop|la} dijájn? Mån gåjt buoragit viesov. Lev lähkám {Rijtsemin}${conc,jts-jtts|Rijttsemin} ålles ájllegav, manniv dåk duorastagá. {Lav}¥{cop|Lev} skåvllåbargojt dahkam, tjuojggam, biejve åvdån vellaham {"}‰{cit|”}ja {russjkudam}${conc,ssjk-sjku|rusjkudam} degu sjokoláda{"}‰{cit|”} degu Johanna oabbám javllá. {Lav}¥{cop|Lev} aj ållo suovasmárfev bårråm, tjajmmam ja dåssju {hávskudallam}${conc,vsk-vssk|hávsskudallam}. {Rádnam}¢{px,conc,dn-ddn|Ráddnam} Sara lij danna, måj tjuojgajma unna Seukoga {állegietjes}${vowc,á-a|allegietjes} luksa, dat váldij {bielle ja guokta tijma}€{x|biel goalmát tijma}. {Avta}£{num,case,gen-acc|Avtav} {gasska}£{noun,case,nom-acc|gaskav} dåssju tjuojgajma {sport-tåhpaj}${cmp,hyph-0|sporttåhpaj} ja båvsåj, lij nav báhkka! Vuogas lij gåjt, vuojnijma dimna várijt, gitta {Vuonabälláj}¢{min|vuonabälláj}. Vuojnijma ihkeva ållo luomegijt aj! Dát jahke {le}¥{cop|l} luomekjahke, majt javlli. Luomek la nåv {unna}¥{adj,attr-pred|unne} ja söt judos, valla moarrá. Galgav biedjat gåvåjt sisi gå sijddaj boadáv, {tjuovvujihtit}${infl|tjuovvut} val {bloggav}${loanmvowc,o-å;conc,gg-kk|blåkkav} {manngela}${ascii|maŋŋela} de.
 
 Dála l luomek:
 
@@ -228,7 +228,7 @@ Tjåhkkåhav {muv}€{w,pers-refl|ietjam} {sengan}${ascii|seŋgan}, dáhtá aske
 
 Inga Juuso ja Markus Krunegård
 
-"{Minusgrader rensar luften}∞{swe}" {sjattáj}${vowlat,á-a|sjattaj} sunnu lávla namma.
+{"}‰{cit|”}{Minusgrader rensar luften}∞{swe}{"}‰{cit|”} {sjattáj}${vowlat,á-a|sjattaj} sunnu lávla namma.
 
 
 tjállám: Naima {kloahkká}${vowlat,á-a|kloahkka} 10:14
@@ -244,7 +244,7 @@ Ge majt mån Karinis oadtjuv:
 
 
 
-Mån oadtjuv dáv gahperav! {Shit}∞{eng} man buorre ja fijnuk dat lij. Suohtas adnet gahperav mij la {"sámegahper"-muoduk}£{noun,case,nom-gen|"sámegahpera" muoduk}. Dav máhtáv adnet {dábálattjat}€{w|bæjválattjat}.
+Mån oadtjuv dáv gahperav! {Shit}∞{eng} man buorre ja fijnuk dat lij. Suohtas adnet gahperav mij la {{"}‰{cit|”}sámegahper{"}‰{cit|”}-muoduk}£{noun,case,nom-gen|”sámegahpera” muoduk}. Dav máhtáv adnet {dábálattjat}€{w|bæjválattjat}.
 
 tjállám: Naima {kloahkká}${loan,vowlat,á-a|kloahkka} 06:05
 
