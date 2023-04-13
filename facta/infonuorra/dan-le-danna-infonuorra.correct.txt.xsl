@@ -80,7 +80,7 @@
     <xsl:variable name="place" select="''"/>
 
     <!-- Automatically filled in by CorpusTools -->
-    <xsl:variable name="genre" select="'ficti'"/>
+    <xsl:variable name="genre" select="'facta'"/>
     <xsl:variable name="collection" select="''"/>
     <!--
         Three letter language code.
