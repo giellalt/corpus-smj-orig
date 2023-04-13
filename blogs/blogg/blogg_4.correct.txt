@@ -204,7 +204,7 @@ Johanna viegaj ja viegaj, diehtebihtit lij hárjjidallam...{genja}${typo|gejna} 
 
 
 {vuojnnebihtit}‰{cap|Vuojnnebihtit} {dajt}£{dem,pron,kongr,dem-num|da} guokta {{skávklijt}${conc,vkl-vl|skávlijt}}£{noun,kongr,num-noun|skávle} gåvån? Måj Johannajn
-gåjt {nabdima}${conm,m-jm|nabdijma} dajt, akta dajs {le}¥{cop|la} Sven-Göran {ja dat nubbe Anna-Karin}¥{missing|ja dat nubbe {le}¥{cop|l} Anne-Karin}
+gåjt {nabdima}${conm,m-jm|nabdijma} dajt, akta dajs {le}¥{cop|la} Sven-Göran ja dat nubbe {Anna-Karin}¥{missing,cop|la Anne-Karin}
 
 
 Låjes Tjugu!
