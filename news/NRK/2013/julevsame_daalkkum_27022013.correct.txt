@@ -20,7 +20,7 @@ Vásse tjavtja gulájma sámedikkeájras Kirsti {Guvsám}£{prop,case,nom-acc|Gu
 
 {Dalutjij}${conc,l-ll|Dallutjij} ij lim sierra julevsáme dålkkå Sámedikken, valla sij gudi dålkkuji nuorttasámegiellaj aj dålkkujin jus julevsámegiellaj håladuváj.
 
-– Mån sávav sierra julevsáme dålkåv. Sámedigge ham vuorddá háldadimsuohkana gudi li sámegiela háldadimguovlon galggi dievnastit sábmáj ietjasa addnijt, valla Sámedigge iesj ij la sæmmi tjiehppe dav fállat julevsámegiellaj ja oarjjelsámegiellaj, javlaj Guvsám dijmmá tjavtja.
+– Mån sávav sierra julevsáme dålkåv. Sámedigge ham vuorddá háldadimsuohkana {gudi}£{ma} li sámegiela háldadimguovlon galggi dievnastit sábmáj ietjasa addnijt, valla Sámedigge iesj ij la sæmmi tjiehppe dav fállat julevsámegiellaj ja oarjjelsámegiellaj, javlaj Guvsám dijmmá tjavtja.
 
 – Dát la buorre
 
