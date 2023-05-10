@@ -14,7 +14,7 @@ Dálla ietjá ássjáj.
 {Median}${loan,mix|Mediján} tjuodtju ahte facebookan gávnnu {juohkus}¢{infl|juogos} ulmutjijda {guhti}£{rel,pron,kongr,rel-noun|gudi} doarjodi dáv báhtjav Kárásjjågås. Ulmutjijda {guhti}£{rel,pron,kongr,rel-noun|gudi} jáhkki báhtjajda, {guhti}£{rel,pron,kongr,rel-noun|gudi} vuornodibá biledimev.
 Dán juohkusin li sebrulattja d.d. polijsa, politihkkára ja journalista. Almulasj ulmutja doarjodi {biledimbáhtjajda}£{noun,case,ill-acc|biledimbáhtjajt}.
 Dåbdåv måjdås. Báhtja li {GUOKTE}${vowlat,e-i|GUOKTI} {duobbmidallám}${vowlat,á-a|duobbmidallam} duobbmoståvlås. Ij la dat nuoges {vuosedit}€{infl,inf-sup|vuosedittjat} ahte såj libá siválattja?
-{Sábmen}¢{conc,bm-m,ess-ine|Sámen} {le}¥{cop|la} {læhkám}¥{missing|læhkám nav} ahte ij dákkár ássjij birra {sáhkadit}¥{missing|galga sáhkadit}, ja diehttelis viertti jáhkket fuolkkáj ja nav...
+{Sábmen}¢{conc,bm-m,ess-ine|Sámen} {le}¥{cop|la} {læhkám}¥{missing|læhkám nav} ahte ij dákkár ássjij birra {sáhkadit}¥{missing|galga sáhkadit}, ja diehttelis viertti jáhkket fuolkkáj ja nav{...}‰{ellip|…}
 Usjudaláv {næjtsojda}¥{mix,missing|næjtsoj birra} gå dát ássje ij {guossak}${vowc,uo-oa|goassak} hiejte. Ja væráp {le}¥{cop|la} vuojnnet ahte æbá jáhkeduvá!!! muhtemijs. Jáhkáv muhtemijda {le}¥{cop|la} ájgge {válldes}¢{fin,s-t|válldet} {ierijt}${fin,jt-t|ierit} tjalmmetjadnasav!
 
 Næjtso oadtjoba ålles muv {doarjov}¢{vowc,oa-å;vowlat,o-a|dårjav}. Ja {ienemusoasse}${cmp,1-X|ienemus oasse} ietjá ulmutjijs.
@@ -77,7 +77,7 @@ Buoris gájka!
 
 {Lav}¥{cop|Lev} {ierijt}${fin,jt-t|ierit} læhkám guokta vahko, valla dálla lav ræjsos ållim. Gierunin, ja skåvllå {le}¥{cop|l} vas álggám.
 Snåsan, Åren, Valsjöbyn ja {Ubmemin}${conc,bm-bbm|Ubbmemin} lin måj Per Mathisijn årrum.
-Gal {le}¥{cop|la} riek suohtas læhkám! Valla dálla lin {vájbbam,}‰{punct|vájbbam.}
+{Gal le}¥{wo|Le gal} riek suohtas læhkám! Valla dálla lin {vájbbam,}‰{punct|vájbbam.}
 
 Sáme {vahkkon}¢{conc,hkk-hk|vahkon} {Ubmemin}${conc,bm-bbm|Ubbmemin} lijma {dáv}£{dem,pron,kongr,dem-noun|dán} ájllega. Årojma buorre rádna lunna, Evelina.
 Mij lip {graffitiv}${loan,mix|graffihttiv} mállim, ja {sisbandyav}${loan,mix|sisbanndihav} spellam. Ållo ulmutjijt iejvvim, ja konsertajt gulldalam.

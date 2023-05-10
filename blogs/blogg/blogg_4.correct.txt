@@ -195,10 +195,10 @@ Majsing suv vuostasj guolijn majt iesj oattjoj oaggomijn
 Mån tjuojggamin {Rijtsemij}${conc,jts-jtts|Rijttsemij}
 
 
-{Dav}¥{redun|} {viertti}‰{cap|Viertti} {ietjasav}${infl|ietjas} gåvvit...{hehe}∞{sla}
+{Dav}¥{redun|} {viertti}‰{cap|Viertti} {ietjasav}${infl|ietjas} gåvvit{...}‰{ellip|…}{hehe}∞{sla}
 
 
-Johanna viegaj ja viegaj, diehtebihtit lij hárjjidallam...{genja}${typo|gejna} iv diede. Valla viegaj sån gåjt :)
+Johanna viegaj ja viegaj, diehtebihtit lij hárjjidallam{...}‰{ellip|…}{genja}${typo|gejna} iv diede. Valla viegaj sån gåjt :)
 
 
 
