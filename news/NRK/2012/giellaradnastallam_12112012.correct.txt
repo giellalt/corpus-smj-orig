@@ -7,7 +7,7 @@ Giellarádnastallam
 
 Giellarádnastallam la ådå sámegielak fálaldahka mánájda Ájluovtan, Divtasvuonan.
 
-Divtasvuona ASVO {la}£cop|l} álgadam prosjevtav {"}‰{”}Mij sámástip aktan - buolvaj gaskan{"}‰{”} {ja la}¥{missing|ja dát la} giellaprosjækta mij galggá njálmálasj sámegielav nannit ja åvdedit.
+Divtasvuona ASVO {la}£{cop|l} álgadam prosjevtav {"}‰{”}Mij sámástip aktan - buolvaj gaskan{"}‰{”} {ja la}¥{missing|ja dát la} giellaprosjækta mij galggá njálmálasj sámegielav nannit ja åvdedit.
 
 Sámedigge {la}£{cop|l} ruhtadam prosjevtav ja gålmmå julevsámegielak nuora, Ingrid Kintel, Inga Mikkelsen ja Mathias Mikkelsen, Ájluovtas Divtasvuonan fálli mánájda sámegielak {arenav}${loan,vowlat,a-á;vowc,e-ie|arienáv} gånnå sámástit rádnastallama ja suohttasij baktu {la}£{cop|l} oajvvedoajmma.
 
@@ -23,7 +23,7 @@ Ingrid Kintel
 – Dat la doajmmaiehket mánájda gånnå galggap ståhkat, aktan liehket, rádnastallat ja suohtastallat. Mij galggap ståhkat, lájbbot, biebmojt riejddit, tjerastallat, tjuojggat, sjiejssit j.n.v. Ja gájkka galggá sámegiellaj dáhpáduvvat, subtsas akta dájs nuorajs, Ingrid Kintel gut la fáron ásadime dájt rádnastallamiehkedijt.
 Dát la ådå fálaldahka sáme mánájda.
 
-Ulmme l sámástit, valla gatjálvis le gåktu dav tjoavddet vaj oadtjot mánájt sámástittjat.
+Ulmme l sámástit, valla gatjálvis {le}¥{cop|la} gåktu dav tjoavddet vaj oadtjot mánájt sámástittjat.
 
 –Uddni ij dal nav ållo sámegiella sijdajn gullu, subtsas Kintel.
 

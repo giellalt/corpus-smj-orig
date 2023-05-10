@@ -9,7 +9,7 @@ Sáme {nasjonálalasj}${loan,mix|nasjåvnålasj} máhtudakguovdásj psykalasj va
 
 – Vájves sága, javllá Inga Karlsen, Divtasvuonas.
 
-Vil uddni máhtti sáme ålles vuonarijkas oadtjot {SANKS-as}${suf|SANKS:as} dálkudimfálaldagájt jus dav hálijdi, valla boahtte jage rájes {lulu}£{cond,verb,kongr,subj-verb|luluj} láhkanjuolgadus rievddat dáv. Boahtte jage rájes viertti SANKS åhtsåt fállat juogu {nasjonálalasj}${loan,mix|nasjåvnålasj} máhtudakfálaldagájt jali {{nasjonálalasj}${loan,mix|nasjåvnålasj}  }‰{singlespace|nasjåvnålasj }máhtudakfálaldagájt ja {moaddeguovloj}${mix|moatteguovluk} dálkudimfálaldagájt.
+Vil uddni máhtti sáme ålles vuonarijkas oadtjot {SANKS-as}${suf|SANKS:as} dálkudimfálaldagájt jus dav hálijdi, valla boahtte jage rájes {lulu}£{cond,verb,kongr,subj-verb|luluj} láhkanjuolgadus rievddat dáv. Boahtte jage rájes viertti SANKS åhtsåt fállat juogu {nasjonálalasj}${loan,mix|nasjåvnålasj} máhtudakfálaldagájt jali {{nasjonálalasj}${loan,mix|nasjåvnålasj} }‰{singlespace|nasjåvnålasj }máhtudakfálaldagájt ja {moaddeguovloj}${mix|moatteguovluk} dálkudimfálaldagájt.
 
 Lågå: – {SANKS-kutt en skandale}∞{nor}
 
@@ -46,7 +46,7 @@ Stuorra berustibme julevsáme guovlon
 
 Árvustallam majt SANKS la tjadádam {daj}£{dem,pron,kongr,dem-num|dan} {niellja}£{num,kongr,num-noun|nieljen} {jagij}£{noun,kongr,num-noun|jagen} maŋŋel gå SANKS ásadij sierra kontåvråv Ájluoktaj, Divtasvuodnaj vuoset SANKS la vierttim duodde ulmutjijt biedjat bargatjit Divtasvuona kontåvrråj.
 
-{"}‰{”}... {Li}¥{cop|Le} læhkám viehka ållo {pasiennta}${conc,nnt-nt|pasienta} dán kontåvrån, {så}∞{nor} mij lip vierttim {biejdat}${typo|biedjat} lasse barggijt dåhku {vaj duosstot dárbojt}¥{x|duostotjit dárbojt}...{"}‰{”} tjállá SANKS ietjas árvustallamin.
+{"}‰{”}{...}‰{ellip|…} {Li}¥{cop|Le} læhkám viehka ållo {pasiennta}${conc,nnt-nt|pasienta} dán kontåvrån, {så}∞{nor} mij lip vierttim {biejdat}${typo|biedjat} lasse barggijt dåhku {vaj duosstot dárbojt}¥{x|duostotjit dárbojt}{...}‰{ellip|…}{"}‰{”} tjállá SANKS ietjas árvustallamin.
 
 Julevsáme guovlos li aj rájaduvvam {ållusa}€{w|ålos} {{iesjgenga}${asci|iesjgeŋga} lágásj}¢{cmp,X-1|iesjgeŋgalágásj} åssudagájda Finnmárkon, ja dán kontåvrån la læhkám stuorámus doajmma buohtastahtedum dåj ietjá kontåvråj ålggolin Finnmárko.
 

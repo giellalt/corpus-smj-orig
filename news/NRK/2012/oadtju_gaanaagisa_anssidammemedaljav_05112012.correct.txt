@@ -10,7 +10,7 @@ Sáme sebrudagá {gállájs}£{noun,case,ela-nom|gálles} ja {sebrudakberustiddj
 
 – Mikal Urheim la badjel 50 jage iesjgeŋgalágásj rållaj ja dåjmaj baktu åvdedam {nasjonála}${loan,mix|nasjåvnålasj} ja bájkálasj ássjijt ma li sebrudahkaj læhkám stuorra ávkken, sierraláhkáj sáme álmmuga åvdås ja julevsámij åvdås sierra. Mikal Urheima barggo {le}¥{cop|l} læhkám tjielgga {njunnusjbarggo}${conc,nn-nnj|njunnjusjbarggo} åvddånahtátjit sáme sebrudakiellemav Vuonan tjálli {suohkanoajve-guovtes}${cmp,hyhp-X|suohkanoajve guovtes} ja Árran-{direktørra}${loan,vowc,ø-e|direkterra} præssadiedádusán.
 
-«Ælla da tsuvkkám åvvå báhkogietjev dán birra munji. Diedá alvaduvviv.»
+{«}‰{”}Ælla da tsuvkkám åvvå báhkogietjev dán birra munji. Diedá alvaduvviv.{»}‰{”}
 
 Mikal Urheim
 
@@ -37,17 +37,17 @@ Urheim iesj ittjij diede sån lij oajvvaduvvam oattjotjit Gånågisá {ánssidam
 
 Ja Urheim la ávon ja dudálasj gå Gånågisá {ánssidammedáljav}€{w|ánssidimmedáljav} oadtju.
 
-– Mån {la}£{cop,verb,kongr,subj-verb|lav} ávon ja dudálasj. Gå mijá rijka gånågis la gávnnam muv bargov buorren de lev mån ávon ja dajna dudálasj. Valla dát vuosádus ij la dåssju munji aktu, valla aj muv mánájda gudi li muv doarjodam agev ja ietjá sámijda gudi li {mujna}£{pers,pron,case,ine-ill|munji} viehkken årrum, javllá Mikal Urheim.
+– Mån {la}£{cop,verb,kongr,subj-verb|lav} ávon ja dudálasj. Gå mijá rijka gånågis la gávnnam muv bargov buorren de {lev}¥{cop|lav} mån ávon ja dajna dudálasj. Valla dát vuosádus ij la dåssju munji aktu, valla aj muv mánájda gudi li muv doarjodam agev ja ietjá sámijda gudi li {mujna}£{pers,pron,case,ine-ill|munji} viehkken årrum, javllá Mikal Urheim.
 
 Sån aj gæssá åvddån {suv}€{pers,pron,pers-refl|ietjas} áhkáv, Elin Urheim-rávkkev, gut suv duogen agev la årrum.
 
-– Muv buoremus venak ja viehkediddje, muv iehttselis Elin ij la desti viesso. Muhtem låsså ájge de javlliv mån sunji; “Hæhttutjip má de hiejttet årromis sábmen”. Dasi Elin náv javlaj; “Ep gåjt dal mij máhte hiejttet majt ep la álggám, mij lip riegádam”. Ja divna dát la baddjen anedam muv juolgij nanna, javllá Urheim.
+– Muv buoremus venak ja viehkediddje, muv iehttselis Elin ij la desti viesso. Muhtem låsså ájge de javlliv mån sunji; “Hæhttutjip má de hiejttet årromis sábmen”. Dasi Elin náv javlaj; {“}‰{”}Ep gåjt dal mij máhte hiejttet majt ep la álggám, mij lip riegádam{”}‰{”}. Ja divna dát la baddjen anedam muv juolgij nanna, javllá Urheim.
 
 – Sámedikke vuododibme ájnnasamos barggo
 
 Gájkka sebrudakbargos majt sån la åvdedam ja mij sunji ájnnasabmusin uddni vuojnnu, la Sámedikke vuododibme Vuonan jagen 1989.
 
-– 20 jage åvddål gå Sámedigge vuododuváj de oajvvadiv mån bierri ásaduvvat parlamænnta sámijda mij sierralágásj sáme ássjijt giehtadallá. Ja dat la ådå barggo mijá rijkan årrum, gånnå unneplåhko {geográfalattjat}${loan,mix|geografijjalattjat} la segadum ieneplågoálmmugijn. Ja gå dási lip gávnnam tjoavddusav jut sáme máhtti adnet parlamentav la dat ájnnasamos barggo mij muv miela milta la boahtám, dættot sån.
+– 20 jage åvddål gå Sámedigge vuododuváj de oajvvadiv mån bierri ásaduvvat parlamænnta sámijda mij sierralágásj sáme ássjijt giehtadallá. Ja dat la ådå barggo mijá rijkan årrum, gånnå unneplåhko {geográfalattjat}${loan,mix|geografijjalattjat} la segadum ieneplågoálmmugijn. Ja gå dási lip gávnnam tjoavddusav jut sáme máhtti adnet parlamentav la dat ájnnasamos barggo mij muv miela milta {la}¥{cop|l} boahtám, dættot sån.
 
 Gånågisá {ánssidammedállja}€{w|ánssidimmedállja} vatteduvvá Mikal Urheimaj sierra {sermonijan}${vow,0-e;conc,j-j|seremonijjan}, ja la Divtasvuona suohkanoajvve gut gånågisá åvdås medáljav sunji vaddá. Goassa ja gånnå dat sjaddá ij la ájn mierreduvvam.
 
