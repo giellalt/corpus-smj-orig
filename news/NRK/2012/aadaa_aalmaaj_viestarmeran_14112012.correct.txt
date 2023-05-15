@@ -17,7 +17,7 @@ Sámedikke rádeájras, Vibeke Larsen
 
 {Foto}∞{nor}: Dan Robert Larsen/NRK
 
-Nominasjåvnåjuogos la oajvvadam Johan Daniel {Hætta}£{prop,case,nom-acc|Hættav},Divtasvuonas lista bajemus sadjáj, Tove {Berg}£{prop,case,nom-acc|Bergav}, Rivtagis nuppát sadjáj ja Arild Inga {Pettersen}£{noun,case,nom-acc|Pettersenav}, {Suorttas}${conc,rtt-rt|Suortas} goalmát sadjáj.
+Nominasjåvnåjuogos la oajvvadam Johan Daniel {Hætta}£{prop,case,nom-acc|Hættav},Divtasvuonas lista bajemus sadjáj, Tove {Berg}£{prop,case,nom-acc|Bergav}, Rivtagis nuppát sadjáj ja Arild Inga {Pettersen}£{prop,case,nom-acc|Pettersenav}, {Suorttas}${conc,rtt-rt|Suortas} goalmát sadjáj.
 
 Lågå: {Sametingstopp vraket av sine egne}∞{nor}
 Lågå aj: Nominasjåvnåjuohkusa {{sámedikkelistta}${conc,stt-sst|sámedikkelissta}}¢{cmp,gen-nom|sámediggelissta} 2013
