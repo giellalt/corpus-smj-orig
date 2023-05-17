@@ -29,7 +29,7 @@ Mij mielastuhttá duv {ådådahkkuj}${conc,hkk-hk|ådådahkuj}?
 
 -Árbbedáhpe muv {mielastuhtta}${vowlat,a-á|mielastuhttá}.
 
-La gus duv mielas ájnas nuorajda {oassalasstet}${vowc,a-á|oassálasstet} dán seminárraj?
+{La}¥{cop|Le} gus duv mielas ájnas nuorajda {oassalasstet}${vowc,a-á|oassálasstet} dán seminárraj?
 
 -Muv mielas la, danen gå sij {galggin}£{verb,pret-pres|galggi} oahpástuvvat sijájn gudi ságasti, ja galggi mielav oadtjot duodjáj.
 

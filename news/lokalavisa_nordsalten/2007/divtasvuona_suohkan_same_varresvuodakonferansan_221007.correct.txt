@@ -11,7 +11,7 @@ Dav javllá {sámediggeájras}¢{cmp,nom-gen|sámedikkeájras} Miriam Paulsen (N
 
 Suv mielas máhttá Divtasvuodna varresvuoda -ja sosiálafálaldagáv sámijda nannit: 
 
-- Iv mån vuojne makkirak vuojnos dåjmajt {Divtasvuodna}£{prop,case,nom-gen|Divtasvuona} suohkanin. Buojkulvissan le Divtasvuonan læhkám ássje sáme {varresvuodasenntera}${mix|varresvuodaguovdátja} birra, mij ij la {positivalattjat}${loan,conc,v-jv|positijvalattjat} duostodum. Vuojnunagi le danen unna - jali ij makkirak - dádjadus mij guosská sáme pasientaj {dárbojt}£{noun,case,guosskat,acc-ill|dárbojda}.
+- Iv mån vuojne makkirak vuojnos dåjmajt {Divtasvuodna}£{prop,case,nom-gen|Divtasvuona} suohkanin. Buojkulvissan {le}¥{cop|la} Divtasvuonan læhkám ássje sáme {varresvuodasenntera}${mix|varresvuodaguovdátja} birra, mij ij la {positivalattjat}${loan,conc,v-jv|positijvalattjat} duostodum. Vuojnunagi {le}¥{cop|l} danen unna - jali ij makkirak - dádjadus mij guosská sáme pasientaj {dárbojt}£{noun,case,guosskat,acc-ill|dárbojda}.
 
 Konferánsan lij vijdes åvdåstibme duola dagu {filkkasuohkanijs}¢{vowc,i-y|fylkkasuohkanijs}, suohkanijs, Sámedikkes, {varresvuoda –ja}‰{x|varresvuoda- ja} {hukso {depártementas}${vowc,á-a|departementas}}¥{cmp,2-1|huksodepartementas} ja sáme institusjåvnåjs. {Divtasvuodna}£{prop,case,nom-gen|Divtasvuona} suohkanis lidjin avtses boahtám ságastalátjit sáme varresvuoda dilev. Da avtses lidjin bargge suohkana varresvuoda- ja {sosiála åssudagás}¢{cmp,X-1|sosiálaåssudagás}, dagu suohkandåktår Rolf Peder Tennebø ja varresvuoda- ja sosiálaoajvve Lill-Tove Hansen.
 
@@ -29,7 +29,7 @@ Vuorddá ienep dåjmajt
 
 NSR:a Miriam Paulsen vuorddá huoman ienep dåjmajt {Divtasvuodna}£{prop,case,nom-gen|Divtasvuona} suohkanin, ja vuoset Divtasvuona sæbrramij sámegiela háldadusguovlluj. 
 
-- Suohkan le oadtjum guovtegielakdoarjjagijt ma li binnát aneduvvam. Dájna hæhttu suohkan vijddásappot barggat, aj dajna mij guosská sáme pasientaj {dárbojt}£{noun,case,guosskat,acc-ill|dárbojda}.
+- Suohkan {le}¥{cop|la} oadtjum guovtegielakdoarjjagijt ma li binnát aneduvvam. Dájna hæhttu suohkan vijddásappot barggat, aj dajna mij guosská sáme pasientaj {dárbojt}£{noun,case,guosskat,acc-ill|dárbojda}.
 
 
 - Suohkana sjáhtjali åvdåsvásstádusáv ierit

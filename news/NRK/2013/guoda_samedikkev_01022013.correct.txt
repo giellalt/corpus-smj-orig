@@ -25,7 +25,7 @@ Paulsen vuornnu jut smávvamáná ja {fámilljaiellem}${vowc,á-a|familljaiellem
 
 Så guhtimusj de sjaddá ájras NSR:a listan {julevsáme guovlos}¢{cmp,X-1|julevsámeguovlos} la rabás gatjálvis uddni.
 
-Sálto sámesiebren le sebrulasjtjåhkanibme dán lávvodagá gånnå galggi ságastallat guhtimuttja {lulu}£{cond,verb,kongr,subj-verb|lulun} kandidatáhta.
+Sálto sámesiebren {le}¥{cop|la} sebrulasjtjåhkanibme dán lávvodagá gånnå galggi ságastallat guhtimuttja {lulu}£{cond,verb,kongr,subj-verb|lulun} kandidatáhta.
 
 Siebre jådediddje Hugo Kalstad, ij hálijda almodit majdik dálla javllá sån NRK:aj.
 

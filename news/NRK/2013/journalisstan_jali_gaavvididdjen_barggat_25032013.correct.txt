@@ -26,7 +26,7 @@ NRK Sápmi oahppehárjjidalle ja Arne Scheie.
 
 Maŋŋel hárjjidallamájge galggá oahppen liehket buorre máhttelisvuohta bessat media -ja journalisstafágalasj åhpadusájda álgget.
 
-Oahppehárjjidallam le NRK Sáme oajvvedåjmadusán {Kárášjågån}${conwb,š-sj|Kárásjjågån}
+Oahppehárjjidallam {le}¥{cop|la} NRK Sáme oajvvedåjmadusán {Kárášjågån}${conwb,š-sj|Kárásjjågån}
 
 Oahppe vierttiji ållim joarkkaskåvlåjn {jali muodugasj máhtudahka}¥{missing|jali de viertti siján liehket muodugasj máhtudahka}.
 
@@ -34,7 +34,7 @@ Oahppe vierttiji ållim joarkkaskåvlåjn {jali muodugasj máhtudahka}¥{missing
 
 NRK Sábme sávvá ja ávttji åhttsijt ålles Nuorttarijkas åhtsåt oahppehárjjidallamvirgijda.
 
-Åhtsåmájggemierre la vuoratjismáno 30. biejve.
+Åhtsåmájggemierre {la}£{cop[l} vuoratjismáno 30. biejve.
 
 Ienep diedojt dánna gávna: www.nrk.no/stillinger jali jus riŋŋgu NRK Sábmáj, tlf. 78 46 92 00.
 

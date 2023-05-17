@@ -10,7 +10,7 @@ Divtasvuona suohkanstivratjåhkanimen mij lij dán vahko sidáj Divtasvuona báj
 Suohkanstivraájras, Kurt Solstrøm.
 
 {Foto}∞{nor}: Harrieth Aira/NRK
-– Politihkkárij gaskan le má læhkám avtamielakvuohta jut galggi tsieggiduvvat huksosaje vuorasulmutjijda Ájluoktaj, ja dárbbo l lassánam. Mijá mielas bierri dal juoga dáhpáduvvat dájna ássjijn, ássje vuojnnet la sjávvunam, javllá Kurt Solstrøm.
+– Politihkkárij gaskan {le}¥{cop|la} má læhkám avtamielakvuohta jut galggi tsieggiduvvat huksosaje vuorasulmutjijda Ájluoktaj, ja dárbbo l lassánam. Mijá mielas bierri dal juoga dáhpáduvvat dájna ássjijn, ássje vuojnnet la sjávvunam, javllá Kurt Solstrøm.
 Snjuktjamáno dán jage guorrasij avtajienalasj suohkanstivrra plánajda ásadit Guovllomedisijnalasj guovdátjav Ájluoktaj ja gåhtjoj Åvddånammadusáv pládnabargov tjadádit.
 
 Dán {Guovllomedisjnalasjj}${typo|Guovllomedisijnalasj} guovdátjij galggi aj biejaduvvat 12 {idja-biejvve huksosaje}¢{cmp,X-1|idja-biejvvehuksosaje} ulmutjijda gudi e sijdajn des máhte årrot.
@@ -28,7 +28,7 @@ Sån vuojnná uddni {l}£{cop,verb,kongr,subj-verb|li} vil stuoráp {dárbojt}£
 
 – Mij ep la bárep diedojt oadtjum gåktu bargujn manná, ja dat la sivva manen mån sidáv ienep diedojt dán prosjevta birra, javllá Solstrøm.
 
-– Åvddåprosjækta la almoduvvam
+– Åvddåprosjækta {la}£{cop|l} almoduvvam
 
 Suohkanoajvve Tor Asgeir Johansen máhtij suohkanstivran subtsastit Divtasvuona suohkan la almodam Doffinij åvddåprosjevtav Guovllomedisijnalasj guovdátjij Ájluoktaj gånnå huksosaje {la}£{cop,verb,kongr,subj-verb|li} oassen dát guovdátjis.
 

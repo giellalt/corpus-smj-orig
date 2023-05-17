@@ -5,7 +5,7 @@ Sámedikke vuorrasijráde. Gåråbieles jådediddje Inga Karlsen, duodden Jonhil
 
 {Foto}∞{nor}: Harrieth Aira/NRK
 
-Sámedikke vuorrasijráde la tjadádam tjåhkanimijt Divtasvuonan ja mannam gæhttjamin gåktu vuoras sámij sujtto ja hukso doajmmá Divtasvuonan.
+Sámedikke vuorrasijráde {la}£{cop|l} tjadádam tjåhkanimijt Divtasvuonan ja mannam gæhttjamin gåktu vuoras sámij sujtto ja hukso doajmmá Divtasvuonan.
 
 Harrieth Aira {harrieth.aira@nrk.no}∞{url}
 
@@ -43,7 +43,7 @@ Gåjkkebiebmojt dal Ájluovta sjaljon ietja riejddiji, valla málesbiebmo diŋgo
 
 – Ep dal fála sierralágásj sáme biebmojt. Mujttet nágin bále lip málestam bájkálasj sáme biebmojt dánna nav gåk mån diedáv, valla biebmojt majt oadtjop {kafeas}${loan,conc|kafiejas} la dábálasj biebbmo majt Vuonan bårri. Ælla da sierraláhkáj hiebaduvvam sáme biebmo. {Jus ga}¢{cmp,X-1;conc,sg-sk|Juska} dá málesbiebmo ælla sierra sáme biebmo de biebbmo l bájkálasj bårråmus majt ulmutja dáppe bårri, subtsas Aspaas.
 
-–{Jur dan diehti má Divtasvuona demænssasiebrre la sierra}¥{wo|Jur dan diehti la má Divtasvuona demænssasiebrre sierra} biebbmotjállusav almodam, Sáme biebmo vuorrasijda. Ja ulmme lij dát biebbmobagádus luluj aneduvvat dákkir institusjåvnån dagu dánná. Valla gå Ájluovta sjaljon ij la gievkan gånnå {iehtja}¢{conc,htj-tj|ietja} máhtti málestit de ij la dal vuordedahtte sij galggi málestit dáj biebbmobagádusáj milta, dættot Sámedikke vuorrasijráde jådediddje, Inga Karlsen.
+–{Jur dan diehti má Divtasvuona demænssasiebrre {la}£{cop|l} sierra}¥{wo|Jur dan diehti la má Divtasvuona demænssasiebrre sierra} biebbmotjállusav almodam, Sáme biebmo vuorrasijda. Ja ulmme lij dát biebbmobagádus luluj aneduvvat dákkir institusjåvnån dagu dánná. Valla gå Ájluovta sjaljon ij la gievkan gånnå {iehtja}¢{conc,htj-tj|ietja} máhtti málestit de ij la dal vuordedahtte sij galggi málestit dáj biebbmobagádusáj milta, dættot Sámedikke vuorrasijráde jådediddje, Inga Karlsen.
 
 – {Jus ga}¢{cmp,X-1;conc,sg-sk|Juska} lij sávadahtte, de ij la miján loahpe málestit dánna dan diehti gå miján ælla da rustiga majt Biebbmooahttse gájbbet, dættot Aspaas.
 

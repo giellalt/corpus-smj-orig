@@ -14,7 +14,7 @@ Sander Andersen {sander.andersen@nrk.no}∞{url}
 
 {Arealpládna}${vowc,a-á;conc,l-ll;vowlat,0-a|Areállapládna} aktan {arealkártajn}${vowc,a-á;conc,l-ll;vowlat,0-a|areállakártajn} vuoset gåktu suohkana areála galggi aneduvvat.
 
-Gå suohkanstivrra la plánav mierredam de la vælggo suohkanij dav tjuovvot ja dan milta barggat gå ådå dåjma galggi álgaduvvat, lesj dal ådå æládusdåjma, goahtetsieggima, hyhttotsieggima, ådå guollebiebmadimsaje jali rahteplána.
+Gå suohkanstivrra {la}£{cop|l} plánav mierredam de la vælggo suohkanij dav tjuovvot ja dan milta barggat gå ådå dåjma galggi álgaduvvat, lesj dal ådå æládusdåjma, goahtetsieggima, hyhttotsieggima, ådå guollebiebmadimsaje jali rahteplána.
 
 Suoddjit vaj adnet
 

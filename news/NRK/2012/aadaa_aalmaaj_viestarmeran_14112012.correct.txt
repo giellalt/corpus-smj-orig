@@ -8,7 +8,7 @@ Dán lávvodagá mierret Barggijbelludahka, Viestarmera válggabijran guhtimusj 
 
 Harrieth Aira 
 
-{Dat mij la tjielgas la}¥{clause,redun|Tjielgas la} gåjt jut Viestarmera válggabijran gåsi 35 suohkana sihke {Nordlándan}£{prop,case,ine-ela|Nordlándas} ja {Råmsån}£{prop,case,ine-ela|Råmsås} gulluji, ja gånnå {uddni}€{w|udnásj} Sámedikke rádeájras Vibeke Larsen le lista bajemusán, ij la ådå luohtádusáv nominasjåvnåjuohkusis oadtjum.
+{Dat mij la tjielgas la}¥{clause,redun|Tjielgas la} gåjt jut Viestarmera válggabijran gåsi 35 suohkana sihke {Nordlándan}£{prop,case,ine-ela|Nordlándas} ja {Råmsån}£{prop,case,ine-ela|Råmsås} gulluji, ja gånnå {uddni}€{w|udnásj} Sámedikke rádeájras Vibeke Larsen {le}¥{cop|la} lista bajemusán, ij la ådå luohtádusáv nominasjåvnåjuohkusis oadtjum.
 
 Ælla ådå luohtádusáv oadtjum
 

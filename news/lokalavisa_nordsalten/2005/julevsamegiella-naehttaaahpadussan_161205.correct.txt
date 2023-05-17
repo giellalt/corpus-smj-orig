@@ -1,6 +1,6 @@
 Julevsámegiella næhttaåhpadussan
 
-Julevsámegielav dal ruvva dåhkki internehta baktu aj oahppat. {Viddnudak}${conc,ddn-dn|Vidnudak} E-skuvla la åhpadimev åvddånahttemin mij la gárves gidá guovlluj. 
+Julevsámegielav dal ruvva dåhkki internehta baktu aj oahppat. {Viddnudak}${conc,ddn-dn|Vidnudak} E-skuvla {la}£{cop|l} åhpadimev åvddånahttemin mij la gárves gidá guovlluj. 
 
 –Dát la álggokurssa julevsámegiellaj, ja la dunji guhti sidá sámegielav oahppat jali vehik máhtá sámástit ja sidá {ienebut}€{adv-adj|ienebuv} oahppat, subtsas Jan Skoglund Paltto guhti {doajmma}€{w|dåjmat} {viddnudagáv}${conc,ddn-dn|vidnudagáv}.
 Duodden kurssagirjijda oattjo aj persåvnålasj oatsodimev åhpadiddjes, ja njálmálasj hárjjidusáv oadtju oahppe aj {internahta}${vowc,a-e|internehta} jali telefåvnå baktu.

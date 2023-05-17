@@ -9,7 +9,7 @@ Hábmera nuora li miellusa sáme galbajda {sijá}€{pers,pron,pers-refl|ietjasa
 
 Dijmmá dåhkkidij departemænnta sáme namáv Hábmera suohkanij, ja Hábmera åvddånammadus la ássjev giehtadallam ja mierredam dav rádjat guláskuddamij.
 
-– Gatjálvis le gåktu sáme namma Hábmerin galggá tjalmostuvvat. Dav javlaj Hábmera suohkanoajvve Rolf Steffensen NRK:aj ådåjakmáno.
+– Gatjálvis {le}¥{cop|la} gåktu sáme namma Hábmerin galggá tjalmostuvvat. Dav javlaj Hábmera suohkanoajvve Rolf Steffensen NRK:aj ådåjakmáno.
 
 Lågå aj: {Hamarøy blir Hábmer}∞{nor}
 Lågå aj: {Hamarøy kommune får samisk skilter}∞{nor}

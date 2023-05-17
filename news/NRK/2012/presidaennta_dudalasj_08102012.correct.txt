@@ -9,7 +9,7 @@ Sámedigge oadtju budsjæhttaoajvvadusán birrusij 404 {milliåvnå}${conm,0-j|m
 
 – Dát la budsjæhttaoajvvadus majna mij buoragit viessop, javllá sámedikke presidænnta Egil Olli NRK Sábmáj.
 
-Olli la sierraláhkáj dudálasj mij gullu sámegiellaj ja kultuvrraj. Dájda juollodimijda mij duodaj lijkkup.
+Olli {la}£{cop|l} sierraláhkáj dudálasj mij gullu sámegiellaj ja kultuvrraj. Dájda juollodimijda mij duodaj lijkkup.
 
 – Mij ij lim nav buorre ja masi lijma vuorddám ienep rudájt la {oahpponævvo buvtadibmáj}¢{cmp,2-1|oahpponævvobuvtadibmáj}. Dan suorgen fájlluji rudá, dættot Olli.
 
@@ -25,7 +25,7 @@ Aili Keskitalo ij la dudálasj 2013 budsjæhttaoajvvadusájn.
 Aili Keskitalo ij la dudálasj 2013 budsjæhttaoajvvadusájn.
 
 NSR
-– Olli la {iehtja}£{refl,pron,kongr,refl-noun|iesj} gájbbedam ráddidusás viehka ienep rudájt Sámediggáj gå dav mij dánna oajvvaduvvá, gåktu de sådnå máhttá liehket dudálasj, gatját Keskitalo.
+– Olli {la}£{cop|l} {iehtja}£{refl,pron,kongr,refl-noun|iesj} gájbbedam ráddidusás viehka ienep rudájt Sámediggáj gå dav mij dánna oajvvaduvvá, gåktu de sådnå máhttá liehket dudálasj, gatját Keskitalo.
 
 Gå dal presidænnta návti nammat sån la dudálasj dájna oajvvadusájn, de ham de sån rádjá signálajt oajválattjada jut dát la nuoges ja de ham Stuorradigge ij des dárbaha usjudallat Sámedikkev, jáhkká sån.
 

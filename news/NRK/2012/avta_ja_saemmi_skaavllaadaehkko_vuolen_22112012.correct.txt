@@ -1,7 +1,7 @@
 Avta ja sæmmi skåvllådæhkko vuolen
 
 
-1 S oahppe Wilma Jessen ja 2. klássak Martin Knutsen lejga såj gudi ådå skåvlåv rabájga, madin {rektor}${loan,vowc,e-ie;conc.kt-vt|rievtor} Britt-Karin Hansen {tjuovvu}£{verb,kongr,subj-verb|tjuovoj}.
+1 S oahppe Wilma Jessen ja 2. klássak Martin Knutsen {lejga}¥{cop|lijga} såj gudi ådå skåvlåv rabájga, madin {rektor}${loan,vowc,e-ie;conc.kt-vt|rievtor} Britt-Karin Hansen {tjuovvu}£{verb,kongr,subj-verb|tjuovoj}.
 
 {Foto}∞{nor}: Sander Andersen/NRK
 

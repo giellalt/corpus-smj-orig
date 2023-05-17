@@ -31,9 +31,9 @@ Gå ulmusj dåhku boahtá de sámevuohta ij dal bárep vuojnnu institusjåvnån.
 
 Sáme dájdda ja sáme kártta, oabme gábmaga gahtsahi siejnen, valla danna ælla galba jalik ietjá diededime sámegiellaj jalik ietjáláhkáj juoga mij vuoset institusjåvnnå galggá aj varresvuodafálaldagájt fállat vaj sámijda dåbddu oahpes.
 
-Institusjåvnnå la juo åvddål aj gæhttjalam {hiebadahttet}€{w|hiebadit} fálaldagájt sáme pasientaj dárboj gáktuj.
+Institusjåvnnå {la}£{cop[l} juo åvddål aj gæhttjalam {hiebadahttet}€{w|hiebadit} fálaldagájt sáme pasientaj dárboj gáktuj.
 
-– Mij lip aktisattjat barggam sámij gudi sáme kultuvrav dåbddi dagu ælloniehkke Fuoskon, Arnfinn Pavall. Valla lej huoman institusjåvnnåj dárbbo gehtjadit gåktu {systemmáhtalattjat}${loan,mix|systiemalattjat} adnet ja dádjadit sáme kultuvrav ja gávnadit makkir máhtudahka sáme kultuvras le institusjåvnån. Ij dåssju dat mij dal ålgoldis tjalmij vuojnnu. {Valla aj la ájnas}¥{wo|Valla l aj ájnas} dádjadit dajt hásstalusájt {mij}£{rel,pron,kongr,rel-noun|ma} varresvuodan ja máhtsastimen {lulu}£{cond,verb,kongr,subj-verb|lulun} gå ulmusj la sábme, tjielggi Trond Bliksvær.
+– Mij lip aktisattjat barggam sámij gudi sáme kultuvrav dåbddi dagu ælloniehkke Fuoskon, Arnfinn Pavall. Valla {lej}¥[cop|lij} huoman institusjåvnnåj dárbbo gehtjadit gåktu {systemmáhtalattjat}${loan,mix|systiemalattjat} adnet ja dádjadit sáme kultuvrav ja gávnadit makkir máhtudahka sáme kultuvras {le}¥{cop|la} institusjåvnån. Ij dåssju dat mij dal ålgoldis tjalmij vuojnnu. {Valla aj la ájnas}¥{wo|Valla l aj ájnas} dádjadit dajt hásstalusájt {mij}£{rel,pron,kongr,rel-noun|ma} varresvuodan ja máhtsastimen {lulu}£{cond,verb,kongr,subj-verb|lulun} gå ulmusj la sábme, tjielggi Trond Bliksvær.
 
 Álgadin sierra sáme prosjevtav
 
@@ -43,7 +43,7 @@ Navti de {ietjastis}£{refl,pron,kongr,refl-noun|ietjastisá} álgadin sierra s�
 
 Sij biedjin virggáj prosjæktajådediddjev gut galgaj gehtjadit gåktu dievnastusá doajmmi sáme pasientaj hárráj ja mij {lulu}£{cond,verb,kongr,subj-verb|luluj} dárbulasj dahkat.
 
-Prosjækta l vihpam jagev ja gatjálvis le mij la dáhpáduvvam dán jage mij luluj sáme pasientajda ávkken?
+Prosjækta l vihpam jagev ja gatjálvis {le}¥{cop|la} mij la dáhpáduvvam dán jage mij luluj sáme pasientajda ávkken?
 
 Dasi vásstet prosjæktajådediddje Erling Urheim náv:
 
@@ -52,7 +52,7 @@ Erling Urheim la jådedam prosjevtav.
 
 {Foto}∞{nor}: Harrieth Aira/NRK
 
-– Dánna li moadda oase majt lip vieledam. Sáhka la má dádjadusás, gåktu sámij barggat, vuosstij válldet ja aj {diedojt}£{noun,case,acc-ela|diedojs} sámij birra, duoje, åssko ja {duot-dát}${cmp,hyhp-X|duot dát}. Ájnas la aj dádjadusáv oadtjot gåktu sáme li ájgij tjadá vájvástuvvam. Miján lij fáhkabiejvve mij dav tjalmostij – láddáduvvama båhtusa sámij varresvuodadilláj. Duodden lip tjadádam fáhkabiejvijt, maŋemus lij {miehttseterapija}${loan,conc-j-jj|miehttseterapijja}, ja bargge li aj oassálasstám {{duon-dán}${cmp,hyph-X|duon dán}}£{dem,pron,kongr,dem-noun|duojn dájn} varresvuodaseminárajn varresvuodaseminárajn}, subtsas prosjevta jådediddje, julevsábme Erling Urheim gut la dájna barggam Valnesvuona varresvuodaguovdátjin dán maŋemus jage.
+– Dánna li moadda oase majt lip vieledam. Sáhka {la}£{cop[l} má dádjadusás, gåktu sámij barggat, vuosstij válldet ja aj {diedojt}£{noun,case,acc-ela|diedojs} sámij birra, duoje, åssko ja {duot-dát}${cmp,hyhp-X|duot dát}. Ájnas la aj dádjadusáv oadtjot gåktu sáme li ájgij tjadá vájvástuvvam. Miján lij fáhkabiejvve mij dav tjalmostij – láddáduvvama båhtusa sámij varresvuodadilláj. Duodden lip tjadádam fáhkabiejvijt, maŋemus lij {miehttseterapija}${loan,conc-j-jj|miehttseterapijja}, ja bargge li aj oassálasstám {{duon-dán}${cmp,hyph-X|duon dán}}£{dem,pron,kongr,dem-noun|duojn dájn} varresvuodaseminárajn varresvuodaseminárajn}, subtsas prosjevta jådediddje, julevsábme Erling Urheim gut la dájna barggam Valnesvuona varresvuodaguovdátjin dán maŋemus jage.
 Duodden máhtudaklåpptimij barggij gaskan de la varresvuodaguovdásj álgadam {duov-dáv}${cmp,hyph-X|duov dáv} mij {lulu}£{cond,verb,kongr,subj-verb|luluj} sámevuodav buorebut vuosedit. Buojkulvisá dagu låvdagådijt li tsieggim, sáme girjijt girjjevuorkkáj oadtjum, duodjekursajt tjadádam ja {oahpástuvvam}€{w,oahpás|oahpásmuvvam sáme værmádahkaj.
 
 Pasienta vuojnni ávkev
@@ -86,17 +86,17 @@ Ij la tjielgas jus ja gåktu prosjevtajn joarkki
 
 Jus sáme prosjækta joarkká ja man láhkáj ij la uddni tjielgas.
 
-– Ulmme la {hiebadahttet}€{w|hiebadit} åtsådallamijt majt dán prosjevta baktu lip ælvvám institusjåvnå {strategalasj}${loan,mix|strategijjalasj} bargguj vaj sjaddi stuoves oassen varresvuodaguovdátja bargos, vásstet Trond Bliksvær.
+– Ulmme {la}£{cop[l} {hiebadahttet}€{w|hiebadit} åtsådallamijt majt dán prosjevta baktu lip ælvvám institusjåvnå {strategalasj}${loan,mix|strategijjalasj} bargguj vaj sjaddi stuoves oassen varresvuodaguovdátja bargos, vásstet Trond Bliksvær.
 
 Valla makkir {konkrehta}${loan,vowc|konkriehta} dåjma jåhtuj båhti ij la tjielgas.
 
-–Varresvuodaguovdátja bargge ja stivrra ælla giehtadallam diedádusájt prosjevtas, valla ságastallama vuolen le gåjt gehtjadit jus {lulu}£{cond,verb,kongr,subj-verb|lulujma} sámegielak barggev institusjåvnnåj åttjudit jus la ruhta dasi, subtsas vas Tove Bergkvist gut jådet {mánáj ja nuoraj åssudagáv}¢{cmp,X-1|mánáj- ja nuorajåssudagáv} varresvuodaguovdátjin.
+–Varresvuodaguovdátja bargge ja stivrra ælla giehtadallam diedádusájt prosjevtas, valla ságastallama vuolen {le}¥{cop|la} gåjt gehtjadit jus {lulu}£{cond,verb,kongr,subj-verb|lulujma} sámegielak barggev institusjåvnnåj åttjudit jus la ruhta dasi, subtsas vas Tove Bergkvist gut jådet {mánáj ja nuoraj åssudagáv}¢{cmp,X-1|mánáj- ja nuorajåssudagáv} varresvuodaguovdátjin.
 
 Ja dav aj pasiænnta Svenn Johnsen doajvvu.
 
 – Doajvov de dájna joarkki. Prosjæktaj la dárbbo. Dárbbo l ulmutjij dåppe gut sámegielav sáhkat ja dádjat gå dåhku sáme båhti. Jus e máhte riekta dárogielav sáhkadit de la buorak gå la ulmusj danna gut suv dádjat. Uddni l máj navti jus sáme e dádjada dåktårijt ja barggijt de ber javlli {ja}¢{vow,a-á|já},{ja}¢{vow,a-á|já}, valla ælla huoman dádjadam, javllá Johnsen.
 
-Dán bále la de dát prosjækta nåhkåm ja sáme prosjæktajådediddje la ietjas bargujn ållim.
+Dán bále la de dát prosjækta nåhkåm ja sáme prosjæktajådediddje {la}£{cop[l} ietjas bargujn ållim.
 
 {GULLDAL}£{x|GULLDALA} ÁSSJEV:
 
