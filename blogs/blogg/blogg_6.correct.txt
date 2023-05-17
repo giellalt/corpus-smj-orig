@@ -77,7 +77,7 @@ Buoris gájka!
 
 {Lav}¥{cop|Lev} {ierijt}${fin,jt-t|ierit} læhkám guokta vahko, valla dálla lav ræjsos ållim. Gierunin, ja skåvllå {le}¥{cop|l} vas álggám.
 Snåsan, Åren, Valsjöbyn ja {Ubmemin}${conc,bm-bbm|Ubbmemin} lin måj Per Mathisijn årrum.
-{Gal le}¥{wo|Le gal} riek suohtas læhkám! Valla dálla lin {vájbbam,}‰{punct|vájbbam.}
+{Gal {le}¥{cop|la}}¥{wo|Le gal} riek suohtas læhkám! Valla dálla lin {vájbbam,}‰{punct|vájbbam.}
 
 Sáme {vahkkon}¢{conc,hkk-hk|vahkon} {Ubmemin}${conc,bm-bbm|Ubbmemin} lijma {dáv}£{dem,pron,kongr,dem-noun|dán} ájllega. Årojma buorre rádna lunna, Evelina.
 Mij lip {graffitiv}${loan,mix|graffihttiv} mállim, ja {sisbandyav}${loan,mix|sisbanndihav} spellam. Ållo ulmutjijt iejvvim, ja konsertajt gulldalam.
