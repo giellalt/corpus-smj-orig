@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/saernieh/buerebelaakan-saemiedigkine-aahpenh-dov-mobijlen-tjirrh.20618.aspx?sprak=15'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/aktuelt/bli-bedre-kjent-med-sametinget-via-din-mobiltelefon.15707.aspx?sprak=15'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Oahpástuvá Sámedikkijn ietjat mobijla baktu - Sámedigge'"/>
     <!--
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="'2022'"/>
+    <xsl:variable name="year" select="'2021'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -124,6 +124,14 @@
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="mainlang" select="'smj'"/>
 
+    <!-- This variable indicates orthography. If the text is written in the
+         current (today's) orthography, the value may be left empty ("''")
+         or marked "'contemoprary'"). Orthography names are written without capital 
+         letters, the command "ccat -l sme -o names" (etc.) will give the available 
+         orthograpies. Example names: bergslandruong, friis, itkonen, leem, ...
+    -->
+     <xsl:variable name="orthography" select="''"/> 
+    
     <!--
         In the case of a multilingual document, we may want to check for
         other languages. Set the variable monolingual to '1' to turn off
@@ -168,10 +176,10 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="na_far_du_omvisning_via_app_ogsa_pa_engelsk.html"/>
+        <parallel_text xml:lang="nob" location="bli_bedre_kjent_med_sametinget_via_din_mobiltelefon.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="buerebelaakan_saemiedigkine_aahpenh_dov_mobijlen_tjirrh.html"/>
-        <parallel_text xml:lang="sme" location="dal_oaccut_ofelastima_giehtatelefuvnna_bokte_maiddai_enggelasgillii.html"/>
+        <parallel_text xml:lang="sme" location="oahpasmuva_samedikkiin_iezat_giehtatelefovnna_bokte.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
