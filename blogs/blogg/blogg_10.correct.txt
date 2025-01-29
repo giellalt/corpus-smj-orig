@@ -32,7 +32,7 @@ Ja javlav, dán {iehkedin}£{noun,case,ine-gen|iehkeda} la ihkeva fávrro
 
 Vuolgijma fæsstaj
 
-Ja gájka munnuj gæhttjin {Dáv}£{dem,pron,case,acc-gen|Dán} fávros {næjtsov}£{noun,case,acc-ill|næjttsuj}
+Ja gájka munnuj gæhttjin {Dáv fávros næjtsov}£{numphrase,dem,pron,noun,kongr,sgacc-sggen,sgacc-sgill|Dán fávros næjttsuj}
 
 Guhti muv siegen la
 
@@ -82,7 +82,7 @@ Muv {ådå rássjojáhkka Haglöfs}¥{wo|ådå Haglöfs rássjojáhkka}, ja åd�
 Jur sijddaj boahtám:
 
 
-Ja gå la Vuonarijka álmmukbiejvve de Sara, akta paralellklássan muv bielggetjuvddegadtsaj vuonaslávgáv mállij.
+Ja gå la Vuonarijka álmmukbiejvve de Sara, {akta paralellklássan}£{numphrase,num,kongr,sgnom-ess|aktan paralellklássan} muv bielggetjuvddegadtsaj vuonaslávgáv mállij.
 
 Vuorbbe biejvijn!
 

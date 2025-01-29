@@ -35,8 +35,8 @@ Skåvllå l álggám ja tjaktja {le}¥{cop|l} boahtám. Buorre l dánna Gierunin
 Heja maŋŋela vuolggiv Gierunij. {SM’an}${suf|SM:an} lidjiv Bårjjåsin, {ja}¥{ja dan} maŋŋela Ieddne bådij. Måj lijma vádtsemin várijn {Abiskuovven}${mix|Ábeskåvon}, buorre ja hávsskes manno {lej}¥{cop|lij}. Ja dan maŋŋela manniv {Jåhkåmåhkåj}${conc,hk-hkk|Jåhkåmåhkkåj} tjavtjamárnánij ja Árviesjávrráj {Intrigue’av}${suf|Intriguev} gehtjatjit.
 Ja vijmak skåvllå álgij!
 Låssåt {lej}¥{cop|lij} hæhkkat {biel’}‰{x[biel} gietjan badjánit juohkka ideda, valla dálla {lev}¥{cop|lav} rutijnajda boahtám vas. Oadet binnep ja ájádallat ålles biejvijt..
-{Lip}¥{cop|Lep} álggám {Matematikk-Dajn}∞{swe}, ja dat la nav {låsså}€{x|gássjelis} fáhka. Iv diede jus nagáv dáv kursav dåssju {åvtåjn}£{num,kongr,num-noun|åvtån} termijnan låhkåt, valla galgav gievrra liehket ja doarrot dajna desik buvtáv!
-Iektu {dievtij}${conc,vt-vd|dievdij} {åvtå}£{num,case,gen-nom|akta} muv buoremus rádnajs, Sanne, lågenangávtse jage! {Lijma}¥{cop|Lejma} stiellim njálga biebmojt ja hávsskudalájma.
+{Lip}¥{cop|Lep} álggám {Matematikk-Dajn}∞{swe}, ja dat la nav {låsså}€{x|gássjelis} fáhka. Iv diede jus nagáv dáv kursav dåssju {åvtåjn termijnan}£{numphrase,num,kongr,pline-sgine,num-noun|åvtån termijnan} låhkåt, valla galgav gievrra liehket ja doarrot dajna desik buvtáv!
+Iektu {dievtij}${conc,vt-vd|dievdij} {åvtå}£{num,case,sggen-sgnom|akta} muv buoremus rádnajs, Sanne, lågenangávtse jage! {Lijma}¥{cop|Lejma} stiellim njálga biebmojt ja hávsskudalájma.
 
 De nav. Galgav gæhttjalit nav álu gå máhttelis tjállet dánna {bloggan}${loan,vowc,o-å;conc,gg-kk|blåkkan}. Gå skåvllå {le}¥{cop|l} álggám {lev}¥{cop|lav} vas tjállemhálov oadtjum.
 
