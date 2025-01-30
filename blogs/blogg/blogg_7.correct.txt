@@ -6,7 +6,7 @@ Lávvodagá rájes lav duok diek mannam. Per Mathis muv lusi bådij {bierjedagá
 Sådnåbiejve vattijma vas Gierunij páhkkitjit, ja Fossbakkenij jåvsådijma iehkedappon.
 Dat lij {vuostasjbále}${cmp,1-X|vuostasj bále} Fossbakkenin munji. Riek suohtas ja diehttelis riek geldulasj. Iv lim {guossak}${vowc,uo-oa|goassak} iejvvim suv æjgádijt, valla jáhkáv manáj buoragit. {Hávsske}¥{missing|Hávsske l} gæhttjat Per Mathisa sijddabájkev ja gånnå sån {le}¥{cop|la} bajássjaddam.
 Uddni (dijstagá) manájma {Narvijkaj}${conc,jk-jkk|Narvijkkaj} bijlav viettjatjit. PM la {ruopsis}${conc,ps-pps|ruoppsis} Toyota Corollav oasstám, {dåhkkij}¢{fin,j-0|dåhkki} dat!
-Bådijma {dieki}${vowlat,i-0|diek} Stuorgæddáj áhtje ja Inger-Lise lusi biel vidá bájken. Buorre {sunnu}£{pers,pron,case,gen-acc|sunnuv} vuojnnet.
+Bådijma {dieki}${vowlat,i-0|diek} Stuorgæddáj áhtje ja Inger-Lise lusi biel {vidá bájken}£{numphrase,num,kongr,sggen-sgine|vidán bájken}. Buorre {sunnu}£{pers,pron,case,gen-acc|sunnuv} vuojnnet.
 Idet vas vaddin oarjás, Snåsaj. {Suohtas}¥{missing|Suohtas la} manon liehket.
 
 Dálla vierttijin {oaddátjit}€{infl,sup-inf|oaddát} {navti ahte}€{w|váj} nahkin árrat idedis smaredit.
