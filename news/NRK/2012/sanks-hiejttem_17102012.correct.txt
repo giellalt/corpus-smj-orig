@@ -44,7 +44,7 @@ Inga Karlsen diehtá {ållusa}€{w|ålos} julevsámeguovlos li {SANKS-a}${suf|S
 
 Stuorra berustibme julevsáme guovlon
 
-Árvustallam majt SANKS la tjadádam {daj}£{dem,pron,kongr,dem-num|dan} {niellja}£{num,kongr,num-noun|nieljen} {jagij}£{noun,kongr,num-noun|jagen} maŋŋel gå SANKS ásadij sierra kontåvråv Ájluoktaj, Divtasvuodnaj vuoset SANKS la vierttim duodde ulmutjijt biedjat bargatjit Divtasvuona kontåvrråj.
+Árvustallam majt SANKS la tjadádam {daj niellja jagij}£{numphrase,dem,pron,num,noun,kongr,plgen-sgine,sgnom-sgine,dem-num,num-noun|dan nieljen jagen} maŋŋel gå SANKS ásadij sierra kontåvråv Ájluoktaj, Divtasvuodnaj vuoset SANKS la vierttim duodde ulmutjijt biedjat bargatjit Divtasvuona kontåvrråj.
 
 {"}‰{”}{...}‰{ellip|…} {Li}¥{cop|Le} læhkám viehka ållo {pasiennta}${conc,nnt-nt|pasienta} dán kontåvrån, {så}∞{nor} mij lip vierttim {biejdat}${typo|biedjat} lasse barggijt dåhku {vaj duosstot dárbojt}¥{x|duostotjit dárbojt}{...}‰{ellip|…}{"}‰{”} tjállá SANKS ietjas árvustallamin.
 

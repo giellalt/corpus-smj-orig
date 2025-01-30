@@ -1,6 +1,6 @@
 Gállomihttim jåvsåj gitta skåvllådåhpåj
 
-Juoga aktisasj la gállo alludagá gaskan ja man tjiehppe lidji åhpadusáv åmastittjat. Dát dáhpe gulluj dan ájggáj gånnå rumáj subtsastij kultuvralasj åvddånahttema birra. {Sosialdarwinisma}¢{loan,conc,sm-ssm|Sosialdarwinissma} ja gállomihttim {gulluj}£{verb,kongr,subj-verb|gullujin} dan dáhpáj, ja jåvsåj aj gitta skåvllådåhpåj.
+Juoga aktisasj la gállo alludagá gaskan ja man tjiehppe lidji åhpadusáv åmastittjat. Dát dáhpe gulluj dan ájggáj gånnå rumáj subtsastij kultuvralasj åvddånahttema birra. {Sosialdarwinisma}¢{loan,conc,sm-ssm|Sosialdarwinissma} ja gállomihttim {gulluj}£{verb,kongr,subj-verb,prtsg3-prtpl3|gullujin} dan dáhpáj, ja jåvsåj aj gitta skåvllådåhpåj.
 
 
 {Bájken}€{w,|Jagen} 1915 ja 1921 mannin {antropologa}${mix|antropolåvgå} Divtasvuonan mihttimin sámijt, valla ettjin huoman gávna {sierradusájt}${conc,rr-r|sieradusájt} sámij ja dáttjaj gaskan. Dát guoradallam, degu {Ditasvuonan}${conc,t-vt|Divtasvuonan} ja ietjá bájkijn væráldin aj, lij oasse stuoráp {rijkagasskasasj}¢{fin,0-j|rijkajgasskasasj} guoradallamijs gånnå ulmme lij ieme ulmusjtjerdajt gávnnat.
@@ -24,7 +24,7 @@ Ij {dåhkkidahtte}¥{missing,cop|lim dåhkkidahtte}
 
 Oarjjevuodna guovdátjin
 
-Jagen 1886 lij dárojduhttempolitihkka {nav}€{w|riek} nanos, ja sámegielak åhpadiddje lidjin ”dagu ruge {másjijnan}${vowc,á-a|masjijnan}”. Åhpadiddje galggin aj {avta}£{num,kongr,num-noun|avtav} gaskav gæhttjat vaj {ittjij sámegiella}¥{wo|sámegiella ittjij} tijmaj ålggolin gullu. Sámegiella ittjij galga gullut ietján gå ållu niedan.
+Jagen 1886 lij dárojduhttempolitihkka {nav}€{w|riek} nanos, ja sámegielak åhpadiddje lidjin ”dagu ruge {másjijnan}${vowc,á-a|masjijnan}”. Åhpadiddje galggin aj {avta gaskav}£{numphrase,num,kongr,sggen-sgacc,num-noun|avtav gaskav} gæhttjat vaj {ittjij sámegiella}¥{wo|sámegiella ittjij} tijmaj ålggolin gullu. Sámegiella ittjij galga gullut ietján gå ållu niedan.
 
 -Åhpadiddjij vánesvuohta sámegiellaj ja aj vánesvuohta {{oahppamnevvagijda}${infl|oahppamnævojda}}€{w|oahpponævojda}, oattjoj aj stuorra merkadusáv dasi gåktu giella- ja skåvllåpolitihkka dalloj tjadáduváj, giehttu Evjen ja {vuoset aj gå}¥{missing|vuoset aj dasi gå} Skåvlik-Jáhkki Måsken åhpadij 1800-lågo {maññegietjen}${ascii|maŋŋegietjen}.
 
