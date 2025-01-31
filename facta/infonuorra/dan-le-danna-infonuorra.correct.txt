@@ -15,7 +15,7 @@ amerijkaieŋŋilsgiellaj)
 
 Dåhku jåhtet lij ållu ietjálágásj ja {unnán}€{w|vehik} {gássjelis}¥{adj,attr-pred|gássjel} danen gå
 divna lij ådå. Valla diedon riek geldulasj aj. {Fámillja}${loan,vowc,á-a|Famillja}
-{Edinburgh:an}${suf|Edinburghan} {le}¥{cop|la} guossodimieddne Patricia ja suv 12 jagák
+{Edinburgh:an}${suf|Edinburghan} {le}¥{cop|la} guossodimieddne Patricia ja suv {12 jagák}£{numphrase,arab,kongr|12:e jagák}
 bárnne Josh. Eskil hávsskudallá sunnu siegen ja subtsastallá suv ja
 guossodimiednes miella {le}¥{cop|l} sæmmilágásj, ja nav máhtteba tjåhkudallat ja
 dåssju suohttasijt ságastallat, tjajmmat ja hávsskudallat aktan.
@@ -53,8 +53,8 @@ education}∞{eng}" mij {le}¥{cop|la} lásjmudallam, "{modern studies}∞{eng}"
 sebrudakfáhka, {ja}¥{redun|} ieŋŋilsgiella ja matematihkka. Suv skåvlån li
 nuorap ja vuorrasap oahppe.
 
-- Leith {Academy:an}${suf|Academyn} {li oahppe 12 jage gitta 18 jage
-gaskan}¥{redun|li oahppe 12 ja 18 jage gaskan}, ja {nav}€{w|danen} li aj ållo
+- Leith {Academy:an}${suf|Academyn} li oahppe {12 jage}£{valens|12:et jages} gitta {18 jage}£{numphrase,num,arab|18:e jage}
+gaskan, ja {nav}€{w|danen} li aj ållo
 "smávmáná" váttsáldagájn, subtsastallá Eskil.
 
 Moattes {oahpperádnajs}€{w|skåvllårádnajs} e åvvånis diede gånnå Vuodna {le}¥{cop|l}.
