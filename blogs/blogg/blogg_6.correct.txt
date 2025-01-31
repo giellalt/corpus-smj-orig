@@ -10,7 +10,7 @@ Mån lav åhtsåm {guokta universitehtajda}£{numphrase,kongr,sgnom-sgill,plill-
 
 Dálla ietjá ássjáj.
 
-{Ævtásj}¢{nom-gen|Ævtátja} rájes {le}¥{cop|la} boahtám {galle}€{w|moadda} artihkkala {median}${loan,mix|mediján} {da biledimij}£{numphrase,dem,pron,kongr,plnom-plgen,dem-noun|daj biledimij} birra {mij}£{rel,pron,kongr,rel-noun|ma} dahpaduvvin Jåhkåmåhke márnánin 2011. Guokta næjtso bileduvvin {åvtå báhtjas}£{numphrase,kongr,sggen-sgela,num-noun|åvtåt báhtjas} {Guovddogæjnos}${vowlat,o-a|Guovddagæjnos} ja akta!!! Kárásjjågås. Næjtso ettjin dåbdå nubbe {nubbáj}£{recipr,case,ill-acc|nuppev}.
+{Ævtásj}¢{nom-gen|Ævtátja} rájes {le}¥{cop|la} boahtám {galle}€{w|moadda} artihkkala {median}${loan,mix|mediján} {da biledimij}£{nounphrase,dem,pron,kongr,plnom-plgen,dem-noun|daj biledimij} birra {mij}£{rel,pron,kongr,rel-noun|ma} dahpaduvvin Jåhkåmåhke márnánin 2011. Guokta næjtso bileduvvin {åvtå báhtjas}£{numphrase,kongr,sggen-sgela,num-noun|åvtåt báhtjas} {Guovddogæjnos}${vowlat,o-a|Guovddagæjnos} ja akta!!! Kárásjjågås. Næjtso ettjin dåbdå nubbe {nubbáj}£{recipr,case,ill-acc|nuppev}.
 {Median}${loan,mix|Mediján} tjuodtju ahte facebookan gávnnu {juohkus}¢{infl|juogos} ulmutjijda {guhti}£{rel,pron,kongr,rel-noun|gudi} doarjodi dáv báhtjav Kárásjjågås. Ulmutjijda {guhti}£{rel,pron,kongr,rel-noun|gudi} jáhkki báhtjajda, {guhti}£{rel,pron,kongr,rel-noun|gudi} vuornodibá biledimev.
 Dán juohkusin li sebrulattja d.d. polijsa, politihkkára ja journalista. Almulasj ulmutja doarjodi {biledimbáhtjajda}£{noun,case,ill-acc|biledimbáhtjajt}.
 Dåbdåv måjdås. Báhtja li {GUOKTE}${vowlat,e-i|GUOKTI} {duobbmidallám}${vowlat,á-a|duobbmidallam} duobbmoståvlås. Ij la dat nuoges {vuosedit}€{infl,inf-sup|vuosedittjat} ahte såj libá siválattja?
@@ -79,7 +79,7 @@ Buoris gájka!
 Snåsan, Åren, Valsjöbyn ja {Ubmemin}${conc,bm-bbm|Ubbmemin} lin måj Per Mathisijn årrum.
 {Gal {le}¥{cop|la}}¥{wo|Le gal} riek suohtas læhkám! Valla dálla lin {vájbbam,}‰{punct|vájbbam.}
 
-Sáme {vahkkon}¢{conc,hkk-hk|vahkon} {Ubmemin}${conc,bm-bbm|Ubbmemin} lijma {dáv ájllega}£{numphrase,dem,pron,kongr,sgacc-sggen,dem-noun|dán ájllega}. Årojma buorre rádna lunna, Evelina.
+Sáme {vahkkon}¢{conc,hkk-hk|vahkon} {Ubmemin}${conc,bm-bbm|Ubbmemin} lijma {dáv ájllega}£{nounphrase,dem,pron,kongr,sgacc-sggen,dem-noun|dán ájllega}. Årojma buorre rádna lunna, Evelina.
 Mij lip {graffitiv}${loan,mix|graffihttiv} mállim, ja {sisbandyav}${loan,mix|sisbanndihav} spellam. Ållo ulmutjijt iejvvim, ja konsertajt gulldalam.
 
 
