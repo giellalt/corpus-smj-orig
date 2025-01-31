@@ -41,7 +41,7 @@ Lågå aj: Dåssjen adni pládnabargov
 Lågå aj: {Slakter planprosess}∞{nor}
 Lågå aj: {Avviser plankritikk}∞{nor}
 
-Arealplánan la duola dagu bijllarahte Måsskåj biejadum, færjodak E-6 nieljijn {råvij}£{noun,kongr,num-noun|råvijn} Divtasvuona sisvuonaj rastá, tjáhtjefábmoávkástallam Svieriga bieles Utsvuona bajelt Rudnávuonan ja {gasskarijkasasj}${mix|rijkajgasskasasj} bijllarahte Divtasvuona ja Svieriga gaskan.
+Arealplánan la duola dagu bijllarahte Måsskåj biejadum, færjodak E-6 {nieljijn råvij}£{numphrase,noun,kongr,num-noun|nieljijn råvijn} Divtasvuona sisvuonaj rastá, tjáhtjefábmoávkástallam Svieriga bieles Utsvuona bajelt Rudnávuonan ja {gasskarijkasasj}${mix|rijkajgasskasasj} bijllarahte Divtasvuona ja Svieriga gaskan.
 
 Duodden aj tjuodtju juoga Rumbojávrij birra, {Davve-Vássján}£{prop,case,ess-ine|Davve-Vásján} dajt dulvvadit ja muhtem bájkijt vuorodit bieggamilloásadusájda.
 

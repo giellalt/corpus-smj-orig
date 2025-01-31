@@ -4,7 +4,7 @@ Uddni gå smaredit lidjiv riek nielgen ja {huomájiv}${conm,j-h|huomáhiv} galgg
 
 Gåktu dahkat dajt slåppåjt:
 
-1 månev
+{1 månev}£{numphrase,num,kongr|1:av månev}
 
 {1 stuor bastiv}£{numphrase,num,kongr|1:av stuor bastiv} {ruobemus}${adj,infl|ruohpásamos} jáfoj
 

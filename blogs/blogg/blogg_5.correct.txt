@@ -2,7 +2,7 @@
 
 {Japp}∞{sla}, dálla lav bässásjloabev oadtjum, hávsske jus mujsta gatjáda. Dálla lav gåjt páhkkimin Guovddagäjnnuj. {Lav}¥{cop|Lev} ruvva gärggam, galgav dåssju páhkkit dábálasj biktasijt. Ja {åvddål}¥{missing|åvddål gå} vuolggin de vierttiv {dussjit}€{foreign,swe|sjoavodit} ja bivtastit. {Lidjiv}¥{cop|Ledjiv} sihtat tjuojggat aj valla iv jáhke dat la nav buorre ájn. Iv la {varrestuvvam}${vowlat,e-á;coninit,t-m|varrásmuvvam} ájn, snuolgga gåjt gålggå ja gåsåv degu iv diede majt{...}‰{ellip|…}valla iv gåjt ane {tjåddåbákjtasav}${conc,kjt-ktj;conc,dd-tt|tjåttåbáktjasav} dálla.{  }‰{singlespace| }Jáhkáv måj lin mannamin guovte tijma duogen, valla dav iv goassak diede mijá vegajn.
 
-Ietján iv la nav ålojt dahkam dájt biejvijt. Manniv skåvllåj gasskavahko danen gå mij anijma {nationella}${loan,mix|nasjåvnålasj} gähttjalimev skåvlån. {Lidjiv}¥{cop|Ledjiv} aj skåvlån iektu ja ij lim {ålov}£{indef,pron,case,acc-nom|ållo} mij {dahpaduváj}¢{vowc,a-á;vowlat,a-á|dáhpáduváj}. Valla lav gåjt gärggam {niellja}£{num,kongr,num-noun|nieljijn} {bargoj}£{noun,kongr,num-noun|bargujn}, buorre l dat, de iv dárbaha barggat gå {le}¥{cop|la} loahpe.
+Ietján iv la nav ålojt dahkam dájt biejvijt. Manniv skåvllåj gasskavahko danen gå mij anijma {nationella}${loan,mix|nasjåvnålasj} gähttjalimev skåvlån. {Lidjiv}¥{cop|Ledjiv} aj skåvlån iektu ja ij lim {ålov}£{indef,pron,case,acc-nom|ållo} mij {dahpaduváj}¢{vowc,a-á;vowlat,a-á|dáhpáduváj}. Valla lav gåjt gärggam {niellja bargoj}£{numphrase,num,noun,kongr,num-noun|nieljijn bargujn}, buorre l dat, de iv dárbaha barggat gå {le}¥{cop|la} loahpe.
 
 Lev gåjt jur gattsajt láhkkim {rosa}€{foreign,swe|guovggisruoppsis} bájnojn, ja vuordáv ahte galggi gåjkkåt.
 
@@ -124,7 +124,7 @@ Amásgiella
 
 1
 
-Mån gatjádiv {låge}£{num,kongr,num-noun|låget} {ulmutjijs}£{noun,kongr,num-noun|ulmutjis} sijá gielaj birra. Dá ulmutja lidjin 15-60 jage gaskan. Ja {soames}£{indef,pron,kongr,subj-verb|soabmása} dajs {vasstedin}${vowc,a-á|vásstedin} guok {gielá}${vowlat,á-a|giela} avta gatjálvisán.
+Mån gatjádiv {låge ulmutjijs}£{numphrase,num,noun,kongr,num-noun|låget ulmutjis} sijá gielaj birra. Dá ulmutja lidjin 15-60 jage gaskan. Ja {soames}£{indef,pron,kongr,subj-verb|soabmása} dajs {vasstedin}${vowc,a-á|vásstedin} guok {gielá}${vowlat,á-a|giela} avta gatjálvisán.
 
 tjállám: Naima {kloahkká}${loan,vowlat,á-a|kloahkka} 11:23
 
@@ -138,7 +138,7 @@ Dat la juo {mannán}${vowlat,á-a;fin,n-m|mannam} moadda vahko {dan}£{dem,pron,
 
 Unnán dan birra. Dálla galgav tjállet gåk manáj.
 {Sjuohppongilppon}${mix|Sjuohppimgilppusin} båhtiv: 1/8(!!!!!!!) Mån båhtiv vuostasj sadjáj :D: D. {Diejvviv}${vowc,ie-æ|Dæjvviv} 8/10 {sjuohppomijt}${vowlat,o-i|sjuohppimijt}.
-5km {klassisk}∞{swe} tjuojgos: 3/4. Iv la nåv dudálasj{....}‰{ellip|…} {Lidjiv}¥{cop|Ledjiv} 2.26 {minuhtta}£{noun,kongr,num-noun|minuhta} vuostasj tjuojgge {mangel}${ascii|maŋŋel}.
+5km {klassisk}∞{swe} tjuojgos: 3/4. Iv la nåv dudálasj{....}‰{ellip|…} {Lidjiv}¥{cop|Ledjiv} {2.26 minuhtta}£{numphrase,noun,kongr,num-noun|2.26 minuhta} vuostasj tjuojgge {mangel}${ascii|maŋŋel}.
 
 Ja dálla lav mån nåv spännjda gullat gut AWG:aj bässá {nuppe}€{w|boahtte} jahkáj. Dav oattjov diehtet máno duogen. Sávav mån oattjov {mánnat}${vowc,á-a|mannat}.
 
