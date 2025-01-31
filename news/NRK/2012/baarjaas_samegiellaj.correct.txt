@@ -19,7 +19,7 @@ Gitta 1999-jage rájes la dát ájggetjála boahtám jur javlaj åvddåla.
 {Foto}∞{nor}: Harrieth Aira / NRK
 Dán jage la Árran válljim stuorra oasev artihkkalijs aj julevsámegiellaj almodit.
 
-Ja dav sij dahki moatte siváj diehti.
+Ja dav sij dahki {moatte siváj}£{numphrase,noun,kongr,num-noun|moatte sivá} diehti.
 
 – Ietjastis la má ájnas {artihkkala}¥{missing|gå artihkkala} båhti julevsámegiellaj vaj ulmutja galggi {máhttet}€{w|bessat} låhkåt {fágaartihkalijt}${conc,g-hk|fáhkaartihkkalijt} aj sámegiellaj. Dán jage lip aj oadtjum doarjjagav Sámedikkes sáme tjállusijda, ja danna l gájbbádus jut 50 prosenta tjállagijs galggi liehket sámegiellaj, subtsas Skarvik.
 
@@ -32,7 +32,7 @@ Dánna li artihkkala dagu dálkádakhiebadibme ællosujton Nordlándan, ællosuj
 
 Duodden li aj artihkkala dutkametihkas ja guokta tjállusa gånnå varresvuohta {la}£{cop|l} {tiebmá}£{noun,case,nom-ess|tiebmán}. Duodden la aj akta artihkal bidumsáme bájkkenamáj birra.
 
-- Tjállagin li artihkkala {daj}£{dem,pron,kongr,dem-num|dan} {gålmmå}£{num,pron,kongr,num-noun|gålmå} {tiemáj}£{noun,kongr,num-noun|tiemá} birra ma li ássje majna Árran la barggam dán maŋemus jage, subtsas Skarvik.
+- Tjállagin li artihkkala {daj}£{dem,pron,kongr,dem-num|dan} {gålmmå tiemáj}£{numphrase,num,noun,kongr,sgnom-sggen,plgen-sggen,num-noun|gålmå tiemá} birra ma li ássje majna Árran la barggam dán maŋemus jage, subtsas Skarvik.
 
 Uddni aj bidumsáme girjje almoduvvá
 

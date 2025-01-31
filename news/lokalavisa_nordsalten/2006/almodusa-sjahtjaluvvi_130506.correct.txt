@@ -18,7 +18,7 @@ Eriksen ij la gæhttjalam gåvvididdjev ietjá sáme guovlojs. Sån usjudallá g
 
 {Ij {amatørajt}${loan,vowc,ø-e|amaterajt}}¥{missing|Ij amaterajt lágeda}
 
-Sámedikke gåvvididdjekonsulænnta Aino Hivand la moadda {gåvåjt}£{noun,kongr,num-noun|gåvå} gæhttjam ja válljim gåvåjt almmudagáj åvdås. Hivand gæhttjá vuostak makkár perspektijvva l gåvån ja aj ållesvuodav gåvån.
+Sámedikke gåvvididdjekonsulænnta Aino Hivand la {moadda gåvåjt}£{numphrase,noun,kongr,sgacc-sggen,num-noun|moadda gåvå} gæhttjam ja válljim gåvåjt almmudagáj åvdås. Hivand gæhttjá vuostak makkár perspektijvva l gåvån ja aj ållesvuodav gåvån.
 
 -Gå lav mánusa tjadá låhkåm, de gehtjav gåvåjda ma girjjáj gulluji. Gehtjav makkár åvddånbuktemvuohke {la}£{cop|l} gåvån, ja gehtjav aj vaj la sæmmi åvddånbuktemvuohke ålles girjen. Jus la dárbbo, de buvtáv ævtodusájt stuorrudahkaj ja vájbi ietjá elementajt adnet, giehttu Hivand.
 

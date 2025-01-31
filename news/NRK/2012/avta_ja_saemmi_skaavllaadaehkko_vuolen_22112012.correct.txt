@@ -13,7 +13,7 @@ Lávllagij Ájluovta skåvlå mánájskåvlådáses ja {báloaŋŋaspreggijmij}$
 
 Lejga oahppeguovtes Wilma Jessen ja Martin {Kuntsen}${typo|Knutsen} gudi {almmulattjat}${conc,lmm-lm|almulattjat} rabájga ådå {skvållåhuodnahijt}${typo|skåvllåhuodnahijt}.
 
-Dat merkaj mánájskåvllå ja nuorajskåvllå li {tjoahkkiduvvin}£{x|tjoahkkidum} avta sadjáj ja ælla des dagu åvddål guovte sierra {skåvllåhuodnahijda}£{noun,kongr,num-noun|skåvllåhuodnahij} sieradum.
+Dat merkaj mánájskåvllå ja nuorajskåvllå li {tjoahkkiduvvin}£{x|tjoahkkidum} avta sadjáj ja ælla des dagu åvddål {guovte sierra skåvllåhuodnahijda}£{numphrase,noun,kongr,num-noun|guovte sierra skåvllåhuodnahij} sieradum.
 
 Måttijt {{lågevjagijt}${cmp,1-X|lågev jagijt}}£{num,kongr,num-noun|lågijt jagijt} la nuorajskåvllå skåvllim Ájluovta oabme skåvlån mij la {oabme}£{adj,attr-pred|oames} ja ij la hiebadahtedum udnásj dárbojda ja gájbbádusájda.
 

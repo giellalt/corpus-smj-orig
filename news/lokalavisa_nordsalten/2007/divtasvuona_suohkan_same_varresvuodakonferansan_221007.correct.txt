@@ -4,7 +4,7 @@ Suohkandåktår Rolf Peder Tennebø ja varresvuoda- ja sosiálaoajvve Lill-Tove 
 
 - Mån ávvusav gå vuojnáv åvdåstiddje {Divtasvuodna}£{prop,case,nom-gen|Divtasvuona} suohkanis li dánna uddni. 
 
-Dav javllá {sámediggeájras}¢{cmp,nom-gen|sámedikkeájras} Miriam Paulsen (NSR), gut lij akta badjelasj {tjuohte}£{num,kongr,num-noun|tjuodet} {oassálasstijs}£{noun,kongr,num-noun|oassálasstes} Sámedikke varresvuoda -ja sosiálakonferánsan Råmsån åvdep {váhko}${vowc,á-a|vahko}.
+Dav javllá {sámediggeájras}¢{cmp,nom-gen|sámedikkeájras} Miriam Paulsen (NSR), gut lij akta badjelasj {tjuohte oassálasstijs}£{numphrase,num,noun,kongr,num-noun|tjuodet oassálasstes} Sámedikke varresvuoda -ja sosiálakonferánsan Råmsån åvdep {váhko}${vowc,á-a|vahko}.
 
 
 - Gájka vierttiji mujttádahteduvvat sámij pasientaj dárboj ja riektáj birra, aj {Divtasvuodna}£{prop,case,nom-gen|Divtasvuona} suohkan, javllá Paulsen. 
@@ -23,7 +23,7 @@ Ij la vánesvuohta
 
 Doajmmá gus duv mielas varresvuodadievnastus buorre láhkáj {Divtasvuodna}£{prop,case,nom-gen|Divtasvuona} suohkanin sámij riektáj ja dárboj hárráj?
 
-- Iv mån máhte vásstedit {nuppe}€{kongr|ietjá} åssudagáj åvdås, valla dåktårij gaskan ep la oadtjum åvvånis {avta}£{x|avtak} gatjálvisáv dåktårdievnastusáv hiebadit {dájt}£{dem,pron,kongr,dem-num|dá} 2 ½ {jagijt}£{noun,kongr,num-noun|jage} gå lav Divtasvuonan barggam, juogu de guosská guládallamij jali ietjá ássjijda. Dåktåra ælla åtsådallam makkirak vánesvuodav, juska dal dat ij sidá javllat muhtemij mielaj milta ij buoremus láhkáj dåjma.
+- Iv mån máhte vásstedit {nuppe}€{kongr|ietjá} åssudagáj åvdås, valla dåktårij gaskan ep la oadtjum åvvånis {avta}£{x|avtak} gatjálvisáv dåktårdievnastusáv hiebadit {dájt 2 ½ jagijt}£{numphrase,pron,noun,kongr,num-noun|dá 2 ½ jage} gå lav Divtasvuonan barggam, juogu de guosská guládallamij jali ietjá ássjijda. Dåktåra ælla åtsådallam makkirak vánesvuodav, juska dal dat ij sidá javllat muhtemij mielaj milta ij buoremus láhkáj dåjma.
 
 Vuorddá ienep dåjmajt
 

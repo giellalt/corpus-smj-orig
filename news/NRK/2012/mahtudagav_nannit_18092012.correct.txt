@@ -4,9 +4,9 @@ Vuostasj studenta julevsáme bacheloråhpadusán {Nordlánda universitehtan}¢{v
 
 {Foto}∞{nor}: Sander Andersen/NRK
 
-Uddni rahpusij julevsáme bacheloråhpadus {Nordlánda universitehtan}¢{vocw,e-ie|Nordlánda universitiehtan} sierra mujttádahttemijn gåsi studenta lidjin bivddidum. Ja Bodø Glimta {lijkkemållagáhttár}¢{conc|lijggemållagáhttár}, 20 jahkásasj Adrian Nystø Mikkelsen, la aj álggám dán åhpadussaj.
+Uddni rahpusij julevsáme bacheloråhpadus {Nordlánda universitehtan}¢{vocw,e-ie|Nordlánda universitiehtan} sierra mujttádahttemijn gåsi studenta lidjin bivddidum. Ja Bodø Glimta {lijkkemållagáhttár}¢{conc|lijggemållagáhttár}, {20 jahkásasj}£{numphrase,arab|20:e jahkásasj} Adrian Nystø Mikkelsen, la aj álggám dán åhpadussaj.
 
-– Mij ham dárbahip máhtudagáv sámegiellaj ja dan diehti {la}£[l} máj dárbbo låhkåt sámegielav javllá Adrian Nystø Mikkelsen akta {dajs 21 studentajs}£{numphrase,dem,pron,noun,kongr,plela-sgela,dem-num,num-noun|dat 21 studentas} {gut}£{rel,pron,kongr,rel-noun|gudi} uddni {álgij}£{verb,kongr,subj-verb|álggin} dan vuostasj bacheloråhpadussaj julevsámegielan, {Nordlánda universitehtan}¢{vocw,e-ie|Nordlánda universitiehtan}.
+– Mij ham dárbahip máhtudagáv sámegiellaj ja dan diehti {la}£[l} máj dárbbo låhkåt sámegielav javllá Adrian Nystø Mikkelsen akta {dajs 21 studentajs}£{numphrase,dem,pron,noun,kongr,plela-sgela,dem-num,num-noun|dat 21:at studentas} {gut}£{rel,pron,kongr,rel-noun|gudi} uddni {álgij}£{verb,kongr,subj-verb|álggin} dan vuostasj bacheloråhpadussaj julevsámegielan, {Nordlánda universitehtan}¢{vocw,e-ie|Nordlánda universitiehtan}.
 
 – Ep la moattes, lip nav gallegattja julevsáme guovlon ja gå mån lav juo sámegielav oahppam {mánná}£{noun,case,nom-gen|máná} rájes de la luondulasj låhkåt sámegielav, dættot sån.
 
