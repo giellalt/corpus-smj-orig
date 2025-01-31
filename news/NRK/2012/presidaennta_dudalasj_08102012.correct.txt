@@ -29,17 +29,17 @@ NSR
 
 Gå dal presidænnta návti nammat sån la dudálasj dájna oajvvadusájn, de ham de sån rádjá signálajt oajválattjada jut dát la nuoges ja de ham Stuorradigge ij des dárbaha usjudallat Sámedikkev, jáhkká sån.
 
-Sámedigge l {iehtja}¥{redun|} mierredam gájbbedit lassedoarjjagav 139 {{milliåvnå}${conm,0-j|millijåvnå}}£{num,kongr,num-noun|millijåvnåjn} {kråvnåj}£{noun,kongr,num-noun|kråvnåjn}, valla dán oajvvadusán boahtá 32 lasse {milliåvnå}${conm,0-j|millijåvnå}.
+Sámedigge l {iehtja}¥{redun|} mierredam gájbbedit lassedoarjjagav {139 {milliåvnå}${conm,0-j|millijåvnå} kråvnåj}£{numphrase,num,noun,kongr,num-noun|139:ijn millijåvnåjn kråvnåjn}, valla dán oajvvadusán boahtá 32 lasse {milliåvnå}${conm,0-j|millijåvnå}.
 
 – Ep de máhte {dudálattja liehket}€{w|duhtat} budsjæhttalassánimijn mij la 100 {milliåvnå}${conm,0-j|millijåvnå} kråvnå vuolep gå dav majt lijma sávvam, dættot Keskitalo.
 
 Rahterudá Nordlánndaj
 
-Nordlánndaj båhti lasse rudá ådå rahteprosjevtajda, aktij 1,1 {{milliárdda}${conm,0-j|millijárdda}}£{num,kongr,num-noun|millijárda} kråvnå.
+Nordlánndaj båhti lasse rudá ådå rahteprosjevtajda, aktij {1,1 {milliárdda}${conm,0-j|millijárdda} kråvnå}£{numphrase,num,kongr,num-noun|millijárda kråvnå}.
 
 {Hålogálátteråvvåj}${vowlat,á-a|Hålogalátteråvvåj} mij la tsieggiduvátjit båhti 690 millijåvnå kråvnå.
 
-Ja E-6 ådåstuhttemij Skilggáváren, Hábmerin båhti 40 millijåvnå kråvnå ådåstuhtátjit vihtta {{kilomehterav}${loan,mix|kilomiehttarav}}£{noun,kongr,num-noun|kilomiehttera}, valla aktij galggá 17,5 {{kilomehtar}${loan,vowc|kilomiehtar}}£{noun,kongr,num-noun|kilomiehttara} {E-6 rahtes}¢{cmp|E6-rahtes} danna ådåstuhteduvvat.
+Ja E-6 ådåstuhttemij Skilggáváren, Hábmerin båhti 40 millijåvnå kråvnå ådåstuhtátjit {vihtta {kilomehterav}${loan,mix|kilomiehttarav}}£{numphrase,noun,kongr,num-noun|kråvnå kilomiehttera}, valla aktij galggá {17,5 {kilomehtar}${loan,vowc|kilomiehtar}}£{numphrase,noun,kongr,num-noun|17,5 kilomiehttara} {E-6 rahtes}¢{cmp|E6-rahtes} danna ådåstuhteduvvat.
 
 Rahteådåstuhttem Skilggáváren álggá boahtte jage ja vihpá gålmmå jage.
 

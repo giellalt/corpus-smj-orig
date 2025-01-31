@@ -29,6 +29,6 @@ Vuollelin gulá majt guollebiebmadimæládus vásstedij {ja}¥{missing|ja oattjo
 
 Guollebiebmadibme Divtasvuonan
 
-Uddni li 8691,22 tånna biebmadimguole Divtasvuonan {iesj genga}¢{cmp,X-1|iesjgeŋga} sajijn. Æládusán li lågånanakta guollebiebmadimsaje vuonan ja uddni li biebmadimguole vihtta sajijn.
+Uddni li 8691,22 tånna biebmadimguole Divtasvuonan {iesj genga}¢{cmp,X-1|iesjgeŋga} sajijn. Æládusán li lågånanakta guollebiebmadimsaje vuonan ja uddni li biebmadimguole {vihtta sajijn}£{numphrase,num,noun,kongr|vidán sajen}.
 8691 tånna merkaj jut 3.795.459 biebmadimguole li Divtasvuona meran uddni. Dav diedet rádevadde Snorre Killie {Guolástusdirektorahtan}${vowc,a-á|Guolástusdirektoráhtan}.
 Guokta guollebiebmadimvidnudagá dåjmadi æládusáv Divtasvuonan. Da li Nordlaks AS, Viestarálas ja Ellingsen Seafood AS, Skrovás Lofåhtan.

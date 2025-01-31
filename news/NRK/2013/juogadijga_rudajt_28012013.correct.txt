@@ -22,9 +22,9 @@ Lågå aj: {Stiller spørsmål ved pengebevilgnin}∞{nor}
 
 Ietjanis berustime
 
-Jagen 2011 ásadij Divtasvuona suohkan fåndav mij rudájt oadtju {daj}£{dem,pron,kongr,num-noun|dat} {guokta}£{num,kongr,num-noun|guovtet} {luossabiebbmamvidnudagájs}£{noun,kongr,num-noun|luossabiebbmamvidnudagás} ma li Divtasvuonan.
+Jagen 2011 ásadij Divtasvuona suohkan fåndav mij rudájt oadtju {daj guokta luossabiebbmamvidnudagájs}£{numphrase,dem,pron,num,noun,kongr,num-noun|dat guovtet luossabiebbmamvidnudagás} ma li Divtasvuonan.
 
-Fånda sisboahto l akta millijåvnnå {kråvnnå}£{noun,kongr,num-noun|kråvnå} jahkáj goabbák {{viddnudagájs}${conc,ddn-dn|vidnudagájs}}£{noun,kongr,num-noun|vidnudagás} ja vihpá gålmmå jage.
+Fånda sisboahto l {akta millijåvnnå kråvnnå}£{noun,kongr,num-noun|akta millijåvnnå kråvnå} jahkáj goabbák {{viddnudagájs}${conc,ddn-dn|vidnudagájs}}£{noun,kongr|vidnudagás} ja vihpá gålmmå jage.
 
 
 Suohkanoajvve Tor Asgeir Johansen.

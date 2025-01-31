@@ -14,7 +14,7 @@ NVE dættot guovlluj gåsi bieggamillo galggi tsieggiduvvat juo la dulvvaduvvamg
 
 Oasse Slabávuona bieggamillopárkas gullu Divtasvuona - Vuodnabadá álmmukmiehttse guoradallamguovlluj ja {oajvvaduvvam}¥{missing,cop|la oajvvaduvvam} Vuona biele Laponia væráltárbbeguovlluj. Dát luonndosuoddjimprosæssa ganugahteduváj jagen 2001 ja guovllo ij la desti juridihkalattjat tjanáduvvam makkirik láhkáj tjállá NVE.
 
-{Slabávuonavárre}£{prop,case,nom-gen|Slabávuonváre} Bieggapárkka {la}£{cop|l} stuorra bieggaprosjækta mij máhttá buvtadit 250 GWh jahkáj, mij merkaj ásadus máhttá buvtadit strávvev 12.500 {gådijda}£{noun,kongr,num-noun|goahtáj}.
+{Slabávuonavárre}£{prop,case,nom-gen|Slabávuonváre} Bieggapárkka {la}£{cop|l} stuorra bieggaprosjækta mij máhttá buvtadit 250 GWh jahkáj, mij merkaj ásadus máhttá buvtadit strávvev {12.500 gådijda}£{numphrase,noun,kongr,num-noun|12.500:e goahtáj}.
 
 Tsieggimbarggo {{jahkedahtte}${vowc,a-á|jáhkedahtte} álggá}£{infl,ind-pot|álgisj} jagen 2014.
 
