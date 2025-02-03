@@ -39,7 +39,7 @@ Nordlánndaj båhti lasse rudá ådå rahteprosjevtajda, aktij {1,1 {milliárdda
 
 {Hålogálátteråvvåj}${vowlat,á-a|Hålogalátteråvvåj} mij la tsieggiduvátjit båhti 690 millijåvnå kråvnå.
 
-Ja E-6 ådåstuhttemij Skilggáváren, Hábmerin båhti 40 millijåvnå kråvnå ådåstuhtátjit {vihtta {kilomehterav}${loan,mix|kilomiehttarav}}£{numphrase,noun,kongr,num-noun|kråvnå kilomiehttera}, valla aktij galggá {17,5 {kilomehtar}${loan,vowc|kilomiehtar}}£{numphrase,noun,kongr,num-noun|17,5 kilomiehttara} {E-6 rahtes}¢{cmp|E6-rahtes} danna ådåstuhteduvvat.
+Ja E-6 ådåstuhttemij Skilggáváren, Hábmerin båhti 40 millijåvnå kråvnå ådåstuhtátjit {vihtta {kilomehterav}${loan,mix|kilomähttarav}}£{numphrase,noun,kongr,num-noun|kråvnå kilomähttera}, valla aktij {galggá}£{verb,kongr|galggi} {17,5 {kilomehtar}${loan,vowc|kilomiehtar}}£{numphrase,noun,kongr,num-noun|17,5 kilomiehttara} {E-6 rahtes}¢{cmp|E6-rahtes} danna ådåstuhteduvvat.
 
 Rahteådåstuhttem Skilggáváren álggá boahtte jage ja vihpá gålmmå jage.
 

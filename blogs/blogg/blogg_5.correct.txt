@@ -124,7 +124,7 @@ Amásgiella
 
 1
 
-Mån gatjádiv {låge ulmutjijs}£{numphrase,num,noun,kongr,num-noun|låget ulmutjis} sijá gielaj birra. Dá ulmutja lidjin 15-60 jage gaskan. Ja {soames}£{indef,pron,kongr,subj-verb|soabmása} dajs {vasstedin}${vowc,a-á|vásstedin} guok {gielá}${vowlat,á-a|giela} avta gatjálvisán.
+Mån gatjádiv {låge ulmutjijs}£{numphrase,num,noun,kongr,num-noun|låget ulmutjis} sijá gielaj birra. Dá ulmutja lidjin 15-60 jage gaskan. Ja {soames}£{indef,pron,kongr,subj-verb|soabmása} dajs {vasstedin}${vowc,a-á|vásstedin} guok {gielá}${vowlat,á-a|giela} {avta gatjálvisán}£{numphrase,num,kongr,sggen-sgine,num-noun|avtan gatjálvisán}.
 
 tjállám: Naima {kloahkká}${loan,vowlat,á-a|kloahkka} 11:23
 
